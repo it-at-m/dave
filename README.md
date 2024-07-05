@@ -23,7 +23,19 @@ Docs for [DAVe, a application for evaluating traffic counts](https://opensource.
 
 ## Installation instructions
 
-Here are the steps to install the necessary stack via docker-compose to start DAVe Frontend (Datenportal):
+For a basic peek on what DAVe has to offer, we provide a docker-compose file that starts up the following components:
+
+* ElasticSearch
+* Kibana
+* H2 database
+* DAVe backend
+* DAVe frontend (data portal)
+
+The security functions for login etc. are switched off.
+
+With the preset profile "sample", a sample counting station with a sample count is imported into the database and index.
+
+Here are the steps to install the necessary stack to run the application:
 
 1. Clone the repository: First, you need to clone the repository by running the following command in the terminal:
 ```
