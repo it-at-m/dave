@@ -40,6 +40,7 @@ Here are the steps to install the necessary stack to run the application:
 1. Clone the repository: First, you need to clone the repository by running the following command in the terminal:
 ```
 git clone https://github.com/it-at-m/dave-frontend
+git checkout sprint
 ```
 
 2. Install Docker and Docker Compose: You need to have Docker and Docker Compose installed on your system. If you don't have them installed, you can follow the official documentation to install them. You can use the following commands to check if they are installed:
