@@ -5,16 +5,21 @@
 ## Business goals
 Docs for [DAVe, a application for evaluating traffic counts](https://opensource.muenchen.de/software/dave.html).
 
+## Roadmap
+
+![DAVe Roadmap](img/DAVe_Roapmap.png)
+
+
 ## Technical description
 
 ### Stack
-* Java 11
-* Spring Boot
-* ElasticSearch
-* Postgres
+* Java 21
+* Spring Boot 3
+* ElasticSearch 8
+* PostgreSQL
 * Typescript
-* Vuejs
-* Vuetify
+* Vuejs 3
+* Vuetify 3
 * Leaflet
 
 ### Architecture
