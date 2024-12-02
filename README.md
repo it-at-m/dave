@@ -21,7 +21,7 @@ Docs for [DAVe, a application for evaluating traffic counts](https://opensource.
 
 ![Architecture](img/DAVe_Architektur_LS2.drawio.png)
 
-**Datenportal**
+**Data Portal**
  See https://github.com/it-at-m/dave-frontend for more infos.
 
 **Admin Portal**
