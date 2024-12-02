@@ -21,6 +21,27 @@ Docs for [DAVe, a application for evaluating traffic counts](https://opensource.
 
 ![Architecture](img/DAVe_Architektur_LS2.drawio.png)
 
+**Datenportal**
+ See https://github.com/it-at-m/dave-frontend for more infos.
+
+**Admin Portal**
+See https://github.com/it-at-m/dave-admin-portal for more infos.
+
+**Selfservice Portal**
+See https://github.com/it-at-m/dave-selfservice-portal for more infos.
+
+**Backend-Service**
+See https://github.com/it-at-m/dave-backend for more infos.
+
+**EAI Reports**
+See https://github.com/it-at-m/dave-eai for more infos.
+
+**EAI S3**
+Still under construction.
+
+**EAI GEO**
+Internal component for provisioning of traffic detector counts. Not published as Opensource. 
+
 ## Installation instructions
 
 For a basic peek on what DAVe has to offer, we provide a docker-compose file that starts up the following components:
