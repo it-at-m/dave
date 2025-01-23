@@ -1,0 +1,58 @@
+{
+  "meanOfIntervalsForEachMqIdByMesstag": [
+    {
+      "mqId": 0,
+      "meanOfIntervalsByMesstag": [
+        {
+          "mqId": 0,
+          "anzahlPkw": 0,
+          "anzahlPkwA": 0,
+          "anzahlLfw": 0,
+          "anzahlKrad": 0,
+          "anzahlLkw": 0,
+          "anzahlLkwA": 0,
+          "anzahlSattelKfz": 0,
+          "anzahlBus": 0,
+          "anzahlNkKfz": 0,
+          "anzahlRad": 0,
+          "summeAllePkw": 0,
+          "summeLastzug": 0,
+          "summeGueterverkehr": 0,
+          "summeSchwerverkehr": 0,
+          "summeKraftfahrzeugverkehr": 0,
+          "prozentSchwerverkehr": 0,
+          "prozentGueterverkehr": 0,
+          "datumUhrzeitVon": "2025-01-15T06:42:30.831Z",
+          "datumUhrzeitBis": "2025-01-15T06:42:30.831Z",
+          "tagesTyp": "DTV_W3"
+        }
+      ]
+    }
+  ],
+  "meanOfMqIdForEachIntervalByMesstag": [
+    {
+      "mqId": 0,
+      "anzahlPkw": 0,
+      "anzahlPkwA": 0,
+      "anzahlLfw": 0,
+      "anzahlKrad": 0,
+      "anzahlLkw": 0,
+      "anzahlLkwA": 0,
+      "anzahlSattelKfz": 0,
+      "anzahlBus": 0,
+      "anzahlNkKfz": 0,
+      "anzahlRad": 0,
+      "summeAllePkw": 0,
+      "summeLastzug": 0,
+      "summeGueterverkehr": 0,
+      "summeSchwerverkehr": 0,
+      "summeKraftfahrzeugverkehr": 0,
+      "prozentSchwerverkehr": 0,
+      "prozentGueterverkehr": 0,
+      "datumUhrzeitVon": "2025-01-15T06:42:30.831Z",
+      "datumUhrzeitBis": "2025-01-15T06:42:30.831Z",
+      "tagesTyp": "DTV_W3"
+    }
+  ],
+  "includedMeasuringDays": 0
+}
