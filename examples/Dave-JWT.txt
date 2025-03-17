@@ -1,0 +1,25 @@
+{
+  ...,
+  "resource_access": {
+    "dave": {
+      "roles": [
+        "EXTERNAL",
+        "POWERUSER",
+        "FACHADMIN"
+      ]
+    },
+    "account": {
+      "roles": [
+        "manage-account",
+        "manage-account-links",
+        "view-profile"
+      ]
+    }
+  },
+  ...,
+  "authorities": [
+    "ROLE_POWERUSER",
+    "ROLE_FACHADMIN",
+    "ROLE_EXTERNAL"
+  ]
+}
