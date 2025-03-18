@@ -18,6 +18,20 @@ The data is stored in two different databases:
 * The traffic data from the counts that is not required for the search is stored in a relational database postgresQL.
 
 
+## Dependencies
+
+### ElasticSearch
+
+
+### Postgresql
+
+### KeyCloak
+
+Identity and access management for all three frontends are managed with KeyCloak.
+[Example KeyCloak configuration](https://github.com/it-at-m/dave-backend/blob/sprint/sso-config/sso-client.json)
+
+
 ## Deploy
 
 DAVe can be installed and operated via [helm chart](https://artifacthub.io/packages/helm/it-at-m/dave?modal=install).
+
