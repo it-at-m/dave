@@ -1,7 +1,7 @@
 
 With [DAVe](https://opensource.muenchen.de/software/dave.html), traffic counts can be commissioned, recorded and graphically evaluated using various diagrams.
 
-DAVe was [developed](https://opensource.muenchen.de/in-house-development.html) with these services:
+DAVe is [developed](https://opensource.muenchen.de/in-house-development.html) with these services:
 
 * `backend` with Java Spring Boot
 * three frontends with TypeScript and Vue.js 
