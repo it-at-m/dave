@@ -3,12 +3,14 @@ With [DAVe](https://opensource.muenchen.de/software/dave.html), traffic counts c
 
 DAVe is [developed](https://opensource.muenchen.de/in-house-development.html) with these services:
 
-* `backend` with Java Spring Boot
+
+* [backend](https://github.com/it-at-m/dave-backend) with Java Spring Boot
 * three frontends with TypeScript and Vue.js 
-    * `adminportal-apigateway` for administraton 
-    * `selfserviceportal-apigateway` for counting point operators can upload their data records manually here
-    * `frontend-apigateway` to see the counting points on the map
-* `eai`
+    * [admin-portal](https://github.com/it-at-m/dave-admin-portal) for administraton
+    * [selfservice-portal](https://github.com/it-at-m/dave-selfservice-portal) for counting point operators can upload their data records manually here
+    * [frontend](https://github.com/it-at-m/dave-frontend) to see the counting points on the map
+* [EAI Reports](https://github.com/it-at-m/dave-eai)
+
 
 ![Architecture](../../img/DAVe_Architektur_LS2.drawio.png)
 
