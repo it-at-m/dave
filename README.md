@@ -28,7 +28,7 @@ Docs for [DAVe, a application for evaluating traffic counts](https://opensource.
 
 
 * [Data Portal](https://github.com/it-at-m/dave-frontend)
-* [Admin Portal](https://github.com/it-at-m/dave-admin-portal
+* [Admin Portal](https://github.com/it-at-m/dave-admin-portal)
 * [Selfservice Portal](https://github.com/it-at-m/dave-selfservice-portal)
 * [Backend-Service](https://github.com/it-at-m/dave-backend)
 * [EAI Reports](https://github.com/it-at-m/dave-eai)
