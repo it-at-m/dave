@@ -10,6 +10,9 @@ DAVe is [developed](https://opensource.muenchen.de/in-house-development.html) wi
     * `frontend-apigateway` to see the counting points on the map
 * `eai`
 
+![Architecture](../../img/DAVe_Architektur_LS2.drawio.png)
+
+
 ## Persistence
 
 The data is stored in two different databases: 
