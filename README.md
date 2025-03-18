@@ -5,12 +5,8 @@
 With [DAVe](https://opensource.muenchen.de/software/dave.html), traffic counts can be commissioned, recorded and graphically evaluated using various diagrams.
 
 
-## Roadmap
+Technical description in the [docs](/docs/src/index.md)
 
-![DAVe Roadmap](img/DAVe_Roapmap.png)
-
-
-## Technical description
 
 ### Stack
 * Java 21
@@ -34,3 +30,8 @@ With [DAVe](https://opensource.muenchen.de/software/dave.html), traffic counts c
 * [EAI Reports](https://github.com/it-at-m/dave-eai)
 * _EAI S3_ Still under construction.
 * _EAI GEO_ Internal component for provisioning of traffic detector counts. Not published as Opensource.
+
+
+## Roadmap
+
+![DAVe Roadmap](img/DAVe_Roapmap.png)
