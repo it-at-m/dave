@@ -33,5 +33,7 @@ Identity and access management for all three frontends are managed with KeyCloak
 
 ## Deploy
 
-DAVe can be installed and operated via [helm chart](https://artifacthub.io/packages/helm/it-at-m/dave?modal=install).
+DAVe __should be__ installed and operated via [helm chart](https://artifacthub.io/packages/helm/it-at-m/dave?modal=install).
+But for a basic peek or development environments on what DAVe has to offer, we provide a [docker-compose file](docker-compose.md).
+
 
