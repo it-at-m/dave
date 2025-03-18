@@ -1,9 +1,9 @@
 # DAVe
 
-<span style="font-size:5.0em;">Under construction</span>
+> Under construction
 
-## Business goals
-Docs for [DAVe, a application for evaluating traffic counts](https://opensource.muenchen.de/software/dave.html).
+With [DAVe](https://opensource.muenchen.de/software/dave.html), traffic counts can be commissioned, recorded and graphically evaluated using various diagrams.
+
 
 ## Roadmap
 
