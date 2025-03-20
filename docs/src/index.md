@@ -22,6 +22,16 @@ The data is stored in two different databases:
 * the data relevant for the search, such as location or street names, is stored in ElasticSearch. This enables a very high-performance search with search suggestions in real time. 
 * The traffic data from the counts that is not required for the search is stored in a relational database postgresQL.
 
+## Configuration
+
+### urban districts
+
+DAVe structures the counting districts according to city districts.
+To configure these city districts, the variable ‘city-district-mapping-config-url’ must be set in the [dave-backend application.yml](https://github.com/it-at-m/dave-backend/blob/sprint/src/main/resources/application.yml).
+This file must then be added to the classpath via ConfigMap.
+
+[This ConfigMap must be created as a template.](https://github.com/it-at-m/helm-charts/issues/98)
+
 
 ## Dependencies
 
