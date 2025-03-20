@@ -24,6 +24,12 @@ The data is stored in two different databases:
 
 ## Configuration
 
+### Identity and access management
+
+Identity and access management for all three frontends are managed with KeyCloak.
+[Example KeyCloak configuration](https://github.com/it-at-m/dave-backend/blob/sprint/sso-config/sso-client.json)
+
+
 ### urban districts
 
 DAVe structures the counting districts according to city districts.
@@ -31,19 +37,6 @@ To configure these city districts, the variable ‘city-district-mapping-config-
 This file must then be added to the classpath via ConfigMap.
 
 [This ConfigMap must be created as a template.](https://github.com/it-at-m/helm-charts/issues/98)
-
-
-## Dependencies
-
-### ElasticSearch
-
-
-### Postgresql
-
-### KeyCloak
-
-Identity and access management for all three frontends are managed with KeyCloak.
-[Example KeyCloak configuration](https://github.com/it-at-m/dave-backend/blob/sprint/sso-config/sso-client.json)
 
 
 ## Deploy
