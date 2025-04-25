@@ -4,8 +4,8 @@
 
 With [DAVe](https://opensource.muenchen.de/software/dave.html), traffic counts can be commissioned, recorded and graphically evaluated using various diagrams.
 
-
-Technical description in the [docs](/docs/src/index.md)
+* User Manual: [2025_DAVe_Anwenderhandbuch_Datenportal_v1.1.pdf](/2025_DAVe_Anwenderhandbuch_Datenportal_v1.1.pdf) (german)
+* Developer Manual: [/docs](/docs/src/index.md) (english)
 
 
 ### Stack
