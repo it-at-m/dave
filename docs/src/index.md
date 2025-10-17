@@ -36,6 +36,10 @@ DAVe structures the counting districts according to city districts.
 To configure these city districts, the variable ‘city-district-mapping-config-url’ must be set in the [dave-backend application.yml](https://github.com/it-at-m/dave-backend/blob/sprint/src/main/resources/application.yml).
 This file must then be added to the classpath via ConfigMap.
 
+### Map center
+DAVe's default map center is Munich Central. This can be configured through the dave.map.center attributes 
+as in [dave-backend application.yml](https://github.com/it-at-m/dave-backend/blob/sprint/src/main/resources/application.yml). 
+
 [This ConfigMap must be created as a template.](https://github.com/it-at-m/helm-charts/issues/98)
 
 
