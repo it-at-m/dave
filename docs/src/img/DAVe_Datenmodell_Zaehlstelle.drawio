@@ -1,0 +1,117 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
+  <diagram name="Seite-1" id="N36VcjKMMwFkkNx0RKo7">
+    <mxGraphModel dx="3080" dy="2058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-1" value="Zählung" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-590" y="-500" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-2" value="id&lt;div&gt;datum&lt;/div&gt;&lt;div&gt;jahr&lt;/div&gt;&lt;div&gt;monat&lt;/div&gt;&lt;div&gt;jahreszeit&lt;/div&gt;&lt;div&gt;zaehlart&lt;/div&gt;&lt;div&gt;punkt&lt;/div&gt;&lt;div&gt;tagesTyp&lt;/div&gt;&lt;div&gt;projektNummer&lt;/div&gt;&lt;div&gt;projektName&lt;/div&gt;&lt;div&gt;kreuzungsname&lt;/div&gt;&lt;div&gt;sonderzaehlung&lt;/div&gt;&lt;div&gt;kreisverkehr&lt;/div&gt;&lt;div&gt;kategorien&lt;/div&gt;&lt;div&gt;status&lt;/div&gt;&lt;div&gt;zaehlsituation&lt;/div&gt;&lt;div&gt;zaehlsituationErweitert&lt;/div&gt;&lt;div&gt;zaehlIntervall&lt;/div&gt;&lt;div&gt;wetter&lt;/div&gt;&lt;div&gt;zaehldauer&lt;/div&gt;&lt;div&gt;quelle&lt;/div&gt;&lt;div&gt;kommentar&lt;/div&gt;&lt;div&gt;schulZeiten&lt;/div&gt;&lt;div&gt;pkwEinheit&lt;/div&gt;&lt;div&gt;geographie&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="efeF_H4L_HtGoBBRh3R4-1" vertex="1">
+          <mxGeometry x="10" y="30" width="140" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="efeF_H4L_HtGoBBRh3R4-4" target="efeF_H4L_HtGoBBRh3R4-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-4" value="Zählstelle" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-883" y="-425" width="205" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-5" value="&lt;div&gt;*id&lt;/div&gt;&lt;div&gt;*Zählstellennummer&lt;/div&gt;&lt;div&gt;stadtbezirk&lt;/div&gt;&lt;div&gt;stadtbezirkNummer&lt;/div&gt;&lt;div&gt;kommentar&lt;/div&gt;&lt;div&gt;punkt&lt;/div&gt;&lt;div&gt;letzteZaehlungMonatNummer&lt;/div&gt;&lt;div&gt;letzteZaehlungMonat&lt;/div&gt;&lt;div&gt;letzteZaehlungJahr&lt;/div&gt;&lt;div&gt;grundLetzteZaehlung&lt;/div&gt;&lt;div&gt;suchwoerter&lt;/div&gt;&lt;div&gt;customSuchwoerter&lt;/div&gt;&lt;div&gt;sichtbarDatenportal&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="efeF_H4L_HtGoBBRh3R4-4" vertex="1">
+          <mxGeometry x="10" y="27" width="180" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="efeF_H4L_HtGoBBRh3R4-1" target="efeF_H4L_HtGoBBRh3R4-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-440" y="40" />
+              <mxPoint x="-660" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="efeF_H4L_HtGoBBRh3R4-8" target="efeF_H4L_HtGoBBRh3R4-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-560" y="120" as="sourcePoint" />
+            <mxPoint x="-380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-490" y="-23" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-8" value="Knotenarm" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="-758" y="-73" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-10" value="Zeitintervall" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-480" y="51" width="260" height="305" as="geometry">
+            <mxRectangle x="-480" y="60" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-11" value="zaehlungId&lt;div&gt;fahrbeziehungId&lt;/div&gt;&lt;div&gt;startUhrzeit&lt;/div&gt;&lt;div&gt;endeUhrzeit&lt;/div&gt;&lt;div&gt;sortingIndex&lt;/div&gt;&lt;div&gt;pkw&lt;/div&gt;&lt;div&gt;lkw&lt;/div&gt;&lt;div&gt;lastzuege&lt;/div&gt;&lt;div&gt;busse&lt;/div&gt;&lt;div&gt;kraftraeder&lt;/div&gt;&lt;div&gt;fahrradfahrer&lt;/div&gt;&lt;div&gt;fussgaenger&lt;/div&gt;&lt;div&gt;type&lt;/div&gt;&lt;div&gt;hochrechnung_faktorkfz&lt;/div&gt;&lt;div&gt;hochrechnung_faktorsv&lt;/div&gt;&lt;div&gt;hochrechnung_faktorgv&lt;/div&gt;&lt;div&gt;hochrechnung_hochrechnungkfz&lt;/div&gt;&lt;div&gt;hochrechnung_hochrechnungsv&lt;/div&gt;&lt;div&gt;hochrechnung_hochrechnunggv&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="efeF_H4L_HtGoBBRh3R4-10" vertex="1">
+          <mxGeometry x="10" y="15" width="200" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" target="efeF_H4L_HtGoBBRh3R4-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-560" y="320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-520" y="320" />
+              <mxPoint x="-520" y="204" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="efeF_H4L_HtGoBBRh3R4-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-480" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-480" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-14" value="Fahrbeziehung" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="-760" y="240" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-15" value="*id&lt;div&gt;isKreuzung&lt;br&gt;von&lt;br&gt;nach&lt;/div&gt;&lt;div&gt;knotenarm&lt;/div&gt;&lt;div&gt;hinein&lt;/div&gt;&lt;div&gt;heraus&lt;/div&gt;&lt;div&gt;vorbei&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="efeF_H4L_HtGoBBRh3R4-14" vertex="1">
+          <mxGeometry x="12" y="26" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-16" value="&lt;span style=&quot;background-color: transparent;&quot;&gt;Hochrechnung&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-480" y="373" width="200" height="125" as="geometry">
+            <mxRectangle x="-480" y="360" width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-17" value="matrix&lt;div&gt;kfz&lt;/div&gt;&lt;div&gt;sv&lt;/div&gt;&lt;div&gt;gv&lt;/div&gt;&lt;div&gt;active&lt;/div&gt;&lt;div&gt;defaultFaktor&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="efeF_H4L_HtGoBBRh3R4-16" vertex="1">
+          <mxGeometry x="10" y="25" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-22" value="1..8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-558" y="-22" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-23" value="1..64" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-665" y="210" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-24" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="-90" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-25" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-560" y="250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-26" value="1..n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="170" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-27" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-660" y="400" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-28" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="410" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JL8cYSHzDhx7qziYkuPt-3" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-675" y="-290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JL8cYSHzDhx7qziYkuPt-4" value="0..n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-635" y="-290" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JL8cYSHzDhx7qziYkuPt-5" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="-90" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="efeF_H4L_HtGoBBRh3R4-9" value="&lt;div&gt;*nummer&lt;/div&gt;&lt;div&gt;Strassenname&lt;/div&gt;&lt;div&gt;filename&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-748" y="-40" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

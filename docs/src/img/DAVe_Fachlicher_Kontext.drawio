@@ -1,0 +1,66 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
+  <diagram name="Seite-1" id="wOUUowvdiOBr7OIEh8Md">
+    <mxGraphModel dx="1265" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_JJxmdL9Gih3Q0l-SR7e-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);container=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="215" width="460" height="455" as="geometry" />
+        </mxCell>
+        <mxCell id="_JJxmdL9Gih3Q0l-SR7e-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);edgeStyle=orthogonalEdgeStyle;" parent="1" source="_JJxmdL9Gih3Q0l-SR7e-1" target="_JJxmdL9Gih3Q0l-SR7e-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_JJxmdL9Gih3Q0l-SR7e-1" value="Fachadmin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);fillColor=none;container=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_JJxmdL9Gih3Q0l-SR7e-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="_JJxmdL9Gih3Q0l-SR7e-2" target="_JJxmdL9Gih3Q0l-SR7e-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_JJxmdL9Gih3Q0l-SR7e-2" value="Zähl-&lt;br&gt;dienstleister" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);fillColor=none;container=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="540" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_JJxmdL9Gih3Q0l-SR7e-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" parent="1" source="_JJxmdL9Gih3Q0l-SR7e-5" target="_JJxmdL9Gih3Q0l-SR7e-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ees4SH8ctmXxoyHc727--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" parent="1" source="_JJxmdL9Gih3Q0l-SR7e-5" target="ees4SH8ctmXxoyHc727--1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_JJxmdL9Gih3Q0l-SR7e-5" value="&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;DAVe&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot; size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#000000;container=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="227.75" width="120" height="422.25" as="geometry" />
+        </mxCell>
+        <mxCell id="_JJxmdL9Gih3Q0l-SR7e-10" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Sensordaten-integration&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#000000);container=0;" parent="1" vertex="1">
+          <mxGeometry x="385" y="303" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_JJxmdL9Gih3Q0l-SR7e-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);edgeStyle=orthogonalEdgeStyle;" parent="1" source="_JJxmdL9Gih3Q0l-SR7e-16" target="_JJxmdL9Gih3Q0l-SR7e-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_JJxmdL9Gih3Q0l-SR7e-16" value="Anwender" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);fillColor=none;container=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="441" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ees4SH8ctmXxoyHc727--1" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Lagepläne&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#000000);container=0;" parent="1" vertex="1">
+          <mxGeometry x="385" y="514" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ees4SH8ctmXxoyHc727--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ees4SH8ctmXxoyHc727--3" target="_JJxmdL9Gih3Q0l-SR7e-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ees4SH8ctmXxoyHc727--5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;edgeStyle=orthogonalEdgeStyle;" parent="1" source="ees4SH8ctmXxoyHc727--3" target="_JJxmdL9Gih3Q0l-SR7e-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ees4SH8ctmXxoyHc727--3" value="Poweruser" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);fillColor=none;container=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="338" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2qe_-bGXZyfU8Ele8RZB-1" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Karten&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#000000);container=0;" vertex="1" parent="1">
+          <mxGeometry x="387" y="409" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2qe_-bGXZyfU8Ele8RZB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="_JJxmdL9Gih3Q0l-SR7e-5" target="2qe_-bGXZyfU8Ele8RZB-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="343" as="sourcePoint" />
+            <mxPoint x="395" y="343" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
