@@ -1,0 +1,134 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
+  <diagram name="Seite-1" id="bGcENvx-rqWKhTurmv1m">
+    <mxGraphModel dx="1426" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-2" value="API-Gateway" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="389" y="80" width="100" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="ue7t5pKXN6XHKBtUqyQd-2" vertex="1">
+          <mxGeometry x="45" y="165" width="10" height="555" as="geometry" />
+        </mxCell>
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-146" value="Response mit&lt;div&gt;Daten zur Darstellung&lt;/div&gt;&lt;div&gt;im Gangliniendiagramm,&lt;/div&gt;&lt;div&gt;in der Heatmap,&lt;/div&gt;&lt;div&gt;in der Listenausgabe,&lt;/div&gt;&lt;div&gt;im Belastungsplan&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.925;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" parent="ue7t5pKXN6XHKBtUqyQd-2" edge="1">
+          <mxGeometry x="-0.0014" relative="1" as="geometry">
+            <mxPoint x="45" y="710" as="sourcePoint" />
+            <mxPoint as="offset" />
+            <mxPoint x="-225.25" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-148" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" parent="ue7t5pKXN6XHKBtUqyQd-2" vertex="1">
+          <mxGeometry x="35" y="760" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-4" value="Backend" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="670" y="80" width="100" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="ue7t5pKXN6XHKBtUqyQd-4" vertex="1">
+          <mxGeometry x="45" y="175" width="10" height="525" as="geometry" />
+        </mxCell>
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-141" value="Aufbereitung zur Darstellung&lt;div&gt;im Gangliniendiagramm&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="ue7t5pKXN6XHKBtUqyQd-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="452" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="450" />
+              <mxPoint x="90" y="480" />
+            </Array>
+            <mxPoint x="55" y="482" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-142" value="Aufbereitung zur Darstellung&lt;div&gt;in der Heatmap&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="ue7t5pKXN6XHKBtUqyQd-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="508" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="510" />
+              <mxPoint x="90" y="540" />
+            </Array>
+            <mxPoint x="55" y="538" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-149" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" parent="ue7t5pKXN6XHKBtUqyQd-4" vertex="1">
+          <mxGeometry x="36" y="760" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4kGloQfpvUzO32EQYiot-1" value="Aufbereitung zur Darstellung&lt;div&gt;in der Listenausgabe&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="ue7t5pKXN6XHKBtUqyQd-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="566" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="570" />
+              <mxPoint x="90" y="600" />
+            </Array>
+            <mxPoint x="55" y="596" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-7" value="Messwert-Integration" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="950" y="80" width="100" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-150" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" parent="ue7t5pKXN6XHKBtUqyQd-7" vertex="1">
+          <mxGeometry x="35" y="760" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-8" value="GUI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="110" y="80" width="100" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="ue7t5pKXN6XHKBtUqyQd-8" vertex="1">
+          <mxGeometry x="45" y="100" width="10" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-147" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" parent="ue7t5pKXN6XHKBtUqyQd-8" vertex="1">
+          <mxGeometry x="35" y="760" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-54" value="Request mit Auswerteoptionen" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="254" as="sourcePoint" />
+            <mxPoint as="offset" />
+            <mxPoint x="434" y="254" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-56" value="Request mit Auswerteoptionen" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
+          <mxGeometry x="0.0037" relative="1" as="geometry">
+            <mxPoint x="445" y="264" as="sourcePoint" />
+            <mxPoint as="offset" />
+            <mxPoint x="714" y="264" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-61" value="[Klick auf &quot;Aktualisiere Daten&quot;]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="176" y="190" width="191" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-133" value="Request zum Holen der&amp;nbsp;&lt;div&gt;15-Minuten-Intervalle&lt;div&gt;der Messquerschnitte&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
+          <mxGeometry x="-0.0037" y="-1" relative="1" as="geometry">
+            <mxPoint x="725" y="331.97" as="sourcePoint" />
+            <mxPoint as="offset" />
+            <mxPoint x="994" y="331.97" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-137" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="996" y="324.5" width="10" height="188.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-144" value="Aggregierte und Durchschnittliche&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;15-Minuten-Intervalle&amp;nbsp;&lt;/span&gt;je Messquerschnitt&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.925;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry x="-0.0014" relative="1" as="geometry">
+            <mxPoint x="995" y="503" as="sourcePoint" />
+            <mxPoint as="offset" />
+            <mxPoint x="724.75" y="503" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ue7t5pKXN6XHKBtUqyQd-145" value="Response mit&lt;div&gt;Daten zur Darstellung&lt;/div&gt;&lt;div&gt;im Gangliniendiagramm,&lt;/div&gt;&lt;div&gt;in der Heatmap,&lt;/div&gt;&lt;div&gt;in der Listenausgabe,&lt;/div&gt;&lt;div&gt;im Belastungsplan&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.925;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry x="-0.0879" y="-10" relative="1" as="geometry">
+            <mxPoint x="713.25" y="770" as="sourcePoint" />
+            <mxPoint as="offset" />
+            <mxPoint x="443" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4kGloQfpvUzO32EQYiot-2" value="Aufbereitung zur Darstellung&lt;div&gt;im Belastungsplan&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="726" y="707" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="760" y="710" />
+              <mxPoint x="760" y="740" />
+            </Array>
+            <mxPoint x="726" y="737" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
