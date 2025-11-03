@@ -1,8 +1,7 @@
 
 With [DAVe](https://opensource.muenchen.de/software/dave.html), traffic counts can be commissioned, recorded and graphically evaluated using various diagrams.
 
-DAVe is [developed](https://opensource.muenchen.de/in-house-development.html) with these services:
-
+DAVe consists of the following services:
 
 * [backend](https://github.com/it-at-m/dave-backend) with Java Spring Boot
 * three frontends with TypeScript and Vue.js 
@@ -20,7 +19,7 @@ DAVe is [developed](https://opensource.muenchen.de/in-house-development.html) wi
 The data is stored in two different databases: 
 
 * the data relevant for the search, such as location or street names, is stored in ElasticSearch. This enables a very high-performance search with search suggestions in real time. 
-* The traffic data from the counts that is not required for the search is stored in a relational database postgresQL.
+* The traffic data from the counts that is not required for the search is stored in a relational database PostgreSQL.
 
 ## Configuration
 
