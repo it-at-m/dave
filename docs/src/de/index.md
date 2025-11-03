@@ -11,8 +11,7 @@ DAVe besteht aus folgenden Diensten:
   * [Frontend](https://github.com/it-at-m/dave-frontend) zur Anzeige der Zählstellen auf der Karte
   * [EAI-Berichte](https://github.com/it-at-m/dave-eai) (optional) Unternehmensanwendungsintegration für andere Spezialverfahren (z. B. Ausgabe der Koordinaten aller Zählstellen in einer CSV-Datei, Empfang der Daten aller Zählungen für einen bestimmten Monat im JSON-Format).
 
-
-![Architektur](../../../../img/DAVe_Architektur_LS2.drawio.png)
+Weitere Details in der [Systemspezifikation](SysSpec-arc42.md).
 
 
 ## Persistenz
