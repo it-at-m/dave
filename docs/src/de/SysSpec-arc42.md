@@ -159,7 +159,9 @@ Die Anwendung ist auf Basis der LHM-Referenzarchitektur für Webanwendungen erst
 In jedem Frontend ist ein eigenes API Gateway enthalten, welches zur Autorisierung und Authentifizierung der
 Anwender*innen und zur Bereitstellung der grafischen Oberfläche der Anwendung benötigt wird.
 
+Zur Beschreibung der Backend-API ist Swagger-UI eingebaut, die über das Gateway erreicht werden kann:
 
+<http://GATEWAY-URL/api/dave-backend-service/v3/api-docs>
 
 ### DAVe EAI
 
