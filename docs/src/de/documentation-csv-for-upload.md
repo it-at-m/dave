@@ -6,6 +6,9 @@ tbd
 
 # Namenskonvention des Dateinamens
 
+Für eine Zählung ist je in der Zählung berücksichtigten Knotenarm eine CSV-Datei zu erstellen. 
+Die Namenskonvention der CSV-Datei ist wie folgt.
+
 `<ZAEHLSTELLENNUMMER>_<DATUM>_Knotenarm_<KNOTENARM_NUMMER>.csv`
 
 | Element            | Beschreibung                                                                                                                                             | Beispiel   |
