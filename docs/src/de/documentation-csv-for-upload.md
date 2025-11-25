@@ -66,4 +66,23 @@ Intervallnummer;nach;Strassenseite;Richtung;Pkw;Lkw;Lz;Bus;Krad;Rad;Fuss
 | Rad             | Die Anzahl der gezählten Fahrräder als ganzzahlige Dezimalzahl. Es darf keine Zifferngruppierung (z.B. durch Tausendertrennzeichen) durchgeführt werden.                                               |
 | Fuss            | Die Anzahl der gezählten Fußgänger als ganzzahlige Dezimalzahl. Es darf keine Zifferngruppierung (z.B. durch Tausendertrennzeichen) durchgeführt werden.                                               |
 
+Die nachfolgende Tabelle listet die Intervallnummer mit der jeweiligen Start- und Endeuhrzeit auf.
 
+| Intervallnummer | Startuhrzeit | Endeuhrzeit |
+|-----------------|--------------|-------------|
+| 1               | 00:00        | 00:15       |
+| 2               | 00:15        | 00:30       | 
+| 3               | 00:30        | 00:45       | 
+| 4               | 00:45        | 01:00       | 
+| 5               | 01:00        | 01:15       |
+| 6               | 01:15        | 01:30       | 
+| 7               | 01:30        | 01:45       | 
+| 8               | 01:45        | 02:00       | 
+| 9               | 02:00        | 02:15       |
+| 10              | 02:15        | 02:30       | 
+| 11              | 02:30        | 02:45       | 
+| 12              | 02:45        | 03:00       | 
+| 13              | 03:00        | 03:15       |
+| 14              | 03:15        | 03:30       | 
+| 15              | 03:30        | 03:45       | 
+| 16              | 03:45        | 04:00       | 
