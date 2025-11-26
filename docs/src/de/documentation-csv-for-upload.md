@@ -46,7 +46,9 @@ Zählstellennummer;Zählart;Datum;Knotenarmnummer;;;;;;;
 
 ## Zähldaten in der CSV-Datei
 
-Nach den Header mit dem Metainformationen zur Zählung beginnt ab der dritten Zeile der eigentliche Inhalt mit den Zählungsdaten.
+### Beschreibung der Zähldaten
+
+Nach dem Header mit den Metainformationen zur Zählung, startet ab der dritten Zeile der eigentliche Inhalt mit den Zählungsdaten.
 Die dritte Zeile der CSV-Datei enthält die Spaltenüberschriften für die in den nachfolgenden Zeilen aufgelisteten Zähldaten.
 
 ```csv
@@ -57,7 +59,7 @@ Intervallnummer;nach;Strassenseite;Richtung;Pkw;Lkw;Lz;Bus;Krad;Rad;Fuss
 ```
 | Spaltenfeld     | Beschreibung                                                                                                                                                                                                                                                                 |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Intervallnummer | Die mit der Ziffer 1 beginnende aufsteigende Nummer des fünfzehnminütigen Intervalls eines Tages.                                                                                                                                                                            | 
+| Intervallnummer | Die mit der Ziffer 1 beginnende aufsteigende [Nummer des fünfzehn-minütigen Intervalls](#intervallnummer) eines Tages.                                                                                                                                                       | 
 | nach            | Der Zielknotenarm beim Zählen einer Verkehrsbeziehung. <br/>Handelt es sich um eine Zählung welche keine Verkehrsbeziehung mit einem Quell- und Zielknotenarm darstellt, so ist dieses Feld leer zu lassen.                                                                  |
 | Strassenseite   | Die Himmelsrichtung als N, O, S, W, NO, SO, SW oder NW für die Zählarten QjS und FjS; <br/>Ansonsten wird das Feld leer gelassen.                                                                                                                                            |
 | Richtung        | EIN oder AUS für die Zählart FjS; <br/>N, O, S, W, NO, SO, SW oder NW für die Zählart Qu; <br/>Ansonsten wird das Feld leer gelassen.                                                                                                                                        |
@@ -69,8 +71,10 @@ Intervallnummer;nach;Strassenseite;Richtung;Pkw;Lkw;Lz;Bus;Krad;Rad;Fuss
 | Rad             | Die Anzahl der gezählten **Fahrräder** als ganzzahlige Dezimalzahl. <br/>Es darf keine Zifferngruppierung (z.B. durch Tausendertrennzeichen) durchgeführt werden. <br/>Findet für diese Fahrzeugkategorie keine Zählung statt, so wird dafür kein Wert eingetragen.          |
 | Fuss            | Die Anzahl der gezählten **Fußgänger** als ganzzahlige Dezimalzahl. <br/>Es darf keine Zifferngruppierung (z.B. durch Tausendertrennzeichen) durchgeführt werden. <br/>Findet für diese Fahrzeugkategorie keine Zählung statt, so wird dafür kein Wert eingetragen.          |
 
+### Intervallnummer
+
 Die nachfolgende Tabelle listet die Intervallnummer mit der jeweiligen Start- und Endeuhrzeit auf. 
-Ein Tag besteht somit aus 96 fünfzehn minütigen Intervallen beginnen bei 00:00 Uhr des Zähltages bis 00:00 des Folgetages.
+Ein Tag besteht somit aus 96 fünfzehn-minütigen Intervallen beginnend bei 00:00 Uhr des Zähltages bis 00:00 Uhr des Folgetages.
 
 | Intervallnummer | Startuhrzeit | Endeuhrzeit          |
 |-----------------|--------------|----------------------|
