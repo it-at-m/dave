@@ -2,7 +2,10 @@
 
 ## Inhaltsverzeichnis
 
-tbd
+- [Namenskonvention beim Dateinamen](#namenskonvention-beim-dateinamen)
+- [Dateiformat](#dateiformat)
+- [Metainformationen im Header der CSV-Datei](#metainformationen-im-header-der-csv-datei)
+- [Zähldaten in der CSV-Datei](#zähldaten-in-der-csv-datei)
 
 ## Namenskonvention beim Dateinamen
 
