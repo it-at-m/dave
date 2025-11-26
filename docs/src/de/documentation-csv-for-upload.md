@@ -22,11 +22,11 @@ Die Namenskonvention der CSV-Datei ist wie folgt:
 
 ## Dateiformat
 
-|              |               |
-|--------------|---------------|
-| Dateiendung  | `.csv`        |
-| Trennzeichen | Semikolon `;` |
-| Kodierung    | UTF-8         |
+|                  |               |
+|------------------|---------------|
+| Dateiendung      | `.csv`        |
+| Trennzeichen     | Semikolon `;` |
+| Zeichenkodierung | UTF-8         |
 
 ## Metainformationen im Header der CSV-Datei
 
