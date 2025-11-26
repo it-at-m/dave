@@ -1,10 +1,10 @@
-# Inhaltsverzeichnis
+# Struktur der CSV-Datei
+
+## Inhaltsverzeichnis
 
 tbd
 
-# CSV-Datei
-
-# Namenskonvention beim Dateinamen
+## Namenskonvention beim Dateinamen
 
 Für eine Zählung ist je in der Zählung berücksichtigten Knotenarm eine CSV-Datei zu erstellen. 
 Die Namenskonvention der CSV-Datei ist wie folgt:
@@ -17,7 +17,7 @@ Die Namenskonvention der CSV-Datei ist wie folgt:
 | DATUM              | Das Tagesdatum der Zählung im [ISO-Format](https://de.wikipedia.org/wiki/ISO_8601) (`YYYY-MM-DD`)                                                        | 2021-10-06 |
 | KNOTENARM_NUMMER   | Die Nummer des Knotenarms welcher durch die CSV-Datei repräsentiert wird. Bei einer Verkehrsbeziehung handelt es sich um die Nummer des Quellknotenarms. | 1 bis 8    |
 
-# Dateiformat
+## Dateiformat
 
 |              |                |
 |--------------|----------------|
@@ -25,7 +25,7 @@ Die Namenskonvention der CSV-Datei ist wie folgt:
 | Trennzeichen | Semikolon `; ` |
 | Kodierung    | UTF-8          |
 
-# Metainformationen im Header der CSV-Datei
+## Metainformationen im Header der CSV-Datei
 
 Jede CSV-Datei enthält zu Beginn einen zweizeiligen und elfspaltigen Header mit Metainformationen zur Zählung.
 
@@ -41,7 +41,7 @@ Zählstellennummer;Zählart;Datum;Knotenarmnummer;;;;;;;
 | Datum             | Das Tagesdatum der Zählung im [ISO-Format](https://de.wikipedia.org/wiki/ISO_8601) (`YYYY-MM-DD`)                                                        |
 | Knotenarmnummer   | Die Nummer des Knotenarms welcher durch die CSV-Datei repräsentiert wird. Bei einer Verkehrsbeziehung handelt es sich um die Nummer des Quellknotenarms. |
 
-# Zählinformationen in der CSV-Datei
+## Zähldaten in der CSV-Datei
 
 Nach den Header mit dem Metainformationen zur Zählung beginnt ab der dritten Zeile der eigentliche Inhalt mit den Zählungsdaten.
 Die dritte Zeile der CSV-Datei enthält die Spaltenüberschriften für die in den nachfolgenden Zeilen aufgelisteten Zähldaten.
