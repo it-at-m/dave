@@ -44,6 +44,9 @@ as in [dave-backend application.yml](https://github.com/it-at-m/dave-backend/blo
 ## Deploy
 
 DAVe __should be__ installed and operated via [helm chart](https://artifacthub.io/packages/helm/it-at-m/dave?modal=install).
-But for a basic peek or development environments on what DAVe has to offer, we provide a [docker-compose file](docker-compose.md).
 
+But for a basic peek or development environments on what DAVe has to offer, 
+we provide a [docker-compose.yml](https://github.com/it-at-m/dave-frontend/tree/sprint/stack/docker-compose.yml) 
+with a sample application.
 
+See [docker-compose.md](https://github.com/it-at-m/dave-frontend/tree/sprint/stack/docker-compose.md) for instructions.
