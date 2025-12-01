@@ -14,11 +14,11 @@ Die Namenskonvention der CSV-Datei ist wie folgt:
 
 `<ZAEHLSTELLENNUMMER>_<DATUM>_Knotenarm_<KNOTENARM_NUMMER>.csv`
 
-| Element            | Beschreibung                                                                                                                                             | Beispiel   |
-|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| ZAEHLSTELLENNUMMER | Die alphanumerische Nummer der Zählstelle                                                                                                                | -          |
-| DATUM              | Das Tagesdatum der Zählung im [ISO-Format](https://de.wikipedia.org/wiki/ISO_8601) (`YYYY-MM-DD`)                                                        | 2021-10-06 |
-| KNOTENARM_NUMMER   | Die Nummer des Knotenarms welcher durch die CSV-Datei repräsentiert wird. Bei einer Verkehrsbeziehung handelt es sich um die Nummer des Quellknotenarms. | 1 bis 8    |
+| Element            | Beschreibung                                                                                                                                               | Beispiel   |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| ZAEHLSTELLENNUMMER | Die alphanumerische Nummer der Zählstelle                                                                                                                  | 101101     |
+| DATUM              | Das Tagesdatum der Zählung im [ISO-Format](https://de.wikipedia.org/wiki/ISO_8601) (`YYYY-MM-DD`)                                                          | 2021-10-06 |
+| KNOTENARM_NUMMER   | Die Nummer des Knotenarms welcher durch die CSV-Datei repräsentiert wird. Bei einer Verkehrsbeziehung handelt es sich um die Nummer des Quellknotenarms.   | 1 bis 8    |
 
 ## Dateiformat
 
@@ -37,12 +37,12 @@ Zählstellennummer;Zählart;Datum;Knotenarmnummer;;;;;
 101101;<ZAEHLART>;2025-11-28;<von-Knotenarmnr>;;;;;
 ```
 
-| Headerfeld        | Beschreibung                                                                                                                                             |
-|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Zählstellennummer | Die alphanumerische Nummer der Zählstelle                                                                                                                |
-| Zählart           | Das Kürzel der beauftragten Zählart                                                                                                                      |
-| Datum             | Das Tagesdatum der Zählung im [ISO-Format](https://de.wikipedia.org/wiki/ISO_8601) (`YYYY-MM-DD`)                                                        |
-| Knotenarmnummer   | Die Nummer des Knotenarms welcher durch die CSV-Datei repräsentiert wird. Bei einer Verkehrsbeziehung handelt es sich um die Nummer des Quellknotenarms. |
+| Headerfeld        | Beschreibung                                                                                                                                             | Beispiel     |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| Zählstellennummer | Die alphanumerische Nummer der Zählstelle                                                                                                                | 101101       |
+| Zählart           | Das Kürzel der beauftragten Zählart                                                                                                                      | N            |
+| Datum             | Das Tagesdatum der Zählung im [ISO-Format](https://de.wikipedia.org/wiki/ISO_8601) (`YYYY-MM-DD`)                                                        | `2025-10-02` |
+| Knotenarmnummer   | Die Nummer des Knotenarms welcher durch die CSV-Datei repräsentiert wird. Bei einer Verkehrsbeziehung handelt es sich um die Nummer des Quellknotenarms. | 1 bis 8      |
 
 ## Zähldaten in der CSV-Datei
 
