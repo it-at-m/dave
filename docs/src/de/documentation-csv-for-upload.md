@@ -72,7 +72,7 @@ Intervallnummer;nach;Pkw;Lkw;Lz;Bus;Krad;Rad;Fuss
 ### Intervallnummer
 
 Die nachfolgende Tabelle listet die Intervallnummer mit der jeweiligen Start- und Endeuhrzeit auf. 
-Ein Tag besteht somit aus 96 fünfzehn-minütigen Intervallen beginnend bei 00:00 Uhr des Zähltages bis 00:00 Uhr des Folgetages.
+Ein Tag besteht somit aus 96 15-minütigen Intervallen beginnend bei 00:00 Uhr des Zähltages bis 00:00 Uhr des Folgetages.
 
 | Intervallnummer | Startuhrzeit | Endeuhrzeit          |
 |-----------------|--------------|----------------------|
