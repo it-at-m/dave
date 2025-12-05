@@ -49,4 +49,4 @@ But for a basic peek or development environments on what DAVe has to offer,
 we provide a [docker-compose.yml](https://github.com/it-at-m/dave-frontend/tree/sprint/stack/docker-compose.yml) 
 with a sample application.
 
-See [docker-compose.md](https://github.com/it-at-m/dave-frontend/tree/sprint/stack/docker-compose.md) for instructions.
+See [README](https://github.com/it-at-m/dave-frontend/tree/sprint/stack/README.md) for instructions.
