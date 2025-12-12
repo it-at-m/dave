@@ -20,7 +20,7 @@ With [DAVe](https://opensource.muenchen.de/software/dave.html), traffic counts c
 
 ### Architecture
 
-![Architecture](img/DAVE_Architketur.drawio.png)
+![Architecture](docs/src/img/DAVE_Architketur.drawio.png)
 
 
 * [Data Portal](https://github.com/it-at-m/dave-frontend)
@@ -34,16 +34,4 @@ With [DAVe](https://opensource.muenchen.de/software/dave.html), traffic counts c
 
 ## Roadmap
 
-### Q1 2025: 
-- Start integrating counting data from traffic detectors
-
-### Q4 2025
-- Release the detector interface
-- Start integrating counting data from pedestrian traffic
-
-### Q1 2026
-- Implement tenant specific configurations
-- Gather all repositories in one mono repo
-
-### Q2 2026
-- Release pedestrian traffic features
+![DAVe Roadmap](img/DAVe_Roapmap.png)
