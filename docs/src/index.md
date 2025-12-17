@@ -47,3 +47,16 @@ DAVe __should be__ installed and operated via [helm chart](https://artifacthub.i
 But for a basic peek or development environments on what DAVe has to offer, we provide a [docker-compose file](docker-compose.md).
 
 
+## Security
+
+Usually, all repositories belonging to DAVe are configured with [Renovate](https://www.mend.io/renovate/) 
+to keep dependencies and security up to date.
+
+However, we are currently in a major implementation phase in which we are manually installing version upgrades and security patches 
+so that changes can be approved by our test management team.
+
+Renovate is therefore temporarily disabled while in the project phase.
+
+Once the work is complete, we will reactivate Renovate.
+
+
