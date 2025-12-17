@@ -163,6 +163,19 @@ Zur Beschreibung der Backend-API ist Swagger-UI eingebaut, die über das Gateway
 
 <http://GATEWAY-URL/api/dave-backend-service/v3/api-docs>
 
+
+### Resourcenzuteilung
+| Service                             | CPU-Kerne  | RAM       |
+|:------------------------------------|:-----------|:----------|
+| Backend                             | 0,5        | 2,25 GB   |
+| API-Gateway Datenportal (Frontend)  | 0,25       | 1 GB      |
+| API-Gateway Selfserviceportal       | 0,25       | 1 GB      |
+| API-Gateway Adminportal             | 0,25       | 1 GB      |
+| EAI                                 | 0,25       | 0,5 GB    |
+| GEO-EAI                             | 0,5        | 1 GB      |
+| Document-Storage                    | 0,5        | 512 MB    |
+
+
 ### DAVe EAI
 
 Diese EAI dient dazu, Daten für andere Systeme aus DAVe zu exportieren. Das geschieht indem Daten direkt im CSV- oder JSON-Format ausgegeben werden.
