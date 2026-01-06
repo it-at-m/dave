@@ -28,7 +28,7 @@ docker --version
 docker-compose --version
 ```
 
-3. Build the images: Next, you need to build the Docker images by navigating to dave-frontend-github/stack directory and running the following command in the terminal:
+3. Build the images: Next, you need to build the Docker images by navigating to `dave-frontend-github/stack` directory and running the following command in the terminal:
 ```
 docker-compose build
 ```
