@@ -18,7 +18,7 @@ Here are the steps to install the necessary stack to run the application:
 
 1. Clone the repository: First, you need to clone the repository by running the following command in the terminal:
 ```
-git clone https://github.com/it-at-m/dave-frontend
+git clone https://github.com/it-at-m/dave-backend
 git checkout sprint
 ```
 
@@ -28,7 +28,7 @@ docker --version
 docker-compose --version
 ```
 
-3. Build the images: Next, you need to build the Docker images by navigating to `dave-frontend/stack` directory and running the following command in the terminal:
+3. Build the images: Next, you need to build the Docker images by navigating to `dave-backend/stack` directory and running the following command in the terminal:
 ```
 docker-compose build
 ```
