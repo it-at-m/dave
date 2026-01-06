@@ -20,7 +20,7 @@ With [DAVe](https://opensource.muenchen.de/software/dave.html), traffic counts c
 
 ### Architecture
 
-![Architecture](img/DAVe_Architektur_LS2.drawio.png)
+![Architecture](docs/src/img/DAVe_Architektur.drawio.png)
 
 
 * [Data Portal](https://github.com/it-at-m/dave-frontend)
