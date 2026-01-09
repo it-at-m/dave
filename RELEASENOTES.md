@@ -4,6 +4,9 @@
 * Document-Storage Opensource gestellt [FV-110](https://jira.muenchen.de/browse/FV-110))
 * Sample Stack aktualisiert ([FV-101](https://jira.muenchen.de/browse/FV-101))
 * Auswahl der Fahrbeziehung für die neuen Zählarten im Adminportal ermöglicht ([FV-97](https://jira.muenchen.de/browse/FV-97))
+* Validierung der ausgewählten Knotenarme abhängig von der Zählart eingebaut. ([FV-102](https://jira.muenchen.de/browse/FV-102))
+* Validierung der ausgewählten Kategorien abhängig von der Zählart eingebaut. ([FV-104](https://jira.muenchen.de/browse/FV-104))
+* Beim Klick auf den Homebutton wird nun die Gesamtauswertung zurückgesetzt. ([DAVE-788](https://jira.muenchen.de/browse/DAVE-788))
 * Konfiguration von mandanten-spezifischen Einstellungen (Referat, Kartenzentrum) ([FV-94](https://jira.muenchen.de/browse/FV-94))
 
 ## [Sprint 3] 2025-10-22 - 2025-11-12
