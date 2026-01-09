@@ -4,6 +4,7 @@
 * Document-Storage Opensource gestellt [FV-110](https://jira.muenchen.de/browse/FV-110))
 * Sample Stack aktualisiert ([FV-101](https://jira.muenchen.de/browse/FV-101))
 * Auswahl der Fahrbeziehung für die neuen Zählarten im Adminportal ermöglicht ([FV-97](https://jira.muenchen.de/browse/FV-97))
+* Konfiguration von mandanten-spezifischen Einstellungen (Referat, Kartenzentrum) ([FV-94](https://jira.muenchen.de/browse/FV-94))
 
 ## [Sprint 3] 2025-10-22 - 2025-11-12
 * Konfigurierbarkeit des Report-Logos ermöglicht ([FV-51](https://jira.muenchen.de/browse/FV-51))
