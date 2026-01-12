@@ -8,6 +8,7 @@
 * Validierung der ausgewählten Kategorien abhängig von der Zählart eingebaut. ([FV-104](https://jira.muenchen.de/browse/FV-104))
 * Beim Klick auf den Homebutton wird nun die Gesamtauswertung zurückgesetzt. ([DAVE-788](https://jira.muenchen.de/browse/DAVE-788))
 * Konfiguration von mandanten-spezifischen Einstellungen (Referat, Kartenzentrum) ([FV-94](https://jira.muenchen.de/browse/FV-94))
+* Umstellung von policy-as-code auf dependency-review  ([FV-157](https://jira.muenchen.de/browse/FV-157))
 
 ## [Sprint 3] 2025-10-22 - 2025-11-12
 * Konfigurierbarkeit des Report-Logos ermöglicht ([FV-51](https://jira.muenchen.de/browse/FV-51))
