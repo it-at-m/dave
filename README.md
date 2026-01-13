@@ -20,7 +20,7 @@ With [DAVe](https://opensource.muenchen.de/software/dave.html), traffic counts c
 
 ### Architecture
 
-![Architecture](img/DAVe_Architektur_LS2.drawio.png)
+![Architecture](docs/src/img/DAVE_Architketur.drawio.png)
 
 
 * [Data Portal](https://github.com/it-at-m/dave-frontend)
@@ -28,7 +28,7 @@ With [DAVe](https://opensource.muenchen.de/software/dave.html), traffic counts c
 * [Selfservice Portal](https://github.com/it-at-m/dave-selfservice-portal)
 * [Backend-Service](https://github.com/it-at-m/dave-backend)
 * [EAI Reports](https://github.com/it-at-m/dave-eai)
-* _EAI S3_ Still under construction.
+* [Document-Storage](https://github.com/it-at-m/dave-document-storage)
 * _EAI GEO_ Internal component for provisioning of traffic detector counts. Not published as Opensource.
 
 
