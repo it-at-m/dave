@@ -50,3 +50,17 @@ we provide a [docker-compose.yml](https://github.com/it-at-m/dave-backend/tree/s
 with a profile for a sample application.
 
 See [README](https://github.com/it-at-m/dave-backend/blob/sprint/stack/readme.md#dave-sample-stack) for instructions.
+
+## Security
+
+Usually, all repositories belonging to DAVe are configured with [Renovate](https://www.mend.io/renovate/)
+to keep dependencies and security up to date.
+
+However, we are currently in a major implementation phase in which we are manually installing version upgrades and security patches
+so that changes can be approved by our test management team.
+
+Renovate is therefore temporarily disabled while in the project phase.
+
+Once the work is complete, we will reactivate Renovate.
+
+
