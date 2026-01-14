@@ -44,15 +44,19 @@ as in [dave-backend application.yml](https://github.com/it-at-m/dave-backend/blo
 ## Deploy
 
 DAVe __should be__ installed and operated via [helm chart](https://artifacthub.io/packages/helm/it-at-m/dave?modal=install).
-But for a basic peek or development environments on what DAVe has to offer, we provide a [docker-compose file](docker-compose.md).
 
+But for a basic peek or development environments on what DAVe has to offer, 
+we provide a [docker-compose.yml](https://github.com/it-at-m/dave-backend/tree/sprint/stack/docker-compose.yml) 
+with a profile for a sample application.
+
+See [README](https://github.com/it-at-m/dave-backend/blob/sprint/stack/readme.md#dave-sample-stack) for instructions.
 
 ## Security
 
-Usually, all repositories belonging to DAVe are configured with [Renovate](https://www.mend.io/renovate/) 
+Usually, all repositories belonging to DAVe are configured with [Renovate](https://www.mend.io/renovate/)
 to keep dependencies and security up to date.
 
-However, we are currently in a major implementation phase in which we are manually installing version upgrades and security patches 
+However, we are currently in a major implementation phase in which we are manually installing version upgrades and security patches
 so that changes can be approved by our test management team.
 
 Renovate is therefore temporarily disabled while in the project phase.
