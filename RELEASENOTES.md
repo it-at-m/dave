@@ -1,5 +1,8 @@
 # Release-Notes
 
+## [Sprint 5] 2026-01-14 - 2026-02-03
+* Konfiguration von mandanten-spezifischen Einstellungen (Referat, Kartenzentrum) ([FV-94](https://jira.muenchen.de/browse/FV-94), [FV-161](https://jira.muenchen.de/browse/FV-161), [FV-162](https://jira.muenchen.de/browse/FV-162))
+
 ## [Sprint 4] 2025-12-03 - 2026-01-14 
 * Document-Storage Opensource gestellt [FV-110](https://jira.muenchen.de/browse/FV-110))
 * Sample Stack aktualisiert ([FV-101](https://jira.muenchen.de/browse/FV-101))
