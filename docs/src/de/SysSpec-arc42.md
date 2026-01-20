@@ -340,7 +340,7 @@ der Zählung einer Zählung für einen gewählten Zeitraum und zeigt diese grafi
 ## Speichern der Zählung einer Zählstelle mit Zähldaten im Self-Service-Portal
 
 Im Self-Service-Portal werden durch den Dienstleister für die Zählung [CSV-Dateien](documentation-csv-for-upload.md)
-mit den Zähldaten je Knotenarm hochgeladen und in der Anwendung persistiert.
+mit den Zähldaten je Knotenarm hochgeladen, validiert und in der Anwendung persistiert.
 
 ![Laufzeitdiagramm Speichern der Zählung einer Zählstelle mit Zähldaten](../img/DAVe_Laufzeitdiagramm_SelfServiceportal_Zaehlstelle_Zaehlung_Persistierung_Intervalle.drawio.png)
 
