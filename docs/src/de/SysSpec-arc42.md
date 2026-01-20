@@ -155,7 +155,8 @@ Die Anwendung ist auf Basis der LHM-Referenzarchitektur für Webanwendungen erst
 | Selfserviceportal | [dave-selfserviceportal](https://github.com/it-at-m/dave-selfservice-portal) | Das Selfservice-Portal dient zur Kommunikation zwischen LHM und Zähldienstleister. Über das Portal hat der Dienstleister die Möglichkeit, seine Zählungsaufträge online aufzurufen und diesen Aufträgen Zähldaten zuzuordnen (hochzuladen).          |
 | Backend           | [dave-backend](https://github.com/it-at-m/dave-backend)                      | Beinhaltet die Business Logik für Frontend, Adminportal, Selfserviceportal und EAI, sowie die Anbindung an die Datenbanken. Die Api kann über die eingebaute Swagger-UI eingesehen werden.                                                           |
 | DAVe-EAI          | [dave-eai](https://github.com/it-at-m/dave-eai)                              | Die EAI dient dazu Daten zu den Zählstellen und Zählungen als CSV oder JSON-File zu exportieren.                                                                                                                                                     |
-| Document-Storage  | [dave-document-storage](https://github.com/it-at-m/dave-document-storage)    | Die Komponente dient dazu, Lagepläne von Messstellen aus einem S3-Speicher zu laden. |
+| Document-Storage  | [dave-document-storage](https://github.com/it-at-m/dave-document-storage)    | Die Komponente dient dazu, Lagepläne von Messstellen aus einem S3-Speicher zu laden.                                                                                                                                                                 |
+| Geodaten-EAI |  [dave-geodata-eai](https://github.com/it-at-m/dave-geodata-eai) | Die Komponente dient dazu, die Messstellen und die dazugehörigen auf einen Tag aggregierten Messdaten aus ArcGIS zu laden.                                                                                                                           |
 
 In jedem Frontend ist ein eigenes API Gateway enthalten, welches zur Autorisierung und Authentifizierung der
 Anwender*innen und zur Bereitstellung der grafischen Oberfläche der Anwendung benötigt wird.
@@ -166,15 +167,16 @@ Zur Beschreibung der Backend-API ist Swagger-UI eingebaut, die über das Gateway
 
 
 ### Resourcenzuteilung
-| Service                             | CPU-Kerne  | RAM       |
-|:------------------------------------|:-----------|:----------|
-| Backend                             | 0,5        | 2,25 GB   |
-| API-Gateway Datenportal (Frontend)  | 0,25       | 1 GB      |
-| API-Gateway Selfserviceportal       | 0,25       | 1 GB      |
-| API-Gateway Adminportal             | 0,25       | 1 GB      |
-| EAI                                 | 0,25       | 0,5 GB    |
-| GEO-EAI                             | 0,5        | 1 GB      |
-| Document-Storage                    | 0,5        | 512 MB    |
+| Service                            | CPU-Kerne | RAM     |
+|:-----------------------------------|:----------|:--------|
+| Backend                            | 0,5       | 2,25 GB |
+| API-Gateway Datenportal (Frontend) | 0,25      | 1 GB    |
+| API-Gateway Selfserviceportal      | 0,25      | 1 GB    |
+| API-Gateway Adminportal            | 0,25      | 1 GB    |
+| EAI                                | 0,25      | 0,5 GB  |
+| GEO-EAI                            | 0,5       | 1 GB    |
+| Document-Storage                   | 0,5       | 512 MB  |
+| Geodaten-EAI                       | 0,5       | 3,5 GB  |
 
 
 ### DAVe EAI
@@ -209,8 +211,11 @@ Routenziel: ```dave-backend GET /lade-auswertung-visum```
 
 ### Document-Storage
 
-Die Schnittstellendefinition ist [hier](https://github.com/it-at-m/dave-backend/blob/main-ng/src/main/resources/api/document-storage.json) nachzulesen. 
+Die Schnittstellendefinition ist [hier](https://github.com/it-at-m/dave-backend/blob/sprint/src/main/resources/api/document-storage.json) nachzulesen. 
 
+### Geodaten-EAI
+
+Die Schnittstellendefinition ist [hier](https://github.com/it-at-m/dave-backend/blob/sprint/src/main/resources/api/geodateneai.json) nachzulesen.
 
 ### Sensordatenintegration
 
