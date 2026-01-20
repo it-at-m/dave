@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KnmTlxItXMSz-s30MJJW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);container=0;" parent="1" vertex="1">
-          <mxGeometry x="-50" y="140" width="780" height="650" as="geometry" />
+          <mxGeometry x="-50" y="180" width="780" height="610" as="geometry" />
         </mxCell>
         <mxCell id="KnmTlxItXMSz-s30MJJW-10" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Geodaten-EAI&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#000000);container=0;" parent="1" vertex="1">
           <mxGeometry x="575" y="270" width="120" height="60" as="geometry" />
