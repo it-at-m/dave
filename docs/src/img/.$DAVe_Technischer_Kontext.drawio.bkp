@@ -132,10 +132,10 @@
             <mxPoint x="413" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yy_-GJcyjXqwGu1gSJdN-1" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Sensordaten-integration&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#000000);container=0;" parent="1" vertex="1">
+        <mxCell id="Yy_-GJcyjXqwGu1gSJdN-1" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Sensordaten-integration&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#000000);container=0;" vertex="1" parent="1">
           <mxGeometry x="575" y="197" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Yy_-GJcyjXqwGu1gSJdN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" parent="1" target="Yy_-GJcyjXqwGu1gSJdN-1" edge="1">
+        <mxCell id="Yy_-GJcyjXqwGu1gSJdN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" target="Yy_-GJcyjXqwGu1gSJdN-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="550" y="438" />
