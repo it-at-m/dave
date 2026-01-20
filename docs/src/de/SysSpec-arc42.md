@@ -174,7 +174,6 @@ Zur Beschreibung der Backend-API ist Swagger-UI eingebaut, die über das Gateway
 | API-Gateway Selfserviceportal      | 0,25      | 1 GB    |
 | API-Gateway Adminportal            | 0,25      | 1 GB    |
 | EAI                                | 0,25      | 0,5 GB  |
-| GEO-EAI                            | 0,5       | 1 GB    |
 | Document-Storage                   | 0,5       | 512 MB  |
 | Geodaten-EAI                       | 0,5       | 3,5 GB  |
 
