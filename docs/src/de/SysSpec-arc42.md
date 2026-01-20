@@ -20,6 +20,7 @@
          - [Ausgabe der Spitzenstunde einer bestimmten Zählung als CSV-Datei](#ausgabe-der-spitzenstunde-einer-bestimmten-zählung-als-csv-datei)
          - [Daten aller Zählstellen und Zählungen des angegebenen Monats werden im JSON-Format zurückgegeben](#daten-aller-zählstellen-und-zählungen-des-angegebenen-monats-werden-im-json-format-zurückgegeben)
       - [Document-Storage](#document-storage)
+      - [Geodaten-EAI](#geodaten-eai)
       - [Sensordatenintegration](#sensordatenintegration)
       - [Identity Provider](#identity-provider)
 - [Laufzeitsicht](#laufzeitsicht)
