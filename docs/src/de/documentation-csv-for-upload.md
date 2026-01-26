@@ -33,8 +33,8 @@ Die Namenskonvention der CSV-Datei ist wie folgt:
 Jede CSV-Datei enthält zu Beginn einen zweizeiligen und elfspaltigen Header mit Metainformationen zur Zählung.
 
 ```csv
-Zählstellennummer;Zählart;Datum;Knotenarmnummer;;;;;
-101101;<ZAEHLART>;2025-11-28;<von-Knotenarmnr>;;;;;
+Zählstellennummer;Zählart;Datum;Knotenarmnummer;;;;;;;
+61103;<ZAEHLART>;2022-07-06;4;;;;;;;
 ```
 
 | Headerfeld        | Beschreibung                                                                                                                                             | Beispiel     |
@@ -52,15 +52,17 @@ Nach dem Header mit den Metainformationen zur Zählung, startet ab der dritten Z
 Die dritte Zeile der CSV-Datei enthält die Spaltenüberschriften für die in den nachfolgenden Zeilen aufgelisteten Zähldaten.
 
 ```csv
-Zählstellennummer;Zählart;Datum;Knotenarmnummer;;;;;
-101101;<ZAEHLART>;2025-11-28;<von-Knotenarmnr>;;;;;
-Intervallnummer;nach;Pkw;Lkw;Lz;Bus;Krad;Rad;Fuss
-25;<NACH>;1;0;0;0;0;0;0
+Zählstellennummer;Zählart;Datum;Knotenarmnummer;;;;;;;
+61103;<ZAEHLART>;2022-07-06;4;;;;;;;
+Intervallnummer;nach;Strassenseite;Richtung;Pkw;Lkw;Lz;Bus;Krad;Rad;Fuss
+25;<NACH>;<HIMMELSRICHTUNG>;<BEWEGUNGSRICHTUNG>;1;0;0;0;0;0;0
 ```
 | Spaltenfeld     | Beschreibung                                                                                                                                                                                                                                                                 |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Intervallnummer | Die mit der Ziffer 1 beginnende aufsteigende [Nummer des 15-minütigen Intervalls](#intervallnummer) eines Tages.                                                                                                                                                       | 
-| nach            | Der Zielknotenarm beim Zählen einer Verkehrsbeziehung.                                                                                                                                                                                                                       |
+| Intervallnummer | Die mit der Ziffer 1 beginnende aufsteigende [Nummer des 15-minütigen Intervalls](#intervallnummer) eines Tages.                                                                                                                                                             | 
+| nach            | Der Zielknotenarm beim Zählen einer Verkehrsbeziehung. <br/>Handelt es sich um eine Zählung welche keine Verkehrsbeziehung mit einem Quell- und Zielknotenarm darstellt, so ist dieses Feld leer zu lassen. Dies ist bei den Zählarten FjS, QjS und Qu der Fall.             |
+| Strassenseite   | Die Himmelsrichtung als N, O, S, W, NO, SO, SW oder NW für die Zählarten QjS und FjS; <br/>Ansonsten wird das Feld leer gelassen.                                                                                                                                            |
+| Richtung        | EIN oder AUS für die Zählart FjS; <br/>N, O, S, W, NO, SO, SW oder NW für die Zählart Qu; <br/>Ansonsten wird das Feld leer gelassen.                                                                                                                                        |
 | Pkw             | Die Anzahl der gezählten **Personenkraftwagen** als ganzzahlige Dezimalzahl. <br/>Es darf keine Zifferngruppierung (z.B. durch Tausendertrennzeichen) durchgeführt werden. <br/>Findet für diese Fahrzeugkategorie keine Zählung statt, so wird dafür kein Wert eingetragen. |
 | Lkw             | Die Anzahl der gezählten **Lastkraftwagen** als ganzzahlige Dezimalzahl. <br/>Es darf keine Zifferngruppierung (z.B. durch Tausendertrennzeichen) durchgeführt werden. <br/>Findet für diese Fahrzeugkategorie keine Zählung statt, so wird dafür kein Wert eingetragen.     |
 | Lz              | Die Anzahl der gezählten **Lastzüge** als ganzzahlige Dezimalzahl. <br/>Es darf keine Zifferngruppierung (z.B. durch Tausendertrennzeichen) durchgeführt werden. <br/>Findet für diese Fahrzeugkategorie keine Zählung statt, so wird dafür kein Wert eingetragen.           |
@@ -71,7 +73,7 @@ Intervallnummer;nach;Pkw;Lkw;Lz;Bus;Krad;Rad;Fuss
 
 ### Intervallnummer
 
-Die nachfolgende Tabelle listet die Intervallnummer mit der jeweiligen Start- und Endeuhrzeit auf. 
+Die nachfolgende Tabelle listet die Intervallnummer mit der jeweiligen Start- und Endeuhrzeit auf.
 Ein Tag besteht somit aus 96 15-minütigen Intervallen beginnend bei 00:00 Uhr des Zähltages bis 00:00 Uhr des Folgetages.
 
 | Intervallnummer | Startuhrzeit | Endeuhrzeit          |
