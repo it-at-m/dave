@@ -4,6 +4,7 @@
 * Konfiguration von mandanten-spezifischen Einstellungen (Datenportal-Header, Kartenzentrum) ([FV-94](https://jira.muenchen.de/browse/FV-94), [FV-161](https://jira.muenchen.de/browse/FV-161), [FV-162](https://jira.muenchen.de/browse/FV-162))
 * Hochladen und Plausibilisieren der Fußverkehrsdaten ([FV-60](https://jira.muenchen.de/browse/FV-60)
 * Bereinigen der vorberechneten Daten ([FV-128](https://jira.muenchen.de/browse/FV-128))
+* Keycloak SSO-Config bereitstellen und dokumentieren ([FV-68](https://jira.muenchen.de/browse/FV-68))
 
 ## [Sprint 4] 2025-12-03 - 2026-01-14 
 * Document-Storage Opensource gestellt [FV-110](https://jira.muenchen.de/browse/FV-110))
