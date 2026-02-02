@@ -31,7 +31,7 @@ docker compose --version
 ```
 As an alternative to Docker, [Podman](https://podman.io/) can also be used.
 
-3. Build the images: Next, you need to build the Docker images by navigating to dave-frontend-github/stack directory and running the following command in the terminal:
+3. Build the images: Next, you need to build the Docker images by navigating to dave-frontend/stack directory and running the following command in the terminal:
 ```
 docker compose build
 ```
