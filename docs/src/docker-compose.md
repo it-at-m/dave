@@ -22,20 +22,23 @@ git clone https://github.com/it-at-m/dave-frontend
 git checkout sprint
 ```
 
-2. Install Docker and Docker Compose: You need to have Docker and Docker Compose installed on your system. If you don't have them installed, you can follow the official documentation to install them. You can use the following commands to check if they are installed:
+2. Install Docker and Docker Compose: You need to have Docker and Docker Compose installed on your system. 
+If you don't have them installed, you can follow the official documentation to install them. 
+You can use the following commands to check if they are installed:
 ```
 docker --version
-docker-compose --version
+docker compose --version
 ```
+As an alternative to Docker, [Podman](https://podman.io/) can also be used.
 
 3. Build the images: Next, you need to build the Docker images by navigating to dave-frontend-github/stack directory and running the following command in the terminal:
 ```
-docker-compose build
+docker compose build
 ```
 
 4. Start the containers: After the images are built, you can start the containers by running the following command in the terminal:
 ```
-docker-compose up
+docker compose up
 ```
 
 5. Access the application: Once the containers are up and running, you can access it by navigating to http://localhost:8082 in your web browser.
