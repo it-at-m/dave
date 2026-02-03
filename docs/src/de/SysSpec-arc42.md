@@ -373,8 +373,8 @@ Die in den Zählstellen abgebildeten Tageszählungen werden im nachfolgenden Dat
 | Verkehrsbeziehung | Eine Zählung kann je Knotenarm bis zu acht Verkehrsbeziehungen besitzen. Eine Verkehrsbeziehung beginnt bei einem Knotenarm und endet bei einem anderen Knotenarm oder bei sich selbst (U-Turn). Zusätzlich kann zwischen der Strassenseite unterschieden werden, um den fahrbahnseitigen Querschnittsverkehr persistieren zu können. |
 | Querungsverkehr   | Der fahrbahnüberschreitende Verkehr an einem Knotenarm. Je Knotenarm existieren bis zu zwei Querungsverkehre die in entgegengesetzter Richtung den Knotenarm von der einen Seite zur anderen Seite überqueren.                                                                                                                        |
 | Längsverkehr      | Der fahrbahnseitige zum und vom Knoten ein- und ausgehende Verkehr entlang eines Knotenarms. Je Knotenarm können je Fahrbahnseite zwei Knotenarme                                                                                                                                                                                     |
-| Hochrechnung      | Jeder Fahrbeziehung sind die für die Hochrechnung erforderlichen Hochrechnungsfaktoren angegliedert. Die Faktoren sind erforderlich um die im Zeitintervall hochgerechneten Zählwerte zu ermitteln.                                                                                                                                   |
-| Zeitintervall     | Hier handelt es sich um die Zählwerte die in einem Zeitintervall für eine Fahrbeziehung ermittelt wurden.                                                                                                                                                                                                                             |
+| Hochrechnung      | Jeder Verkehrsbeziehung sind die für die Hochrechnung erforderlichen Hochrechnungsfaktoren angegliedert. Die Faktoren sind erforderlich um die im Zeitintervall hochgerechneten Zählwerte zu ermitteln.                                                                                                                                   |
+| Zeitintervall     | Hier handelt es sich um die Zählwerte die in einem Zeitintervall für eine Verkehrsbeziehung ermittelt wurden.                                                                                                                                                                                                                             |
 
 ## Messstellen
 
@@ -429,11 +429,11 @@ Aktuell werden die Daten der Zählstellen, Zählungen und Messstellen mitsamt de
 Das Ziel des LCM ist, die Zählstellen, Zählungen und Messstellen in die relationale Datenbank zu migrieren und in Elasticsearch ausschließlich den Suchindex vorzuhalten.
 Die Suche wird dann mittels [Hibernate Search](https://hibernate.org/search/documentation/) durchgeführt.
 
-## LCM - Umbau Relation Zählung zu Fahrbeziehung und Zählung zu Knotenarm nach Zählung zu Knotenarm zu Fahrbeziehung
+## LCM - Umbau Relation Zählung zu Vekehrsbeziehung, Laengsverkehr, Querungsverkehr und Zählung zu Knotenarm nach Zählung zu Knotenarm zu Vekehrsbeziehung, Laengsverkehr, Querungsverkehr
 
-Aktuell referenziert die Zählung jeweils die Fahrbeziehungen und die Knotenarme jeweils in einem eigenen Attribut.
+Aktuell referenziert die Zählung jeweils die Verkehrsbeziehung und die Knotenarme jeweils in einem eigenen Attribut.
 
-Fachlich sind jedoch die Fahrbeziehungen einen bestimmten Knotenarm zugeordnet. 
+Fachlich sind jedoch die Vekehrsbeziehungen, Laengs- und Querungsverkehre einen bestimmten Knotenarm zugeordnet. 
 Die Knotenarme befinden sich wiederum an einer Zählung.
 Diese fachlichen Abhängigkeiten sind somit auch im technischen Datenmodell durch entsprechende Migration abzubilden.
 
