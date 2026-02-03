@@ -10,6 +10,7 @@
 * Bug-Produktion: Standardmäßige Anzeige der Layer für Stadtbezirke und -viertel beim Anlegen einer neuen Zählstelle ([FV-172](https://jira.muenchen.de/browse/FV-172))
 * Bug-Produktion: Der Abstand „Logo – Text“ beim PDF-Report entspricht nicht den Gestaltungsrichtlinien der LHM. ([FV-180](https://jira.muenchen.de/browse/FV-180))
 * LCM: Umstellen des Optionsmenüs der Zählstellen auf v-model. ([FV-160](https://jira.muenchen.de/browse/FV-160))
+* Opensourcesetzung der Geodaten-EAI. ([FV-107](https://jira.muenchen.de/browse/FV-107))
 
 ## [Sprint 4] 2025-12-03 - 2026-01-14 
 * Document-Storage Opensource gestellt [FV-110](https://jira.muenchen.de/browse/FV-110))
