@@ -1,5 +1,16 @@
 # Release-Notes
 
+## [Sprint 5] 2026-01-14 - 2026-02-03
+* Konfiguration von mandanten-spezifischen Einstellungen (Datenportal-Header, Kartenzentrum) ([FV-94](https://jira.muenchen.de/browse/FV-94), [FV-161](https://jira.muenchen.de/browse/FV-161), [FV-162](https://jira.muenchen.de/browse/FV-162))
+* Hochladen und Plausibilisieren der Fußverkehrsdaten ([FV-60](https://jira.muenchen.de/browse/FV-60))
+* Keycloak SSO-Config bereitstellen und dokumentieren ([FV-68](https://jira.muenchen.de/browse/FV-68))
+* Bug: Anzeige der Verkehrsarten im Adminportal beim Bearbeiten einer Zählung ([FV-179](https://jira.muenchen.de/browse/FV-179))
+* Bug-Produktion: Falsche Vorauswahl der Verkehrsarten nach einer Änderung der Zeitauswahl im Datenportal ([FV-148](https://jira.muenchen.de/browse/FV-148))
+* Bug-Produktion: Standardmäßige Anzeige der Layer für Stadtbezirke und -viertel beim Anlegen einer neuen Zählstelle ([FV-172](https://jira.muenchen.de/browse/FV-172))
+* Bug-Produktion: Der Abstand „Logo – Text“ beim PDF-Report entspricht nicht den Gestaltungsrichtlinien der LHM. ([FV-180](https://jira.muenchen.de/browse/FV-180))
+* LCM: Umstellen des Optionsmenüs der Zählstellen auf v-model. ([FV-160](https://jira.muenchen.de/browse/FV-160))
+* Opensourcesetzung der Geodaten-EAI. ([FV-107](https://jira.muenchen.de/browse/FV-107))
+
 ## [Sprint 4] 2025-12-03 - 2026-01-14 
 * Document-Storage Opensource gestellt [FV-110](https://jira.muenchen.de/browse/FV-110))
 * Sample Stack aktualisiert ([FV-101](https://jira.muenchen.de/browse/FV-101))
