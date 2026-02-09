@@ -345,7 +345,7 @@ der Zählung einer Zählung für einen gewählten Zeitraum und zeigt diese grafi
 ## Speichern der Zählung einer Zählstelle mit Zähldaten im Self-Service-Portal
 
 Im Self-Service-Portal werden durch den Dienstleister für die Zählung [CSV-Dateien](documentation-csv-for-upload.md)
-mit den Zähldaten je Knotenarm hochgeladen und in der Anwendung persistiert.
+mit den Zähldaten je Knotenarm hochgeladen, validiert und in der Anwendung persistiert.
 
 ![Laufzeitdiagramm Speichern der Zählung einer Zählstelle mit Zähldaten](../img/DAVe_Laufzeitdiagramm_SelfServiceportal_Zaehlstelle_Zaehlung_Persistierung_Intervalle.drawio.png)
 
@@ -400,6 +400,13 @@ Zur Kommunikation untereinander verwenden die Dienste REST. Die REST-Endpunkte z
 Die Anwendung wird über eine Nutzername-Passwort-Authentifizierung abgesichert. Die REST-Endpunkte für die Geschäftslogik werden durch eine Access-Token-Autorisierung abgesichert. Dies wird entsprechend OAuth 2.0 mit einem erforderlichen Identity Provider umgesetzt.
 
 Nur ausgewählte Nutzer*innen sind in DAVe berechtigt Daten zu lesen oder zu schreiben. Diesen Personen werden im über den Identity Provider zu einer Rolle oder auch zu mehreren Rollen zugeordnet, welchen wiederum eine oder mehrere Rechte zugeordnet sind. Dadurch ist einerseits das Vergeben von Rechten relativ simpel und andererseits sind in DAVe selbst keine Zusammenhänge zwischen Rollen und Rechten fest verbaut. Die Anwendung fragt die Rolle und Rechte der/des aktuell angemeldeten Nutzerin/Nutzers an verschiedenen Stellen ab, um zu entscheiden, ob eine bestimmte Aktion zulässig ist.
+
+Folgende Rollen sind definiert: 
+- ANWENDER
+- EXTERNAL
+- FACHADMIN
+- POWERUSER
+- VERKEHRSDETEKTOR_VIEWER
 
 ## Validierung von Eingaben
 

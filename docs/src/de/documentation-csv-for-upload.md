@@ -40,7 +40,7 @@ Zählstellennummer;Zählart;Datum;Knotenarmnummer;;;;;;;
 | Headerfeld        | Beschreibung                                                                                                                                             | Beispiel     |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
 | Zählstellennummer | Die alphanumerische Nummer der Zählstelle                                                                                                                | 101101       |
-| Zählart           | Das Kürzel der beauftragten Zählart                                                                                                                      | N            |
+| Zählart           | Das Kürzel der beauftragten [Zählart](#Zählarten)                                                                                                        | N            |
 | Datum             | Das Tagesdatum der Zählung im [ISO-Format](https://de.wikipedia.org/wiki/ISO_8601) (`YYYY-MM-DD`)                                                        | `2025-10-02` |
 | Knotenarmnummer   | Die Nummer des Knotenarms welcher durch die CSV-Datei repräsentiert wird. Bei einer Verkehrsbeziehung handelt es sich um die Nummer des Quellknotenarms. | 1 bis 8      |
 
@@ -70,6 +70,30 @@ Intervallnummer;nach;Strassenseite;Richtung;Pkw;Lkw;Lz;Bus;Krad;Rad;Fuss
 | Krad            | Die Anzahl der gezählten **Krafträder** als ganzzahlige Dezimalzahl. <br/>Es darf keine Zifferngruppierung (z.B. durch Tausendertrennzeichen) durchgeführt werden. <br/>Findet für diese Fahrzeugkategorie keine Zählung statt, so wird dafür kein Wert eingetragen.         |
 | Rad             | Die Anzahl der gezählten **Fahrräder** als ganzzahlige Dezimalzahl. <br/>Es darf keine Zifferngruppierung (z.B. durch Tausendertrennzeichen) durchgeführt werden. <br/>Findet für diese Fahrzeugkategorie keine Zählung statt, so wird dafür kein Wert eingetragen.          |
 | Fuss            | Die Anzahl der gezählten **Fußgänger** als ganzzahlige Dezimalzahl. <br/>Es darf keine Zifferngruppierung (z.B. durch Tausendertrennzeichen) durchgeführt werden. <br/>Findet für diese Fahrzeugkategorie keine Zählung statt, so wird dafür kein Wert eingetragen.          |
+
+### Zählarten
+
+Die nachfolgende Tabelle listet die Zählarten auf.
+
+| Zählart | Beschreibung                                       |
+|---------|----------------------------------------------------|
+| N       | Standardzählung                                    |
+| H       | Hauptverkehrsrichtung/Oberfläche/Hoch              |
+| Q       | Querschnitt                                        |
+| Q_      | Querschnitt/Sonderzählung                          |
+| QB      | Bahnschnitt                                        |
+| QH      | Querschnitt/Hauptverkehrsrichtung/ Oberfläche/Hoch |
+| QI      | Isarschnitt                                        |
+| QS      | Stadtgrenzenzählung                                |
+| QT      | Querschnitt Tunnel/Unterführung/Tief               |
+| QR      | Querschnitt Radverkehr                             |
+| R       | Radverkehrszählung                                 |
+| QJS     | Querschnitt je Straßenseite                        |
+| FJS     | Fuß & Rad je Straßenseite                          |
+| QU      | Querung                                            |
+| T       | Tunnel / Unterführung / Tief                       |
+| TK      | Teilknoten                                         |
+
 
 ### Intervallnummer
 

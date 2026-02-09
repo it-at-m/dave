@@ -22,6 +22,9 @@ The data is stored in two different databases:
 
 ## Configuration
 
+A list of usable environment variables can be found in our helm-chart repository:
+[values.yaml](https://github.com/it-at-m/helm-charts/blob/95c2b1e2c0fb4046d1176bcd1d45be5ba640770f/charts/dave/values.yaml)
+
 ### Identity and access management
 
 Identity and access management for all three frontends are managed with KeyCloak.

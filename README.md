@@ -34,4 +34,8 @@ With [DAVe](https://opensource.muenchen.de/software/dave.html), traffic counts c
 
 ## Roadmap
 
-![DAVe Roadmap](img/DAVe_Roapmap.png)
+<img src="img/DAVe_Roapmap.png" width="850">
+
+
+A detailed board of what opensource features and issues are currently treated can be observed under:
+[DAVe working public](https://github.com/orgs/it-at-m/projects/14/views/1)
