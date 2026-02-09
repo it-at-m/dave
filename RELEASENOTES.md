@@ -4,7 +4,7 @@
 
 
 ## [Sprint 5] 2026-01-14 - 2026-02-25
-* Anpassungen des Datenmodells mit Änderungen der Entität `Fahrbeziehungen` zu `Verkehrsbeziehungen` und erweitern um den `Längsverkehr` und `Querungsverkehr`. ([FV-105](https://jira.muenchen.de/browse/FV-105))
+* Anpassungen des Datenmodells mit Änderungen der Entität `Fahrbeziehungen` zu `Verkehrsbeziehungen` und erweitern um den `Längsverkehr` und `Querungsverkehr`. Es handelt sich um eine Schnittstellenänderung, die nicht rückwärts kompatibel ist. ([FV-105](https://jira.muenchen.de/browse/FV-105))
 * tbd
 
 ## [Sprint 4] 2025-12-03 - 2026-01-14 
