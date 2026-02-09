@@ -23,6 +23,22 @@
        class="com.sun.star.drawing.ClosedBezierShape"
        transform="rotate(-90,700,700)">
       <g
+         id="node4">
+        <path
+           id="node4_spike"
+           d="m 661.11087,699.99998 v -568.4076 l 38.889,-53.8146 38.889,53.8135 v 568.4087 z"
+           fill="#1565c0"
+           stroke="none"
+           style="stroke-width:17.1546" />
+        <text
+           xml:space="preserve"
+           style="font-size:63.0899px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:38.9426"
+           x="133.91887"
+           y="-654.36975"
+           id="node4_spike_text"
+           transform="matrix(0,0.96512986,-1.03613,0,0,0)">4</text>
+      </g>
+      <g
          id="node4_arrows">
         <g
            id="node4_south">
@@ -69,22 +85,6 @@
              stroke="none"
              style="stroke-width:22.1263" />
         </g>
-      </g>
-      <g
-         id="node4">
-        <path
-           id="node4_spike"
-           d="m 661.11087,699.99998 v -568.4076 l 38.889,-53.8146 38.889,53.8135 v 568.4087 z"
-           fill="#1565c0"
-           stroke="none"
-           style="stroke-width:17.1546" />
-        <text
-           xml:space="preserve"
-           style="font-size:63.0899px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:38.9426"
-           x="133.91887"
-           y="-654.36975"
-           id="node4_spike_text"
-           transform="matrix(0,0.96512986,-1.03613,0,0,0)">4</text>
       </g>
     </g>
     <g
@@ -302,6 +302,22 @@
        class="com.sun.star.drawing.ClosedBezierShape"
        transform="rotate(-90,700,700)">
       <g
+         id="node8">
+        <path
+           id="node8_spike"
+           d="m 661.11087,699.99998 v -568.4076 l 38.889,-53.8146 38.889,53.8135 v 568.4087 z"
+           fill="#1565c0"
+           stroke="none"
+           style="stroke-width:17.1546" />
+        <text
+           xml:space="preserve"
+           style="font-size:63.0899px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:38.9426"
+           x="603.00354"
+           y="-354.56787"
+           id="node8_spike_text"
+           transform="matrix(0.68244987,0.68244987,-0.73265455,0.73265455,0,0)">8</text>
+      </g>
+      <g
          id="node8_arrows">
         <g
            id="node8_south_west">
@@ -348,22 +364,6 @@
              stroke="none"
              style="stroke-width:22.1263" />
         </g>
-      </g>
-      <g
-         id="node8">
-        <path
-           id="node8_spike"
-           d="m 661.11087,699.99998 v -568.4076 l 38.889,-53.8146 38.889,53.8135 v 568.4087 z"
-           fill="#1565c0"
-           stroke="none"
-           style="stroke-width:17.1546" />
-        <text
-           xml:space="preserve"
-           style="font-size:63.0899px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:38.9426"
-           x="603.00354"
-           y="-354.56787"
-           id="node8_spike_text"
-           transform="matrix(0.68244987,0.68244987,-0.73265455,0.73265455,0,0)">8</text>
       </g>
     </g>
     <g
