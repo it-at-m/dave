@@ -3,6 +3,8 @@
 ## [Sprint 6] 2026-02-04 - 2026-02-25
 * Anpassungen des Datenmodells mit Änderungen der Entität `Fahrbeziehungen` zu `Verkehrsbeziehungen` und Erweiterung um den `Längsverkehr` und `Querungsverkehr`. Es handelt sich um eine Schnittstellenänderung, die nicht rückwärtskompatibel ist. ([FV-105](https://jira.muenchen.de/browse/FV-105))
 * Anpassung der Steuerung des Filtermenüs Zeitauswahl. ([FV-149](https://jira.muenchen.de/browse/FV-149))
+* Bereinigen der vorberechneten Daten ([FV-128](https://jira.muenchen.de/browse/FV-128)) 
+* Anpassung der Steuerung des Filtermenüs Fahrzeugauswahl. ([FV-150](https://jira.muenchen.de/browse/FV-150))
 
 ## [Sprint 5] 2026-01-14 - 2026-02-03
 * Konfiguration von mandanten-spezifischen Einstellungen (Datenportal-Header, Kartenzentrum) ([FV-94](https://jira.muenchen.de/browse/FV-94), [FV-161](https://jira.muenchen.de/browse/FV-161), [FV-162](https://jira.muenchen.de/browse/FV-162))
