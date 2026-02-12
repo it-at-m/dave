@@ -7,3 +7,7 @@ mittels InkScape weiterverarbeitet werden.
 
 Die Files (xxx_auswahl_plain.svg) werden im Adminportal, SelfServiceportal und Datenportal verwendet. 
 Die Files (xxx_belastungsplan_plain.svg) hingegen werden nur im Datenportal benötigt.
+
+
+# Aktueller Stand
+fjs_belastungsplan ist soweit fertig, bis auf die Legenden in den Ecken. Ebenso fehlt noch die sinnvolle Benennung der ID's für die Knotenarme 5, 6, 7 und 8.
