@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400mm"
+   height="400mm"
+   viewBox="0 0 1400 1400"
+   version="1.1"
+   id="svg1"
+   fill-rule="evenodd"
+   stroke-width="28.222"
+   stroke-linejoin="round"
+   preserveAspectRatio="xMidYMid"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="qu_belastungsplan_inkscape.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.65043405"
+     inkscape:cx="707.22005"
+     inkscape:cy="723.36311"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g134"
+     showgrid="true"
+     showguides="false">
+    <inkscape:grid
+       id="grid8"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="5.2904761"
+       spacingy="5.2904761"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="944.75374"
+       y="511.96582"
+       width="223.69678"
+       height="85.327636"
+       id="rect155" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect8" />
+    <rect
+       x="408.95768"
+       y="66.1097"
+       width="393.58333"
+       height="75.334309"
+       id="rect7" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 555.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1111 : 555.5 : 1"
+       inkscape:persp3d-origin="555.5 : 370.33333 : 1"
+       id="perspective12" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect15" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect21" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect28" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect34" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect40" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect54" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect55" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect61" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect68" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect75" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect104" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect105" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect106" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect112" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect113" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect117" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect121" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect153" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect154" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect3" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.15561"
+       height="178.34245"
+       id="rect3-4" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect35" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect36" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect37" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.15561"
+       height="178.34245"
+       id="rect38" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect69" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect70" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect71" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.15561"
+       height="178.34245"
+       id="rect72" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect73" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect74" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect76" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect77" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect120" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect122" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect123" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect124" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect125" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect126" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect167" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect168" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect169" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect170" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect171" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect172" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.15561"
+       height="178.34245"
+       id="rect113-3" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect78" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect79" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect80" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.15561"
+       height="178.34245"
+       id="rect81" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect82" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect83" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect136" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect137" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect138" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.15561"
+       height="178.34245"
+       id="rect139" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect140" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect141" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect194" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect195" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect196" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.15561"
+       height="178.34245"
+       id="rect197" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect198" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.1556"
+       height="178.34245"
+       id="rect199" />
+    <rect
+       x="247.52702"
+       y="59.959961"
+       width="458.15561"
+       height="178.34245"
+       id="rect3-4-4" />
+  </defs>
+  <g
+     id="nodes1To4"
+     class="Page"
+     inkscape:highlight-color="#aaaaaa">
+    <g
+       inkscape:label="Node1"
+       inkscape:groupmode="layer"
+       id="node1_group"
+       class="com.sun.star.drawing.ClosedBezierShape">
+      <g
+         id="node1">
+        <path
+           id="node1_spike"
+           d="M 664.99999,665 V 185.409 L 699.99947,140 734.99999,185.4058 V 665 Z"
+           fill="#9e9e9e"
+           stroke="none"
+           style="stroke-width:14.949"
+           sodipodi:nodetypes="cccccc" />
+        <g
+           id="node1_number"
+           inkscape:label="node1_number">
+          <circle
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.597525;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="node1_circle"
+             cx="700"
+             cy="614.25"
+             inkscape:label="circle"
+             r="11.951238" />
+          <text
+             xml:space="preserve"
+             style="font-size:19.7624px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:30.9229"
+             id="node1_circle_text"
+             y="622.00684"
+             x="693.53955"><tspan
+               sodipodi:role="line"
+               style="stroke-width:30.9229"
+               id="node1_circle_tspan"
+               x="693.53955"
+               y="622.00684">1</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="node1_strassenname_text"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect8);display:inline;fill:#000000;fill-opacity:1"
+           inkscape:label="node1_strassenname"
+           transform="matrix(0,-0.93872592,0.93872592,0,629.34805,827.14544)"><tspan
+             x="247.52734"
+             y="81.43249"
+             id="tspan16">Ich bin ein langer Straßenname</tspan></text>
+        <text
+           xml:space="preserve"
+           id="node1_strassenname_multirow2_text"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect73);display:inline;fill:#000000;fill-opacity:1"
+           inkscape:label="node1_strassenname_multirow2"
+           transform="matrix(0,-0.93872592,0.93872592,0,643.34805,827.14544)"><tspan
+             x="247.52734"
+             y="81.43249"
+             id="tspan17">Ich bin ein langer Straßenname</tspan></text>
+        <text
+           xml:space="preserve"
+           id="node1_strassenname_multirow1_text"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect74);display:inline;fill:#000000;fill-opacity:1"
+           inkscape:label="node1_strassenname_multirow1"
+           transform="matrix(0,-0.93872592,0.93872592,0,615.34805,827.14544)"><tspan
+             x="247.52734"
+             y="81.43249"
+             id="tspan18">Ich bin ein langer Straßenname</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0,-0.86675092,1.153734,0,0,0)"
+           id="node1_sum_text"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9645"
+           inkscape:label="node1_sum"
+           x="-1207.2531"
+           y="-171.53365"><tspan
+             x="-49.797398"
+             y="616.65149"
+             id="node1_sum_tspan"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9645">123456</tspan></text>
+      </g>
+      <g
+         id="node1_arrows">
+        <g
+           inkscape:groupmode="layer"
+           id="g24"
+           inkscape:label="node2_crossing"
+           inkscape:highlight-color="#3b80ee">
+          <path
+             id="path20"
+             d="M 612.5,247.424 H 745.2445 V 234.5 l 42.2555,28 -42.2555,28 V 277.576 H 612.5 Z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:27.0576"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="node2_N-to-S" />
+          <path
+             id="path21"
+             d="M 787.5,225.076 H 654.7555 V 238 L 612.5,210 654.7555,182 v 12.924 H 787.5 Z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:27.0576"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="node2_S-to-N" />
+          <text
+             xml:space="preserve"
+             transform="matrix(0,-0.86675092,1.153734,0,0,0)"
+             id="text21"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9645"
+             inkscape:label="node2_crossing_sum_1"
+             x="-1383.7572"
+             y="-265.22723"><tspan
+               x="-226.30139"
+               y="522.95795"
+               id="tspan21"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9645">123456</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="scale(0.87251096,1.1461174)"
+             id="text22"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:44.2239"
+             inkscape:label="number_south"
+             x="-315.73874"
+             y="-553.82526"><tspan
+               x="848.5473"
+               y="239.01094"
+               id="tspan22"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:44.2239">123456</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="scale(0.87251096,1.1461174)"
+             id="text23"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:44.2239"
+             inkscape:label="number_north"
+             x="-315.73801"
+             y="-599.6322"><tspan
+               x="848.5473"
+               y="193.2041"
+               id="tspan23"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:44.2239">123456</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="matrix(0,-0.86675092,1.153734,0,0,0)"
+             id="text24"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9645"
+             inkscape:label="node2_crossing_sum_2"
+             x="-1383.7572"
+             y="-77.840034"><tspan
+               x="-226.30139"
+               y="710.34515"
+               id="tspan24"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9645">123456</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="node2_group"
+       inkscape:label="Node2">
+      <g
+         inkscape:groupmode="layer"
+         id="node2"
+         inkscape:label="node2">
+        <path
+           id="node2_spike"
+           d="M 734.99999,664.99999 H 1214.591 l 45.409,34.99948 -45.4058,35.00052 H 734.99999 Z"
+           fill="#9e9e9e"
+           stroke="none"
+           style="stroke-width:14.949"
+           sodipodi:nodetypes="cccccc"
+           inkscape:label="node2_spike" />
+        <text
+           xml:space="preserve"
+           id="node2_strassenname_text"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect113-3);display:inline;fill:#000000;fill-opacity:1"
+           inkscape:label="node2_strassenname"
+           transform="matrix(0.93872592,0,0,0.93872592,572.85577,629.34805)"><tspan
+             x="247.52734"
+             y="81.43249"
+             id="tspan19">Ich bin ein langer Straßenname</tspan></text>
+        <g
+           id="node2_number"
+           inkscape:label="node2_number">
+          <circle
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.597525;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="node2_number_circle"
+             cx="785.75"
+             cy="700"
+             inkscape:label="circle"
+             r="11.951238" />
+          <text
+             xml:space="preserve"
+             style="font-size:19.7624px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:30.9229"
+             id="node2_number_text"
+             y="707.33368"
+             x="779.30457"><tspan
+               sodipodi:role="line"
+               style="stroke-width:30.9229"
+               id="node2_number_tspan"
+               x="779.30457"
+               y="707.33368">2</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="node2_strassenname_multirow2_text"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect76);display:inline;fill:#000000;fill-opacity:1"
+           inkscape:label="node2_strassenname_multirow2"
+           transform="matrix(0.93872592,0,0,0.93872592,572.85577,643.34805)"><tspan
+             x="247.52734"
+             y="81.43249"
+             id="tspan20">Ich bin ein langer Straßenname</tspan></text>
+        <text
+           xml:space="preserve"
+           id="node2_strassenname_multirow1_text"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect77);display:inline;fill:#000000;fill-opacity:1"
+           inkscape:label="node2_strassenname_multirow1"
+           transform="matrix(0.93872592,0,0,0.93872592,572.85577,615.34805)"><tspan
+             x="247.52734"
+             y="81.43249"
+             id="tspan25">Ich bin ein langer Straßenname</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="scale(0.86675092,1.153734)"
+           id="text1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9645"
+           inkscape:label="node2_sum"
+           x="407.97421"
+           y="-171.52608"><tspan
+             x="1565.4299"
+             y="616.65906"
+             id="tspan1"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9645">123456</tspan></text>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="node2_arrows"
+         inkscape:label="node2_arrows">
+        <g
+           inkscape:groupmode="layer"
+           id="node2_north"
+           inkscape:label="node2_crossing">
+          <path
+             id="node1_sideW_directionS-8"
+             d="m 1152.576,612.49999 v 132.74447 h 12.924 l -28,42.25553 -28,-42.25553 h 12.924 V 612.49999 Z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:27.0576"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="node2_N-to-S" />
+          <path
+             id="path154"
+             d="M 1174.924,787.49999 V 654.75552 H 1162 l 28,-42.25553 28,42.25553 h -12.924 v 132.74447 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:27.0576"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="node2_S-to-N" />
+          <text
+             xml:space="preserve"
+             transform="scale(0.86675092,1.153734)"
+             id="node2_sum_text"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9645"
+             inkscape:label="node2_crossing_sum_1"
+             x="231.4702"
+             y="-265.2272"><tspan
+               x="1388.9259"
+               y="522.95795"
+               id="node2_sum_tspan"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9645">123456</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="matrix(0,-0.86707182,1.153307,0,0,0)"
+             id="node1_west_south_number_text-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:43.9482"
+             inkscape:label="number_south"
+             x="-1918.3655"
+             y="208.31508"><tspan
+               x="-761.3382"
+               y="996.2088"
+               id="node1_west_south_number_tspan-8"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="matrix(0,-0.86707182,1.153307,0,0,0)"
+             id="text14"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:43.9482"
+             inkscape:label="number_north"
+             x="-1918.3656"
+             y="253.83627"><tspan
+               x="-761.3382"
+               y="1041.7301"
+               id="tspan14"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
+          <text
+             xml:space="preserve"
+             transform="scale(0.86675092,1.153734)"
+             id="text15"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9645"
+             inkscape:label="node2_crossing_sum_2"
+             x="231.4702"
+             y="-77.840019"><tspan
+               x="1388.9259"
+               y="710.34515"
+               id="tspan15"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9645">123456</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="node3_group"
+       inkscape:label="Node3">
+      <g
+         inkscape:groupmode="layer"
+         id="node3"
+         inkscape:label="node3">
+        <path
+           id="node3_spike"
+           d="M 734.99999,734.99999 V 1214.591 L 700.00051,1260 664.99999,1214.5942 V 734.99999 Z"
+           fill="#9e9e9e"
+           stroke="none"
+           style="stroke-width:14.949"
+           sodipodi:nodetypes="cccccc"
+           inkscape:label="node3_spike" />
+        <text
+           xml:space="preserve"
+           id="node3_strassenname_text"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           inkscape:label="node3_strassenname"
+           transform="rotate(-90)"
+           x="-806.37427"
+           y="705.79083"><tspan
+             sodipodi:role="line"
+             id="node3_strassenname_tspan"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
+             x="-806.37427"
+             y="705.79083">Ich bin ein langer Straßenname</tspan></text>
+        <g
+           id="node3_number"
+           inkscape:label="node3_number">
+          <circle
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.597525;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="node3_number_circle"
+             cx="700"
+             cy="785.75"
+             inkscape:label="circle"
+             r="11.951238" />
+          <text
+             xml:space="preserve"
+             style="font-size:19.7624px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:30.9229"
+             id="node3_number_text"
+             y="792.38141"
+             x="693.75189"><tspan
+               sodipodi:role="line"
+               style="stroke-width:30.9229"
+               id="node3_number_tspan"
+               x="693.75189"
+               y="792.38141">3</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="node3_strassenname_multirow2_text"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           inkscape:label="node3_strassenname_multirow2"
+           transform="rotate(-90)"
+           x="-806.37427"
+           y="719.79083"><tspan
+             sodipodi:role="line"
+             id="node3_strassenname_multirow2_tspan"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
+             x="-806.37427"
+             y="719.79083">Ich bin ein langer Straßenname</tspan></text>
+        <text
+           xml:space="preserve"
+           id="node3_strassenname_multirow1_text"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           inkscape:label="node3_strassenname_multirow1"
+           transform="rotate(-90)"
+           x="-806.37427"
+           y="691.79083"><tspan
+             sodipodi:role="line"
+             id="node3_strassenname_multirow1_tspan"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
+             x="-806.37427"
+             y="691.79083">Ich bin ein langer Straßenname</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0,-0.86675092,1.153734,0,0,0)"
+           id="node3_sum_text"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9645"
+           inkscape:label="node3_sum"
+           x="-2630.3494"
+           y="-171.53365"><tspan
+             x="-1472.8937"
+             y="616.65149"
+             id="node3_sum_tspan"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9645">123456</tspan></text>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="node3_arrows"
+         inkscape:label="node3_arrows" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="node4_group"
+       inkscape:label="Node4">
+      <g
+         inkscape:groupmode="layer"
+         id="node4"
+         inkscape:label="node4">
+        <path
+           id="node4_spike"
+           d="M 664.99998,734.99999 H 185.409 L 140,700.00052 185.4058,664.99999 h 479.59418 z"
+           fill="#9e9e9e"
+           stroke="none"
+           style="stroke-width:14.949"
+           sodipodi:nodetypes="cccccc"
+           inkscape:label="node4_spike" />
+        <text
+           xml:space="preserve"
+           id="node4_text"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           inkscape:label="node4_strassenname"
+           x="593.62708"
+           y="705.79083"><tspan
+             sodipodi:role="line"
+             id="node4_strassenname_tspan"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
+             x="593.62708"
+             y="705.79083">Ich bin ein langer Straßenname</tspan></text>
+        <g
+           id="node4_number"
+           inkscape:label="node4_number">
+          <circle
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.597525;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="node4_number_circle"
+             cx="614.25"
+             cy="700"
+             inkscape:label="circle"
+             r="11.951238" />
+          <text
+             xml:space="preserve"
+             style="font-size:19.7624px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:30.9229"
+             id="node4_number_text"
+             y="707.20343"
+             x="608.34302"><tspan
+               sodipodi:role="line"
+               style="stroke-width:30.9229"
+               id="node4_number_tspan"
+               x="608.34302"
+               y="707.20343">4</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="node4_strassenname_multirow2_text"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           inkscape:label="node4_strassenname_multirow2"
+           x="593.62708"
+           y="719.79083"><tspan
+             sodipodi:role="line"
+             id="node4_strassenname_multirow2_tspan"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
+             x="593.62708"
+             y="719.79083">Ich bin ein langer Straßenname</tspan></text>
+        <text
+           xml:space="preserve"
+           id="node4_strassenname_multirow1_text"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           inkscape:label="node4_strassenname_multirow1"
+           x="593.62708"
+           y="691.79083"><tspan
+             sodipodi:role="line"
+             id="node4_strassenname_multirow1_tspan"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
+             x="593.62708"
+             y="691.79083">Ich bin ein langer Straßenname</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="scale(0.86675167,1.153733)"
+           id="node4_sum_text"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
+           inkscape:label="node4_sum"
+           x="-1015.1211"
+           y="-171.52489"><tspan
+             x="142.33362"
+             y="616.65955"
+             id="node4_sum_tspan"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="node4_arrows"
+         inkscape:label="node4_arrows" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="nodes5To8"
+     inkscape:label="nodes5To8">
+    <g
+       inkscape:label="Node5"
+       inkscape:groupmode="layer"
+       id="g96"
+       class="com.sun.star.drawing.ClosedBezierShape"
+       inkscape:highlight-color="#f171ee">
+      <g
+         id="g87"
+         inkscape:label="node5">
+        <path
+           id="path83"
+           d="m 699.99999,650.50319 339.12201,-339.12205 56.8574,-7.36064 -7.3576,56.85586 -339.12433,339.12431 z"
+           fill="#9e9e9e"
+           stroke="none"
+           style="stroke-width:14.949"
+           sodipodi:nodetypes="cccccc"
+           inkscape:label="node5_spike" />
+        <g
+           id="g83"
+           inkscape:label="node5_number">
+          <circle
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.597525;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="circle83"
+             cx="760.63751"
+             cy="639.36597"
+             inkscape:label="circle"
+             r="11.951238" />
+          <text
+             xml:space="preserve"
+             style="font-size:19.7624px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:30.9229"
+             id="text83"
+             y="646.03784"
+             x="754.23737"><tspan
+               sodipodi:role="line"
+               style="stroke-width:30.9229"
+               id="tspan83"
+               x="754.23737"
+               y="646.03784">5</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text84"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect136);display:inline;fill:#000000;fill-opacity:1"
+           inkscape:label="node5_strassenname"
+           transform="matrix(0.66377946,-0.66377946,0.66377946,0.66377946,560.13578,739.94702)"><tspan
+             x="247.52734"
+             y="81.43249"
+             id="tspan26">Ich bin ein langer Straßenname</tspan></text>
+        <text
+           xml:space="preserve"
+           id="text85"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect137);display:inline;fill:#000000;fill-opacity:1"
+           inkscape:label="node5_strassenname_multirow2"
+           transform="matrix(0.66377946,-0.66377946,0.66377946,0.66377946,570.03728,749.84502)"><tspan
+             x="247.52734"
+             y="81.43249"
+             id="tspan27">Ich bin ein langer Straßenname</tspan></text>
+        <text
+           xml:space="preserve"
+           id="text86"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect138);display:inline;fill:#000000;fill-opacity:1"
+           inkscape:label="node5_strassenname_multirow1"
+           transform="matrix(0.66377946,-0.66377946,0.66377946,0.66377946,550.23778,730.04902)"><tspan
+             x="247.52734"
+             y="81.43249"
+             id="tspan28">Ich bin ein langer Straßenname</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.61288545,-0.61288545,0.81581313,0.81581313,0,0)"
+           id="text87"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9645"
+           inkscape:label="node5_sum"
+           x="-399.63812"
+           y="79.779076"><tspan
+             x="757.8175"
+             y="867.96423"
+             id="tspan87"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9645">123456</tspan></text>
+      </g>
+      <g
+         id="g95"
+         inkscape:label="node5_arrows" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g109"
+       inkscape:label="Node6"
+       inkscape:highlight-color="#fcc166">
+      <g
+         inkscape:groupmode="layer"
+         id="g100"
+         inkscape:label="node6">
+        <path
+           id="path96"
+           d="m 749.49747,699.99999 339.12213,339.12201 7.3606,56.8574 -56.8559,-7.3576 -339.12431,-339.12434 z"
+           fill="#9e9e9e"
+           stroke="none"
+           style="stroke-width:14.949"
+           sodipodi:nodetypes="cccccc"
+           inkscape:label="node6_spike" />
+        <text
+           xml:space="preserve"
+           id="text96"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect139);display:inline;fill:#000000;fill-opacity:1"
+           inkscape:label="node6_strassenname"
+           transform="matrix(0.66377946,0.66377946,-0.66377946,0.66377946,660.05549,560.13578)"><tspan
+             x="247.52734"
+             y="81.43249"
+             id="tspan29">Ich bin ein langer Straßenname</tspan></text>
+        <g
+           id="g97"
+           inkscape:label="node6_number"
+           transform="rotate(45,785.75,700)">
+          <circle
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.597525;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="circle96"
+             cx="810.86731"
+             cy="760.6344"
+             inkscape:label="circle"
+             r="11.951238" />
+          <text
+             xml:space="preserve"
+             style="font-size:19.7624px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:30.9229"
+             id="text97"
+             y="1118.2867"
+             x="29.266506"
+             transform="rotate(-45)"><tspan
+               sodipodi:role="line"
+               style="stroke-width:30.9229"
+               id="tspan97"
+               x="29.266506"
+               y="1118.2867">6</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text98"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect140);display:inline;fill:#000000;fill-opacity:1"
+           inkscape:label="node6_strassenname_multirow2"
+           transform="matrix(0.66377946,0.66377946,-0.66377946,0.66377946,650.15399,570.03728)"><tspan
+             x="247.52734"
+             y="81.43249"
+             id="tspan30">Ich bin ein langer Straßenname</tspan></text>
+        <text
+           xml:space="preserve"
+           id="text99"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect141);display:inline;fill:#000000;fill-opacity:1"
+           inkscape:label="node6_strassenname_multirow1"
+           transform="matrix(0.66377946,0.66377946,-0.66377946,0.66377946,669.95349,550.23778)"><tspan
+             x="247.52734"
+             y="81.43249"
+             id="tspan31">Ich bin ein langer Straßenname</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.61288545,0.61288545,-0.81581313,0.81581313,0,0)"
+           id="text100"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9645"
+           inkscape:label="node6_sum"
+           x="742.49854"
+           y="-778.25079"><tspan
+             x="1899.9543"
+             y="9.9343462"
+             id="tspan100"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9645">123456</tspan></text>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g108"
+         inkscape:label="node6_arrows" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g122"
+       inkscape:label="Node7"
+       inkscape:highlight-color="#63f4ff">
+      <g
+         inkscape:groupmode="layer"
+         id="g113"
+         inkscape:label="node7">
+        <path
+           id="path109"
+           d="m 699.99994,749.49747 -339.12205,339.12213 -56.85739,7.3606 7.35765,-56.8559 339.12432,-339.12431 z"
+           fill="#9e9e9e"
+           stroke="none"
+           style="stroke-width:14.949"
+           sodipodi:nodetypes="cccccc"
+           inkscape:label="node7_spike" />
+        <text
+           xml:space="preserve"
+           id="text109"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           inkscape:label="node7_strassenname"
+           transform="rotate(-45)"
+           x="-106.3736"
+           y="995.74023"><tspan
+             sodipodi:role="line"
+             id="tspan109"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
+             x="-106.3736"
+             y="995.74023">Ich bin ein langer Straßenname</tspan></text>
+        <g
+           id="g110"
+           inkscape:label="node7_number">
+          <circle
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.597525;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="circle109"
+             cx="639.36597"
+             cy="760.63751"
+             inkscape:label="circle"
+             r="11.951238" />
+          <text
+             xml:space="preserve"
+             style="font-size:19.7624px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:30.9229"
+             id="text110"
+             y="767.69238"
+             x="633.51685"><tspan
+               sodipodi:role="line"
+               style="stroke-width:30.9229"
+               id="tspan110"
+               x="633.51685"
+               y="767.69238">7</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text111"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           inkscape:label="node7_strassenname_multirow2"
+           transform="rotate(-45)"
+           x="-106.37605"
+           y="1009.7406"><tspan
+             sodipodi:role="line"
+             id="tspan111"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
+             x="-106.37605"
+             y="1009.7406">Ich bin ein langer Straßenname</tspan></text>
+        <text
+           xml:space="preserve"
+           id="text112"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           inkscape:label="node7_strassenname_multirow1"
+           transform="rotate(-45)"
+           x="-106.3761"
+           y="981.73981"><tspan
+             sodipodi:role="line"
+             id="tspan112"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
+             x="-106.3761"
+             y="981.73981">Ich bin ein langer Straßenname</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.61288545,-0.61288545,0.81581313,0.81581313,0,0)"
+           id="text113"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9645"
+           inkscape:label="node7_sum"
+           x="-1822.7341"
+           y="79.781219"><tspan
+             x="-665.27838"
+             y="867.96637"
+             id="tspan113"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9645">123456</tspan></text>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g121"
+         inkscape:label="node7_arrows" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g135"
+       inkscape:label="Node8"
+       inkscape:highlight-color="#0bff4a">
+      <g
+         inkscape:groupmode="layer"
+         id="g126"
+         inkscape:label="node8">
+        <path
+           id="path122"
+           d="M 650.50319,699.99991 311.38115,360.87788 304.0205,304.0205 l 56.85586,7.35764 339.1243,339.1243 z"
+           fill="#9e9e9e"
+           stroke="none"
+           style="stroke-width:14.949"
+           sodipodi:nodetypes="cccccc"
+           inkscape:label="node8_spike" />
+        <text
+           xml:space="preserve"
+           id="text122"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           inkscape:label="node8_strassenname"
+           x="883.57532"
+           y="5.7913299"
+           transform="rotate(45)"><tspan
+             sodipodi:role="line"
+             id="tspan122"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
+             x="883.57532"
+             y="5.7913299">Ich bin ein langer Straßenname</tspan></text>
+        <g
+           id="g123"
+           inkscape:label="node8_number">
+          <circle
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.597525;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             id="circle122"
+             cx="639.36597"
+             cy="639.36597"
+             inkscape:label="circle"
+             r="11.951238" />
+          <text
+             xml:space="preserve"
+             style="font-size:19.7624px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:30.9229"
+             id="text123"
+             y="646.78491"
+             x="633.36969"><tspan
+               sodipodi:role="line"
+               style="stroke-width:30.9229"
+               id="tspan123"
+               x="633.36969"
+               y="646.78491">8</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           id="text124"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           inkscape:label="node8_strassenname_multirow2"
+           x="883.5777"
+           y="19.791748"
+           transform="rotate(45)"><tspan
+             sodipodi:role="line"
+             id="tspan124"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
+             x="883.5777"
+             y="19.791748">Ich bin ein langer Straßenname</tspan></text>
+        <text
+           xml:space="preserve"
+           id="text125"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           inkscape:label="node8_strassenname_multirow1"
+           x="883.57776"
+           y="-8.2090015"
+           transform="rotate(45)"><tspan
+             sodipodi:role="line"
+             id="tspan125"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
+             x="883.57776"
+             y="-8.2090015">Ich bin ein langer Straßenname</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.61288598,0.61288598,-0.81581243,0.81581243,0,0)"
+           id="text126"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
+           inkscape:label="node8_sum"
+           x="-680.59656"
+           y="-778.25226"><tspan
+             x="476.85812"
+             y="9.9321899"
+             id="tspan126"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g134"
+         inkscape:label="node8_arrows" />
+    </g>
+  </g>
+  <path
+     sodipodi:type="star"
+     id="center"
+     inkscape:flatsided="true"
+     sodipodi:sides="8"
+     sodipodi:cx="14336.355"
+     sodipodi:cy="17666.338"
+     sodipodi:r1="217.80737"
+     sodipodi:r2="217.80737"
+     sodipodi:arg1="-1.9634954"
+     sodipodi:arg2="-1.5707963"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 14253.004,17465.11 166.703,0 117.876,117.877 0,166.702 -117.876,117.877 -166.703,0 -117.876,-117.877 0,-166.702 z"
+     fill="#9e9e9e"
+     transform="matrix(0.31493043,0,0,0.31493043,-3814.9546,-4863.6674)" />
+</svg>
