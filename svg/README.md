@@ -11,3 +11,4 @@ Die Files (xxx_belastungsplan_plain.svg) hingegen werden nur im Datenportal ben√
 
 # Aktueller Stand
 fjs_belastungsplan ist soweit fertig, bis auf die Legenden in den Ecken. Ebenso fehlt noch die sinnvolle Benennung der ID's f√ºr die Knotenarme 5, 6, 7 und 8.
+qu_belastungsplan ist soweit fertig, bis auf die Legenden in den Ecken. Ebenso fehlt noch die sinnvolle Benennung der ID's.
