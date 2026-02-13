@@ -454,27 +454,36 @@
         <text
            xml:space="preserve"
            id="node1_strassenname_text"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect8);display:inline;fill:#000000;fill-opacity:1"
-           transform="matrix(0,-0.93872592,0.93872592,0,629.34805,827.14544)"><tspan
-             x="247.52734"
-             y="81.43249"
-             id="tspan1">Ich bin ein langer Straßenname</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           transform="rotate(-90)"
+           x="-671.03851"
+           y="629.34802"><tspan
+             x="-438.67819"
+             y="705.79083"
+             id="tspan1"
+             style="stroke-width:26.4927">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
            id="node1_strassenname_multirow2_text"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect73);display:inline;fill:#000000;fill-opacity:1"
-           transform="matrix(0,-0.93872592,0.93872592,0,643.34805,827.14544)"><tspan
-             x="247.52734"
-             y="81.43249"
-             id="tspan2">Ich bin ein langer Straßenname</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           transform="rotate(-90)"
+           x="-671.03851"
+           y="643.34802"><tspan
+             x="-438.67819"
+             y="719.79083"
+             id="tspan2"
+             style="stroke-width:26.4927">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
            id="node1_strassenname_multirow1_text"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect74);display:inline;fill:#000000;fill-opacity:1"
-           transform="matrix(0,-0.93872592,0.93872592,0,615.34805,827.14544)"><tspan
-             x="247.52734"
-             y="81.43249"
-             id="tspan3">Ich bin ein langer Straßenname</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           transform="rotate(-90)"
+           x="-671.03851"
+           y="615.34802"><tspan
+             x="-438.67819"
+             y="691.79083"
+             id="tspan3"
+             style="stroke-width:26.4927">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0,-0.86675092,1.153734,0,0,0)"
@@ -608,11 +617,13 @@
         <text
            xml:space="preserve"
            id="node2_strassenname_text"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect113-3);display:inline;fill:#000000;fill-opacity:1"
-           transform="matrix(0.93872592,0,0,0.93872592,572.85577,629.34805)"><tspan
-             x="247.52734"
-             y="81.43249"
-             id="tspan4">Ich bin ein langer Straßenname</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           x="728.96271"
+           y="629.34802"><tspan
+             x="961.323"
+             y="705.79083"
+             id="tspan4"
+             style="stroke-width:26.4927">Ich bin ein langer Straßenname</tspan></text>
         <g
            id="node2_number">
           <circle
@@ -635,19 +646,23 @@
         <text
            xml:space="preserve"
            id="node2_strassenname_multirow2_text"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect76);display:inline;fill:#000000;fill-opacity:1"
-           transform="matrix(0.93872592,0,0,0.93872592,572.85577,643.34805)"><tspan
-             x="247.52734"
-             y="81.43249"
-             id="tspan5">Ich bin ein langer Straßenname</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           x="728.96271"
+           y="643.34802"><tspan
+             x="961.323"
+             y="719.79083"
+             id="tspan5"
+             style="stroke-width:26.4927">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
            id="node2_strassenname_multirow1_text"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect77);display:inline;fill:#000000;fill-opacity:1"
-           transform="matrix(0.93872592,0,0,0.93872592,572.85577,615.34805)"><tspan
-             x="247.52734"
-             y="81.43249"
-             id="tspan6">Ich bin ein langer Straßenname</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           x="728.96271"
+           y="615.34802"><tspan
+             x="961.323"
+             y="691.79083"
+             id="tspan6"
+             style="stroke-width:26.4927">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
            transform="scale(0.86675092,1.153734)"
@@ -781,12 +796,14 @@
         <text
            xml:space="preserve"
            id="node3_strassenname_text"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
            transform="rotate(-90)"
-           x="-806.37427"
+           x="-962.48126"
            y="705.79083"><tspan
              id="node3_strassenname_tspan"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927">Ich bin ein langer Straßenname</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
+             x="-962.48126"
+             y="705.79083">Ich bin ein langer Straßenname</tspan></text>
         <g
            id="node3_number">
           <circle
@@ -809,24 +826,24 @@
         <text
            xml:space="preserve"
            id="node3_strassenname_multirow2_text"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
            transform="rotate(-90)"
-           x="-806.37427"
+           x="-962.48126"
            y="719.79083"><tspan
              id="node3_strassenname_multirow2_tspan"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
-             x="-806.37427"
+             x="-962.48126"
              y="719.79083">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
            id="node3_strassenname_multirow1_text"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
            transform="rotate(-90)"
-           x="-806.37427"
+           x="-962.48126"
            y="691.79083"><tspan
              id="node3_strassenname_multirow1_tspan"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
-             x="-806.37427"
+             x="-962.48126"
              y="691.79083">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
@@ -961,11 +978,13 @@
         <text
            xml:space="preserve"
            id="node4_text"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
-           x="593.62708"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           x="437.52008"
            y="705.79083"><tspan
              id="node4_strassenname_tspan"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927">Ich bin ein langer Straßenname</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
+             x="437.52008"
+             y="705.79083">Ich bin ein langer Straßenname</tspan></text>
         <g
            id="node4_number">
           <circle
@@ -988,22 +1007,22 @@
         <text
            xml:space="preserve"
            id="node4_strassenname_multirow2_text"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
-           x="593.62708"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           x="437.52008"
            y="719.79083"><tspan
              id="node4_strassenname_multirow2_tspan"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
-             x="593.62708"
+             x="437.52008"
              y="719.79083">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
            id="node4_strassenname_multirow1_text"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
-           x="593.62708"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           x="437.52008"
            y="691.79083"><tspan
              id="node4_strassenname_multirow1_tspan"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
-             x="593.62708"
+             x="437.52008"
              y="691.79083">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
@@ -1161,27 +1180,36 @@
         <text
            xml:space="preserve"
            id="text84"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect136);display:inline;fill:#000000;fill-opacity:1"
-           transform="matrix(0.66377946,-0.66377946,0.66377946,0.66377946,560.13578,739.94702)"><tspan
-             x="247.52734"
-             y="81.43249"
-             id="tspan7">Ich bin ein langer Straßenname</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           transform="rotate(-45)"
+           x="28.961178"
+           y="919.29749"><tspan
+             x="261.3215"
+             y="995.74023"
+             id="tspan7"
+             style="stroke-width:26.4927">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
            id="text85"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect137);display:inline;fill:#000000;fill-opacity:1"
-           transform="matrix(0.66377946,-0.66377946,0.66377946,0.66377946,570.03728,749.84502)"><tspan
-             x="247.52734"
-             y="81.43249"
-             id="tspan8">Ich bin ein langer Straßenname</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           transform="rotate(-45)"
+           x="28.963634"
+           y="933.29785"><tspan
+             x="261.32397"
+             y="1009.7406"
+             id="tspan8"
+             style="stroke-width:26.4927">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
            id="text86"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect138);display:inline;fill:#000000;fill-opacity:1"
-           transform="matrix(0.66377946,-0.66377946,0.66377946,0.66377946,550.23778,730.04902)"><tspan
-             x="247.52734"
-             y="81.43249"
-             id="tspan9">Ich bin ein langer Straßenname</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           transform="rotate(-45)"
+           x="28.961172"
+           y="905.2995"><tspan
+             x="261.3215"
+             y="981.74231"
+             id="tspan9"
+             style="stroke-width:26.4927">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.61288545,-0.61288545,0.81581313,0.81581313,0,0)"
@@ -1315,11 +1343,14 @@
         <text
            xml:space="preserve"
            id="text96"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect139);display:inline;fill:#000000;fill-opacity:1"
-           transform="matrix(0.66377946,0.66377946,-0.66377946,0.66377946,660.05549,560.13578)"><tspan
-             x="247.52734"
-             y="81.43249"
-             id="tspan10">Ich bin ein langer Straßenname</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           transform="rotate(45)"
+           x="1018.9124"
+           y="-70.653908"><tspan
+             x="1251.2728"
+             y="5.7888861"
+             id="tspan10"
+             style="stroke-width:26.4927">Ich bin ein langer Straßenname</tspan></text>
         <g
            id="g97"
            transform="rotate(45,785.75,700)">
@@ -1344,19 +1375,25 @@
         <text
            xml:space="preserve"
            id="text98"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect140);display:inline;fill:#000000;fill-opacity:1"
-           transform="matrix(0.66377946,0.66377946,-0.66377946,0.66377946,650.15399,570.03728)"><tspan
-             x="247.52734"
-             y="81.43249"
-             id="tspan11">Ich bin ein langer Straßenname</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           transform="rotate(45)"
+           x="1018.9124"
+           y="-56.65107"><tspan
+             x="1251.2728"
+             y="19.791721"
+             id="tspan11"
+             style="stroke-width:26.4927">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
            id="text99"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8373px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect141);display:inline;fill:#000000;fill-opacity:1"
-           transform="matrix(0.66377946,0.66377946,-0.66377946,0.66377946,669.95349,550.23778)"><tspan
-             x="247.52734"
-             y="81.43249"
-             id="tspan12">Ich bin ein langer Straßenname</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           transform="rotate(45)"
+           x="1018.9124"
+           y="-84.651787"><tspan
+             x="1251.2728"
+             y="-8.2089996"
+             id="tspan12"
+             style="stroke-width:26.4927">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.61288545,0.61288545,-0.81581313,0.81581313,0,0)"
@@ -1490,13 +1527,13 @@
         <text
            xml:space="preserve"
            id="text109"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
            transform="rotate(-45)"
-           x="-106.3736"
+           x="-262.48059"
            y="995.74023"><tspan
              id="tspan109"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
-             x="-106.3736"
+             x="-262.48059"
              y="995.74023">Ich bin ein langer Straßenname</tspan></text>
         <g
            id="g110">
@@ -1520,25 +1557,25 @@
         <text
            xml:space="preserve"
            id="text111"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
            transform="rotate(-45)"
-           x="-106.37605"
+           x="-262.48306"
            y="1009.7406"><tspan
              id="tspan111"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
-             x="-106.37605"
+             x="-262.48306"
              y="1009.7406">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
            id="text112"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
            transform="rotate(-45)"
-           x="-106.3761"
-           y="981.73981"><tspan
+           x="-262.48306"
+           y="981.73987"><tspan
              id="tspan112"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
-             x="-106.3761"
-             y="981.73981">Ich bin ein langer Straßenname</tspan></text>
+             x="-262.48306"
+             y="981.73987">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.61288545,-0.61288545,0.81581313,0.81581313,0,0)"
@@ -1672,14 +1709,14 @@
         <text
            xml:space="preserve"
            id="text122"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
-           x="883.57532"
-           y="5.7913299"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           x="727.46826"
+           y="5.7913613"
            transform="rotate(45)"><tspan
              id="tspan122"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
-             x="883.57532"
-             y="5.7913299">Ich bin ein langer Straßenname</tspan></text>
+             x="727.46826"
+             y="5.7913613">Ich bin ein langer Straßenname</tspan></text>
         <g
            id="g123">
           <circle
@@ -1702,25 +1739,25 @@
         <text
            xml:space="preserve"
            id="text124"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
-           x="883.5777"
-           y="19.791748"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           x="727.47076"
+           y="19.791721"
            transform="rotate(45)"><tspan
              id="tspan124"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
-             x="883.5777"
-             y="19.791748">Ich bin ein langer Straßenname</tspan></text>
+             x="727.47076"
+             y="19.791721">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
            id="text125"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
-           x="883.57776"
-           y="-8.2090015"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:26.4927"
+           x="727.47076"
+           y="-8.2089996"
            transform="rotate(45)"><tspan
              id="tspan125"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.3767px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:26.4927"
-             x="883.57776"
-             y="-8.2090015">Ich bin ein langer Straßenname</tspan></text>
+             x="727.47076"
+             y="-8.2089996">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.61288598,0.61288598,-0.81581243,0.81581243,0,0)"
