@@ -1,5 +1,8 @@
 # Release-Notes
 
+## [Sprint 7] 2026-02-25 - 2026-03-18
+
+
 ## [Sprint 6] 2026-02-04 - 2026-02-25
 * Anpassungen des Datenmodells mit Änderungen der Entität `Fahrbeziehungen` zu `Verkehrsbeziehungen` und Erweiterung um den `Längsverkehr` und `Querungsverkehr`. Es handelt sich um eine Schnittstellenänderung, die nicht rückwärtskompatibel ist. ([FV-105](https://jira.muenchen.de/browse/FV-105))
 * Anpassung der Steuerung des Filtermenüs Zeitauswahl. ([FV-149](https://jira.muenchen.de/browse/FV-149))
