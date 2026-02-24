@@ -1,5 +1,12 @@
 # Release-Notes
 
+## [Sprint 6] 2026-02-04 - 2026-02-25
+* Anpassungen des Datenmodells mit Änderungen der Entität `Fahrbeziehungen` zu `Verkehrsbeziehungen` und Erweiterung um den `Längsverkehr` und `Querungsverkehr`. Es handelt sich um eine Schnittstellenänderung, die nicht rückwärtskompatibel ist. ([FV-105](https://jira.muenchen.de/browse/FV-105))
+* Anpassung der Steuerung des Filtermenüs Zeitauswahl. ([FV-149](https://jira.muenchen.de/browse/FV-149))
+* Anpassung der Steuerung des Filtermenüs Fahrzeugauswahl. ([FV-150](https://jira.muenchen.de/browse/FV-150))
+* Hierarchie der Fahrzeugart bezogenen Daten für den Belastungsplan überarbeitet ([FV-225](https://jira.muenchen.de/browse/FV-225))
+* CSV-Validierung für das Feld "nach" implementiert ([FV-241](https://jira.muenchen.de/browse/FV-241))
+
 ## [Sprint 5] 2026-01-14 - 2026-02-03
 * Konfiguration von mandanten-spezifischen Einstellungen (Datenportal-Header, Kartenzentrum) ([FV-94](https://jira.muenchen.de/browse/FV-94), [FV-161](https://jira.muenchen.de/browse/FV-161), [FV-162](https://jira.muenchen.de/browse/FV-162))
 * Hochladen und Plausibilisieren der Fußverkehrsdaten ([FV-60](https://jira.muenchen.de/browse/FV-60))
