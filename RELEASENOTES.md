@@ -5,7 +5,7 @@
 * Anpassung der Steuerung des Filtermenüs Zeitauswahl. ([FV-149](https://jira.muenchen.de/browse/FV-149))
 * Bereinigen der vorberechneten Daten ([FV-128](https://jira.muenchen.de/browse/FV-128)) 
 * Anpassung der Steuerung des Filtermenüs Fahrzeugauswahl. ([FV-150](https://jira.muenchen.de/browse/FV-150))
-* Hierarchie der Fahrzeugart bezogenen Daten für den Belastungsplan überarbeitet ([FV-225](https://jira.muenchen.de/browse/FV-1225))
+* Hierarchie der Fahrzeugart bezogenen Daten für den Belastungsplan überarbeitet ([FV-225](https://jira.muenchen.de/browse/FV-225))
 
 ## [Sprint 5] 2026-01-14 - 2026-02-03
 * Konfiguration von mandanten-spezifischen Einstellungen (Datenportal-Header, Kartenzentrum) ([FV-94](https://jira.muenchen.de/browse/FV-94), [FV-161](https://jira.muenchen.de/browse/FV-161), [FV-162](https://jira.muenchen.de/browse/FV-162))
