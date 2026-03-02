@@ -1,7 +1,7 @@
 # Release-Notes
 
 ## [Sprint 7] 2026-02-25 - 2026-03-18
-* tbd
+* Umbenennung mehrerer Labeltexte im Datenportal, Adminportal und Selfserviceportal. ([FV-167](https://jira.muenchen.de/browse/FV-167))
 
 ## [Sprint 6] 2026-02-04 - 2026-02-25
 * Anpassungen des Datenmodells mit Änderungen der Entität `Fahrbeziehungen` zu `Verkehrsbeziehungen` und Erweiterung um den `Längsverkehr` und `Querungsverkehr`. Es handelt sich um eine Schnittstellenänderung, die nicht rückwärtskompatibel ist. ([FV-105](https://jira.muenchen.de/browse/FV-105))
