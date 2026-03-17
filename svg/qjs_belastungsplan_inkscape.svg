@@ -32,14 +32,14 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.3798021"
-     inkscape:cx="1453.8317"
-     inkscape:cy="1067.182"
+     inkscape:cx="175.38747"
+     inkscape:cy="312.72601"
      inkscape:window-width="2400"
      inkscape:window-height="1261"
      inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="legend-massstab">
+     inkscape:current-layer="legend-zaehlinfo">
     <inkscape:grid
        id="grid6"
        units="mm"
@@ -254,86 +254,56 @@
        id="legend"
        inkscape:label="legend">
       <g
-         id="legend-verkehr"
+         id="legend-zaehlinfo"
          style="stroke-width:28.2205;stroke-dasharray:none"
-         inkscape:label="legend-verkehr"
+         inkscape:label="legend-zaehlinfo"
          transform="translate(50.006244,31.659644)">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:39.1848"
-           x="8.3906765"
-           y="1347.5106"
-           id="legend-gv"
-           inkscape:label="legend-gv"><tspan
-             id="tspan24"
-             x="16.390676"
-             y="1342.5106">GV = Lkw + Lz</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:39.1849;stroke-dasharray:none"
-           x="-52.802258"
-           y="1327.5101"
-           id="legend-sv"
-           inkscape:label="legend-sv"><tspan
-             id="tspan10"
-             x="16.19775"
-             y="1317.5101"
-             style="stroke-width:39.1849">SV = Lkw + Lz + Bus</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:39.1849;stroke-dasharray:none"
-           x="15.561096"
-           y="1292.5096"
-           id="legend-kfz1"
-           inkscape:label="legend-kfz1"><tspan
-             id="tspan8"
-             x="15.561096"
-             y="1292.5096"
-             style="stroke-width:39.1849">KFZ = Pkw + Lkw + Lz  Bus + Krad</tspan></text>
-        <text
-           xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
-           id="legend-kfz"
+           id="verkehrsart"
            x="168.24969"
            y="1230.3373"
-           inkscape:label="legend-kfz"
+           inkscape:label="verkehrsart"
            transform="matrix(1.000004,0,0,1,-152.56418,35.000043)"><tspan
              x="168.24969"
              y="1230.3373"
-             id="tspan16"><tspan
+             id="tspan8"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
-               id="tspan14">KFZ      (SV)      GV</tspan></tspan></text>
+               id="tspan7">FUSS</tspan></tspan></text>
         <g
-           id="legend-hochgerechnet"
+           id="zaehlzeit2"
            style="stroke-width:28.2205;stroke-dasharray:none"
-           inkscape:label="legend-hochgerechnet"
+           inkscape:label="zaehlzeit2"
            transform="translate(-152.29421)">
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
-             id="multirow-5-9"
+             id="zaehlzeit2-multirow"
              x="168"
-             y="1210"><tspan
+             y="1210"
+             inkscape:label="zaehlzeit2-multirow"><tspan
                x="168"
                y="1210"
-               id="tspan22">hochgerechnet</tspan></text>
+               id="tspan9">hochgerechnet</tspan></text>
         </g>
         <g
-           id="legend-tageswert"
+           id="zaehlzeit1"
            style="stroke-width:28.2205;stroke-dasharray:none"
-           inkscape:label="legend-tageswert">
+           inkscape:label="zaehlzeit1">
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
-             id="multirow-5-8-4"
+             id="zaehlzeit1-multirow"
              x="168.24969"
              y="1190.3373"
-             transform="translate(-150.84646,0.00162031)"><tspan
+             transform="translate(-150.84646,0.00162031)"
+             inkscape:label="zaehlzeit1-multirow"><tspan
                x="168.24969"
                y="1190.3373"
-               id="tspan25"><tspan
+               id="tspan11"><tspan
                  style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
-                 id="tspan23">Tageswert</tspan></tspan></text>
+                 id="tspan10">Tageswert</tspan></tspan></text>
         </g>
       </g>
       <g
@@ -368,13 +338,14 @@
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.6128px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
-             id="multirow-5-0"
+             id="massstab-size1-multirow"
              x="699.24969"
              y="688.33734"
-             transform="translate(181.39362,6.9760325e-4)"><tspan
+             transform="translate(181.39362,6.9760325e-4)"
+             inkscape:label="massstab-size1-multirow"><tspan
                x="699.24969"
                y="688.33734"
-               id="tspan26">1000</tspan></text>
+               id="tspan12">1000</tspan></text>
         </g>
         <g
            id="massstab-size2"
@@ -384,13 +355,14 @@
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.6128px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
-             id="multirow-5-0-5"
+             id="massstab-size2-multirow"
              x="699.24969"
              y="688.33734"
-             transform="translate(670.97788,-7.8186747)"><tspan
+             transform="translate(670.97788,-7.8186747)"
+             inkscape:label="massstab-size2-multirow"><tspan
                x="699.24969"
                y="688.33734"
-               id="tspan27">2000</tspan></text>
+               id="tspan13">2000</tspan></text>
         </g>
         <path
            style="fill:#000000;stroke:#000000;stroke-width:0.802209;stroke-linecap:square;stroke-miterlimit:2.5;stroke-dasharray:none"
@@ -400,7 +372,8 @@
         <path
            style="fill:none;stroke:#000000;stroke-width:0.880777;stroke-linecap:square;stroke-miterlimit:2.5;stroke-dasharray:none"
            d="m 1300.4928,1251.6987 -119.9017,-0.2413 119.9017,-22.432 z"
-           id="path6" />
+           id="path6"
+           inkscape:label="massstab-path1" />
       </g>
       <g
          id="legend-zaehlstelle"
@@ -414,17 +387,18 @@
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
-             id="multirow-5"
+             id="zaehlstelle2-multirow"
              x="699.24969"
              y="688.33734"
-             transform="translate(324.11416)"><tspan
+             transform="translate(324.11416)"
+             inkscape:label="zaehlstelle2-multirow"><tspan
                x="699.24969"
                y="688.33734"
-               id="tspan28">Stadtbezirk 8
+               id="tspan14">Stadtbezirk 8
 </tspan><tspan
                x="699.24969"
                y="713.03187"
-               id="tspan29">Zähldatum: 01.01.2026</tspan></text>
+               id="tspan16">Zähldatum: 01.01.2026</tspan></text>
         </g>
         <g
            id="zaehlstelle1"
@@ -434,15 +408,16 @@
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
-             id="multirow-5-8"
+             id="zaehlstelle1-multirow"
              x="699.24969"
              y="688.33734"
-             transform="translate(324.11416)"><tspan
+             transform="translate(324.11416)"
+             inkscape:label="zaehlstelle1-multirow"><tspan
                x="699.24969"
                y="688.33734"
-               id="tspan31"><tspan
+               id="tspan18"><tspan
                  style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
-                 id="tspan30">Zählstelle 99999</tspan></tspan></text>
+                 id="tspan17">Zählstelle 99999</tspan></tspan></text>
         </g>
       </g>
     </g>
