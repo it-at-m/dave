@@ -1,8 +1,7 @@
 # Release-Notes
 
-## [Sprint 8] 2026-03-19 - 2026-04-08
-
-* tbd
+## [Sprint 8] 2026-03-18 - 2026-04-08
+* Darstellung des Belastungsplans für Zählungsart QjS implementiert ([FV-181](https://jira.muenchen.de/browse/FV-181)) 
 
 ## [Sprint 7] 2026-02-25 - 2026-03-18
 
