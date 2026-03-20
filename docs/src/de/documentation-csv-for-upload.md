@@ -9,16 +9,16 @@
 
 ## Namenskonvention beim Dateinamen
 
-Für eine Zählung ist für jeden in der Zählung berücksichtigten Knotenarm eine CSV-Datei zu erstellen. 
+Für eine Zählung ist für jeden in der Zählung berücksichtigten Knotenarm eine CSV-Datei zu erstellen.
 Die Namenskonvention der CSV-Datei ist wie folgt:
 
 `<ZAEHLSTELLENNUMMER>_<DATUM>_Knotenarm_<KNOTENARM_NUMMER>.csv`
 
-| Element            | Beschreibung                                                                                                                                               | Beispiel   |
-|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| ZAEHLSTELLENNUMMER | Die alphanumerische Nummer der Zählstelle                                                                                                                  | 101101     |
-| DATUM              | Das Tagesdatum der Zählung im [ISO-Format](https://de.wikipedia.org/wiki/ISO_8601) (`YYYY-MM-DD`)                                                          | 2021-10-06 |
-| KNOTENARM_NUMMER   | Die Nummer des Knotenarms welcher durch die CSV-Datei repräsentiert wird. Bei einer Verkehrsbeziehung handelt es sich um die Nummer des Quellknotenarms.   | 1 bis 8    |
+| Element            | Beschreibung                                                                                                                                             | Beispiel   |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| ZAEHLSTELLENNUMMER | Die alphanumerische Nummer der Zählstelle                                                                                                                | 101101     |
+| DATUM              | Das Tagesdatum der Zählung im [ISO-Format](https://de.wikipedia.org/wiki/ISO_8601) (`YYYY-MM-DD`)                                                        | 2021-10-06 |
+| KNOTENARM_NUMMER   | Die Nummer des Knotenarms welcher durch die CSV-Datei repräsentiert wird. Bei einer Verkehrsbeziehung handelt es sich um die Nummer des Quellknotenarms. | 1 bis 8    |
 
 ## Dateiformat
 
@@ -40,7 +40,7 @@ Zählstellennummer;Zählart;Datum;Knotenarmnummer;;;;;;;
 | Headerfeld        | Beschreibung                                                                                                                                             | Beispiel     |
 |-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
 | Zählstellennummer | Die alphanumerische Nummer der Zählstelle                                                                                                                | 101101       |
-| Zählart           | Das Kürzel der beauftragten [Zählart](#Zählarten)                                                                                                        | N            |
+| Zählart           | Das Kürzel der beauftragten [Zählart](#Zählarten); Einzig bei der Standardzählung mit dem Kürzel `N` wird das Headerfeld leer gelassen.                  | FJS          |
 | Datum             | Das Tagesdatum der Zählung im [ISO-Format](https://de.wikipedia.org/wiki/ISO_8601) (`YYYY-MM-DD`)                                                        | `2025-10-02` |
 | Knotenarmnummer   | Die Nummer des Knotenarms welcher durch die CSV-Datei repräsentiert wird. Bei einer Verkehrsbeziehung handelt es sich um die Nummer des Quellknotenarms. | 1 bis 8      |
 
@@ -48,8 +48,10 @@ Zählstellennummer;Zählart;Datum;Knotenarmnummer;;;;;;;
 
 ### Beschreibung der Zähldaten
 
-Nach dem Header mit den Metainformationen zur Zählung, startet ab der dritten Zeile der eigentliche Inhalt mit den Zählungsdaten.
-Die dritte Zeile der CSV-Datei enthält die Spaltenüberschriften für die in den nachfolgenden Zeilen aufgelisteten Zähldaten.
+Nach dem Header mit den Metainformationen zur Zählung, startet ab der dritten Zeile der eigentliche Inhalt mit den
+Zählungsdaten.
+Die dritte Zeile der CSV-Datei enthält die Spaltenüberschriften für die in den nachfolgenden Zeilen aufgelisteten
+Zähldaten.
 
 ```csv
 Zählstellennummer;Zählart;Datum;Knotenarmnummer;;;;;;;
@@ -57,10 +59,11 @@ Zählstellennummer;Zählart;Datum;Knotenarmnummer;;;;;;;
 Intervallnummer;nach;Strassenseite;Richtung;Pkw;Lkw;Lz;Bus;Krad;Rad;Fuss
 25;<NACH>;<HIMMELSRICHTUNG>;<BEWEGUNGSRICHTUNG>;1;0;0;0;0;0;0
 ```
+
 | Spaltenfeld     | Beschreibung                                                                                                                                                                                                                                                                 |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Intervallnummer | Die mit der Ziffer 1 beginnende aufsteigende [Nummer des 15-minütigen Intervalls](#intervallnummer) eines Tages.                                                                                                                                                             | 
-| nach            | Der Zielknotenarm beim Zählen einer Verkehrsbeziehung. <br/>Handelt es sich um eine Zählung welche keine Verkehrsbeziehung mit einem Quell- und Zielknotenarm darstellt (Zählarten FjS und Qu), so ist dieses Feld leer zu lassen.  |
+| nach            | Der Zielknotenarm beim Zählen einer Verkehrsbeziehung. <br/>Handelt es sich um eine Zählung welche keine Verkehrsbeziehung mit einem Quell- und Zielknotenarm darstellt (Zählarten FjS und Qu), so ist dieses Feld leer zu lassen.                                           |
 | Strassenseite   | Die Himmelsrichtung als N, O, S, W, NO, SO, SW oder NW für die Zählarten QjS und FjS; <br/>Ansonsten wird das Feld leer gelassen.                                                                                                                                            |
 | Richtung        | EIN oder AUS für die Zählart FjS; <br/>N, O, S, W, NO, SO, SW oder NW für die Zählart Qu; <br/>Ansonsten wird das Feld leer gelassen.                                                                                                                                        |
 | Pkw             | Die Anzahl der gezählten **Personenkraftwagen** als ganzzahlige Dezimalzahl. <br/>Es darf keine Zifferngruppierung (z.B. durch Tausendertrennzeichen) durchgeführt werden. <br/>Findet für diese Fahrzeugkategorie keine Zählung statt, so wird dafür kein Wert eingetragen. |
@@ -94,11 +97,11 @@ Die nachfolgende Tabelle listet die Zählarten auf.
 | T       | Tunnel / Unterführung / Tief                       |
 | TK      | Teilknoten                                         |
 
-
 ### Intervallnummer
 
 Die nachfolgende Tabelle listet die Intervallnummer mit der jeweiligen Start- und Endeuhrzeit auf.
-Ein Tag besteht somit aus 96 15-minütigen Intervallen beginnend bei 00:00 Uhr des Zähltages bis 00:00 Uhr des Folgetages.
+Ein Tag besteht somit aus 96 15-minütigen Intervallen beginnend bei 00:00 Uhr des Zähltages bis 00:00 Uhr des
+Folgetages.
 
 | Intervallnummer | Startuhrzeit | Endeuhrzeit          |
 |-----------------|--------------|----------------------|
