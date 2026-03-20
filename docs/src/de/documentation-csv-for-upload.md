@@ -12,7 +12,7 @@
 Für eine Zählung ist für jeden in der Zählung berücksichtigten Knotenarm eine CSV-Datei zu erstellen.
 Die Namenskonvention der CSV-Datei ist wie folgt:
 
-`<ZAEHLSTELLENNUMMER>_<DATUM>_Knotenarm_<KNOTENARM_NUMMER>.csv`
+`<ZAEHLSTELLENNUMMER>_<DATUM>_Knotenarm_<KNOTENARMNUMMER>.csv`
 
 | Element            | Beschreibung                                                                                                                                             | Beispiel   |
 |--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
@@ -34,7 +34,16 @@ Jede CSV-Datei enthält zu Beginn einen zweizeiligen und elfspaltigen Header mit
 
 ```csv
 Zählstellennummer;Zählart;Datum;Knotenarmnummer;;;;;;;
-61103;<ZAEHLART>;2022-07-06;4;;;;;;;
+<ZAEHLSTELLENNUMMER>;<ZAEHLART>;<DATUM>;<KNOTENARMNUMMER>;;;;;;;
+```
+
+Beispiel:
+
+Der Header der CSV-Datei mit den Zähldaten für die Zählung am Knotenarm 4 mit der Zählart QT (Querschnitt Tunnel/Unterführung/Tief) an der Zählstelle 651103 durchgeführt am 06. Juli 2022.
+
+```csv
+Zählstellennummer;Zählart;Datum;Knotenarmnummer;;;;;;;
+61103;QT;2022-07-06;4;;;;;;;
 ```
 
 | Headerfeld        | Beschreibung                                                                                                                                             | Beispiel     |
@@ -55,7 +64,7 @@ Zähldaten.
 
 ```csv
 Zählstellennummer;Zählart;Datum;Knotenarmnummer;;;;;;;
-61103;<ZAEHLART>;2022-07-06;4;;;;;;;
+61103;QT;2022-07-06;4;;;;;;;
 Intervallnummer;nach;Strassenseite;Richtung;Pkw;Lkw;Lz;Bus;Krad;Rad;Fuss
 25;<NACH>;<HIMMELSRICHTUNG>;<BEWEGUNGSRICHTUNG>;1;0;0;0;0;0;0
 ```
