@@ -1,5 +1,8 @@
 # Release-Notes
 
+## [Sprint 8] 2026-03-18 - 2026-04-01
+* Zwei fehlende Semikolon im Self-Service-Portal Download CSV-Template korrigiert. ([FV-268](https://https://jira.muenchen.de/browse/FV-268))
+
 ## [Sprint 7] 2026-02-25 - 2026-03-18
 
 * Umbenennung mehrerer Labeltexte im Datenportal, Adminportal und Selfserviceportal. ([FV-167](https://jira.muenchen.de/browse/FV-167))
