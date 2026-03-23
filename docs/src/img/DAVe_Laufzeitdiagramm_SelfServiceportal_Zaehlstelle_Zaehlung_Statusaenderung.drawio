@@ -167,7 +167,7 @@
             <mxPoint x="994" y="364.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tWYZWJ1TWI988hAaF3aB-7" value="Persistieren der aufbereiteten Zietinervalle" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" parent="1" edge="1">
+        <mxCell id="tWYZWJ1TWI988hAaF3aB-7" value="Persistieren der aufbereiteten Zeitintervalle" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" parent="1" edge="1">
           <mxGeometry x="0.0037" relative="1" as="geometry">
             <mxPoint x="724" y="683.25" as="sourcePoint" />
             <mxPoint as="offset" />
