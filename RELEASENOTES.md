@@ -2,6 +2,7 @@
 
 ## [Sprint 8] 2026-03-18 - 2026-04-08
 * Darstellung des Belastungsplans für Zählungsart QjS implementiert ([FV-181](https://jira.muenchen.de/browse/FV-181)) 
+* Prüfung der csv-Daten bei Abschließen der Zählung für FJS und QU implementiert ([FV-174](https://jira.muenchen.de/browse/FV-174))
 
 ## [Sprint 7] 2026-02-25 - 2026-03-18
 
