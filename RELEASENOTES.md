@@ -4,6 +4,7 @@
 * Darstellung des Belastungsplans für Zählungsart QjS implementiert ([FV-181](https://jira.muenchen.de/browse/FV-181))
 * Zwei fehlende Semikolon im Self-Service-Portal Download CSV-Template korrigiert. ([FV-268](https://jira.muenchen.de/browse/FV-268))
 * Refaktoring zum Speichern der Zählungen. Beim persistieren der Zählung werden keine Aggregationen über mehrere Bewegungsbeziehungen (Verkehrsbeziehung, Längsverkehr oder Querungsverkehr) mehr durchgeführt. Dies wird nun beim Laden der Zähldaten gemacht. Zusätzlich findet beim persistieren keine Ermittlung der Spitzenstunde mehr statt. Dies wird ebenfalls beim Laden und nach der Aggregationen über die Bewegungsbeziehungen durchgeführt. ([FV-126](https://jira.muenchen.de/browse/FV-126))
+* Kopieren von Zaehlungen ohne Verkehrsbeziehungen, Querungsverkehr und Laengsverkehr wieder ermöglich. ([FV-279](https://jira.muenchen.de/browse/FV-279))
 
 ## [Sprint 7] 2026-02-25 - 2026-03-18
 
