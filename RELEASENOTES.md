@@ -7,6 +7,7 @@
 * Kopieren von Zaehlungen ohne Verkehrsbeziehungen, Querungsverkehr und Laengsverkehr wieder ermöglich. ([FV-279](https://jira.muenchen.de/browse/FV-279))
 * Prüfung der csv-Daten bei Abschließen der Zählung für FJS und QU implementiert ([FV-174](https://jira.muenchen.de/browse/FV-174))
 * Fix um bei Zählungen für die neuen Zählarten QJS, FJS und QU alle Fahrzeugkategorien mit einem Klick an- oder abwählen zu können. ([FV-236](https://jira.muenchen.de/browse/FV-236))
+* Gesamtanzahl Tageswert im BLP mit Klammer zeigen ([FV-200](https://jira.muenchen.de/browse/FV-200))
 
 ## [Sprint 7] 2026-02-25 - 2026-03-18
 
