@@ -1,5 +1,10 @@
 # Release-Notes
 
+## [Sprint 9] 2026-04-01 - 2026-04-29
+* Refaktoring zum Speichern der Zählungen. Beim persistieren der Zählung werden keine Aggregationen über mehrere Bewegungsbeziehungen (Verkehrsbeziehung, Längsverkehr oder Querungsverkehr) mehr durchgeführt. Dies wird nun beim Laden der Zähldaten gemacht. Zusätzlich findet beim persistieren keine Ermittlung der Spitzenstunde mehr statt. Dies wird ebenfalls beim Laden und nach der Aggregationen über die Bewegungsbeziehungen durchgeführt. ([FV-126](https://jira.muenchen.de/browse/FV-126))
+* Prüfung der csv-Daten bei Abschließen der Zählung für FJS und QU implementiert ([FV-174](https://jira.muenchen.de/browse/FV-174))
+* Gesamtanzahl Tageswert im BLP mit Klammer zeigen ([FV-200](https://jira.muenchen.de/browse/FV-200))
+
 ## [Sprint 8] 2026-03-18 - 2026-04-01
 * Darstellung des Belastungsplans für Zählungsart QjS implementiert ([FV-181](https://jira.muenchen.de/browse/FV-181))
 * Zwei fehlende Semikolon im Self-Service-Portal Download CSV-Template korrigiert. ([FV-268](https://jira.muenchen.de/browse/FV-268))
