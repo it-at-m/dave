@@ -1,5 +1,12 @@
 # Release-Notes
 
+## [Sprint 8] 2026-03-18 - 2026-04-01
+* Darstellung des Belastungsplans für Zählungsart QjS implementiert ([FV-181](https://jira.muenchen.de/browse/FV-181))
+* Zwei fehlende Semikolon im Self-Service-Portal Download CSV-Template korrigiert. ([FV-268](https://jira.muenchen.de/browse/FV-268))
+* Kopieren von Zaehlungen ohne Verkehrsbeziehungen, Querungsverkehr und Laengsverkehr wieder ermöglich. ([FV-279](https://jira.muenchen.de/browse/FV-279))
+* Fix um bei Zählungen für die neuen Zählarten QJS, FJS und QU alle Fahrzeugkategorien mit einem Klick an- oder abwählen zu können. ([FV-236](https://jira.muenchen.de/browse/FV-236))
+* Filtern nach Verkehrsbeziehungen im Filtermenü  ([FV-130](https://jira.muenchen.de/browse/FV-130))
+
 ## [Sprint 7] 2026-02-25 - 2026-03-18
 
 * Umbenennung mehrerer Labeltexte im Datenportal, Adminportal und Selfserviceportal. ([FV-167](https://jira.muenchen.de/browse/FV-167))
