@@ -29,13 +29,13 @@
      inkscape:document-units="mm"
      inkscape:zoom="0.45992633"
      inkscape:cx="1189.3209"
-     inkscape:cy="708.80917"
+     inkscape:cy="709.8963"
      inkscape:window-width="1920"
-     inkscape:window-height="1010"
-     inkscape:window-x="1529"
-     inkscape:window-y="-6"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="node8_south_west"
+     inkscape:current-layer="legend"
      showgrid="true"
      showguides="false">
     <inkscape:grid
@@ -484,9 +484,9 @@
          transform="matrix(1.000004,0,0,1,-152.56418,35.000043)"><tspan
            x="168.24969"
            y="1230.3373"
-           id="tspan8"><tspan
+           id="tspan13"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
-             id="tspan7">FUSS</tspan></tspan></text>
+             id="tspan12">FUSS</tspan></tspan></text>
       <g
          id="zaehlzeit2"
          style="stroke-width:28.2205;stroke-dasharray:none"
@@ -501,7 +501,7 @@
            inkscape:label="zaehlzeit2-multirow"><tspan
              x="168"
              y="1210"
-             id="tspan9">hochgerechnet</tspan></text>
+             id="tspan18">hochgerechnet</tspan></text>
       </g>
       <g
          id="zaehlzeit1"
@@ -517,9 +517,9 @@
            inkscape:label="zaehlzeit1-multirow"><tspan
              x="168.24969"
              y="1190.3373"
-             id="tspan11"><tspan
+             id="tspan20"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
-               id="tspan10">Tageswert</tspan></tspan></text>
+               id="tspan19">Tageswert</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -543,55 +543,6 @@
            id="tspan6-1">N</tspan></text>
     </g>
     <g
-       id="legend-massstab"
-       transform="translate(-18.042256,33.984156)"
-       inkscape:label="legend-massstab">
-      <g
-         id="massstab-size1"
-         style="stroke-width:28.2205;stroke-dasharray:none"
-         transform="matrix(0.62382516,0,0,0.76417899,670.41706,744.80969)"
-         inkscape:label="massstab-size1">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.6128px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
-           id="massstab-size1-multirow"
-           x="699.24969"
-           y="688.33734"
-           transform="translate(181.39077,0.00379462)"
-           inkscape:label="massstab-size1-multirow"><tspan
-             x="699.24969"
-             y="688.33734"
-             id="tspan12">1000</tspan></text>
-      </g>
-      <g
-         id="massstab-size2"
-         style="stroke-width:28.2205;stroke-dasharray:none"
-         transform="matrix(0.62382516,0,0,0.76417899,423.85279,750.20592)"
-         inkscape:label="massstab-size2">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.6128px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
-           id="massstab-size2-multirow"
-           x="699.24969"
-           y="688.33734"
-           transform="translate(670.97424,-7.8186747)"
-           inkscape:label="massstab-size2-multirow"><tspan
-             x="699.24969"
-             y="688.33734"
-             id="tspan13">2000</tspan></text>
-      </g>
-      <path
-         style="fill:#000000;stroke:#000000;stroke-width:0.802209;stroke-linecap:square;stroke-miterlimit:2.5;stroke-dasharray:none"
-         d="m 1244.823,1240.0379 c 0.4871,10.937 0.4871,10.8003 0.4871,10.8003 v 0"
-         id="massstab-path2"
-         inkscape:label="massstab-path2" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.880777;stroke-linecap:square;stroke-miterlimit:2.5;stroke-dasharray:none"
-         d="m 1300.4928,1251.6987 -119.9017,-0.2413 119.9017,-22.432 z"
-         id="path6"
-         inkscape:label="massstab-path1" />
-    </g>
-    <g
        id="legend-zaehlstelle"
        inkscape:label="legend-zaehlstelle"
        transform="translate(-112.62637,-13.999124)">
@@ -610,11 +561,11 @@
            inkscape:label="zaehlstelle2-multirow"><tspan
              x="699.24969"
              y="688.33734"
-             id="tspan14">Stadtbezirk 8
+             id="tspan21">Stadtbezirk 8
 </tspan><tspan
              x="699.24969"
              y="713.03187"
-             id="tspan15">Zähldatum: 01.01.2026</tspan></text>
+             id="tspan22">Zähldatum: 01.01.2026</tspan></text>
       </g>
       <g
          id="zaehlstelle1"
@@ -631,9 +582,9 @@
            inkscape:label="zaehlstelle1-multirow"><tspan
              x="699.24969"
              y="688.33734"
-             id="tspan17"><tspan
+             id="tspan24"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
-               id="tspan16">Zählstelle 99999</tspan></tspan></text>
+               id="tspan23">Zählstelle 99999</tspan></tspan></text>
       </g>
     </g>
   </g>

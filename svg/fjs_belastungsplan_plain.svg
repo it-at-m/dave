@@ -14,410 +14,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs1">
-    <rect
-       x="944.75374"
-       y="511.96582"
-       width="223.69678"
-       height="85.327636"
-       id="rect155" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect8" />
-    <rect
-       x="408.95768"
-       y="66.1097"
-       width="393.58333"
-       height="75.334309"
-       id="rect7" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect15" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect21" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect28" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect34" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect40" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect54" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect55" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect61" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect68" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect75" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect104" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect105" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect106" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect112" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect113" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect117" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect121" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect153" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect154" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect3" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.15561"
-       height="178.34245"
-       id="rect3-4" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect35" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect36" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect37" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.15561"
-       height="178.34245"
-       id="rect38" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect69" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect70" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect71" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.15561"
-       height="178.34245"
-       id="rect72" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect73" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect74" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect76" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect77" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect120" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect122" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect123" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect124" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect125" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect126" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect167" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect168" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect169" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect170" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect171" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect172" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.15561"
-       height="178.34245"
-       id="rect113-3" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect78" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect79" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect80" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.15561"
-       height="178.34245"
-       id="rect81" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect82" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect83" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect136" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect137" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect138" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.15561"
-       height="178.34245"
-       id="rect139" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect140" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect141" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect194" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect195" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect196" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.15561"
-       height="178.34245"
-       id="rect197" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect198" />
-    <rect
-       x="247.52702"
-       y="59.959961"
-       width="458.1556"
-       height="178.34245"
-       id="rect199" />
-  </defs>
+     id="defs1" />
   <g
      id="legend"
      transform="translate(9.0201068e-4,-7.1314694e-4)">
@@ -434,9 +31,9 @@
          transform="matrix(1.000004,0,0,1,-152.56418,35.000043)"><tspan
            x="168.24969"
            y="1230.3373"
-           id="tspan8"><tspan
+           id="tspan13"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
-             id="tspan7">FUSS</tspan></tspan></text>
+             id="tspan12">FUSS</tspan></tspan></text>
       <g
          id="zaehlzeit2"
          style="stroke-width:28.2205;stroke-dasharray:none"
@@ -449,7 +46,7 @@
            y="1210"><tspan
              x="168"
              y="1210"
-             id="tspan9">hochgerechnet</tspan></text>
+             id="tspan18">hochgerechnet</tspan></text>
       </g>
       <g
          id="zaehlzeit1"
@@ -463,9 +60,9 @@
            transform="translate(-150.84646,0.00360406)"><tspan
              x="168.24969"
              y="1190.3373"
-             id="tspan11"><tspan
+             id="tspan20"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
-               id="tspan10">Tageswert</tspan></tspan></text>
+               id="tspan19">Tageswert</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -486,48 +83,6 @@
            id="tspan6-1">N</tspan></text>
     </g>
     <g
-       id="legend-massstab"
-       transform="translate(-18.042256,33.984156)">
-      <g
-         id="massstab-size1"
-         style="stroke-width:28.2205;stroke-dasharray:none"
-         transform="matrix(0.62382516,0,0,0.76417899,670.41706,744.80969)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.6128px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
-           id="massstab-size1-multirow"
-           x="699.24969"
-           y="688.33734"
-           transform="translate(181.39077,0.00379462)"><tspan
-             x="699.24969"
-             y="688.33734"
-             id="tspan12">1000</tspan></text>
-      </g>
-      <g
-         id="massstab-size2"
-         style="stroke-width:28.2205;stroke-dasharray:none"
-         transform="matrix(0.62382516,0,0,0.76417899,423.85279,750.20592)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.6128px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
-           id="massstab-size2-multirow"
-           x="699.24969"
-           y="688.33734"
-           transform="translate(670.97424,-7.8186747)"><tspan
-             x="699.24969"
-             y="688.33734"
-             id="tspan13">2000</tspan></text>
-      </g>
-      <path
-         style="fill:#000000;stroke:#000000;stroke-width:0.802209;stroke-linecap:square;stroke-miterlimit:2.5;stroke-dasharray:none"
-         d="m 1244.823,1240.0379 c 0.4871,10.937 0.4871,10.8003 0.4871,10.8003 v 0"
-         id="massstab-path2" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.880777;stroke-linecap:square;stroke-miterlimit:2.5;stroke-dasharray:none"
-         d="m 1300.4928,1251.6987 -119.9017,-0.2413 119.9017,-22.432 z"
-         id="path6" />
-    </g>
-    <g
        id="legend-zaehlstelle"
        transform="translate(-112.62637,-13.999124)">
       <g
@@ -543,11 +98,11 @@
            transform="translate(324.11416)"><tspan
              x="699.24969"
              y="688.33734"
-             id="tspan14">Stadtbezirk 8
+             id="tspan21">Stadtbezirk 8
 </tspan><tspan
              x="699.24969"
              y="713.03187"
-             id="tspan15">Zähldatum: 01.01.2026</tspan></text>
+             id="tspan22">Zähldatum: 01.01.2026</tspan></text>
       </g>
       <g
          id="zaehlstelle1"
@@ -562,9 +117,9 @@
            transform="translate(324.11217)"><tspan
              x="699.24969"
              y="688.33734"
-             id="tspan17"><tspan
+             id="tspan24"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
-               id="tspan16">Zählstelle 99999</tspan></tspan></text>
+               id="tspan23">Zählstelle 99999</tspan></tspan></text>
       </g>
     </g>
   </g>
