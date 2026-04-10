@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180mm"
+   height="180mm"
+   viewBox="0 0 1400 1400"
+   version="1.1"
+   id="svg1"
+   fill-rule="evenodd"
+   stroke-width="28.222"
+   stroke-linejoin="round"
+   preserveAspectRatio="xMidYMid"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="gehbeziehung_auswahl_inkscape.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3008681"
+     inkscape:cx="267.51367"
+     inkscape:cy="206.40063"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="nodes1To4"
+     showgrid="true">
+    <inkscape:grid
+       id="grid8"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="5.2904761"
+       spacingy="5.2904761"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 555.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1111 : 555.5 : 1"
+       inkscape:persp3d-origin="555.5 : 370.33333 : 1"
+       id="perspective12" />
+  </defs>
+  <g
+     id="nodes1To4"
+     class="Page">
+    <g
+       inkscape:label="Node4"
+       inkscape:groupmode="layer"
+       id="node4_group"
+       class="com.sun.star.drawing.ClosedBezierShape"
+       transform="rotate(-90,700,700)">
+      <g
+         id="node4">
+        <path
+           id="node4_spike"
+           d="m 661.11087,699.99998 v -568.4076 l 38.889,-53.8146 38.889,53.8135 v 568.4087 z"
+           fill="#1565c0"
+           stroke="none"
+           style="stroke-width:17.1546"
+           sodipodi:nodetypes="cccccc" />
+        <text
+           xml:space="preserve"
+           style="font-size:63.0899px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:38.9426"
+           x="140.36589"
+           y="-652.59448"
+           id="node4_spike_text"
+           transform="matrix(0,0.96512986,-1.03613,0,0,0)">4</text>
+      </g>
+      <g
+         id="node4_arrows"
+         inkscape:label="node4_arrows">
+        <g
+           id="node4_south"
+           inkscape:label="node4_south">
+          <path
+             id="node4_south_east"
+             d="m 599.44453,131.59223 v 194.445 h 11.111 l -19.444,38.888 -19.445,-38.888 h 11.111 v -194.445 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1263"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="east" />
+          <path
+             id="node4_south_west"
+             d="m 621.66642,364.92523 v -194.445 h -11.111 l 19.443,-38.888 19.446,38.888 h -11.111 v 194.445 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.126"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="west" />
+        </g>
+        <g
+           id="node4_north"
+           inkscape:label="node4_north">
+          <path
+             id="node4_north_east"
+             d="m 778.33343,131.59223 v 194.445 h 11.111 l -19.443,38.888 -19.446,-38.888 h 11.111 v -194.445 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="east" />
+          <path
+             id="node4_north_west"
+             d="m 800.55532,364.92563 v -194.4453 h -11.111 l 19.444,-38.8881 19.445,38.8881 h -11.111 v 194.4453 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="west" />
+        </g>
+        <g
+           id="node4_crossing"
+           inkscape:label="node4_crossing">
+          <path
+             id="node4_crossing_south"
+             d="M 816.66669,299.99959 H 622.22175 v 11.11153 l -38.8884,-19.4435 38.8884,-19.44539 v 11.11057 h 194.44494 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="south" />
+          <path
+             id="node4_crossing_north"
+             d="m 583.33335,322.22223 h 194.44503 v -11.11111 l 38.88831,19.44345 -38.88831,19.44544 V 338.88889 H 583.33335 Z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1263"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="north" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:label="Node3"
+       inkscape:groupmode="layer"
+       id="node3_group"
+       class="com.sun.star.drawing.ClosedBezierShape">
+      <g
+         id="node3"
+         inkscape:label="node3">
+        <path
+           id="node3_spike"
+           d="m 738.88891,700.00002 v 568.40778 l -38.88831,53.8145 -38.88947,-53.8143 V 700.00002 Z"
+           fill="#1565c0"
+           stroke="none"
+           style="stroke-width:17.1546"
+           sodipodi:nodetypes="cccccc" />
+        <text
+           xml:space="preserve"
+           style="font-size:58.8937px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:36.3526"
+           x="729.64667"
+           y="1179.3456"
+           id="node3_spike_text"
+           transform="scale(0.93549544,1.0689523)">3</text>
+      </g>
+      <g
+         id="node3_arrows">
+        <g
+           id="node3_west"
+           inkscape:label="node3_west">
+          <path
+             id="node3_west_north"
+             d="m 621.66709,1268.4078 v -194.4449 h -11.11152 l 19.4435,-38.8884 19.44539,38.8884 h -11.11057 v 194.4449 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="north" />
+          <path
+             id="node3_west_south"
+             d="m 599.44446,1035.0745 v 194.445 h 11.11111 l -19.44345,38.8883 -19.44544,-38.8883 h 11.11111 v -194.445 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1263"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="south" />
+        </g>
+        <g
+           id="node3_east"
+           inkscape:label="node3_east">
+          <path
+             id="node3_east_north"
+             d="m 800.55599,1268.4078 v -194.4449 h -11.11152 l 19.4435,-38.8884 19.44539,38.8884 h -11.11057 v 194.4449 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="north" />
+          <path
+             id="node3_east_south"
+             d="m 778.33336,1035.0745 v 194.445 h 11.11111 l -19.44345,38.8883 -19.44544,-38.8883 h 11.11111 v -194.445 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1263"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="south" />
+        </g>
+        <g
+           id="node3_crossing"
+           inkscape:label="node3_crossing">
+          <path
+             id="node3_crossing_west"
+             d="M 816.66669,1077.7774 H 622.22175 v 11.1115 l -38.8884,-19.4435 38.8884,-19.4454 v 11.1106 h 194.44494 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="west" />
+          <path
+             id="node3_crossing_east"
+             d="m 583.33335,1100 h 194.44503 v -11.1111 l 38.88831,19.4435 -38.88831,19.4454 v -11.1111 H 583.33335 Z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1263"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="east" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:label="Node2"
+       inkscape:groupmode="layer"
+       id="node2_group"
+       class="com.sun.star.drawing.ClosedBezierShape"
+       transform="rotate(90, 700, 700)">
+      <g
+         id="node2">
+        <path
+           id="node2_spike"
+           d="m 661.11113,699.99998 v -568.408 l 38.889,-53.814 38.889,53.813 v 568.409 z"
+           fill="#1565c0"
+           stroke="none"
+           style="stroke-width:17.1547"
+           sodipodi:nodetypes="cccccc" />
+        <text
+           xml:space="preserve"
+           style="font-size:63.0799px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:38.9365"
+           x="-177.17397"
+           y="699.4447"
+           id="node2_spike_text"
+           transform="matrix(0,-0.96576591,1.0354476,0,0,0)">2</text>
+      </g>
+      <g
+         id="node2_arrows">
+        <g
+           id="node2_south"
+           inkscape:label="node2_south">
+          <path
+             id="node2_south_east"
+             d="m 800.55557,364.92553 v -194.445 h -11.1111 l 19.4434,-38.888 19.4455,38.888 h -11.1111 v 194.445 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="east" />
+          <path
+             id="node2_south_west"
+             d="m 778.33338,131.59253 v 194.445 h 11.1111 l -19.4435,38.888 -19.4454,-38.888 h 11.1111 v -194.445 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="west" />
+        </g>
+        <g
+           id="node2_north"
+           inkscape:label="node2_north">
+          <path
+             id="node2_north_east"
+             d="m 621.66667,364.92553 v -194.445 h -11.1111 l 19.4435,-38.888 19.4454,38.888 h -11.1111 v 194.445 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="east" />
+          <path
+             id="node2_north_west"
+             d="m 599.44448,131.59253 v 194.445 h 11.1111 l -19.4434,38.888 -19.4455,-38.888 h 11.1111 v -194.445 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="west" />
+        </g>
+        <g
+           id="node2_crossing"
+           inkscape:label="node2_crossing">
+          <path
+             id="node2_crossing_north"
+             d="M 816.66669,299.99959 H 622.22175 v 11.11153 l -38.8884,-19.4435 38.8884,-19.44539 v 11.11057 h 194.44494 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="north" />
+          <path
+             id="node2_crossing_south"
+             d="m 583.33335,322.22223 h 194.44503 v -11.11111 l 38.88831,19.44345 -38.88831,19.44544 V 338.88889 H 583.33335 Z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1263"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="south" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:label="Node1"
+       inkscape:groupmode="layer"
+       id="node1_group"
+       class="com.sun.star.drawing.ClosedBezierShape">
+      <g
+         id="node1">
+        <path
+           id="node1_spike"
+           d="M 661.11113,700.00002 V 131.59223 l 38.88831,-53.81445 38.88947,53.8143 v 568.40794 z"
+           fill="#1565c0"
+           stroke="none"
+           style="stroke-width:17.1546"
+           sodipodi:nodetypes="cccccc" />
+        <text
+           xml:space="preserve"
+           style="font-size:63.0799px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:38.9365"
+           x="704.19226"
+           y="179.69041"
+           id="node1_spike_text"
+           transform="scale(0.9657659,1.0354476)">1</text>
+      </g>
+      <g
+         id="node1_arrows">
+        <g
+           id="node1_west"
+           inkscape:label="node1_west">
+          <path
+             id="node1_west_north"
+             d="M 621.66709,364.92557 V 170.48063 h -11.11152 l 19.4435,-38.8884 19.44539,38.8884 h -11.11057 v 194.44494 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="north" />
+          <path
+             id="node1_west_south"
+             d="m 599.44446,131.59223 v 194.44503 h 11.11111 l -19.44345,38.88831 -19.44544,-38.88831 h 11.11111 V 131.59223 Z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1263"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="south" />
+        </g>
+        <g
+           id="node1_east"
+           inkscape:label="node1_east">
+          <path
+             id="node1_east_north"
+             d="M 800.55599,364.92557 V 170.48063 h -11.11152 l 19.4435,-38.8884 19.44539,38.8884 h -11.11057 v 194.44494 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="north" />
+          <path
+             id="node1_east_south"
+             d="m 778.33336,131.59223 v 194.44503 h 11.11111 l -19.44345,38.88831 -19.44544,-38.88831 h 11.11111 V 131.59223 Z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1263"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="south" />
+        </g>
+        <g
+           id="node1_crossing">
+          <path
+             id="node1_crossing_west"
+             d="M 816.66669,299.99959 H 622.22175 v 11.11153 l -38.8884,-19.4435 38.8884,-19.44539 v 11.11057 h 194.44494 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="west" />
+          <path
+             id="node1_crossing_east"
+             d="m 583.33335,322.22223 h 194.44503 v -11.11111 l 38.88831,19.44345 -38.88831,19.44544 V 338.88889 H 583.33335 Z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1263"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="east" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="nodes5To8"
+     class="Page"
+     transform="rotate(45,700,700)"
+     inkscape:label="nodes5To8">
+    <g
+       inkscape:label="Node8"
+       inkscape:groupmode="layer"
+       id="node8_group"
+       class="com.sun.star.drawing.ClosedBezierShape"
+       transform="rotate(-90,700,700)">
+      <g
+         id="node8"
+         inkscape:label="node8">
+        <path
+           id="node8_spike"
+           d="m 661.11087,699.99998 v -568.4076 l 38.889,-53.8146 38.889,53.8135 v 568.4087 z"
+           fill="#1565c0"
+           stroke="none"
+           style="stroke-width:17.1546"
+           sodipodi:nodetypes="cccccc" />
+        <text
+           xml:space="preserve"
+           style="font-size:63.0792px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:38.936"
+           x="610.92841"
+           y="-343.84506"
+           id="node8_spike_text"
+           transform="matrix(0.68285222,0.68285222,-0.73222286,0.73222286,0,0)">8</text>
+      </g>
+      <g
+         id="node8_arrows"
+         inkscape:label="node8_arrows">
+        <g
+           id="node8_south_west"
+           inkscape:label="node4_south">
+          <path
+             id="node8_south_west_south_east"
+             d="m 599.44453,131.59223 v 194.445 h 11.111 l -19.444,38.888 -19.445,-38.888 h 11.111 v -194.445 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1263"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="east" />
+          <path
+             id="node8_south_west_north_west"
+             d="m 621.66642,364.92523 v -194.445 h -11.111 l 19.443,-38.888 19.446,38.888 h -11.111 v 194.445 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.126"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="west" />
+        </g>
+        <g
+           id="node8_north_east"
+           inkscape:label="node8_north_east">
+          <path
+             id="node8_north_east_south_east"
+             d="m 778.33343,131.59223 v 194.445 h 11.111 l -19.443,38.888 -19.446,-38.888 h 11.111 v -194.445 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="east" />
+          <path
+             id="node8_north_east_north_west"
+             d="m 800.55532,364.92563 v -194.4453 h -11.111 l 19.444,-38.8881 19.445,38.8881 h -11.111 v 194.4453 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="west" />
+        </g>
+        <g
+           id="node8_crossing"
+           inkscape:label="node8_crossing">
+          <path
+             id="node8_crossing_south_west"
+             d="M 816.66669,299.99959 H 622.22175 v 11.11153 l -38.8884,-19.4435 38.8884,-19.44539 v 11.11057 h 194.44494 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="south_west" />
+          <path
+             id="node8_crossing_north_east"
+             d="m 583.33335,322.22223 h 194.44503 v -11.11111 l 38.88831,19.44345 -38.88831,19.44544 V 338.88889 H 583.33335 Z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1263"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="north_east" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:label="Node7"
+       inkscape:groupmode="layer"
+       id="node7_group"
+       class="com.sun.star.drawing.ClosedBezierShape">
+      <g
+         id="node7"
+         inkscape:label="node7">
+        <path
+           id="node7_spike"
+           d="m 738.88891,700.00002 v 568.40778 l -38.88831,53.8145 -38.88947,-53.8143 V 700.00002 Z"
+           fill="#1565c0"
+           stroke="none"
+           style="stroke-width:17.1546"
+           sodipodi:nodetypes="cccccc" />
+        <text
+           xml:space="preserve"
+           style="font-size:63.0799px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:38.9365"
+           x="-412.68872"
+           y="1347.3943"
+           id="node7_text"
+           transform="matrix(0.68289963,-0.68289963,0.73217202,0.73217202,0,0)">7</text>
+      </g>
+      <g
+         id="node7_arrows">
+        <g
+           id="node7_north_west"
+           inkscape:label="node7_north_west">
+          <path
+             id="node7_north_west_north_east"
+             d="m 621.66709,1268.4078 v -194.4449 h -11.11152 l 19.4435,-38.8884 19.44539,38.8884 h -11.11057 v 194.4449 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="north" />
+          <path
+             id="node7_north_west_south_west"
+             d="m 599.44446,1035.0745 v 194.445 h 11.11111 l -19.44345,38.8883 -19.44544,-38.8883 h 11.11111 v -194.445 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1263"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="south" />
+        </g>
+        <g
+           id="node7_south_east"
+           inkscape:label="node7_south_east">
+          <path
+             id="node7_south_east_north_east"
+             d="m 800.55599,1268.4078 v -194.4449 h -11.11152 l 19.4435,-38.8884 19.44539,38.8884 h -11.11057 v 194.4449 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="north" />
+          <path
+             id="node7_south_east_south_west"
+             d="m 778.33336,1035.0745 v 194.445 h 11.11111 l -19.44345,38.8883 -19.44544,-38.8883 h 11.11111 v -194.445 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1263"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="south" />
+        </g>
+        <g
+           id="node7_crossing"
+           inkscape:label="node7_crossing">
+          <path
+             id="node7_crossing_north_west"
+             d="M 808.33025,1077.7756 H 613.88531 v 11.1116 l -38.8884,-19.4435 38.8884,-19.4454 v 11.1105 h 194.44494 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="north_west" />
+          <path
+             id="node7_crossing_south_east"
+             d="m 591.66231,1099.9989 h 194.44506 v -11.1112 l 38.8883,19.4435 -38.8883,19.4454 v -11.1111 H 591.66231 Z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1263"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="south_east" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:label="Node6"
+       inkscape:groupmode="layer"
+       id="node6_group"
+       class="com.sun.star.drawing.ClosedBezierShape"
+       transform="rotate(90,700,700)">
+      <g
+         id="node6"
+         inkscape:label="node6">
+        <path
+           id="node6_spike"
+           d="m 661.11113,699.99998 v -568.408 l 38.889,-53.814 38.889,53.813 v 568.409 z"
+           fill="#1565c0"
+           stroke="none"
+           style="stroke-width:17.1547"
+           sodipodi:nodetypes="cccccc" />
+        <text
+           xml:space="preserve"
+           style="font-size:63.0799px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:38.9365"
+           x="-650.37598"
+           y="388.95905"
+           id="node6_spike_text"
+           transform="matrix(-0.68289963,-0.68289963,0.73217202,-0.73217202,0,0)">6</text>
+      </g>
+      <g
+         id="node6_arrows">
+        <g
+           id="node6_south_west"
+           inkscape:label="node6_south_west">
+          <path
+             id="node6_south_west_south_east"
+             d="m 800.55557,364.92553 v -194.445 h -11.1111 l 19.4434,-38.888 19.4455,38.888 h -11.1111 v 194.445 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="east" />
+          <path
+             id="node6_south_west_north_west"
+             d="m 778.33338,131.59253 v 194.445 h 11.1111 l -19.4435,38.888 -19.4454,-38.888 h 11.1111 v -194.445 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="west" />
+        </g>
+        <g
+           id="node6_north_east"
+           inkscape:label="node6_north_east">
+          <path
+             id="node6_north_east_south_east"
+             d="m 621.66667,364.92553 v -194.445 h -11.1111 l 19.4435,-38.888 19.4454,38.888 h -11.1111 v 194.445 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="east" />
+          <path
+             id="node6_north_east_north_west"
+             d="m 599.44448,131.59253 v 194.445 h 11.1111 l -19.4434,38.888 -19.4455,-38.888 h 11.1111 v -194.445 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="west" />
+        </g>
+        <g
+           id="node6_crossing"
+           inkscape:label="node6_crossing">
+          <path
+             id="node6_crossing_north_east"
+             d="M 816.66669,299.99959 H 622.22175 v 11.11153 l -38.8884,-19.4435 38.8884,-19.44539 v 11.11057 h 194.44494 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="north_east" />
+          <path
+             id="node6_crossing_south_west"
+             d="m 583.33335,322.22223 h 194.44503 v -11.11111 l 38.88831,19.44345 -38.88831,19.44544 V 338.88889 H 583.33335 Z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1263"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="south_west" />
+        </g>
+      </g>
+    </g>
+    <g
+       inkscape:label="Node5"
+       inkscape:groupmode="layer"
+       id="node5_group"
+       class="com.sun.star.drawing.ClosedBezierShape">
+      <g
+         id="node5"
+         inkscape:label="node5">
+        <path
+           id="node5_spike"
+           d="M 661.11113,700.00002 V 131.59223 l 38.88831,-53.81445 38.88947,53.8143 v 568.40794 z"
+           fill="#1565c0"
+           stroke="none"
+           style="stroke-width:17.1546"
+           sodipodi:nodetypes="cccccc" />
+        <text
+           xml:space="preserve"
+           style="font-size:63.0799px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:38.9365"
+           x="373.10757"
+           y="610.74023"
+           id="node5_spike_text"
+           transform="matrix(0.68289962,-0.68289962,0.73217203,0.73217203,0,0)">5</text>
+      </g>
+      <g
+         id="node5_arrows">
+        <g
+           id="node5_north_west"
+           inkscape:label="node5_north_west">
+          <path
+             id="node5_north_west_north_east"
+             d="M 621.66709,364.92557 V 170.48063 h -11.11152 l 19.4435,-38.8884 19.44539,38.8884 h -11.11057 v 194.44494 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="north" />
+          <path
+             id="node5_north_west_south_west"
+             d="m 599.44446,131.59223 v 194.44503 h 11.11111 l -19.44345,38.88831 -19.44544,-38.88831 h 11.11111 V 131.59223 Z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1263"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="south" />
+        </g>
+        <g
+           id="node5_south_east"
+           inkscape:label="node5_south_east">
+          <path
+             id="node5_south_east_north_east"
+             d="M 800.55599,364.92557 V 170.48063 h -11.11152 l 19.4435,-38.8884 19.44539,38.8884 h -11.11057 v 194.44494 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="north" />
+          <path
+             id="node5_south_east_south_west"
+             d="m 778.33336,131.59223 v 194.44503 h 11.11111 l -19.44345,38.88831 -19.44544,-38.88831 h 11.11111 V 131.59223 Z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1263"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="south" />
+        </g>
+        <g
+           id="node5_crossing"
+           inkscape:label="node5_crossing">
+          <path
+             id="node5_crossing_north_west"
+             d="M 816.66669,299.99959 H 622.22175 v 11.11153 l -38.8884,-19.4435 38.8884,-19.44539 v 11.11057 h 194.44494 z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1262"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="north_west" />
+          <path
+             id="node5_crossing_south_east"
+             d="m 583.33335,322.22223 h 194.44503 v -11.11111 l 38.88831,19.44345 -38.88831,19.44544 V 338.88889 H 583.33335 Z"
+             fill="#000000"
+             stroke="none"
+             style="stroke-width:22.1263"
+             sodipodi:nodetypes="cccccccc"
+             inkscape:label="south_east" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <path
+     sodipodi:type="star"
+     id="center"
+     inkscape:flatsided="true"
+     sodipodi:sides="8"
+     sodipodi:cx="14336.355"
+     sodipodi:cy="17666.338"
+     sodipodi:r1="217.80737"
+     sodipodi:r2="217.80737"
+     sodipodi:arg1="-1.9634954"
+     sodipodi:arg2="-1.5707963"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 14253.004,17465.11 166.703,0 117.876,117.877 0,166.702 -117.876,117.877 -166.703,0 -117.876,-117.877 0,-166.702 z"
+     fill="#1565c0"
+     transform="matrix(0.46656362,0,0,0.46656362,-5988.8219,-7542.4705)" />
+</svg>
