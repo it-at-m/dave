@@ -5,6 +5,7 @@
 * Prüfung der CSV-Daten bei Abschließen der Zählung für FJS und QU implementiert ([FV-174](https://jira.muenchen.de/browse/FV-174))
 * Gesamtanzahl Tageswert im BLP mit Klammer zeigen ([FV-200](https://jira.muenchen.de/browse/FV-200))
 * Anpassung des Reiters "Knoten & Lage" einer Zählung im Self-Serviceportal im die Auflistung der Verkehrsbeziehungen für die neuen Zählarten FjS und Qu aus dem Reiterinhalt zu entfernen. ([FV-295](https://jira.muenchen.de/browse/FV-295))
+* Darstellung des Belastungsplans für die Zählungsart FjS implementiert ([FV-182](https://jira.muenchen.de/browse/FV-182))
 
 ## [Sprint 8] 2026-03-18 - 2026-04-01
 * Darstellung des Belastungsplans für Zählungsart QjS implementiert ([FV-181](https://jira.muenchen.de/browse/FV-181))
