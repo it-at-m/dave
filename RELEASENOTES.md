@@ -6,7 +6,7 @@
 * Gesamtanzahl Tageswert im BLP mit Klammer zeigen ([FV-200](https://jira.muenchen.de/browse/FV-200))
 * Anpassung des Reiters "Knoten & Lage" einer Zählung im Self-Serviceportal im die Auflistung der Verkehrsbeziehungen für die neuen Zählarten FjS und Qu aus dem Reiterinhalt zu entfernen. ([FV-295](https://jira.muenchen.de/browse/FV-295))
 * Darstellung des Belastungsplans für die Zählungsart FjS implementiert ([FV-182](https://jira.muenchen.de/browse/FV-182))
-* Fix um beim Abwählen von Knotenarmen im Selfservice-Portal die entsprechenden Verkehrsbeziehungen zu löschen ([FV-296](https://jira.muenchen.de/browse/FV-296))
+* Fix um beim Abwählen von Knotenarmen im Adminportal die entsprechenden Verkehrsbeziehungen zu löschen ([FV-296](https://jira.muenchen.de/browse/FV-296))
 
 ## [Sprint 8] 2026-03-18 - 2026-04-01
 * Darstellung des Belastungsplans für Zählungsart QjS implementiert ([FV-181](https://jira.muenchen.de/browse/FV-181))
