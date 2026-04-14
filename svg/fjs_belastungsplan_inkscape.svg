@@ -13,6 +13,9 @@
    preserveAspectRatio="xMidYMid"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    sodipodi:docname="fjs_belastungsplan_inkscape.svg"
+   inkscape:export-filename="fjs_belastungsplan_plain.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -29,11 +32,11 @@
      inkscape:document-units="mm"
      inkscape:zoom="0.45992633"
      inkscape:cx="1189.3209"
-     inkscape:cy="709.8963"
+     inkscape:cy="710.98343"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:window-height="1010"
+     inkscape:window-x="1529"
+     inkscape:window-y="-6"
      inkscape:window-maximized="1"
      inkscape:current-layer="legend"
      showgrid="true"
@@ -677,12 +680,12 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9645">123456</tspan></text>
       </g>
       <g
-         id="node1_arrows">
+         id="arrows_node1">
         <g
-           id="node1_west"
+           id="arrows_node1_west"
            inkscape:label="node1_west">
           <path
-             id="node1_west_north"
+             id="arrow_node1_west_outgoing"
              d="M 627.50029,395.409 V 220.40855 H 619.5 L 633.49931,185.409 647.5,220.40855 h -7.99962 V 395.409 Z"
              fill="#000000"
              stroke="none"
@@ -690,7 +693,7 @@
              sodipodi:nodetypes="cccccccc"
              inkscape:label="north" />
           <path
-             id="node1_west_south"
+             id="arrow_node1_west_incoming"
              d="m 606.25,185.409 v 175.00052 h 8 L 600.25072,395.409 586.25,360.40952 h 8 V 185.409 Z"
              fill="#000000"
              stroke="none"
@@ -700,51 +703,51 @@
           <text
              xml:space="preserve"
              transform="matrix(0,-0.86707182,1.153307,0,0,0)"
-             id="node1_west_south_number_text"
+             id="arrow_node1_west_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_south"
              x="-1206.5183"
              y="-259.38544"><tspan
                x="-49.490978"
                y="528.50812"
-               id="node1_west_south_number_tspan"
+               id="arrow_node1_west_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0,-0.86707182,1.153307,0,0,0)"
-             id="node1_west_north_number_text"
+             id="arrow_node1_west_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_north"
              x="-1206.5183"
              y="-230.55521"><tspan
                x="-49.490978"
                y="557.33826"
-               id="node1_west_north_number_tspan"
+               id="arrow_node1_west_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0,-0.86675167,1.153733,0,0,0)"
-             id="node1_west_sum_text"
+             id="arrows_node1_west_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
              inkscape:label="sum"
              x="-1207.2521"
              y="-203.73477"><tspan
                x="-49.797356"
                y="584.45007"
-               id="node1_west_sum_tspan"
+               id="arrows_node1_west_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
              d="m 645.75,142.03 v -98 h 2.45 v 98 z"
-             id="node1_west_sum_line"
+             id="arrows_node1_west_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
         </g>
         <g
-           id="node1_east"
+           id="arrows_node1_east"
            inkscape:label="node1_east">
           <path
-             id="node1_east_north"
+             id="arrow_node1_east_outgoing"
              d="M 793.75028,395.409 V 220.40855 h -8.00029 l 13.99931,-34.99955 14.00069,34.99955 h -7.99962 V 395.409 Z"
              fill="#000000"
              stroke="none"
@@ -752,7 +755,7 @@
              sodipodi:nodetypes="cccccccc"
              inkscape:label="north" />
           <path
-             id="node1_east_south"
+             id="arrow_node1_east_incoming"
              d="m 772.49999,185.409 v 175.00052 h 8 L 766.50071,395.409 752.49999,360.40952 h 8 V 185.409 Z"
              fill="#000000"
              stroke="none"
@@ -762,43 +765,43 @@
           <text
              xml:space="preserve"
              transform="matrix(0,-0.86707182,1.153307,0,0,0)"
-             id="node1_east_south_number_text"
+             id="arrow_node1_east_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_south"
              x="-1206.5183"
              y="-115.23471"><tspan
                x="-49.490978"
                y="672.65881"
-               id="node1_east_south_number_tspan"
+               id="arrow_node1_east_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0,-0.86707182,1.153307,0,0,0)"
-             id="node1_east_north_number_text"
+             id="arrow_node1_east_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_north"
              x="-1206.5183"
              y="-86.404541"><tspan
                x="-49.490978"
                y="701.48889"
-               id="node1_east_north_number_tspan"
+               id="arrow_node1_east_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0,-0.86675167,1.153733,0,0,0)"
-             id="node1_east_sum_text"
+             id="arrows_node1_east_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
              inkscape:label="sum"
              x="-1207.2521"
              y="-59.637333"><tspan
                x="-49.797356"
                y="728.54749"
-               id="node1_east_sum_tspan"
+               id="arrows_node1_east_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
              d="m 811.99999,142.03 v -98 h 2.45 v 98 z"
-             id="node1_east_sum_line"
+             id="arrows_node1_east_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
         </g>
@@ -890,14 +893,14 @@
       </g>
       <g
          inkscape:groupmode="layer"
-         id="node2_arrows"
+         id="arrows_node2"
          inkscape:label="node2_arrows">
         <g
            inkscape:groupmode="layer"
-           id="node2_north"
+           id="arrows_node2_north"
            inkscape:label="node2_north">
           <path
-             id="node2_north_west"
+             id="arrow_node2_north_incoming"
              d="m 1214.591,606.25 h -175.0005 v 8 L 1004.591,600.25072 1039.5905,586.25 v 8 h 175.0005 z"
              fill="#000000"
              stroke="none"
@@ -905,7 +908,7 @@
              sodipodi:nodetypes="cccccccc"
              inkscape:label="west" />
           <path
-             id="node2_north_east"
+             id="arrow_node2_north_outgoing"
              d="m 1004.591,627.5 h 175.0005 v -8 l 34.9995,13.9993 -34.9995,14.0007 v -8 H 1004.591 Z"
              fill="#000000"
              stroke="none"
@@ -915,52 +918,52 @@
           <text
              xml:space="preserve"
              transform="scale(0.86707182,1.153307)"
-             id="node2_north_west_number_text"
+             id="arrow_node2_north_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_west"
              x="406.98672"
              y="-259.38541"><tspan
                x="1564.014"
                y="528.50812"
-               id="node2_north_west_number_tspan"
+               id="arrow_node2_north_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="scale(0.86707182,1.153307)"
-             id="node2_north_east_number_text"
+             id="arrow_node2_north_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_east"
              x="406.98672"
              y="-230.55528"><tspan
                x="1564.014"
                y="557.33826"
-               id="node2_north_east_number_tspan"
+               id="arrow_node2_north_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="scale(0.86675167,1.153733)"
-             id="node2_north_sum_text"
+             id="arrows_node2_north_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
              inkscape:label="sum"
              x="407.97394"
              y="-203.73479"><tspan
                x="1565.4286"
                y="584.45001"
-               id="node2_north_sum_tspan"
+               id="arrows_node2_north_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8774"
              d="m 1260,645.75 h 98 v 2.45 h -98 z"
-             id="node2_north_sum_line"
+             id="arrows_node2_north_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
         </g>
         <g
            inkscape:groupmode="layer"
-           id="node2_south"
+           id="arrows_node2_south"
            inkscape:label="node2_south">
           <path
-             id="node2_south_west"
+             id="arrow_node2_south_incoming"
              d="m 1214.591,772.49999 h -175.0005 v 8 l -34.9995,-13.99928 34.9995,-14.00072 v 8 h 175.0005 z"
              fill="#000000"
              stroke="none"
@@ -968,7 +971,7 @@
              sodipodi:nodetypes="cccccccc"
              inkscape:label="west" />
           <path
-             id="node2_south_east"
+             id="arrow_node2_south_outgoing"
              d="m 1004.591,793.74999 h 175.0005 v -8 l 34.9995,13.9993 -34.9995,14.0007 v -8 H 1004.591 Z"
              fill="#000000"
              stroke="none"
@@ -978,43 +981,43 @@
           <text
              xml:space="preserve"
              transform="scale(0.86707182,1.153307)"
-             id="node2_south_west_number_text"
+             id="arrow_node2_south_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_west"
              x="406.98672"
              y="-115.2347"><tspan
                x="1564.014"
                y="672.65881"
-               id="node2_south_west_number_tspan"
+               id="arrow_node2_south_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="scale(0.86707182,1.153307)"
-             id="node2_south_east_number_text"
+             id="arrow_node2_south_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_east"
              x="406.98669"
              y="-86.404564"><tspan
                x="1564.014"
                y="701.48889"
-               id="node2_south_east_number_tspan"
+               id="arrow_node2_south_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="scale(0.86675167,1.153733)"
-             id="node2_south_sum_text"
+             id="arrows_node2_south_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
              inkscape:label="sum"
              x="407.97397"
              y="-59.637352"><tspan
                x="1565.4287"
                y="728.54749"
-               id="node2_south_sum_tspan"
+               id="arrows_node2_south_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
              d="m 1260,811.99999 h 98 v 2.45 h -98 z"
-             id="node2_south_sum_line"
+             id="arrows_node2_south_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
         </g>
@@ -1112,13 +1115,13 @@
       </g>
       <g
          inkscape:groupmode="layer"
-         id="node3_arrows"
+         id="arrows_node3"
          inkscape:label="node3_arrows">
         <g
-           id="node3_east"
+           id="arrows_node3_east"
            inkscape:label="node3_east">
           <path
-             id="node3_east_north"
+             id="arrow_node3_east_outgoing"
              d="m 793.75028,1214.591 v -175.0005 h -8.00029 l 13.99931,-34.9995 14.00069,34.9995 h -7.99962 v 175.0005 z"
              fill="#000000"
              stroke="none"
@@ -1126,7 +1129,7 @@
              sodipodi:nodetypes="cccccccc"
              inkscape:label="north" />
           <path
-             id="node3_east_south"
+             id="arrow_node3_east_incoming"
              d="m 772.49999,1004.591 v 175.0005 h 8 l -13.99928,34.9995 -14.00072,-34.9995 h 8 V 1004.591 Z"
              fill="#000000"
              stroke="none"
@@ -1136,51 +1139,51 @@
           <text
              xml:space="preserve"
              transform="matrix(0,-0.86707182,1.153307,0,0,0)"
-             id="node3_east_south_number_text"
+             id="arrow_node3_east_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_south"
              x="-2629.0879"
              y="-115.23471"><tspan
                x="-1472.0605"
                y="672.65881"
-               id="node3_east_south_number_tspan"
+               id="arrow_node3_east_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0,-0.86707182,1.153307,0,0,0)"
-             id="node3_east_north_number_text"
+             id="arrow_node3_east_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_north"
              x="-2629.0879"
              y="-86.404541"><tspan
                x="-1472.0605"
                y="701.48889"
-               id="node3_east_north_number_tspan"
+               id="arrow_node3_east_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0,-0.86675167,1.153733,0,0,0)"
-             id="node3_east_sum_text"
+             id="arrows_node3_east_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
              inkscape:label="sum"
              x="-2630.3472"
              y="-59.637333"><tspan
                x="-1472.8923"
                y="728.54749"
-               id="node3_east_sum_tspan"
+               id="arrows_node3_east_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
              d="m 811.99999,1375.5 v -98 h 2.45 v 98 z"
-             id="node3_east_sum_line"
+             id="arrows_node3_east_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
         </g>
         <g
-           id="node3_west"
+           id="arrows_node3_west"
            inkscape:label="node3_west">
           <path
-             id="node3_west_north"
+             id="arrow_node3_west_incoming"
              d="M 627.50029,1214.591 V 1039.5905 H 619.5 l 13.99931,-34.9995 14.00069,34.9995 h -7.99962 v 175.0005 z"
              fill="#000000"
              stroke="none"
@@ -1188,7 +1191,7 @@
              sodipodi:nodetypes="cccccccc"
              inkscape:label="north" />
           <path
-             id="node3_west_south"
+             id="arrow_node3_west_outgoing"
              d="m 606.25,1004.591 v 175.0005 h 8 L 600.25072,1214.591 586.25,1179.5915 h 8 V 1004.591 Z"
              fill="#000000"
              stroke="none"
@@ -1198,43 +1201,43 @@
           <text
              xml:space="preserve"
              transform="matrix(0,-0.86707182,1.153307,0,0,0)"
-             id="node3_west_south_number_text"
+             id="arrow_node3_west_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_south"
              x="-2629.0879"
              y="-259.38544"><tspan
                x="-1472.0605"
                y="528.50812"
-               id="node3_west_south_number_tspan"
+               id="arrow_node3_west_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0,-0.86707182,1.153307,0,0,0)"
-             id="node3_west_north_number_text"
+             id="arrow_node3_west_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_north"
              x="-2629.0879"
              y="-230.55521"><tspan
                x="-1472.0605"
                y="557.33826"
-               id="node3_west_north_number_tspan"
+               id="arrow_node3_west_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0,-0.86675167,1.153733,0,0,0)"
-             id="node3_west_sum_text"
+             id="arrows_node3_west_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
              inkscape:label="sum"
              x="-2630.3472"
              y="-203.73477"><tspan
                x="-1472.8923"
                y="584.45007"
-               id="node3_west_sum_tspan"
+               id="arrows_node3_west_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
              d="m 645.75,1375.5 v -98 h 2.45 v 98 z"
-             id="node3_west_sum_line"
+             id="arrows_node3_west_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
         </g>
@@ -1329,14 +1332,14 @@
       </g>
       <g
          inkscape:groupmode="layer"
-         id="node4_arrows"
+         id="arrows_node4"
          inkscape:label="node4_arrows">
         <g
            inkscape:groupmode="layer"
-           id="node4_south"
+           id="arrows_node4_south"
            inkscape:label="node4_south">
           <path
-             id="node4_south_west"
+             id="arrow_node4_south_outgoing"
              d="M 395.409,772.49999 H 220.4085 v 8 l -34.9995,-13.99928 34.9995,-14.00072 v 8 H 395.409 Z"
              fill="#000000"
              stroke="none"
@@ -1344,7 +1347,7 @@
              sodipodi:nodetypes="cccccccc"
              inkscape:label="west" />
           <path
-             id="node4_south_east"
+             id="arrow_node4_south_incoming"
              d="m 185.409,793.74999 h 175.0005 v -8 l 34.9995,13.9993 -34.9995,14.0007 v -8 H 185.409 Z"
              fill="#000000"
              stroke="none"
@@ -1354,52 +1357,52 @@
           <text
              xml:space="preserve"
              transform="scale(0.86707182,1.153307)"
-             id="node4_south_west_number_text"
+             id="arrow_node4_south_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_west"
              x="-1015.5829"
              y="-115.2348"><tspan
                x="141.44441"
                y="672.65881"
-               id="node4_south_west_number_tspan"
+               id="arrow_node4_south_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="scale(0.86707182,1.153307)"
-             id="node4_south_east_number_text"
+             id="arrow_node4_south_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_east"
              x="-1015.5829"
              y="-86.404541"><tspan
                x="141.44441"
                y="701.48889"
-               id="node4_south_east_number_tspan"
+               id="arrow_node4_south_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="scale(0.86675167,1.153733)"
-             id="node4_south_sum_text"
+             id="arrows_node4_south_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
              inkscape:label="sum"
              x="-1015.1211"
              y="-59.637363"><tspan
                x="142.33362"
                y="728.54749"
-               id="node4_south_sum_tspan"
+               id="arrows_node4_south_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
              d="m 24.5,811.99999 h 98 v 2.45 h -98 z"
-             id="node4_south_sum_line"
+             id="arrows_node4_south_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
         </g>
         <g
            inkscape:groupmode="layer"
-           id="node4_north"
+           id="arrows_node4_north"
            inkscape:label="node4_north">
           <path
-             id="node4_north_west"
+             id="arrow_node4_north_outgoing"
              d="M 395.409,606.25 H 220.4085 v 8 L 185.409,600.25072 220.4085,586.25 v 8 H 395.409 Z"
              fill="#000000"
              stroke="none"
@@ -1407,7 +1410,7 @@
              sodipodi:nodetypes="cccccccc"
              inkscape:label="west" />
           <path
-             id="node4_north_east"
+             id="arrow_node4_north_incoming"
              d="m 185.409,627.5 h 175.0005 v -8 L 395.409,633.4993 360.4095,647.5 v -8 H 185.409 Z"
              fill="#000000"
              stroke="none"
@@ -1417,43 +1420,43 @@
           <text
              xml:space="preserve"
              transform="scale(0.86707182,1.153307)"
-             id="node4_north_west_number_text"
+             id="arrow_node4_north_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_west"
              x="-1015.5829"
              y="-259.38544"><tspan
                x="141.44441"
                y="528.50812"
-               id="node4_north_west_number_tspan"
+               id="arrow_node4_north_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="scale(0.86707182,1.153307)"
-             id="node4_north_east_number_text"
+             id="arrow_node4_north_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_east"
              x="-1015.5829"
              y="-230.55518"><tspan
                x="141.44441"
                y="557.33826"
-               id="node4_north_east_number_tspan"
+               id="arrow_node4_north_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="scale(0.86675167,1.153733)"
-             id="node4_north_sum_text"
+             id="arrows_node4_north_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
              inkscape:label="sum"
              x="-1015.1211"
              y="-203.7348"><tspan
                x="142.33362"
                y="584.45007"
-               id="node4_north_sum_tspan"
+               id="arrows_node4_north_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
              d="m 24.5,645.75 h 98 v 2.45 h -98 z"
-             id="node4_north_sum_line"
+             id="arrows_node4_north_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
         </g>
@@ -1553,13 +1556,13 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9645">123456</tspan></text>
       </g>
       <g
-         id="node5_arrows"
+         id="arrows_node5"
          inkscape:label="node5_arrows">
         <g
-           id="node5_north_west"
+           id="arrows_node5_north_west"
            inkscape:label="node5_north_west">
           <path
-             id="node5_north_west_north_east"
+             id="arrow_node5_north_west_outgoing"
              d="M 864.11499,433.35748 987.859,309.61347 l -5.65706,-5.65706 34.64746,-14.84941 -14.8485,34.6484 -5.65656,-5.65658 -123.744,123.744 z"
              fill="#000000"
              stroke="none"
@@ -1567,7 +1570,7 @@
              sodipodi:nodetypes="cccccccc"
              inkscape:label="north" />
           <path
-             id="node5_north_west_south_west"
+             id="arrow_node5_north_west_incoming"
              d="m 997.57854,269.83728 -123.74405,123.74405 5.65685,5.65686 -34.64735,14.84938 14.84836,-34.64837 5.65686,5.65685 L 989.09326,261.352 Z"
              fill="#000000"
              stroke="none"
@@ -1577,51 +1580,51 @@
           <text
              xml:space="preserve"
              transform="matrix(0.61311236,-0.61311236,0.8155112,0.8155112,0,0)"
-             id="node5_north_west_south_west_number_text"
+             id="arrow_node5_north_west_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_south"
              x="-399.20233"
              y="-7.9779282"><tspan
                x="757.82507"
                y="779.91565"
-               id="node5_north_west_south_west_number_tspan"
+               id="arrow_node5_north_west_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.61311236,-0.61311236,0.8155112,0.8155112,0,0)"
-             id="node5_north_west_north_east_number_text"
+             id="arrow_node5_north_west_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_north"
              x="-399.20517"
              y="20.852219"><tspan
                x="757.82214"
                y="808.74573"
-               id="node5_north_west_north_east_number_tspan"
+               id="arrow_node5_north_west_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.61288598,-0.61288598,0.81581243,0.81581243,0,0)"
-             id="node5_north_west_sum_text"
+             id="arrows_node5_north_west_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
              inkscape:label="sum"
              x="-399.64072"
              y="47.580051"><tspan
                x="757.81403"
                y="835.76489"
-               id="node5_north_west_sum_tspan"
+               id="arrows_node5_north_west_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
              d="m 1056.1845,267.09547 69.2965,-69.29647 1.7324,1.73241 -69.2965,69.29647 z"
-             id="node5_north_west_sum_line"
+             id="arrows_node5_north_west_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
         </g>
         <g
-           id="node5_south_east"
+           id="arrows_node5_south_east"
            inkscape:label="node5_south_east">
           <path
-             id="node5_south_east_north_east"
+             id="arrow_node5_south_east_outgoing"
              d="m 981.66949,550.91198 123.74401,-123.74401 -5.6571,-5.65706 34.6475,-14.84941 -14.8485,34.6484 -5.6566,-5.65658 -123.74396,123.744 z"
              fill="#000000"
              stroke="none"
@@ -1629,7 +1632,7 @@
              sodipodi:nodetypes="cccccccc"
              inkscape:label="north" />
           <path
-             id="node5_south_east_south_west"
+             id="arrow_node5_south_east_incoming"
              d="m 1115.1365,387.39528 -123.74401,123.74405 5.65685,5.65686 -34.64735,14.84938 14.84836,-34.64837 5.65686,5.65685 L 1106.6513,378.91 Z"
              fill="#000000"
              stroke="none"
@@ -1639,43 +1642,43 @@
           <text
              xml:space="preserve"
              transform="matrix(0.61311236,-0.61311236,0.8155112,0.8155112,0,0)"
-             id="node5_south_east_south_west_number_text"
+             id="arrow_node5_south_east_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_south"
              x="-399.20517"
              y="136.17249"><tspan
                x="757.82214"
                y="924.06604"
-               id="node5_south_east_south_west_number_tspan"
+               id="arrow_node5_south_east_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.61311236,-0.61311236,0.8155112,0.8155112,0,0)"
-             id="node5_south_east_north_east_number_text"
+             id="arrow_node5_south_east_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_north"
              x="-399.2023"
              y="165.00262"><tspan
                x="757.82501"
                y="952.89612"
-               id="node5_south_east_north_east_number_tspan"
+               id="arrow_node5_south_east_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.61288598,-0.61288598,0.81581243,0.81581243,0,0)"
-             id="node5_south_east_sum_text"
+             id="arrows_node5_south_east_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
              inkscape:label="sum"
              x="-399.63785"
              y="191.67722"><tspan
                x="757.81683"
                y="979.86206"
-               id="node5_south_east_sum_tspan"
+               id="arrows_node5_south_east_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
              d="m 1173.739,384.64997 69.2965,-69.29647 1.7324,1.73241 -69.2965,69.29647 z"
-             id="node5_south_east_sum_line"
+             id="arrows_node5_south_east_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
         </g>
@@ -1773,14 +1776,14 @@
       </g>
       <g
          inkscape:groupmode="layer"
-         id="node6_arrows"
+         id="arrows_node6"
          inkscape:label="node6_arrows">
         <g
            inkscape:groupmode="layer"
-           id="node6_north_east"
+           id="arrows_node6_north_east"
            inkscape:label="node6_north_east">
           <path
-             id="node6_north_east_north_west"
+             id="arrow_node6_north_east_incoming"
              d="m 1130.1618,997.57854 -123.7441,-123.74404 -5.6568,5.65686 -14.84941,-34.64737 34.64841,14.84838 -5.6569,5.65685 123.7441,123.74404 z"
              fill="#000000"
              stroke="none"
@@ -1788,7 +1791,7 @@
              sodipodi:nodetypes="cccccccc"
              inkscape:label="west" />
           <path
-             id="node6_north_east_south_east"
+             id="arrow_node6_north_east_outgoing"
              d="m 966.64529,864.11149 123.74411,123.74404 5.6568,-5.65686 14.8494,34.64743 -34.6484,-14.8484 5.6569,-5.65689 -123.74411,-123.74404 z"
              fill="#000000"
              stroke="none"
@@ -1798,52 +1801,52 @@
           <text
              xml:space="preserve"
              transform="matrix(0.61311236,0.61311236,-0.8155112,0.8155112,0,0)"
-             id="node6_north_east_north_west_number_text"
+             id="arrow_node6_north_east_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_west"
              x="741.38873"
              y="-866.33527"><tspan
                x="1898.416"
                y="-78.441635"
-               id="node6_north_east_north_west_number_tspan"
+               id="arrow_node6_north_east_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.61311236,0.61311236,-0.8155112,0.8155112,0,0)"
-             id="node6_north_east_south_east_number_text"
+             id="arrow_node6_north_east_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_east"
              x="741.38599"
              y="-837.50513"><tspan
                x="1898.4132"
                y="-49.611588"
-               id="node6_north_east_south_east_number_tspan"
+               id="arrow_node6_north_east_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.61288598,0.61288598,-0.81581243,0.81581243,0,0)"
-             id="node6_north_east_sum_text"
+             id="arrows_node6_north_east_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
              inkscape:label="sum"
              x="742.49811"
              y="-810.4613"><tspan
                x="1899.9528"
                y="-22.276493"
-               id="node6_north_east_sum_tspan"
+               id="arrows_node6_north_east_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8774"
              d="m 1134.3394,1057.6195 69.2964,69.2965 -1.7324,1.7324 -69.2964,-69.2965 z"
-             id="node6_north_east_sum_line"
+             id="arrows_node6_north_east_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
         </g>
         <g
            inkscape:groupmode="layer"
-           id="node6_south_west"
+           id="arrows_node6_south_west"
            inkscape:label="node6_south_west">
           <path
-             id="node6_south_west_north_west"
+             id="arrow_node6_south_west_incoming"
              d="m 1012.6073,1115.1365 -123.74411,-123.744 -5.6568,5.65686 -14.8494,-34.64737 34.6484,14.84838 -5.6569,5.65685 123.74411,123.74408 z"
              fill="#000000"
              stroke="none"
@@ -1851,7 +1854,7 @@
              sodipodi:nodetypes="cccccccc"
              inkscape:label="west" />
           <path
-             id="node6_south_west_south_east"
+             id="arrow_node6_south_west_outgoing"
              d="m 849.08729,981.66949 123.7441,123.74401 5.6568,-5.6568 14.8494,34.6474 -34.6484,-14.8484 5.6569,-5.6569 -123.7441,-123.74403 z"
              fill="#000000"
              stroke="none"
@@ -1861,43 +1864,43 @@
           <text
              xml:space="preserve"
              transform="matrix(0.61311236,0.61311236,-0.8155112,0.8155112,0,0)"
-             id="node6_south_west_north_west_number_text"
+             id="arrow_node6_south_west_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_west"
              x="741.38593"
              y="-722.18481"><tspan
                x="1898.4132"
                y="65.708748"
-               id="node6_south_west_north_west_number_tspan"
+               id="arrow_node6_south_west_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.61311236,0.61311236,-0.8155112,0.8155112,0,0)"
-             id="node6_south_west_south_east_number_text"
+             id="arrow_node6_south_west_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_east"
              x="741.38873"
              y="-693.35468"><tspan
                x="1898.416"
                y="94.53878"
-               id="node6_south_west_south_east_number_tspan"
+               id="arrow_node6_south_west_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.61288598,0.61288598,-0.81581243,0.81581243,0,0)"
-             id="node6_south_west_sum_text"
+             id="arrows_node6_south_west_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
              inkscape:label="sum"
              x="742.49805"
              y="-666.362"><tspan
                x="1899.9528"
                y="121.82278"
-               id="node6_south_west_sum_tspan"
+               id="arrows_node6_south_west_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
              d="m 1016.7849,1175.1775 69.2964,69.2965 -1.7324,1.7324 -69.2964,-69.2965 z"
-             id="node6_south_west_sum_line"
+             id="arrows_node6_south_west_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
         </g>
@@ -1996,13 +1999,13 @@
       </g>
       <g
          inkscape:groupmode="layer"
-         id="node7_arrows"
+         id="arrows_node7"
          inkscape:label="node7_arrows">
         <g
-           id="node7_south_east"
+           id="arrows_node7_south_east"
            inkscape:label="node7_east">
           <path
-             id="node7_south_east_north_east"
+             id="arrow_node7_south_east_incoming"
              d="m 402.4195,1130.162 123.74404,-123.7441 -5.65706,-5.657 34.64739,-14.84941 -14.8484,34.64841 -5.65658,-5.6566 -123.74404,123.744 z"
              fill="#000000"
              stroke="none"
@@ -2010,7 +2013,7 @@
              sodipodi:nodetypes="cccccccc"
              inkscape:label="north" />
           <path
-             id="node7_south_east_south_west"
+             id="arrow_node7_south_east_outgoing"
              d="m 535.88655,966.64529 -123.74404,123.74411 5.65686,5.6568 -34.64737,14.8494 14.84838,-34.6484 5.65685,5.6569 123.74404,-123.74411 z"
              fill="#000000"
              stroke="none"
@@ -2020,51 +2023,51 @@
           <text
              xml:space="preserve"
              transform="matrix(0.61311236,-0.61311236,0.8155112,0.8155112,0,0)"
-             id="node7_south_east_south_west_number_text"
+             id="arrow_node7_south_east_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_south"
              x="-1821.7715"
              y="136.17253"><tspan
                x="-664.74414"
                y="924.06604"
-               id="node7_south_east_south_west_number_tspan"
+               id="arrow_node7_south_east_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.61311236,-0.61311236,0.8155112,0.8155112,0,0)"
-             id="node7_south_east_north_east_number_text"
+             id="arrow_node7_south_east_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_north"
              x="-1821.7743"
              y="165.00264"><tspan
                x="-664.74701"
                y="952.89606"
-               id="node7_south_east_north_east_number_tspan"
+               id="arrow_node7_south_east_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.61288598,-0.61288598,0.81581243,0.81581243,0,0)"
-             id="node7_south_east_sum_text"
+             id="arrows_node7_south_east_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
              inkscape:label="sum"
              x="-1822.7355"
              y="191.67723"><tspan
                x="-665.28058"
                y="979.86206"
-               id="node7_south_east_sum_tspan"
+               id="arrows_node7_south_east_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
              d="m 301.546,1256.8464 69.29647,-69.2964 1.73241,1.7324 -69.29647,69.2964 z"
-             id="node7_south_east_sum_line"
+             id="arrows_node7_south_east_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
         </g>
         <g
-           id="node7_north_west"
+           id="arrows_node7_north_west"
            inkscape:label="node7_west">
           <path
-             id="node7_north_west_north_east"
+             id="arrow_node7_north_west_incoming"
              d="m 284.865,1012.6075 123.74404,-123.74411 -5.65706,-5.657 34.64739,-14.8494 -14.8484,34.6484 -5.65658,-5.6566 -123.74404,123.74401 z"
              fill="#000000"
              stroke="none"
@@ -2072,7 +2075,7 @@
              sodipodi:nodetypes="cccccccc"
              inkscape:label="north" />
           <path
-             id="node7_north_west_south_west"
+             id="arrow_node7_north_west_outgoing"
              d="m 418.33205,849.08729 -123.74404,123.7441 5.65686,5.6568 -34.64737,14.8494 14.84838,-34.6484 5.65685,5.6569 123.74404,-123.7441 z"
              fill="#000000"
              stroke="none"
@@ -2082,43 +2085,43 @@
           <text
              xml:space="preserve"
              transform="matrix(0.61311236,-0.61311236,0.8155112,0.8155112,0,0)"
-             id="node7_north_west_south_west_number_text"
+             id="arrow_node7_north_west_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_south"
              x="-1821.7744"
              y="-7.9778929"><tspan
                x="-664.74695"
                y="779.91565"
-               id="node7_north_west_south_west_number_tspan"
+               id="arrow_node7_north_west_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.61311236,-0.61311236,0.8155112,0.8155112,0,0)"
-             id="node7_north_west_north_east_number_text"
+             id="arrow_node7_north_west_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_north"
              x="-1821.7715"
              y="20.852285"><tspan
                x="-664.74414"
                y="808.74573"
-               id="node7_north_west_north_east_number_tspan"
+               id="arrow_node7_north_west_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.61288598,-0.61288598,0.81581243,0.81581243,0,0)"
-             id="node7_north_west_sum_text"
+             id="arrows_node7_north_west_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
              inkscape:label="sum"
              x="-1822.7325"
              y="47.580002"><tspan
                x="-665.27777"
                y="835.76489"
-               id="node7_north_west_sum_tspan"
+               id="arrows_node7_north_west_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
              d="m 183.988,1139.2884 69.29647,-69.2964 1.73241,1.7324 -69.29647,69.2964 z"
-             id="node7_north_west_sum_line"
+             id="arrows_node7_north_west_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
         </g>
@@ -2217,14 +2220,14 @@
       </g>
       <g
          inkscape:groupmode="layer"
-         id="node8_arrows"
+         id="arrows_node8"
          inkscape:label="node8_arrows">
         <g
            inkscape:groupmode="layer"
-           id="node8_south_west"
+           id="arrows_node8_south_west"
            inkscape:label="node8_south">
           <path
-             id="node8_south_west_north_west"
+             id="arrow_node8_south_west_outgoing"
              d="M 433.35729,535.88655 309.61325,412.14251 303.9564,417.79937 289.107,383.152 l 34.64839,14.84838 -5.65686,5.65685 123.74404,123.74404 z"
              fill="#000000"
              stroke="none"
@@ -2232,7 +2235,7 @@
              sodipodi:nodetypes="cccccccc"
              inkscape:label="west" />
           <path
-             id="node8_south_west_south_east"
+             id="arrow_node8_south_west_incoming"
              d="m 269.83728,402.4195 123.74404,123.74404 5.65685,-5.65686 14.84939,34.64739 -34.64838,-14.8484 5.65686,-5.65685 L 261.352,410.90478 Z"
              fill="#000000"
              stroke="none"
@@ -2242,52 +2245,52 @@
           <text
              xml:space="preserve"
              transform="matrix(0.61311236,0.61311236,-0.8155112,0.8155112,0,0)"
-             id="node8_south_west_north_west_number_text"
+             id="arrow_node8_south_west_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_west"
              x="-681.18036"
              y="-722.18488"><tspan
                x="475.84692"
                y="65.708733"
-               id="node8_south_west_north_west_number_tspan"
+               id="arrow_node8_south_west_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.61311236,0.61311236,-0.8155112,0.8155112,0,0)"
-             id="node8_south_west_south_east_number_text"
+             id="arrow_node8_south_west_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_east"
              x="-681.18329"
              y="-693.35461"><tspan
                x="475.84406"
                y="94.538795"
-               id="node8_south_west_south_east_number_tspan"
+               id="arrow_node8_south_west_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.61288598,0.61288598,-0.81581243,0.81581243,0,0)"
-             id="node8_south_west_sum_text"
+             id="arrows_node8_south_west_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
              inkscape:label="sum"
              x="-680.59656"
              y="-666.3642"><tspan
                x="476.85815"
                y="121.82064"
-               id="node8_south_west_sum_tspan"
+               id="arrows_node8_south_west_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
              d="m 143.15341,301.546 69.29647,69.29647 -1.73241,1.73241 -69.29647,-69.29647 z"
-             id="node8_south_west_sum_line"
+             id="arrows_node8_south_west_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
         </g>
         <g
            inkscape:groupmode="layer"
-           id="node8_north_east"
+           id="arrows_node8_north_east"
            inkscape:label="node8_north">
           <path
-             id="node8_north_east_north_west"
+             id="arrow_node8_north_east_outgoing"
              d="m 550.91179,418.33205 -123.74404,-123.74404 -5.65685,5.65686 -14.8494,-34.64737 34.64839,14.84838 -5.65686,5.65685 123.74404,123.74404 z"
              fill="#000000"
              stroke="none"
@@ -2295,7 +2298,7 @@
              sodipodi:nodetypes="cccccccc"
              inkscape:label="west" />
           <path
-             id="node8_north_east_south_east"
+             id="arrow_node8_north_east_incoming"
              d="m 387.39528,284.865 123.74404,123.74404 5.65685,-5.65686 14.84939,34.64739 -34.64838,-14.8484 5.65686,-5.65685 L 378.91,293.35028 Z"
              fill="#000000"
              stroke="none"
@@ -2305,43 +2308,43 @@
           <text
              xml:space="preserve"
              transform="matrix(0.61311236,0.61311236,-0.8155112,0.8155112,0,0)"
-             id="node8_north_east_north_west_number_text"
+             id="arrow_node8_north_east_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_west"
              x="-681.18323"
              y="-866.33521"><tspan
                x="475.84406"
                y="-78.441643"
-               id="node8_north_east_north_west_number_tspan"
+               id="arrow_node8_north_east_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.61311236,0.61311236,-0.8155112,0.8155112,0,0)"
-             id="node8_north_east_south_east_number_text"
+             id="arrow_node8_north_east_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_east"
              x="-681.18036"
              y="-837.505"><tspan
                x="475.84692"
                y="-49.611568"
-               id="node8_north_east_south_east_number_tspan"
+               id="arrow_node8_north_east_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="matrix(0.61288598,0.61288598,-0.81581243,0.81581243,0,0)"
-             id="node8_north_east_sum_text"
+             id="arrows_node8_north_east_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
              inkscape:label="sum"
              x="-680.59656"
              y="-810.45923"><tspan
                x="476.85815"
                y="-22.274359"
-               id="node8_north_east_sum_tspan"
+               id="arrows_node8_north_east_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
              d="m 260.71141,183.988 69.29647,69.29647 -1.73241,1.73241 -69.29647,-69.29647 z"
-             id="node8_north_east_sum_line"
+             id="arrows_node8_north_east_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
         </g>
