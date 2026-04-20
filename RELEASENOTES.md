@@ -9,6 +9,7 @@
 * Fix um beim Abwählen von Knotenarmen im Adminportal die entsprechenden Verkehrsbeziehungen zu löschen ([FV-296](https://jira.muenchen.de/browse/FV-296))
 * Validierungen der Zählarten QjS, FjS und Qu beim Erstellen und Bearbeiten von Zählungen im Adminportal entfernt, um ein einheitliches Speicherverhalten umzusetzen ([FV-287](https://jira.muenchen.de/browse/FV-287))
 * Bugfix: Beim Download des CSV-Musters im Selfservice-Portal enthält der Dateiname nun das Datum im korrekten Format `YYYY-MM-DD` ([FV-303](https://jira.muenchen.de/browse/FV-303))
+* Bugfix: Bei der Funktion zur Prüfung eines Kalendertages bezüglich Auffälligkeiten im Adminportal kann nur noch ein Kalendertag in der Vergangenheit gewählt werden. ([FV-138](https://jira.muenchen.de/browse/FV-138))
 
 ## [Sprint 8] 2026-03-18 - 2026-04-01
 * Darstellung des Belastungsplans für Zählungsart QjS implementiert ([FV-181](https://jira.muenchen.de/browse/FV-181))
