@@ -4,7 +4,12 @@ on:
   push:
     branches:
       - FV-327_Tech-Zentrale-Steuerung-des-Releasings
-
+  workflow_dispatch:
+    inputs:
+      param1:
+        description: "param1"
+        required: true
+        default: "1.0.0"
 jobs:
   trigger:
     runs-on: ubuntu-latest
@@ -18,5 +23,5 @@ jobs:
           event-type: custom_event
           client-payload: |
             {
-              "param1": "Wert für Parameter"
+              "param1": "${{ github.event.inputs.param1 }}"
             }
