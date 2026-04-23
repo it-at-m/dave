@@ -14,6 +14,11 @@ jobs:
   trigger:
     runs-on: ubuntu-latest
     steps:
+      - name: Empfangene Parameter anzeigen
+        env:
+          PARAM1: ${{ inputs.param1 }}
+        run: |
+          echo "Parameter 1: $PARAM1"
       - name: Dispatch an other repository workflow
         uses: peter-evans/repository-dispatch@v2
         with:
