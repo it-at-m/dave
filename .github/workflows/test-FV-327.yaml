@@ -1,0 +1,22 @@
+name: test-FV-327
+
+on:
+  push:
+    branches:
+      - FV-327_Tech-Zentrale-Steuerung-des-Releasings
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch an other repository workflow
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          # token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: it-at-m/dave-backend  # Ersetze durch das Ziel-Repository
+          event-type: custom_event
+          client-payload: |
+            {
+              "param1": "Wert für Parameter"
+            }
