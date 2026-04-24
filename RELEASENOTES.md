@@ -13,6 +13,7 @@
 * Bugfix: Hinzufügen des neuen Profil `no-security-messwerte-eai` um den abgesicherten Zugriff auf die messwerte-eai ein oder ausschalten zu können.. ([FV-322](https://jira.muenchen.de/browse/FV-322))
 * Anpassung Filtermenü Zählungsvergleich Zeitreihe für die neuen Zählarten ([FV-262](https://jira.muenchen.de/browse/FV-262))
 * Ersetzen der Checkbox "Alles auswählen" im Adminportal im Reiter Verkehrsarten durch einen Button und Beheben eines Bugs bei dem der Text der Checkbox/des Buttons "Alles auswählen" anzeigt, obwohl alle Verkehrsarten ausgewählt sind. Außerdem werden die Verkehrsarten bei Änderung im Adminportal nun korrekt gespeichert.  ([FV-323](https://jira.muenchen.de/browse/FV-323))
+* Darstellung Belastungsplan Querungsverkehr ([FV-183](https://jira.muenchen.de/browse/FV-183)).
 
 ## [Sprint 8] 2026-03-18 - 2026-04-01
 * Darstellung des Belastungsplans für Zählungsart QjS implementiert ([FV-181](https://jira.muenchen.de/browse/FV-181))
