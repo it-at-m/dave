@@ -14,6 +14,7 @@
 * Anpassung Filtermenü Zählungsvergleich Zeitreihe für die neuen Zählarten ([FV-262](https://jira.muenchen.de/browse/FV-262))
 * Ersetzen der Checkbox "Alles auswählen" im Adminportal im Reiter Verkehrsarten durch einen Button und Beheben eines Bugs bei dem der Text der Checkbox/des Buttons "Alles auswählen" anzeigt, obwohl alle Verkehrsarten ausgewählt sind. Außerdem werden die Verkehrsarten bei Änderung im Adminportal nun korrekt gespeichert.  ([FV-323](https://jira.muenchen.de/browse/FV-323))
 * Darstellung Belastungsplan Querungsverkehr ([FV-183](https://jira.muenchen.de/browse/FV-183)).
+* Bugfix: Im Zeitauswahl Filter für bestehende Zählarten ist Tageswert ausgegraut wenn nur Rad gewählt ist bei 24h Zählungen ([FV-270](https://jira.muenchen.de/browse/FV-270)).
 
 ## [Sprint 8] 2026-03-18 - 2026-04-01
 * Darstellung des Belastungsplans für Zählungsart QjS implementiert ([FV-181](https://jira.muenchen.de/browse/FV-181))
