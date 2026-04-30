@@ -1,7 +1,7 @@
 # Release-Notes
 
 ## [Sprint 10] 2026-04-29 - 2026-05-20
-* 
+* Ausweisung der Zählwerte im BLP für QjS-Zählungen implementiert ([FV-237](https://jira.muenchen.de/browse/FV-237))
 
 ## [Sprint 9] 2026-04-01 - 2026-04-29
 * Refaktoring zum Speichern der Zählungen. Beim persistieren der Zählung werden keine Aggregationen über mehrere Bewegungsbeziehungen (Verkehrsbeziehung, Längsverkehr oder Querungsverkehr) mehr durchgeführt. Dies wird nun beim Laden der Zähldaten gemacht. Zusätzlich findet beim persistieren keine Ermittlung der Spitzenstunde mehr statt. Dies wird ebenfalls beim Laden und nach der Aggregationen über die Bewegungsbeziehungen durchgeführt. Es handelt sich um eine Schnittstellenänderung, die nicht rückwärtskompatibel ist. ([FV-126](https://jira.muenchen.de/browse/FV-126))
