@@ -43,6 +43,13 @@ as in [dave-backend application.yml](https://github.com/it-at-m/dave-backend/blo
 
 [This ConfigMap must be created as a template.](https://github.com/it-at-m/helm-charts/issues/98)
 
+### Map layers
+
+The maps displayed in DAVe can be configured in the [dave-backend application.yml](https://github.com/it-at-m/dave-backend/blob/sprint/src/main/resources/application.yml). The two variables `dave.map.base-layers` and `dave.map.overlay-layers` each contain a list of map layers.
+
+The map layers configured in the `dave.map.base-layers` variable are the base maps. By default, the first item in the list is displayed in DAVe. Other maps can be selected in the GUI. At least one map layer must be configured for the backend to start.
+
+The overlay layers configured in the `dave.map.overlay-layers` variable can be displayed in addition to the base maps. They can be selected in the GUI. These layers can represent features such as city districts or traffic light locations on the map.
 
 ## Deploy
 
