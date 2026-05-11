@@ -8,6 +8,7 @@
 * Konfigurative Einbindung der Kartenlayer in die Anwendung implementiert ([FV-34](https://jira.muenchen.de/browse/FV-34))
 * Bugfix: Stadtbezirke, Stadtviertel und Lichtsignalanlagen werden auf der Karte nun angezeigt ([FV-315](https://jira.muenchen.de/browse/FV-315))
 * Bugfix: Der Export der Listenausgabe funktioniert nun. Bisher wurde eine Fehlermeldung geliefert ([FV-319](https://jira.muenchen.de/browse/FV-319))
+* Bugfix: Die schematische Darstellung beim PDF-Export der Listenausgabe ist nun korrekt ausgerichtet ([FV-320](https://jira.muenchen.de/browse/FV-320))
   
 ## [Sprint 9] 2026-04-01 - 2026-04-29
 * Refaktoring zum Speichern der Zählungen. Beim persistieren der Zählung werden keine Aggregationen über mehrere Bewegungsbeziehungen (Verkehrsbeziehung, Längsverkehr oder Querungsverkehr) mehr durchgeführt. Dies wird nun beim Laden der Zähldaten gemacht. Zusätzlich findet beim persistieren keine Ermittlung der Spitzenstunde mehr statt. Dies wird ebenfalls beim Laden und nach der Aggregationen über die Bewegungsbeziehungen durchgeführt. Es handelt sich um eine Schnittstellenänderung, die nicht rückwärtskompatibel ist. ([FV-126](https://jira.muenchen.de/browse/FV-126))
