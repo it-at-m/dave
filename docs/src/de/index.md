@@ -38,6 +38,13 @@ Diese Datei muss dann über ConfigMap zum Klassenpfad hinzugefügt werden.
 
 [Diese ConfigMap muss als Vorlage erstellt werden.](https://github.com/it-at-m/helm-charts/issues/98)
 
+### Kartenlayer
+
+Die in DAVe dargestellten Karten können in der [dave-backend application.yml](https://github.com/it-at-m/dave-backend/blob/sprint/src/main/resources/application.yml) konfiguriert werden. Die beiden Variablen `dave.tenant.map.base-layers` und `dave.tenant.map.overlay-layers` enthalten jeweils eine Liste von Kartenlayern.
+
+Die in der Variable `dave.tenant.map.base-layers` konfigurierten Kartenlayer sind die Grundkarten. Standardmäßig wird das erste Listenelement in DAVe dargestellt. Die anderen Karten können in der GUI ausgewählt werden. Damit das Backend startet, muss mindestens ein Kartenlayer konfiguriert sein.
+
+Die in der Variable `dave.tenant.map.overlay-layers` konfigurierten Overlay-Layer können zusätzlich zu den Grundkarten angezeigt werden. Hierzu können sie in der GUI selektiert werden. Diese Layer können z.B. Stadtbezirke oder Ampelanlagen auf der Karte darstellen.
 
 ## Bereitstellung
 
