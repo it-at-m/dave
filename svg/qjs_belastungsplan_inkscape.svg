@@ -31,15 +31,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="5.5192084"
-     inkscape:cx="1352.9114"
-     inkscape:cy="1359.7059"
+     inkscape:zoom="1.9513349"
+     inkscape:cx="495.04574"
+     inkscape:cy="720.78864"
      inkscape:window-width="2400"
      inkscape:window-height="1261"
      inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="legend-massstab">
+     inkscape:current-layer="querschnitt">
     <inkscape:grid
        id="grid6"
        units="mm"
@@ -95,11 +95,11 @@
           <path
              style="fill:#000000;stroke-width:40.9429"
              d="m 210,860.99999 v -28 h 945 v 27.997 z"
-             id="path4"
+             id="shaft4"
              inkscape:label="shaft4" />
           <path
-             style="fill:none;stroke:#999999;stroke-width:2.16791;stroke-dasharray:none;stroke-opacity:1"
-             id="spike1-1-2"
+             style="fill:none;stroke:#999999;stroke-width:3.56534362;stroke-dasharray:none;stroke-opacity:1"
+             id="tip4"
              d="m 1185.2756,846.90645 -25.6219,-23.12416 -0.023,46.18828 z"
              inkscape:label="tip4" />
         </g>
@@ -109,11 +109,11 @@
           <path
              style="fill:#000000;stroke-width:40.9429"
              d="m 245,804.99999 v -28 h 945 v 27.997 z"
-             id="path3"
+             id="shaft3"
              inkscape:label="shaft3" />
           <path
-             style="fill:none;stroke:#999999;stroke-width:2.18702;stroke-dasharray:none;stroke-opacity:1"
-             id="spike1-8"
+             style="fill:none;stroke:#999999;stroke-width:3.56444817;stroke-dasharray:none;stroke-opacity:1"
+             id="tip3"
              d="m 214.63682,790.97633 26.08617,-23.11468 0.0228,46.16934 z"
              inkscape:label="tip3" />
         </g>
@@ -123,11 +123,11 @@
           <path
              style="fill:#000000;stroke-width:40.9697"
              d="m 208.76948,623 v -28 h 946.23042 v 27.997 z"
-             id="path2"
+             id="shaft2"
              inkscape:label="shaft2" />
           <path
-             style="fill:none;stroke:#999999;stroke-width:2.17712;stroke-dasharray:none;stroke-opacity:1"
-             id="spike1-1"
+             style="fill:none;stroke:#999999;stroke-width:3.56444817;stroke-dasharray:none;stroke-opacity:1"
+             id="tip2"
              d="m 1185.3392,609.06858 -25.8454,-23.11937 -0.023,46.17872 z"
              inkscape:label="tip2" />
         </g>
@@ -137,25 +137,25 @@
           <path
              style="fill:#000000;stroke-width:41.0017"
              d="m 245,567 v -28 h 947.7096 v 27.998 z"
-             id="path1"
+             id="shaft1"
              inkscape:label="shaft1" />
           <path
-             style="fill:none;stroke:#999999;stroke-width:3.52664;stroke-dasharray:none;stroke-opacity:1"
-             id="spike1"
+             style="fill:none;stroke:#999999;stroke-width:3.56487815;stroke-dasharray:none;stroke-opacity:1"
+             id="tip1"
              d="m 215.41832,552.93766 25.53182,-23.11785 0.0223,46.17569 z"
              inkscape:label="tip1" />
         </g>
       </g>
       <g
-         id="layer1"
+         id="zaehlwerte"
          inkscape:label="zaehlwerte">
         <g
-           id="layer2"
+           id="zaehlwerteArrowsThreeFour"
            inkscape:label="zaehlwerteArrowsThreeFour">
           <text
              xml:space="preserve"
              transform="scale(0.86707182,1.153307)"
-             id="text3"
+             id="zaehlwertArrowThree"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6944px;font-family:Roboto,Arial,Helvetica,sans-serif;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              x="376.95462"
              y="-93.991508"
@@ -167,7 +167,7 @@
           <text
              xml:space="preserve"
              transform="scale(0.86707182,1.153307)"
-             id="text4"
+             id="zaehlwertArrowFour"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6944px;font-family:Roboto,Arial,Helvetica,sans-serif;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              x="376.95462"
              y="-45.435368"
@@ -179,12 +179,12 @@
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
              d="m 1231.93,859.24999 h 98 v 2.45 h -98 z"
-             id="path5-1"
+             id="separatorThreeFour"
              inkscape:label="separatorThreeFour" />
           <text
              xml:space="preserve"
              transform="scale(0.86675167,1.153733)"
-             id="text5"
+             id="sumArrowsThreeFour"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.6944px;font-family:Roboto,Arial,Helvetica,sans-serif;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
              x="377.93076"
              y="-18.683392"
@@ -195,12 +195,12 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.6944442px;font-family:Roboto,Arial,Helvetica,sans-serif;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
         </g>
         <g
-           id="layer3"
+           id="zaehlwerteArrowsOneTwo"
            inkscape:label="zaehlwerteArrowsOneTwo">
           <text
              xml:space="preserve"
              transform="scale(0.86707182,1.153307)"
-             id="node4_north_west_number_text"
+             id="zaehlwertArrowOne"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6944px;font-family:Roboto,Arial,Helvetica,sans-serif;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              x="-985.63147"
              y="-300.35461"
@@ -212,12 +212,12 @@
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
              d="m 50.47,621.25 h 98 v 2.45 h -98 z"
-             id="path5"
+             id="separatorOneTwo"
              inkscape:label="separatorOneTwo" />
           <text
              xml:space="preserve"
              transform="scale(0.86707182,1.153307)"
-             id="node4_north_east_number_text"
+             id="zaehlwertArrowTwo"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6944px;font-family:Roboto,Arial,Helvetica,sans-serif;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              x="-985.63147"
              y="-251.79846"
@@ -229,7 +229,7 @@
           <text
              xml:space="preserve"
              transform="scale(0.86675167,1.153733)"
-             id="node4_north_sum_text"
+             id="sumArrowsOneTwo"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.6944px;font-family:Roboto,Arial,Helvetica,sans-serif;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
              x="-985.15863"
              y="-224.97026"
@@ -242,7 +242,7 @@
         <text
            xml:space="preserve"
            transform="scale(0.86675167,1.153733)"
-           id="node4_sum_text"
+           id="sumArrowsOneToFourRight"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.6944px;font-family:Roboto,Arial,Helvetica,sans-serif;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
            x="377.93076"
            y="-171.53239"
@@ -254,7 +254,7 @@
         <text
            xml:space="preserve"
            transform="scale(0.86675167,1.153733)"
-           id="text2"
+           id="sumArrowsOneToFourLeft"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.6944px;font-family:Roboto,Arial,Helvetica,sans-serif;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
            x="-985.15863"
            y="-171.53239"
