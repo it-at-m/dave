@@ -74,7 +74,7 @@
          d="m 399.4343,-24.60083 105.23313,182.26914 -210.46627,-1e-5 z"
          transform="matrix(0.16996929,0,0,0.4104001,81.91578,36.842952)" />
       <text
-         xml:space="preserve"
+         xml:space="default"
          id="compass1"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6944px;font-family:RomanD;-inkscape-font-specification:'RomanD, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:2.2868"
          x="141.28041"
@@ -141,18 +141,18 @@
            id="node1_number">
           <circle
              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.597525;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-             id="node1_circle"
+             id="node1_number_circle"
              cx="700"
              cy="614.25"
              r="11.951238" />
           <text
-             xml:space="preserve"
+             xml:space="default"
              style="font-size:19.7624px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:30.9229"
-             id="node1_circle_text"
+             id="node1_number_text"
              y="622.00684"
              x="693.53955"><tspan
                style="stroke-width:30.9229"
-               id="node1_circle_tspan"
+               id="node1_number_tspan"
                x="693.53955"
                y="622.00684">1</tspan></text>
         </g>
@@ -338,7 +338,7 @@
              cy="700"
              r="11.951238" />
           <text
-             xml:space="preserve"
+             xml:space="default"
              style="font-size:19.7624px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:30.9229"
              id="node2_number_text"
              y="707.33368"
@@ -518,7 +518,7 @@
              cy="785.75"
              r="11.951238" />
           <text
-             xml:space="preserve"
+             xml:space="default"
              style="font-size:19.7624px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:30.9229"
              id="node3_number_text"
              y="792.38141"
@@ -699,7 +699,7 @@
              cy="700"
              r="11.951238" />
           <text
-             xml:space="preserve"
+             xml:space="default"
              style="font-size:19.7624px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:30.9229"
              id="node4_number_text"
              y="707.20343"
@@ -872,7 +872,7 @@
              cy="639.36597"
              r="11.951238" />
           <text
-             xml:space="preserve"
+             xml:space="default"
              style="font-size:19.7624px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:30.9229"
              id="node5_number_text"
              y="646.03784"
@@ -1066,7 +1066,7 @@
              cy="760.6344"
              r="11.951238" />
           <text
-             xml:space="preserve"
+             xml:space="default"
              style="font-size:19.7624px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:30.9229"
              id="node6_number_text"
              y="1118.2867"
@@ -1249,7 +1249,7 @@
              cy="760.63751"
              r="11.951238" />
           <text
-             xml:space="preserve"
+             xml:space="default"
              style="font-size:19.7624px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:30.9229"
              id="node7_number_text"
              y="767.69238"
@@ -1431,7 +1431,7 @@
              cy="639.36597"
              r="11.951238" />
           <text
-             xml:space="preserve"
+             xml:space="default"
              style="font-size:19.7624px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:30.9229"
              id="node8_number_text"
              y="646.78491"
