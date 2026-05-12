@@ -516,7 +516,7 @@
            inkscape:label="north_number"
            style="stroke-width:28.22049979;stroke-dasharray:none">
           <circle
-             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:28.22049979;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.597525;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
              id="node1_circle"
              cx="700"
              cy="614.25"
@@ -668,7 +668,7 @@
            inkscape:label="east_number"
            style="stroke-width:28.2205;stroke-dasharray:none">
           <circle
-             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:28.2205;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.597525;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
              id="node2_circle"
              cx="785.75"
              cy="700"
@@ -810,7 +810,7 @@
            inkscape:label="south_number"
            style="stroke-width:28.22049979;stroke-dasharray:none">
           <circle
-             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:28.22049979;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.597525;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
              id="node3_circle"
              cx="700"
              cy="785.75"
@@ -955,7 +955,7 @@
            inkscape:label="west_number"
            style="stroke-width:28.22049979;stroke-dasharray:none">
           <circle
-             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:28.22049979;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.597525;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
              id="node4_circle"
              cx="614.25"
              cy="700"

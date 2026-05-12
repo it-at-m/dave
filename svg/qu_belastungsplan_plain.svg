@@ -36,7 +36,7 @@
            id="node1_number"
            style="stroke-width:28.2205;stroke-dasharray:none">
           <circle
-             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:28.2205;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.597525;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
              id="node1_circle"
              cx="700"
              cy="614.25"
@@ -169,7 +169,7 @@
            id="node2_number"
            style="stroke-width:28.2205;stroke-dasharray:none">
           <circle
-             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:28.2205;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.597525;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
              id="node2_circle"
              cx="785.75"
              cy="700"
@@ -292,7 +292,7 @@
            id="node3_number"
            style="stroke-width:28.2205;stroke-dasharray:none">
           <circle
-             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:28.2205;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.597525;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
              id="node3_circle"
              cx="700"
              cy="785.75"
@@ -416,7 +416,7 @@
            id="node4_number"
            style="stroke-width:28.2205;stroke-dasharray:none">
           <circle
-             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:28.2205;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.597525;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
              id="node4_circle"
              cx="614.25"
              cy="700"
