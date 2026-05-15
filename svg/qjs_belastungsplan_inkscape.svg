@@ -246,17 +246,15 @@
          id="legend-zaehlinfo"
          style="stroke-width:28.2205;stroke-dasharray:none"
          inkscape:label="legend-zaehlinfo"
-         transform="translate(50.006244,31.659644)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Roboto, Arial, Helvetica, sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
            id="verkehrsart"
-           x="168.24969"
-           y="1230.3373"
-           inkscape:label="verkehrsart"
-           transform="matrix(1.000004,0,0,1,-152.56418,35.000043)"><tspan
-             x="168.24969"
-             y="1230.3373"
+           x="56.24969"
+           y="1310.3373"
+           inkscape:label="verkehrsart"><tspan
+             x="56.24969"
+             y="1310.3373"
              id="tspan14"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
                id="tspan13">FUSS</tspan></tspan></text>
@@ -264,16 +262,15 @@
            id="zaehlzeit2"
            style="stroke-width:28.2205;stroke-dasharray:none"
            inkscape:label="zaehlzeit2"
-           transform="translate(-152.29421)">
           <text
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Roboto, Arial, Helvetica, sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
              id="zaehlzeit2-multirow"
-             x="168"
-             y="1210"
+             x="56.24969"
+             y="1257"
              inkscape:label="zaehlzeit2-multirow"><tspan
-               x="168"
-               y="1210"
+               x="56.24969"
+               y="1257"
                id="tspan15">hochgerechnet</tspan></text>
         </g>
         <g
@@ -284,12 +281,11 @@
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Roboto, Arial, Helvetica, sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
              id="zaehlzeit1-multirow"
-             x="168.24969"
-             y="1190.3373"
-             transform="translate(-150.84646,0.00162031)"
+             x="56.24969"
+             y="1231.3373"
              inkscape:label="zaehlzeit1-multirow"><tspan
-               x="168.24969"
-               y="1190.3373"
+               x="56.24969"
+               y="1231.3373"
                id="tspan17"><tspan
                  style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
                  id="tspan16">Tageswert</tspan></tspan></text>
