@@ -17,7 +17,7 @@ jobs:
       - name: Dispatch an other repository workflow
         uses: peter-evans/repository-dispatch@v2
         with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN2 }}
+          token: ${{ secrets.FINE_GRAINED_TOKEN }}
           # token: ${{ secrets.GITHUB_TOKEN }}
           repository: it-at-m/dave-backend  # Ersetze durch das Ziel-Repository
           event-type: custom_event
