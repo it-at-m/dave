@@ -49,26 +49,15 @@
       <g
          id="arrows">
         <g
-           id="arrow4">
+           id="arrow1">
           <path
-             style="fill:#000000;stroke-width:40.1798"
-             d="m 244.89933,860.99999 v -28 H 1155 v 27.997 z"
-             id="shaft4" />
+             style="fill:#000000;stroke-width:40.1656"
+             d="m 245,567 v -28 h 909.4546 v 27.998 z"
+             id="shaft1" />
           <path
-             style="fill:none;stroke:#000000;stroke-width:1.75413;stroke-dasharray:none;stroke-opacity:1"
-             id="tip4"
-             d="m 1178.1774,846.90543 -18.6954,-22.33904 -0.017,44.62008 z" />
-        </g>
-        <g
-           id="arrow3">
-          <path
-             style="fill:#000000;stroke-width:40.1798"
-             d="m 245,804.99999 v -28 h 910.1007 v 27.997 z"
-             id="shaft3" />
-          <path
-             style="fill:none;stroke:#000000;stroke-width:1.7698;stroke-dasharray:none;stroke-opacity:1"
-             id="tip3"
-             d="m 221.49329,791.09394 19.39305,-22.32164 0.0169,44.58532 z" />
+             style="fill:none;stroke:#000000;stroke-width:2.08902;stroke-dasharray:none;stroke-opacity:1"
+             id="tip1"
+             d="m 221.73348,553.05942 19.31149,-25.58133 0.0167,51.09625 z" />
         </g>
         <g
            id="arrow2">
@@ -82,53 +71,48 @@
              d="m 1178.1206,609.06771 -18.7975,-22.45207 -0.017,44.84587 z" />
         </g>
         <g
-           id="arrow1">
+           id="arrow3">
           <path
-             style="fill:#000000;stroke-width:40.1656"
-             d="m 245,567 v -28 h 909.4546 v 27.998 z"
-             id="shaft1" />
+             style="fill:#000000;stroke-width:40.1798"
+             d="m 245,804.99999 v -28 h 910.1007 v 27.997 z"
+             id="shaft3" />
           <path
-             style="fill:none;stroke:#000000;stroke-width:2.08902;stroke-dasharray:none;stroke-opacity:1"
-             id="tip1"
-             d="m 221.73348,553.05942 19.31149,-25.58133 0.0167,51.09625 z" />
+             style="fill:none;stroke:#000000;stroke-width:1.7698;stroke-dasharray:none;stroke-opacity:1"
+             id="tip3"
+             d="m 221.49329,791.09394 19.39305,-22.32164 0.0169,44.58532 z" />
+        </g>
+        <g
+           id="arrow4">
+          <path
+             style="fill:#000000;stroke-width:40.1798"
+             d="m 244.89933,860.99999 v -28 H 1155 v 27.997 z"
+             id="shaft4" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1.75413;stroke-dasharray:none;stroke-opacity:1"
+             id="tip4"
+             d="m 1178.1774,846.90543 -18.6954,-22.33904 -0.017,44.62008 z" />
         </g>
       </g>
       <g
          id="zaehlwerte">
-        <g
-           id="zaehlwerteArrowsThreeFour">
-          <text
-             xml:space="preserve"
-             id="sumArrowsThreeFour"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-             x="1274.8474"
-             y="884.09052"><tspan
-               id="tspan37"
-               x="1274.8474"
-               y="884.09052">123456</tspan></text>
-          <path
-             style="fill:#000000;fill-opacity:1;stroke-width:13.4005"
-             d="m 1186.6029,862.50248 h 87.5595 v 0.55173 h -87.5595 z"
-             id="separatorThreeFour" />
-          <text
-             xml:space="preserve"
-             id="zaehlwertArrowFour"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="1273.3658"
-             y="855.68152"><tspan
-               id="tspan14"
-               x="1273.3658"
-               y="855.68152">123456</tspan></text>
-          <text
-             xml:space="preserve"
-             id="zaehlwertArrowThree"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="1274.4691"
-             y="799.2951"><tspan
-               id="tspan39"
-               x="1274.4691"
-               y="799.2951">123456</tspan></text>
-        </g>
+        <text
+           xml:space="preserve"
+           id="sumArrowsOneToFourLeft"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
+           x="215.22824"
+           y="707.44586"><tspan
+             id="tspan32"
+             x="215.22824"
+             y="707.44586">123456</tspan></text>
+        <text
+           xml:space="preserve"
+           id="sumArrowsOneToFourRight"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
+           x="1274.7208"
+           y="708.8515"><tspan
+             id="tspan33"
+             x="1274.7208"
+             y="708.8515">123456</tspan></text>
         <g
            id="zaehlwerteArrowsOneTwo">
           <text
@@ -140,10 +124,6 @@
                id="tspan36"
                x="215.24681"
                y="562.0257">123456</tspan></text>
-          <path
-             style="fill:#000000;fill-opacity:1;stroke-width:3.26332;stroke-dasharray:none"
-             d="m 133.56306,621.30263 h 80.44096 v 1.0263 h -80.44096 z"
-             id="separatorOneTwo" />
           <text
              xml:space="preserve"
              id="zaehlwertArrowTwo"
@@ -152,7 +132,11 @@
              y="615.81903"><tspan
                id="tspan13"
                x="215.83165"
-               y="615.81903">215</tspan></text>
+               y="615.81903">123456</tspan></text>
+          <path
+             style="fill:#000000;fill-opacity:1;stroke-width:3.26332;stroke-dasharray:none"
+             d="m 133.56306,621.30263 h 80.44096 v 1.0263 h -80.44096 z"
+             id="separatorOneTwo" />
           <text
              xml:space="preserve"
              id="sumArrowsOneTwo"
@@ -163,127 +147,61 @@
                x="215.26794"
                y="642.70013">123456</tspan></text>
         </g>
-        <text
-           xml:space="preserve"
-           id="sumArrowsOneToFourRight"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-           x="1274.7208"
-           y="708.8515"><tspan
-             id="tspan33"
-             x="1274.7208"
-             y="708.8515">123456</tspan></text>
-        <text
-           xml:space="preserve"
-           id="sumArrowsOneToFourLeft"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-           x="215.22824"
-           y="707.44586"><tspan
-             id="tspan32"
-             x="215.22824"
-             y="707.44586">123456</tspan></text>
+        <g
+           id="zaehlwerteArrowsThreeFour">
+          <text
+             xml:space="preserve"
+             id="zaehlwertArrowThree"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
+             x="1274.4691"
+             y="799.2951"><tspan
+               id="tspan39"
+               x="1274.4691"
+               y="799.2951">123456</tspan></text>
+          <text
+             xml:space="preserve"
+             id="zaehlwertArrowFour"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
+             x="1273.3658"
+             y="855.68152"><tspan
+               id="tspan14"
+               x="1273.3658"
+               y="855.68152">123456</tspan></text>
+          <path
+             style="fill:#000000;fill-opacity:1;stroke-width:13.4005"
+             d="m 1186.6029,862.50248 h 87.5595 v 0.55173 h -87.5595 z"
+             id="separatorThreeFour" />
+          <text
+             xml:space="preserve"
+             id="sumArrowsThreeFour"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
+             x="1274.8474"
+             y="884.09052"><tspan
+               id="tspan37"
+               x="1274.8474"
+               y="884.09052">123456</tspan></text>
+        </g>
       </g>
     </g>
     <g
        id="legend">
       <g
-         id="legend-massstab">
-        <g
-           id="massstab-size2"
-           style="stroke-width:28.2205;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6944px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:268.729;display:inline;fill:#000000;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
-             id="massstab-size2-multirow"
-             x="1316.2496"
-             y="1315.3373"><tspan
-               x="1316.2496"
-               y="1315.3373"
-               id="tspan1">2000</tspan></text>
-        </g>
-        <g
-           id="massstab-size1"
-           style="stroke-width:28.2205;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6944px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:268.729;display:inline;fill:#000000;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
-             id="massstab-size1-multirow"
-             x="1250.2496"
-             y="1315.3373"><tspan
-               x="1250.2496"
-               y="1315.3373"
-               id="tspan2">1000</tspan></text>
-        </g>
-        <path
-           style="fill:#000000;stroke:#757575;stroke-width:1.50489;stroke-linecap:square;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
-           d="m 1252.7468,1284.8273 c 0.1805,8.9058 0.185,8.7945 0.185,8.7945 v 0"
-           id="massstab-path2" />
-        <path
-           style="fill:none;stroke:#757575;stroke-width:1.51785;stroke-linecap:square;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
-           d="m 1316.5243,1294.7302 -124.9982,-0.2134 124.9982,-19.8383 z"
-           id="massstab-path1" />
-      </g>
-      <g
-         id="legend-zaehlinfo"
-         style="stroke-width:28.2205;stroke-dasharray:none">
+         id="legend-compass">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Roboto, Arial, Helvetica, sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
-           id="verkehrsart"
-           x="56.249691"
-           y="1310.3373"><tspan
-             x="56.249691"
-             y="1310.3373"
-             id="tspan4"><tspan
-               style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
-               id="tspan3">FUSS</tspan></tspan></text>
-        <g
-           id="zaehlzeit2"
-           style="stroke-width:28.2205;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Roboto, Arial, Helvetica, sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
-             id="zaehlzeit2-multirow"
-             x="56.249691"
-             y="1257"><tspan
-               x="56.249691"
-               y="1257"
-               id="tspan5">hochgerechnet</tspan></text>
-        </g>
-        <g
-           id="zaehlzeit1"
-           style="stroke-width:28.2205;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Roboto, Arial, Helvetica, sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
-             id="zaehlzeit1-multirow"
-             x="56.249691"
-             y="1231.3373"><tspan
-               x="56.249691"
-               y="1231.3373"
-               id="tspan8"><tspan
-                 style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
-                 id="tspan7">Tageswert</tspan></tspan></text>
-        </g>
+           id="compass1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:RomanD;-inkscape-font-specification:'RomanD, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;fill-opacity:1;stroke-width:2.2868"
+           x="100.26942"
+           y="84.035934"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:RomanD;-inkscape-font-specification:'RomanD, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke-width:2.2868"
+             id="tspan6">N</tspan></text>
+        <path
+           style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:0.720914;stroke-linecap:butt;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
+           id="compass2"
+           d="m 107.4337,29.986817 13.91905,63.782102 H 106.06633 93.514636 Z" />
       </g>
       <g
          id="legend-zaehlstelle">
-        <g
-           id="zaehlstelle2"
-           style="stroke-width:28.2205;stroke-dasharray:none">
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Roboto, Arial, Helvetica, sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
-             id="zaehlstelle2-multirow"
-             x="1107.2496"
-             y="86.337341"><tspan
-               x="1107.2496"
-               y="86.337341"
-               id="tspan9">Stadtbezirk 8
-</tspan><tspan
-               x="1107.2496"
-               y="111.26053"
-               id="tspan10">Zähldatum: 01.01.2026</tspan></text>
-        </g>
         <g
            id="zaehlstelle1"
            style="stroke-width:28.2205;stroke-dasharray:none">
@@ -295,25 +213,107 @@
              y="60.337341"><tspan
                x="1107.2496"
                y="60.337341"
-               id="tspan12"><tspan
+               id="tspan16"><tspan
                  style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
-                 id="tspan11">Zählstelle 99999</tspan></tspan></text>
+                 id="tspan15">Zählstelle 99999</tspan></tspan></text>
+        </g>
+        <g
+           id="zaehlstelle2"
+           style="stroke-width:28.2205;stroke-dasharray:none">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Roboto, Arial, Helvetica, sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
+             id="zaehlstelle2-multirow"
+             x="1107.2496"
+             y="86.337341"><tspan
+               x="1107.2496"
+               y="86.337341"
+               id="tspan17">Stadtbezirk 8
+</tspan><tspan
+               x="1107.2496"
+               y="111.26053"
+               id="tspan18">Zähldatum: 01.01.2026</tspan></text>
         </g>
       </g>
       <g
-         id="legend-compass">
-        <path
-           style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:0.720914;stroke-linecap:butt;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
-           id="compass2"
-           d="m 107.4337,29.986817 13.91905,63.782102 H 106.06633 93.514636 Z" />
+         id="legend-zaehlinfo"
+         style="stroke-width:28.2205;stroke-dasharray:none">
+        <g
+           id="zaehlzeit1"
+           style="stroke-width:28.2205;stroke-dasharray:none">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Roboto, Arial, Helvetica, sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
+             id="zaehlzeit1-multirow"
+             x="56.249691"
+             y="1231.3373"><tspan
+               x="56.249691"
+               y="1231.3373"
+               id="tspan23"><tspan
+                 style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
+                 id="tspan22">Tageswert</tspan></tspan></text>
+        </g>
+        <g
+           id="zaehlzeit2"
+           style="stroke-width:28.2205;stroke-dasharray:none">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Roboto, Arial, Helvetica, sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
+             id="zaehlzeit2-multirow"
+             x="56.249691"
+             y="1257"><tspan
+               x="56.249691"
+               y="1257"
+               id="tspan24">hochgerechnet</tspan></text>
+        </g>
         <text
            xml:space="preserve"
-           id="compass1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:RomanD;-inkscape-font-specification:'RomanD, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;fill-opacity:1;stroke-width:2.2868"
-           x="100.26942"
-           y="84.035934"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:RomanD;-inkscape-font-specification:'RomanD, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke-width:2.2868"
-             id="tspan6">N</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Roboto, Arial, Helvetica, sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
+           id="verkehrsart"
+           x="56.249691"
+           y="1310.3373"><tspan
+             x="56.249691"
+             y="1310.3373"
+             id="tspan26"><tspan
+               style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
+               id="tspan25">FUSS</tspan></tspan></text>
+      </g>
+      <g
+         id="legend-massstab">
+        <path
+           style="fill:none;stroke:#757575;stroke-width:1.51785;stroke-linecap:square;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1316.5243,1294.7302 -124.9982,-0.2134 124.9982,-19.8383 z"
+           id="massstab-path1" />
+        <path
+           style="fill:#000000;stroke:#757575;stroke-width:1.50489;stroke-linecap:square;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1252.7468,1284.8273 c 0.1805,8.9058 0.185,8.7945 0.185,8.7945 v 0"
+           id="massstab-path2" />
+        <g
+           id="massstab-size1"
+           style="stroke-width:28.2205;stroke-dasharray:none">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6944px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:268.729;display:inline;fill:#000000;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
+             id="massstab-size1-multirow"
+             x="1250.2496"
+             y="1315.3373"><tspan
+               x="1250.2496"
+               y="1315.3373"
+               id="tspan27">1000</tspan></text>
+        </g>
+        <g
+           id="massstab-size2"
+           style="stroke-width:28.2205;stroke-dasharray:none">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6944px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:268.729;display:inline;fill:#000000;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
+             id="massstab-size2-multirow"
+             x="1316.2496"
+             y="1315.3373"><tspan
+               x="1316.2496"
+               y="1315.3373"
+               id="tspan28">2000</tspan></text>
+        </g>
       </g>
     </g>
   </g>
