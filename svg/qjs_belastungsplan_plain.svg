@@ -196,7 +196,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:RomanD;-inkscape-font-specification:'RomanD, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke-width:2.2868"
              id="tspan6">N</tspan></text>
         <path
-           style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:0.720914;stroke-linecap:butt;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:1.73911;stroke-linecap:butt;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
            id="compass2"
            d="m 107.4337,29.986817 13.91905,63.782102 H 106.06633 93.514636 Z" />
       </g>
@@ -213,9 +213,9 @@
              y="60.337341"><tspan
                x="1107.2496"
                y="60.337341"
-               id="tspan16"><tspan
+               id="tspan2"><tspan
                  style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
-                 id="tspan15">Zählstelle 99999</tspan></tspan></text>
+                 id="tspan1">Zählstelle 99999</tspan></tspan></text>
         </g>
         <g
            id="zaehlstelle2"
@@ -225,14 +225,14 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Roboto, Arial, Helvetica, sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
              id="zaehlstelle2-multirow"
              x="1107.2496"
-             y="86.337341"><tspan
+             y="85.837341"><tspan
                x="1107.2496"
-               y="86.337341"
-               id="tspan17">Stadtbezirk 8
+               y="85.837341"
+               id="tspan3">Stadtbezirk 8
 </tspan><tspan
                x="1107.2496"
-               y="111.26053"
-               id="tspan18">Zähldatum: 01.01.2026</tspan></text>
+               y="110.76053"
+               id="tspan4">Zähldatum: 01.01.2026</tspan></text>
         </g>
       </g>
       <g
@@ -249,9 +249,9 @@
              y="1231.3373"><tspan
                x="56.249691"
                y="1231.3373"
-               id="tspan23"><tspan
+               id="tspan7"><tspan
                  style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
-                 id="tspan22">Tageswert</tspan></tspan></text>
+                 id="tspan5">Tageswert</tspan></tspan></text>
         </g>
         <g
            id="zaehlzeit2"
@@ -264,7 +264,7 @@
              y="1257"><tspan
                x="56.249691"
                y="1257"
-               id="tspan24">hochgerechnet</tspan></text>
+               id="tspan8">hochgerechnet</tspan></text>
         </g>
         <text
            xml:space="preserve"
@@ -274,9 +274,9 @@
            y="1310.3373"><tspan
              x="56.249691"
              y="1310.3373"
-             id="tspan26"><tspan
+             id="tspan10"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
-               id="tspan25">FUSS</tspan></tspan></text>
+               id="tspan9">FUSS</tspan></tspan></text>
       </g>
       <g
          id="legend-massstab">
@@ -299,7 +299,7 @@
              y="1315.3373"><tspan
                x="1250.2496"
                y="1315.3373"
-               id="tspan27">1000</tspan></text>
+               id="tspan11">1000</tspan></text>
         </g>
         <g
            id="massstab-size2"
@@ -312,7 +312,7 @@
              y="1315.3373"><tspan
                x="1316.2496"
                y="1315.3373"
-               id="tspan28">2000</tspan></text>
+               id="tspan12">2000</tspan></text>
         </g>
       </g>
     </g>

@@ -31,15 +31,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.68990104"
-     inkscape:cx="728.36534"
-     inkscape:cy="742.86017"
+     inkscape:zoom="2.7596041"
+     inkscape:cx="225.39465"
+     inkscape:cy="47.651762"
      inkscape:window-width="2400"
      inkscape:window-height="1261"
      inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="legend-compass">
+     inkscape:current-layer="legend">
     <inkscape:grid
        id="grid6"
        units="mm"
@@ -263,7 +263,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:RomanD;-inkscape-font-specification:'RomanD, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke-width:2.2868"
              id="tspan6">N</tspan></text>
         <path
-           style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:0.720914;stroke-linecap:butt;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:1.73910624;stroke-linecap:butt;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
            id="compass2"
            d="m 107.4337,29.986817 13.91905,63.782102 H 106.06633 93.514636 Z"
            inkscape:label="compass2" />
@@ -297,14 +297,14 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Roboto, Arial, Helvetica, sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
              id="zaehlstelle2-multirow"
              x="1107.2496"
-             y="86.337341"
+             y="85.837341"
              inkscape:label="zaehlstelle2-multirow"><tspan
                x="1107.2496"
-               y="86.337341"
+               y="85.837341"
                id="tspan17">Stadtbezirk 8
 </tspan><tspan
                x="1107.2496"
-               y="111.26053"
+               y="112.26053"
                id="tspan18">Zähldatum: 01.01.2026</tspan></text>
         </g>
       </g>
