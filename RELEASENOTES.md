@@ -12,6 +12,7 @@
 * Bugfix: Die schematische Darstellung beim PDF-Export der Listenausgabe ist nun korrekt ausgerichtet ([FV-320](https://jira.muenchen.de/browse/FV-320))
 * Bugfix: Beim Export des Belastungsplans für die Zählarten QjS und FjS sind der Nordpfeil und die Knotenarmnummern verrutscht. Diese werden nun an der richtigen Stelle angezeigt ([FV-361](https://jira.muenchen.de/browse/FV-361))
 * Bugfix: Ergänzung bei BLP Messtellen um größere Abstände zwischen den Werten auf Nord- und Südseite. ([FV-200](https://jira.muenchen.de/browse/FV-200))
+* Deaktivieren der Checkbox "Differenzdaten darstellen" im Filtermenü Zählungsvergleich für die neuen Zählarten QjS, FjS und Qu ([FV-293](https://jira.muenchen.de/browse/FV-293))
   
 ## [Sprint 9] 2026-04-01 - 2026-04-29
 * Refaktoring zum Speichern der Zählungen. Beim persistieren der Zählung werden keine Aggregationen über mehrere Bewegungsbeziehungen (Verkehrsbeziehung, Längsverkehr oder Querungsverkehr) mehr durchgeführt. Dies wird nun beim Laden der Zähldaten gemacht. Zusätzlich findet beim persistieren keine Ermittlung der Spitzenstunde mehr statt. Dies wird ebenfalls beim Laden und nach der Aggregationen über die Bewegungsbeziehungen durchgeführt. Es handelt sich um eine Schnittstellenänderung, die nicht rückwärtskompatibel ist. ([FV-126](https://jira.muenchen.de/browse/FV-126))
