@@ -5,7 +5,8 @@
 * Fehlerhafter PDF Export korrigiert ([FV-325](https://jira.muenchen.de/browse/FV-325))
 * Darstellung BLP Qu ([FV-183](https://jira.muenchen.de/browse/FV-183))
 * Ausweisung der Zählwerte im BLP für FjS-Zählungen implementiert ([FV-238](https://jira.muenchen.de/browse/FV-238))
-* 
+* Schrift, Pfeilspitzen und Koordinaten bei Qjs korrigiert ([FV-354](https://jira.muenchen.de/browse/FV-354) 
+
 ## [Sprint 9] 2026-04-01 - 2026-04-29
 * Refaktoring zum Speichern der Zählungen. Beim persistieren der Zählung werden keine Aggregationen über mehrere Bewegungsbeziehungen (Verkehrsbeziehung, Längsverkehr oder Querungsverkehr) mehr durchgeführt. Dies wird nun beim Laden der Zähldaten gemacht. Zusätzlich findet beim persistieren keine Ermittlung der Spitzenstunde mehr statt. Dies wird ebenfalls beim Laden und nach der Aggregationen über die Bewegungsbeziehungen durchgeführt. Es handelt sich um eine Schnittstellenänderung, die nicht rückwärtskompatibel ist. ([FV-126](https://jira.muenchen.de/browse/FV-126))
 * Prüfung der CSV-Daten bei Abschließen der Zählung für FJS und QU implementiert ([FV-174](https://jira.muenchen.de/browse/FV-174))
