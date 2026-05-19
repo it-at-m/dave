@@ -283,6 +283,10 @@ Ein beispielhafter JWT sieht so aus:
 
 # Laufzeitsicht
 
+## Erstellung Belastungsplandaten
+
+![DAVe_Backend_Erstellung_Belastungsplandaten.png](../img/DAVe_Backend_Erstellung_Belastungsplandaten.png)
+
 ## Download Messstellen-Lageplan
 
 ![Laufzeitdiagramm Download Messstellen-Lageplan](../img/DAVe_Laufzeitdiagramm_Download_Lageplan.drawio.png)
