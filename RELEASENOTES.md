@@ -2,6 +2,7 @@
 
 ## [Sprint 11] 2026-05-21 - 2026-06-10
 
+* Bugfix: Keine Zähldaten bei 13h-Zählung mit Zeitauswahl Spitzenstunden Rad sowie Auswahl des Zeitblock 06 - 19 Uhr ([FV-377](https://jira.muenchen.de/browse/FV-377))
 * tbd ([FV-XXX](https://jira.muenchen.de/browse/FV-XXX))
 
 ## [Sprint 10] 2026-04-29 - 2026-05-20
