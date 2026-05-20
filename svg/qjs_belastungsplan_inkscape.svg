@@ -32,7 +32,7 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.9513348"
-     inkscape:cx="142.21035"
+     inkscape:cx="141.95411"
      inkscape:cy="144.7727"
      inkscape:window-width="2400"
      inkscape:window-height="1261"
@@ -265,7 +265,7 @@
         <path
            style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:1.99499999;stroke-linecap:butt;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
            id="compass2"
-           d="m 107.4337,29.980605 13.92527,62.845394 H 106.06572 93.508421 Z"
+           d="m 107.4337,29.984176 13.9217,63.312817 H 106.06607 93.511995 Z"
            inkscape:label="compass2" />
       </g>
       <g
@@ -280,11 +280,11 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Arial;-inkscape-font-specification:'Arial Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
              id="zaehlstelle1-multirow"
              x="1107.2496"
-             y="58.337341"
+             y="60.337341"
              inkscape:label="zaehlstelle1-multirow"><tspan
                x="1107.2496"
-               y="58.337341"
-               id="tspan12">Zählstelle 99999</tspan></text>
+               y="60.337341"
+               id="tspan1">Zählstelle 99999</tspan></text>
         </g>
         <g
            id="zaehlstelle2"
@@ -295,15 +295,15 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
              id="zaehlstelle2-multirow"
              x="1107.2496"
-             y="84.837341"
+             y="85.837341"
              inkscape:label="zaehlstelle2-multirow"><tspan
                x="1107.2496"
-               y="84.837341"
-               id="tspan15">Stadtbezirk 8
+               y="85.837341"
+               id="tspan2">Stadtbezirk 8
 </tspan><tspan
                x="1107.2496"
-               y="111.76053"
-               id="tspan16">Zähldatum: 01.01.2026</tspan></text>
+               y="110.53184"
+               id="tspan3">Zähldatum: 01.01.2026</tspan></text>
         </g>
       </g>
       <g
@@ -323,9 +323,9 @@
              inkscape:label="zaehlzeit1-multirow"><tspan
                x="56.249691"
                y="1230.3373"
-               id="tspan18"><tspan
+               id="tspan5"><tspan
                  style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-                 id="tspan17">Tageswert</tspan></tspan></text>
+                 id="tspan4">Tageswert</tspan></tspan></text>
         </g>
         <g
            id="zaehlzeit2"
@@ -340,7 +340,7 @@
              inkscape:label="zaehlzeit2-multirow"><tspan
                x="56.249691"
                y="1257"
-               id="tspan22">hochgerechnet</tspan></text>
+               id="tspan7">hochgerechnet</tspan></text>
         </g>
         <text
            xml:space="preserve"
@@ -351,15 +351,15 @@
            inkscape:label="verkehrsart"><tspan
              x="56.249691"
              y="1310.3373"
-             id="tspan24"><tspan
+             id="tspan9"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Arial Bold'"
-               id="tspan23">FUSS</tspan></tspan></text>
+               id="tspan8">FUSS</tspan></tspan></text>
       </g>
       <g
          id="legend-massstab"
          inkscape:label="legend-massstab">
         <path
-           style="fill:none;stroke:#757575;stroke-width:1.51785;stroke-linecap:square;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;stroke:#757575;stroke-width:1.99499999;stroke-linecap:square;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
            d="m 1316.5243,1294.7302 -124.9982,-0.2134 124.9982,-19.8383 z"
            id="massstab-path1"
            inkscape:label="massstab-path1" />
@@ -381,7 +381,7 @@
              inkscape:label="massstab-size1-multirow"><tspan
                x="1250.2496"
                y="1315.3373"
-               id="tspan25">1000</tspan></text>
+               id="tspan10">1000</tspan></text>
         </g>
         <g
            id="massstab-size2"
@@ -396,7 +396,7 @@
              inkscape:label="massstab-size2-multirow"><tspan
                x="1316.2496"
                y="1315.3373"
-               id="tspan26">2000</tspan></text>
+               id="tspan11">2000</tspan></text>
         </g>
       </g>
     </g>
