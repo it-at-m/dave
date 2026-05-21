@@ -1,9 +1,9 @@
 # Release-Notes
 
 ## [Sprint 11] 2026-05-21 - 2026-06-10
-
 * Bugfix: Keine Zähldaten bei 13h-Zählung mit Zeitauswahl Spitzenstunden Rad sowie Auswahl des Zeitblock 06 - 19 Uhr ([FV-377](https://jira.muenchen.de/browse/FV-377))
 * tbd ([FV-XXX](https://jira.muenchen.de/browse/FV-XXX))
+* Darstellung langer Straßennamen im Belastungsplan ([FV-366](https://jira.muenchen.de/browse/FV-366))
 
 ## [Sprint 10] 2026-04-29 - 2026-05-20
 * Ausweisung der Zählwerte im BLP für QjS-Zählungen implementiert ([FV-237](https://jira.muenchen.de/browse/FV-237))
