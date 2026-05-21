@@ -1,5 +1,20 @@
 # Release-Notes
 
+## [Sprint 10] 2026-04-29 - 2026-05-20
+* Ausweisung der Zählwerte im BLP für QjS-Zählungen implementiert ([FV-237](https://jira.muenchen.de/browse/FV-237))
+* Fehlerhafter PDF Export korrigiert ([FV-325](https://jira.muenchen.de/browse/FV-325))
+* Darstellung BLP Qu ([FV-183](https://jira.muenchen.de/browse/FV-183))
+* Konfigurative Einbindung der Kartenlayer in die Anwendung implementiert ([FV-34](https://jira.muenchen.de/browse/FV-34))
+* Anpassung der Auswertung Zeitreihe hinsichtlich Fußverkehr ([FV-184](https://jira.muenchen.de/browse/FV-184))
+* Bugfix: Stadtbezirke, Stadtviertel und Lichtsignalanlagen werden auf der Karte nun angezeigt ([FV-315](https://jira.muenchen.de/browse/FV-315))
+* Bugfix: Der Export der Listenausgabe funktioniert nun. Bisher wurde eine Fehlermeldung geliefert ([FV-319](https://jira.muenchen.de/browse/FV-319))
+* Bugfix: Die schematische Darstellung beim PDF-Export der Listenausgabe ist nun korrekt ausgerichtet ([FV-320](https://jira.muenchen.de/browse/FV-320))
+* Bugfix: Beim Export des Belastungsplans für die Zählarten QjS und FjS sind der Nordpfeil und die Knotenarmnummern verrutscht. Diese werden nun an der richtigen Stelle angezeigt ([FV-361](https://jira.muenchen.de/browse/FV-361))
+* Bugfix: Ergänzung bei BLP Messtellen um größere Abstände zwischen den Werten auf Nord- und Südseite. ([FV-200](https://jira.muenchen.de/browse/FV-200))
+* Deaktivieren der Checkbox "Differenzdaten darstellen" im Filtermenü Zählungsvergleich für die neuen Zählarten QjS, FjS und Qu ([FV-293](https://jira.muenchen.de/browse/FV-293))
+* Plausibilisierung der Knotenarmnummer beim Hochladen im Selfserviceportal implementiert ([FV-353](https://jira.muenchen.de/browse/FV-353))
+* Tech: Automatisieren des Release-workflows ([FV-326](https://jira.muenchen.de/browse/FV-326))
+
 ## [Sprint 9] 2026-04-01 - 2026-04-29
 * Refaktoring zum Speichern der Zählungen. Beim persistieren der Zählung werden keine Aggregationen über mehrere Bewegungsbeziehungen (Verkehrsbeziehung, Längsverkehr oder Querungsverkehr) mehr durchgeführt. Dies wird nun beim Laden der Zähldaten gemacht. Zusätzlich findet beim persistieren keine Ermittlung der Spitzenstunde mehr statt. Dies wird ebenfalls beim Laden und nach der Aggregationen über die Bewegungsbeziehungen durchgeführt. Es handelt sich um eine Schnittstellenänderung, die nicht rückwärtskompatibel ist. ([FV-126](https://jira.muenchen.de/browse/FV-126))
 * Prüfung der CSV-Daten bei Abschließen der Zählung für FJS und QU implementiert ([FV-174](https://jira.muenchen.de/browse/FV-174))
