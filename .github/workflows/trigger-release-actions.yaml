@@ -1,0 +1,33 @@
+name: trigger-release-actions
+
+on:
+  workflow_dispatch:
+    inputs:
+      releaseVersion:
+        description: "Version number to be released (e.g., 1.2.3)"
+        required: true
+        default: "6.0.0"
+      developmentVersion:
+        description: "Next version number with snapshot (e.g., 1.2.4-SNAPSHOT)"
+        required: true
+        default: "6.0.1-SNAPSHOT"
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Empfangene Parameter anzeigen
+        run: |
+          echo "releaseVersion: ${{ github.event.inputs.releaseVersion }}"
+      - name: Dispatch an other repository workflow
+        uses: peter-evans/repository-dispatch@28959ce8df70de7be546dd1250a005dd32156697
+        with:
+          token: ${{ secrets.FINE_GRAINED_TOKEN }}
+          # TODO: iterate
+          repository: it-at-m/dave-backend
+#          event-type: custom_event
+          event-type: trigger_release_action
+          client-payload: |
+            {
+              "releaseVersion": "${{ github.event.inputs.releaseVersion }}",
+              "developmentVersion": "${{ github.event.inputs.developmentVersion }}"
+            }
