@@ -6,11 +6,11 @@ on:
       releaseVersion:
         description: "Version number to be released (e.g., 1.2.3)"
         required: true
-        default: "6.0.0"
+        default: "8.0.0"
       developmentVersion:
         description: "Next version number with snapshot (e.g., 1.2.4-SNAPSHOT)"
         required: true
-        default: "6.0.1-SNAPSHOT"
+        default: "8.0.1-SNAPSHOT"
 
 jobs:
   trigger:
