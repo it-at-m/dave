@@ -16,7 +16,7 @@ jobs:
   trigger:
     runs-on: ubuntu-latest
     steps:
-      - name: Show received parameters
+      - name: Show input parameters
         run: |
           echo "releaseVersion: ${{ github.event.inputs.releaseVersion }}"
           echo "developmentVersion: ${{ github.event.inputs.developmentVersion }}"
