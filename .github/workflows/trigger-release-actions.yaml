@@ -16,21 +16,21 @@ jobs:
   trigger:
     runs-on: ubuntu-latest
     steps:
-      - name: Empfangene Parameter anzeigen
+      - name: Show received parameters
         run: |
           echo "releaseVersion: ${{ github.event.inputs.releaseVersion }}"
           echo "developmentVersion: ${{ github.event.inputs.developmentVersion }}"
 
       - name: Dispatch an other repository workflows
         run: |
-          # Liste der Repositories
-          repositories=("it-at-m/dave-backend" "it-at-m/dave-frontend" "it-at-m/dave-document-storage")
+          # List of repositories
+          repositories=("it-at-m/dave-backend" "it-at-m/dave-frontend" "it-at-m/dave-geodata-eai" "it-at-m/dave-document-storage" "it-at-m/dave-admin-portal" "it-at-m/dave-selfservice-portal" "it-at-m/dave-eai")
           
-          # Über jedes Repository iterieren
+          # Iterate over each repository
           for repo in "${repositories[@]}"; do
             echo "Dispatching to repository: $repo"
 
-            # repository-dispatch Action aufrufen
+            # call repository-dispatch action via github api
             curl -X POST \
               -H "Authorization: token ${{ secrets.FINE_GRAINED_TOKEN }}" \
               -H "Accept: application/vnd.github.v3+json" \
