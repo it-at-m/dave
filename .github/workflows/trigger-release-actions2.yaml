@@ -1,4 +1,8 @@
 name: trigger-release-actions2
+permissions:
+  contents: read
+  workflows: write
+
 
 on:
   workflow_dispatch:
