@@ -11,6 +11,7 @@ on:
         description: "Next version number with snapshot (e.g., 1.2.4-SNAPSHOT)"
         required: true
         default: "6.0.1-SNAPSHOT"
+
 jobs:
   trigger:
     runs-on: ubuntu-latest
@@ -18,16 +19,27 @@ jobs:
       - name: Empfangene Parameter anzeigen
         run: |
           echo "releaseVersion: ${{ github.event.inputs.releaseVersion }}"
-      - name: Dispatch an other repository workflow
-        uses: peter-evans/repository-dispatch@28959ce8df70de7be546dd1250a005dd32156697
-        with:
-          token: ${{ secrets.FINE_GRAINED_TOKEN }}
-          # TODO: iterate
-          repository: it-at-m/dave-backend
-#          event-type: custom_event
-          event-type: trigger_release_action
-          client-payload: |
-            {
-              "releaseVersion": "${{ github.event.inputs.releaseVersion }}",
-              "developmentVersion": "${{ github.event.inputs.developmentVersion }}"
-            }
+          echo "developmentVersion: ${{ github.event.inputs.developmentVersion }}"
+
+      - name: Dispatch an other repository workflows
+        run: |
+          # Liste der Repositories
+          repositories=("it-at-m/dave-backend" "it-at-m/dave-frontend" "it-at-m/dave-document-storage")
+          
+          # Über jedes Repository iterieren
+          for repo in "${repositories[@]}"; do
+            echo "Dispatching to repository: $repo"
+
+            # repository-dispatch Action aufrufen
+            curl -X POST \
+              -H "Authorization: token ${{ secrets.FINE_GRAINED_TOKEN }}" \
+              -H "Accept: application/vnd.github.v3+json" \
+              https://api.github.com/repos/$repo/dispatches \
+              -d '{
+                "event_type": "trigger_release_action",
+                "client_payload": {
+                  "releaseVersion": "${{ github.event.inputs.releaseVersion }}",
+                  "developmentVersion": "${{ github.event.inputs.developmentVersion }}"
+                }
+              }'
+          done
