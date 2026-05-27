@@ -34,8 +34,8 @@ jobs:
           DEVELOPMENT_VERSION: ${{ github.event.inputs.developmentVersion }}
         run: |
           echo "Dispatching to: ${{ matrix.repository }}"
-          # echo "releaseVersion: ${RELEASE_VERSION}"
-          # echo "developmentVersion: ${DEVELOPMENT_VERSION}"
+          echo "releaseVersion: ${RELEASE_VERSION}"
+          echo "developmentVersion: ${DEVELOPMENT_VERSION}"
       - name: Dispatch an other repository workflows
         env:
           GH_TOKEN: ${{ secrets.FINE_GRAINED_TOKEN }}
@@ -49,4 +49,3 @@ jobs:
                 -f client_payload[releaseVersion]="${RELEASE_VERSION}" \
                 -f client_payload[developmentVersion]="${DEVELOPMENT_VERSION}" \
               || { echo "Error: Failed to dispatch to ${{ matrix.repository }}"; exit 1; }
-          done
