@@ -40,14 +40,12 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.FINE_GRAINED_TOKEN }}
         run: |
-          echo "releaseVersion: ${RELEASE_VERSION}"
-          echo "developmentVersion: ${DEVELOPMENT_VERSION}"
           # Call repository-dispatch action via GitHub CLI (properly handles input sanitization)
           gh api \
               --method POST \
               -H "Accept: application/vnd.github.v3+json" \
                 "/repos/${{ matrix.repository }}/dispatches" \
                 -f event_type='trigger_release_action' \
-                -f client_payload[releaseVersion]="${RELEASE_VERSION}" \
-                -f client_payload[developmentVersion]="${DEVELOPMENT_VERSION}" \
+                -f client_payload[releaseVersion]="${{ github.event.inputs.releaseVersion }}" \
+                -f client_payload[developmentVersion]="${{ github.event.inputs.developmentVersion }}" \
               || { echo "Error: Failed to dispatch to ${{ matrix.repository }}"; exit 1; }
