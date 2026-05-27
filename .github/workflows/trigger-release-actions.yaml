@@ -15,31 +15,41 @@ on:
 jobs:
   trigger:
     runs-on: ubuntu-latest
+    permissions:
+      contents: none
+    strategy:
+      matrix:
+        repository:
+          - it-at-m/dave-backend
+          - it-at-m/dave-frontend
+          - it-at-m/dave-geodata-eai
+          - it-at-m/dave-document-storage
+          - it-at-m/dave-admin-portal
+          - it-at-m/dave-selfservice-portal
+          - it-at-m/dave-eai
     steps:
       - name: Show input parameters
+        env:
+          RELEASE_VERSION: ${{ github.event.inputs.releaseVersion }}
+          DEVELOPMENT_VERSION: ${{ github.event.inputs.developmentVersion }}
         run: |
-          echo "releaseVersion: ${{ github.event.inputs.releaseVersion }}"
-          echo "developmentVersion: ${{ github.event.inputs.developmentVersion }}"
+          echo "Dispatching to: ${{ matrix.repository }}"
+          echo "releaseVersion: ${RELEASE_VERSION}"
+          echo "developmentVersion: ${DEVELOPMENT_VERSION}"
 
       - name: Dispatch an other repository workflows
+        env:
+          RELEASE_VERSION: ${{ github.event.inputs.releaseVersion }}
+          DEVELOPMENT_VERSION: ${{ github.event.inputs.developmentVersion }}
+          GH_TOKEN: ${{ secrets.FINE_GRAINED_TOKEN }}
         run: |
-          # List of repositories
-          repositories=("it-at-m/dave-backend" "it-at-m/dave-frontend" "it-at-m/dave-geodata-eai" "it-at-m/dave-document-storage" "it-at-m/dave-admin-portal" "it-at-m/dave-selfservice-portal" "it-at-m/dave-eai")
-          
-          # Iterate over each repository
-          for repo in "${repositories[@]}"; do
-            echo "Dispatching to repository: $repo"
-
-            # call repository-dispatch action via github api
-            curl -X POST \
-              -H "Authorization: token ${{ secrets.FINE_GRAINED_TOKEN }}" \
+            # Call repository-dispatch action via GitHub CLI (properly handles input sanitization)
+            gh api \
+              --method POST \
               -H "Accept: application/vnd.github.v3+json" \
-              https://api.github.com/repos/$repo/dispatches \
-              -d '{
-                "event_type": "trigger_release_action",
-                "client_payload": {
-                  "releaseVersion": "${{ github.event.inputs.releaseVersion }}",
-                  "developmentVersion": "${{ github.event.inputs.developmentVersion }}"
-                }
-              }'
+                "/repos/${{ matrix.repository }}/dispatches" \
+                -f event_type='trigger_release_action' \
+                -f client_payload[releaseVersion]="${RELEASE_VERSION}" \
+                -f client_payload[developmentVersion]="${DEVELOPMENT_VERSION}" \
+              || { echo "Error: Failed to dispatch to ${{ matrix.repository }}"; exit 1; }
           done
