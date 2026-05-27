@@ -38,8 +38,6 @@ jobs:
           echo "developmentVersion: ${DEVELOPMENT_VERSION}"
       - name: Dispatch an other repository workflows
         env:
-          RELEASE_VERSION: ${{ github.event.inputs.releaseVersion }}
-          DEVELOPMENT_VERSION: ${{ github.event.inputs.developmentVersion }}
           GH_TOKEN: ${{ secrets.FINE_GRAINED_TOKEN }}
         run: |
             # Call repository-dispatch action via GitHub CLI (properly handles input sanitization)
