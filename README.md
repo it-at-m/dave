@@ -20,7 +20,7 @@ With [DAVe](https://opensource.muenchen.de/software/dave.html), traffic counts c
 
 ### Architecture
 
-![Architecture](docs/src/img/DAVE_Architketur.drawio.png)
+![Architecture](docs/src/img/DAVe_Architketur.drawio.png)
 
 
 * [Data Portal](https://github.com/it-at-m/dave-frontend)
@@ -34,7 +34,7 @@ With [DAVe](https://opensource.muenchen.de/software/dave.html), traffic counts c
 
 ## Roadmap
 
-<img src="img/DAVe_Roapmap.png" width="850">
+<img src="img/DAVe_Roapmap.png" alt="Roadmap" width="850">
 
 
 A detailed board of what opensource features and issues are currently treated can be observed under:
