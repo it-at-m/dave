@@ -40,8 +40,10 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.FINE_GRAINED_TOKEN }}
         run: |
-            # Call repository-dispatch action via GitHub CLI (properly handles input sanitization)
-            gh api \
+          echo "releaseVersion: ${RELEASE_VERSION}"
+          echo "developmentVersion: ${DEVELOPMENT_VERSION}"
+          # Call repository-dispatch action via GitHub CLI (properly handles input sanitization)
+          gh api \
               --method POST \
               -H "Accept: application/vnd.github.v3+json" \
                 "/repos/${{ matrix.repository }}/dispatches" \
