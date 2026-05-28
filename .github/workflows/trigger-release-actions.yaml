@@ -1,0 +1,51 @@
+name: trigger-release-actions
+
+on:
+  workflow_dispatch:
+    inputs:
+      releaseVersion:
+        description: "Version number to be released (e.g., 1.2.3)"
+        required: true
+        default: "1.0.0"
+      developmentVersion:
+        description: "Next version number with snapshot (e.g., 1.2.4-SNAPSHOT)"
+        required: true
+        default: "1.0.1-SNAPSHOT"
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: none
+    strategy:
+      matrix:
+        repository:
+          - it-at-m/dave-backend
+          - it-at-m/dave-frontend
+          - it-at-m/dave-geodata-eai
+          - it-at-m/dave-document-storage
+          - it-at-m/dave-admin-portal
+          - it-at-m/dave-selfservice-portal
+          - it-at-m/dave-eai
+    steps:
+      - name: Show input parameters
+        env:
+          RELEASE_VERSION: ${{ github.event.inputs.releaseVersion }}
+          DEVELOPMENT_VERSION: ${{ github.event.inputs.developmentVersion }}
+        run: |
+          echo "Dispatching to: ${{ matrix.repository }}"
+          echo "releaseVersion: ${RELEASE_VERSION}"
+          echo "developmentVersion: ${DEVELOPMENT_VERSION}"
+      - name: Dispatch to other repository workflows
+        env:
+          GH_TOKEN: ${{ secrets.FINE_GRAINED_TOKEN }}
+        run: |
+          # Call repository-dispatch action via GitHub CLI (properly handles input sanitization)
+          gh api \
+              --method POST \
+              -H "Accept: application/vnd.github.v3+json" \
+                "/repos/${{ matrix.repository }}/dispatches" \
+                -f event_type='trigger_release_action' \
+                -f client_payload[releaseVersion]="${{ github.event.inputs.releaseVersion }}" \
+                -f client_payload[developmentVersion]="${{ github.event.inputs.developmentVersion }}" \
+              || { echo "Error: Failed to dispatch to ${{ matrix.repository }}"; exit 1; }
