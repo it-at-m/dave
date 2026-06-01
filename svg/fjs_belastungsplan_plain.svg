@@ -191,13 +191,13 @@
              style="stroke-width:26.4927">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
-           transform="matrix(0,-0.86675092,1.153734,0,0,0)"
+           transform="rotate(-90)"
            id="node1_sum_text"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9645"
-           x="-1207.2531"
-           y="-171.53365"><tspan
-             x="-49.797398"
-             y="616.65149"
+           x="-1200.4841"
+           y="-79.837906"><tspan
+             x="-43.028492"
+             y="708.34723"
              id="node1_sum_tspan"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9645">123456</tspan></text>
       </g>
@@ -219,35 +219,35 @@
              style="stroke-width:17.8112" />
           <text
              xml:space="preserve"
-             transform="matrix(0,-0.86707182,1.153307,0,0,0)"
+             transform="rotate(-90)"
              id="arrow_node1_west_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-1206.5183"
-             y="-259.38544"><tspan
-               x="-49.490978"
-               y="528.50812"
+             x="-1199.7682"
+             y="-181.45634"><tspan
+               x="-42.740871"
+               y="606.43726"
                id="arrow_node1_west_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0,-0.86707182,1.153307,0,0,0)"
+             transform="rotate(-90)"
              id="arrow_node1_west_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-1206.5183"
-             y="-230.55521"><tspan
-               x="-49.490978"
-               y="557.33826"
+             x="-1199.7682"
+             y="-148.20622"><tspan
+               x="-42.740871"
+               y="639.68726"
                id="arrow_node1_west_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0,-0.86675167,1.153733,0,0,0)"
+             transform="rotate(-90)"
              id="arrows_node1_west_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-             x="-1207.2521"
-             y="-203.73477"><tspan
-               x="-49.797356"
-               y="584.45007"
+             x="-1200.4833"
+             y="-116.99011"><tspan
+               x="-43.028492"
+               y="671.1947"
                id="arrows_node1_west_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
@@ -271,35 +271,35 @@
              style="stroke-width:17.8113" />
           <text
              xml:space="preserve"
-             transform="matrix(0,-0.86707182,1.153307,0,0,0)"
+             transform="rotate(-90)"
              id="arrow_node1_east_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-1206.5183"
-             y="-115.23471"><tspan
-               x="-49.490978"
-               y="672.65881"
+             x="-1199.7682"
+             y="-15.206282"><tspan
+               x="-42.740871"
+               y="772.68726"
                id="arrow_node1_east_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0,-0.86707182,1.153307,0,0,0)"
+             transform="rotate(-90)"
              id="arrow_node1_east_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-1206.5183"
-             y="-86.404541"><tspan
-               x="-49.490978"
-               y="701.48889"
+             x="-1199.7682"
+             y="18.043777"><tspan
+               x="-42.740871"
+               y="805.93726"
                id="arrow_node1_east_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0,-0.86675167,1.153733,0,0,0)"
+             transform="rotate(-90)"
              id="arrows_node1_east_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-             x="-1207.2521"
-             y="-59.637333"><tspan
-               x="-49.797356"
-               y="728.54749"
+             x="-1200.4833"
+             y="49.25988"><tspan
+               x="-43.028492"
+               y="837.4447"
                id="arrows_node1_east_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
@@ -370,13 +370,12 @@
              style="stroke-width:26.4927">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
-           transform="scale(0.86675092,1.153734)"
            id="node2_sum_text"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9645"
-           x="407.97421"
-           y="-171.52608"><tspan
-             x="1565.4299"
-             y="616.65906"
+           x="211.57898"
+           y="-79.830925"><tspan
+             x="1369.0348"
+             y="708.35419"
              id="node2_sum_tspan"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9645">123456</tspan></text>
       </g>
@@ -398,35 +397,32 @@
              style="stroke-width:17.8113" />
           <text
              xml:space="preserve"
-             transform="scale(0.86707182,1.153307)"
              id="arrow_node2_north_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="406.98672"
-             y="-259.38541"><tspan
-               x="1564.014"
-               y="528.50812"
+             x="211.13699"
+             y="-181.45631"><tspan
+               x="1368.1643"
+               y="606.43726"
                id="arrow_node2_north_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="scale(0.86707182,1.153307)"
              id="arrow_node2_north_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="406.98672"
-             y="-230.55528"><tspan
-               x="1564.014"
-               y="557.33826"
+             x="211.13699"
+             y="-148.2063"><tspan
+               x="1368.1643"
+               y="639.68726"
                id="arrow_node2_north_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="scale(0.86675167,1.153733)"
              id="arrows_node2_north_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-             x="407.97394"
-             y="-203.73479"><tspan
-               x="1565.4286"
-               y="584.45001"
+             x="211.58005"
+             y="-116.99011"><tspan
+               x="1369.0348"
+               y="671.1947"
                id="arrows_node2_north_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
@@ -450,35 +446,32 @@
              style="stroke-width:17.8113" />
           <text
              xml:space="preserve"
-             transform="scale(0.86707182,1.153307)"
              id="arrow_node2_south_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="406.98672"
-             y="-115.2347"><tspan
-               x="1564.014"
-               y="672.65881"
+             x="211.13699"
+             y="-15.206279"><tspan
+               x="1368.1643"
+               y="772.68726"
                id="arrow_node2_south_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="scale(0.86707182,1.153307)"
              id="arrow_node2_south_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="406.98669"
-             y="-86.404564"><tspan
-               x="1564.014"
-               y="701.48889"
+             x="211.13696"
+             y="18.043781"><tspan
+               x="1368.1643"
+               y="805.93726"
                id="arrow_node2_south_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="scale(0.86675167,1.153733)"
              id="arrows_node2_south_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-             x="407.97397"
-             y="-59.637352"><tspan
-               x="1565.4287"
-               y="728.54749"
+             x="211.57996"
+             y="49.259895"><tspan
+               x="1369.0348"
+               y="837.4447"
                id="arrows_node2_south_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
@@ -552,13 +545,13 @@
              y="691.79083">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
-           transform="matrix(0,-0.86675092,1.153734,0,0,0)"
+           transform="rotate(-90)"
            id="node3_sum_text"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9645"
-           x="-2630.3494"
-           y="-171.53365"><tspan
-             x="-1472.8937"
-             y="616.65149"
+           x="-2433.9543"
+           y="-79.837982"><tspan
+             x="-1276.4985"
+             y="708.34723"
              id="node3_sum_tspan"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9645">123456</tspan></text>
       </g>
@@ -580,35 +573,35 @@
              style="stroke-width:17.8113" />
           <text
              xml:space="preserve"
-             transform="matrix(0,-0.86707182,1.153307,0,0,0)"
+             transform="rotate(-90)"
              id="arrow_node3_east_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-2629.0879"
-             y="-115.23471"><tspan
-               x="-1472.0605"
-               y="672.65881"
+             x="-2433.238"
+             y="-15.206213"><tspan
+               x="-1276.2108"
+               y="772.68726"
                id="arrow_node3_east_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0,-0.86707182,1.153307,0,0,0)"
+             transform="rotate(-90)"
              id="arrow_node3_east_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-2629.0879"
-             y="-86.404541"><tspan
-               x="-1472.0605"
-               y="701.48889"
+             x="-2433.238"
+             y="18.043785"><tspan
+               x="-1276.2108"
+               y="805.93726"
                id="arrow_node3_east_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0,-0.86675167,1.153733,0,0,0)"
+             transform="rotate(-90)"
              id="arrows_node3_east_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-             x="-2630.3472"
-             y="-59.637333"><tspan
-               x="-1472.8923"
-               y="728.54749"
+             x="-2433.9534"
+             y="49.259911"><tspan
+               x="-1276.4985"
+               y="837.4447"
                id="arrows_node3_east_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
@@ -632,35 +625,35 @@
              style="stroke-width:17.8112" />
           <text
              xml:space="preserve"
-             transform="matrix(0,-0.86707182,1.153307,0,0,0)"
+             transform="rotate(-90)"
              id="arrow_node3_west_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-2629.0879"
-             y="-259.38544"><tspan
-               x="-1472.0605"
-               y="528.50812"
+             x="-2433.2383"
+             y="-181.45621"><tspan
+               x="-1276.2108"
+               y="606.43726"
                id="arrow_node3_west_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0,-0.86707182,1.153307,0,0,0)"
+             transform="rotate(-90)"
              id="arrow_node3_west_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-2629.0879"
-             y="-230.55521"><tspan
-               x="-1472.0605"
-               y="557.33826"
+             x="-2433.2383"
+             y="-148.20621"><tspan
+               x="-1276.2108"
+               y="639.68726"
                id="arrow_node3_west_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0,-0.86675167,1.153733,0,0,0)"
+             transform="rotate(-90)"
              id="arrows_node3_west_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-             x="-2630.3472"
-             y="-203.73477"><tspan
-               x="-1472.8923"
-               y="584.45007"
+             x="-2433.9534"
+             y="-116.99008"><tspan
+               x="-1276.4985"
+               y="671.1947"
                id="arrows_node3_west_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
@@ -731,13 +724,12 @@
              y="691.79083">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
-           transform="scale(0.86675167,1.153733)"
            id="node4_sum_text"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-           x="-1015.1211"
-           y="-171.52489"><tspan
-             x="142.33362"
-             y="616.65955"
+           x="-1021.89"
+           y="-79.830223"><tspan
+             x="135.56476"
+             y="708.35419"
              id="node4_sum_tspan"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
       </g>
@@ -759,35 +751,32 @@
              style="stroke-width:17.8113" />
           <text
              xml:space="preserve"
-             transform="scale(0.86707182,1.153307)"
              id="arrow_node4_south_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-1015.5829"
-             y="-115.2348"><tspan
-               x="141.44441"
-               y="672.65881"
+             x="-1022.333"
+             y="-15.206355"><tspan
+               x="134.69431"
+               y="772.68726"
                id="arrow_node4_south_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="scale(0.86707182,1.153307)"
              id="arrow_node4_south_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-1015.5829"
-             y="-86.404541"><tspan
-               x="141.44441"
-               y="701.48889"
+             x="-1022.333"
+             y="18.043804"><tspan
+               x="134.69431"
+               y="805.93726"
                id="arrow_node4_south_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="scale(0.86675167,1.153733)"
              id="arrows_node4_south_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-             x="-1015.1211"
-             y="-59.637363"><tspan
-               x="142.33362"
-               y="728.54749"
+             x="-1021.89"
+             y="49.259884"><tspan
+               x="135.56476"
+               y="837.4447"
                id="arrows_node4_south_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
@@ -811,35 +800,32 @@
              style="stroke-width:17.8113" />
           <text
              xml:space="preserve"
-             transform="scale(0.86707182,1.153307)"
              id="arrow_node4_north_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-1015.5829"
-             y="-259.38544"><tspan
-               x="141.44441"
-               y="528.50812"
+             x="-1022.333"
+             y="-181.45634"><tspan
+               x="134.69431"
+               y="606.43726"
                id="arrow_node4_north_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="scale(0.86707182,1.153307)"
              id="arrow_node4_north_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-1015.5829"
-             y="-230.55518"><tspan
-               x="141.44441"
-               y="557.33826"
+             x="-1022.333"
+             y="-148.20619"><tspan
+               x="134.69431"
+               y="639.68726"
                id="arrow_node4_north_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="scale(0.86675167,1.153733)"
              id="arrows_node4_north_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-             x="-1015.1211"
-             y="-203.7348"><tspan
-               x="142.33362"
-               y="584.45007"
+             x="-1021.89"
+             y="-116.99019"><tspan
+               x="135.56476"
+               y="671.1947"
                id="arrows_node4_north_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
@@ -917,13 +903,13 @@
              style="stroke-width:26.4927">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
-           transform="matrix(0.61288545,-0.61288545,0.81581313,0.81581313,0,0)"
+           transform="rotate(-45)"
            id="node5_sum_text"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9645"
-           x="-399.63812"
-           y="79.779076"><tspan
-             x="757.8175"
-             y="867.96423"
+           x="-494.45148"
+           y="216.14178"><tspan
+             x="663.00421"
+             y="1004.327"
              id="node5_sum_tspan"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9645">123456</tspan></text>
       </g>
@@ -945,35 +931,35 @@
              style="stroke-width:17.8112" />
           <text
              xml:space="preserve"
-             transform="matrix(0.61311236,-0.61311236,0.8155112,0.8155112,0,0)"
+             transform="rotate(-45)"
              id="arrow_node5_north_west_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-399.20233"
-             y="-7.9779282"><tspan
-               x="757.82507"
-               y="779.91565"
+             x="-493.82706"
+             y="114.43393"><tspan
+               x="663.20032"
+               y="902.32751"
                id="arrow_node5_north_west_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.61311236,-0.61311236,0.8155112,0.8155112,0,0)"
+             transform="rotate(-45)"
              id="arrow_node5_north_west_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-399.20517"
-             y="20.852219"><tspan
-               x="757.82214"
-               y="808.74573"
+             x="-493.82944"
+             y="147.68399"><tspan
+               x="663.19788"
+               y="935.57745"
                id="arrow_node5_north_west_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.61288598,-0.61288598,0.81581243,0.81581243,0,0)"
+             transform="rotate(-45)"
              id="arrows_node5_north_west_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-             x="-399.64072"
-             y="47.580051"><tspan
-               x="757.81403"
-               y="835.76489"
+             x="-494.453"
+             y="178.99188"><tspan
+               x="663.00171"
+               y="967.17664"
                id="arrows_node5_north_west_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
@@ -997,35 +983,35 @@
              style="stroke-width:17.8113" />
           <text
              xml:space="preserve"
-             transform="matrix(0.61311236,-0.61311236,0.8155112,0.8155112,0,0)"
+             transform="rotate(-45)"
              id="arrow_node5_south_east_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-399.20517"
-             y="136.17249"><tspan
-               x="757.82214"
-               y="924.06604"
+             x="-493.82947"
+             y="280.68359"><tspan
+               x="663.19788"
+               y="1068.5773"
                id="arrow_node5_south_east_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.61311236,-0.61311236,0.8155112,0.8155112,0,0)"
+             transform="rotate(-45)"
              id="arrow_node5_south_east_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-399.2023"
-             y="165.00262"><tspan
-               x="757.82501"
-               y="952.89612"
+             x="-493.827"
+             y="313.93362"><tspan
+               x="663.20032"
+               y="1101.8271"
                id="arrow_node5_south_east_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.61288598,-0.61288598,0.81581243,0.81581243,0,0)"
+             transform="rotate(-45)"
              id="arrows_node5_south_east_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-             x="-399.63785"
-             y="191.67722"><tspan
-               x="757.81683"
-               y="979.86206"
+             x="-494.45044"
+             y="345.24139"><tspan
+               x="663.00421"
+               y="1133.4263"
                id="arrows_node5_south_east_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
@@ -1101,13 +1087,13 @@
              style="stroke-width:26.4927">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
-           transform="matrix(0.61288545,0.61288545,-0.81581313,0.81581313,0,0)"
+           transform="rotate(45)"
            id="node6_sum_text"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9645"
-           x="742.49854"
-           y="-778.25079"><tspan
-             x="1899.9543"
-             y="9.9343462"
+           x="499.97598"
+           y="-778.27582"><tspan
+             x="1657.4318"
+             y="9.9092941"
              id="node6_sum_tspan"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9645">123456</tspan></text>
       </g>
@@ -1129,35 +1115,35 @@
              style="stroke-width:17.8113" />
           <text
              xml:space="preserve"
-             transform="matrix(0.61311236,0.61311236,-0.8155112,0.8155112,0,0)"
+             transform="rotate(45)"
              id="arrow_node6_north_east_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="741.38873"
-             y="-866.33527"><tspan
-               x="1898.416"
-               y="-78.441635"
+             x="499.54016"
+             y="-879.90857"><tspan
+               x="1656.5675"
+               y="-92.014687"
                id="arrow_node6_north_east_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.61311236,0.61311236,-0.8155112,0.8155112,0,0)"
+             transform="rotate(45)"
              id="arrow_node6_north_east_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="741.38599"
-             y="-837.50513"><tspan
-               x="1898.4132"
-               y="-49.611588"
+             x="499.53778"
+             y="-846.65826"><tspan
+               x="1656.5651"
+               y="-58.764801"
                id="arrow_node6_north_east_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.61288598,0.61288598,-0.81581243,0.81581243,0,0)"
+             transform="rotate(45)"
              id="arrows_node6_north_east_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-             x="742.49811"
-             y="-810.4613"><tspan
-               x="1899.9528"
-               y="-22.276493"
+             x="499.97711"
+             y="-815.43823"><tspan
+               x="1657.4318"
+               y="-27.253418"
                id="arrows_node6_north_east_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
@@ -1181,35 +1167,35 @@
              style="stroke-width:17.8113" />
           <text
              xml:space="preserve"
-             transform="matrix(0.61311236,0.61311236,-0.8155112,0.8155112,0,0)"
+             transform="rotate(45)"
              id="arrow_node6_south_west_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="741.38593"
-             y="-722.18481"><tspan
-               x="1898.4132"
-               y="65.708748"
+             x="499.53769"
+             y="-713.65863"><tspan
+               x="1656.5651"
+               y="74.234932"
                id="arrow_node6_south_west_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.61311236,0.61311236,-0.8155112,0.8155112,0,0)"
+             transform="rotate(45)"
              id="arrow_node6_south_west_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="741.38873"
-             y="-693.35468"><tspan
-               x="1898.416"
-               y="94.53878"
+             x="499.54025"
+             y="-680.40863"><tspan
+               x="1656.5675"
+               y="107.48486"
                id="arrow_node6_south_west_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.61288598,0.61288598,-0.81581243,0.81581243,0,0)"
+             transform="rotate(45)"
              id="arrows_node6_south_west_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-             x="742.49805"
-             y="-666.362"><tspan
-               x="1899.9528"
-               y="121.82278"
+             x="499.97708"
+             y="-649.18616"><tspan
+               x="1657.4318"
+               y="138.99867"
                id="arrows_node6_south_west_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
@@ -1283,13 +1269,13 @@
              y="981.73987">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
-           transform="matrix(0.61288545,-0.61288545,0.81581313,0.81581313,0,0)"
+           transform="rotate(-45)"
            id="node7_sum_text"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9645"
-           x="-1822.7341"
-           y="79.781219"><tspan
-             x="-665.27838"
-             y="867.96637"
+           x="-1727.9211"
+           y="216.14433"><tspan
+             x="-570.46545"
+             y="1004.3294"
              id="node7_sum_tspan"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9645">123456</tspan></text>
       </g>
@@ -1311,35 +1297,35 @@
              style="stroke-width:17.8113" />
           <text
              xml:space="preserve"
-             transform="matrix(0.61311236,-0.61311236,0.8155112,0.8155112,0,0)"
+             transform="rotate(-45)"
              id="arrow_node7_south_east_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-1821.7715"
-             y="136.17253"><tspan
-               x="-664.74414"
-               y="924.06604"
+             x="-1727.2966"
+             y="280.68369"><tspan
+               x="-570.26935"
+               y="1068.5771"
                id="arrow_node7_south_east_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.61311236,-0.61311236,0.8155112,0.8155112,0,0)"
+             transform="rotate(-45)"
              id="arrow_node7_south_east_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-1821.7743"
-             y="165.00264"><tspan
-               x="-664.74701"
-               y="952.89606"
+             x="-1727.2992"
+             y="313.93372"><tspan
+               x="-570.27179"
+               y="1101.8271"
                id="arrow_node7_south_east_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.61288598,-0.61288598,0.81581243,0.81581243,0,0)"
+             transform="rotate(-45)"
              id="arrows_node7_south_east_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-             x="-1822.7355"
-             y="191.67723"><tspan
-               x="-665.28058"
-               y="979.86206"
+             x="-1727.9227"
+             y="345.24146"><tspan
+               x="-570.4679"
+               y="1133.4263"
                id="arrows_node7_south_east_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
@@ -1363,35 +1349,35 @@
              style="stroke-width:17.8112" />
           <text
              xml:space="preserve"
-             transform="matrix(0.61311236,-0.61311236,0.8155112,0.8155112,0,0)"
+             transform="rotate(-45)"
              id="arrow_node7_north_west_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-1821.7744"
-             y="-7.9778929"><tspan
-               x="-664.74695"
-               y="779.91565"
+             x="-1727.2993"
+             y="114.43401"><tspan
+               x="-570.27179"
+               y="902.32758"
                id="arrow_node7_north_west_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.61311236,-0.61311236,0.8155112,0.8155112,0,0)"
+             transform="rotate(-45)"
              id="arrow_node7_north_west_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-1821.7715"
-             y="20.852285"><tspan
-               x="-664.74414"
-               y="808.74573"
+             x="-1727.2968"
+             y="147.68407"><tspan
+               x="-570.26935"
+               y="935.57745"
                id="arrow_node7_north_west_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.61288598,-0.61288598,0.81581243,0.81581243,0,0)"
+             transform="rotate(-45)"
              id="arrows_node7_north_west_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-             x="-1822.7325"
-             y="47.580002"><tspan
-               x="-665.27777"
-               y="835.76489"
+             x="-1727.9203"
+             y="178.99174"><tspan
+               x="-570.46545"
+               y="967.17664"
                id="arrows_node7_north_west_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
@@ -1465,13 +1451,13 @@
              y="-8.2089996">Ich bin ein langer Straßenname</tspan></text>
         <text
            xml:space="preserve"
-           transform="matrix(0.61288598,0.61288598,-0.81581243,0.81581243,0,0)"
+           transform="rotate(45)"
            id="node8_sum_text"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-           x="-680.59656"
-           y="-778.25226"><tspan
-             x="476.85812"
-             y="9.9321899"
+           x="-733.49255"
+           y="-778.27759"><tspan
+             x="423.96216"
+             y="9.9067898"
              id="node8_sum_tspan"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
       </g>
@@ -1493,35 +1479,35 @@
              style="stroke-width:17.8113" />
           <text
              xml:space="preserve"
-             transform="matrix(0.61311236,0.61311236,-0.8155112,0.8155112,0,0)"
+             transform="rotate(45)"
              id="arrow_node8_south_west_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-681.18036"
-             y="-722.18488"><tspan
-               x="475.84692"
-               y="65.708733"
+             x="-733.92938"
+             y="-713.65863"><tspan
+               x="423.09784"
+               y="74.234932"
                id="arrow_node8_south_west_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.61311236,0.61311236,-0.8155112,0.8155112,0,0)"
+             transform="rotate(45)"
              id="arrow_node8_south_west_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-681.18329"
-             y="-693.35461"><tspan
-               x="475.84406"
-               y="94.538795"
+             x="-733.93195"
+             y="-680.40857"><tspan
+               x="423.0954"
+               y="107.48485"
                id="arrow_node8_south_west_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.61288598,0.61288598,-0.81581243,0.81581243,0,0)"
+             transform="rotate(45)"
              id="arrows_node8_south_west_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-             x="-680.59656"
-             y="-666.3642"><tspan
-               x="476.85815"
-               y="121.82064"
+             x="-733.49261"
+             y="-649.18854"><tspan
+               x="423.96213"
+               y="138.99622"
                id="arrows_node8_south_west_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
@@ -1545,35 +1531,35 @@
              style="stroke-width:17.8113" />
           <text
              xml:space="preserve"
-             transform="matrix(0.61311236,0.61311236,-0.8155112,0.8155112,0,0)"
+             transform="rotate(45)"
              id="arrow_node8_north_east_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-681.18323"
-             y="-866.33521"><tspan
-               x="475.84406"
-               y="-78.441643"
+             x="-733.93188"
+             y="-879.90833"><tspan
+               x="423.0954"
+               y="-92.014717"
                id="arrow_node8_north_east_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.61311236,0.61311236,-0.8155112,0.8155112,0,0)"
+             transform="rotate(45)"
              id="arrow_node8_north_east_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
-             x="-681.18036"
-             y="-837.505"><tspan
-               x="475.84692"
-               y="-49.611568"
+             x="-733.92938"
+             y="-846.6582"><tspan
+               x="423.09787"
+               y="-58.764786"
                id="arrow_node8_north_east_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
-             transform="matrix(0.61288598,0.61288598,-0.81581243,0.81581243,0,0)"
+             transform="rotate(45)"
              id="arrows_node8_north_east_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9644"
-             x="-680.59656"
-             y="-810.45923"><tspan
-               x="476.85815"
-               y="-22.274359"
+             x="-733.49261"
+             y="-815.43579"><tspan
+               x="423.96216"
+               y="-27.250959"
                id="arrows_node8_north_east_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
