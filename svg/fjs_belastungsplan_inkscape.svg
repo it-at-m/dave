@@ -738,7 +738,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
-             d="m 645.75,142.03 v -98 h 2.45 v 98 z"
+             d="m 644.2975,142.03 v -98 h 2.45 v 98 z"
              id="arrows_node1_west_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
@@ -800,7 +800,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
-             d="m 811.99999,142.03 v -98 h 2.45 v 98 z"
+             d="m 810.54749,142.03 v -98 h 2.45 v 98 z"
              id="arrows_node1_east_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
@@ -949,7 +949,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8774"
-             d="m 1260,645.75 h 98 v 2.45 h -98 z"
+             d="m 1270.0345,644.2975 h 98 v 2.45 h -98 z"
              id="arrows_node2_north_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
@@ -1009,7 +1009,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
-             d="m 1260,811.99999 h 98 v 2.45 h -98 z"
+             d="m 1270.0345,810.54749 h 98 v 2.45 h -98 z"
              id="arrows_node2_south_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
@@ -1167,7 +1167,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
-             d="m 811.99999,1375.5 v -98 h 2.45 v 98 z"
+             d="m 810.54749,1375.5 v -98 h 2.45 v 98 z"
              id="arrows_node3_east_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
@@ -1229,7 +1229,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
-             d="m 645.75,1375.5 v -98 h 2.45 v 98 z"
+             d="m 644.2975,1375.5 v -98 h 2.45 v 98 z"
              id="arrows_node3_west_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
@@ -1381,7 +1381,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
-             d="m 24.5,811.99999 h 98 v 2.45 h -98 z"
+             d="m 36.5645,810.54749 h 98 v 2.45 h -98 z"
              id="arrows_node4_south_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
@@ -1441,7 +1441,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
-             d="m 24.5,645.75 h 98 v 2.45 h -98 z"
+             d="m 36.5645,644.2975 h 98 v 2.45 h -98 z"
              id="arrows_node4_north_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
@@ -1601,7 +1601,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
-             d="m 1056.1845,267.09547 69.2965,-69.29647 1.7324,1.73241 -69.2965,69.29647 z"
+             d="m 1063.5929,267.09547 69.2965,-69.29647 1.7324,1.73241 -69.2965,69.29647 z"
              id="arrows_node5_north_west_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
@@ -1663,7 +1663,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
-             d="m 1173.739,384.64997 69.2965,-69.29647 1.7324,1.73241 -69.2965,69.29647 z"
+             d="m 1181.1474,384.64997 69.2965,-69.29647 1.7324,1.73241 -69.2965,69.29647 z"
              id="arrows_node5_south_east_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
@@ -1822,7 +1822,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8774"
-             d="m 1134.3394,1057.6195 69.2964,69.2965 -1.7324,1.7324 -69.2964,-69.2965 z"
+             d="m 1139.8957,1063.1758 69.2964,69.2965 -1.7324,1.7324 -69.2964,-69.2965 z"
              id="arrows_node6_north_east_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
@@ -1885,7 +1885,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
-             d="m 1016.7849,1175.1775 69.2964,69.2965 -1.7324,1.7324 -69.2964,-69.2965 z"
+             d="m 1022.3412,1180.7338 69.2964,69.2965 -1.7324,1.7324 -69.2964,-69.2965 z"
              id="arrows_node6_south_west_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
@@ -2044,7 +2044,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
-             d="m 301.546,1256.8464 69.29647,-69.2964 1.73241,1.7324 -69.29647,69.2964 z"
+             d="m 308.95432,1256.8464 69.29647,-69.2964 1.73241,1.7324 -69.29647,69.2964 z"
              id="arrows_node7_south_east_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
@@ -2106,7 +2106,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
-             d="m 183.988,1139.2884 69.29647,-69.2964 1.73241,1.7324 -69.29647,69.2964 z"
+             d="m 191.39632,1139.2884 69.29647,-69.2964 1.73241,1.7324 -69.29647,69.2964 z"
              id="arrows_node7_north_west_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
@@ -2266,7 +2266,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
-             d="m 143.15341,301.546 69.29647,69.29647 -1.73241,1.73241 -69.29647,-69.29647 z"
+             d="m 150.56173,308.95432 69.29647,69.29647 -1.73241,1.73241 -69.29647,-69.29647 z"
              id="arrows_node8_south_west_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
@@ -2329,7 +2329,7 @@
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644">123456</tspan></text>
           <path
              style="fill:#000000;fill-opacity:1;stroke-width:29.8746"
-             d="m 260.71141,183.988 69.29647,69.29647 -1.73241,1.73241 -69.29647,-69.29647 z"
+             d="m 268.11973,191.39632 69.29647,69.29647 -1.73241,1.73241 -69.29647,-69.29647 z"
              id="arrows_node8_north_east_sum_line"
              sodipodi:nodetypes="ccccc"
              inkscape:label="sumline" />
