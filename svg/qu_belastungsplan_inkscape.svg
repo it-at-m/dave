@@ -1638,40 +1638,36 @@
   </g>
   <g
      id="legend"
-     inkscape:label="legend"
-     transform="matrix(1.0449912,0,0,1.0489734,-20.934144,-1.2761587)">
+     inkscape:label="legend">
     <g
        id="legend-zaehlinfo"
        style="stroke-width:28.2205;stroke-dasharray:none"
-       inkscape:label="legend-zaehlinfo"
-       transform="translate(50.006244,31.659644)">
+       inkscape:label="legend-zaehlinfo">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
          id="verkehrsart"
-         x="168.24969"
-         y="1230.3373"
-         inkscape:label="verkehrsart"
-         transform="matrix(1.000004,0,0,1,-152.56418,35.000043)"><tspan
-           x="168.24969"
-           y="1230.3373"
+         x="56.249691"
+         y="1310.3373"
+         inkscape:label="verkehrsart"><tspan
+           x="56.249691"
+           y="1310.3373"
            id="tspan2"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
              id="tspan1">FUSS</tspan></tspan></text>
       <g
          id="zaehlzeit2"
          style="stroke-width:28.2205;stroke-dasharray:none"
-         inkscape:label="zaehlzeit2"
-         transform="translate(-152.29421)">
+         inkscape:label="zaehlzeit2">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
            id="zaehlzeit2-multirow"
-           x="168"
-           y="1210"
+           x="56.249691"
+           y="1257"
            inkscape:label="zaehlzeit2-multirow"><tspan
-             x="168"
-             y="1210"
+             x="56.249691"
+             y="1257"
              id="tspan3">hochgerechnet</tspan></text>
       </g>
       <g
@@ -1682,12 +1678,11 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
            id="zaehlzeit1-multirow"
-           x="168.24969"
-           y="1190.3373"
-           transform="translate(-150.84646,0.00162031)"
+           x="56.249691"
+           y="1230.3373"
            inkscape:label="zaehlzeit1-multirow"><tspan
-             x="168.24969"
-             y="1190.3373"
+             x="56.249691"
+             y="1230.3373"
              id="tspan5"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
                id="tspan4">Tageswert</tspan></tspan></text>
@@ -1695,64 +1690,57 @@
     </g>
     <g
        id="legend-compass"
-       inkscape:label="legend-compass"
-       transform="matrix(0.79169692,0,0,0.78817168,-25.092397,5.5190685)">
+       inkscape:label="legend-compass">
       <path
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.35093;stroke-linecap:butt;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:1.99499999;stroke-linecap:butt;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
          id="compass2"
-         d="m 399.4343,-24.60083 105.23313,182.26914 -210.46627,-1e-5 z"
-         transform="matrix(0.16996929,0,0,0.4104001,81.91578,36.842952)"
+         d="m 107.4337,29.984176 13.9217,63.312817 H 106.06607 93.511995 Z"
          inkscape:label="compass2" />
       <text
          xml:space="default"
          id="compass1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6944px;font-family:RomanD;-inkscape-font-specification:'RomanD, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:2.2868"
-         x="141.28348"
-         y="93.924416"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;stroke-width:2.2868"
+         x="100.26942"
+         y="84.035934"
          inkscape:label="compass1"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6944px;font-family:RomanD;-inkscape-font-specification:'RomanD, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.2868"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644"
            id="tspan6">N</tspan></text>
     </g>
     <g
        id="legend-zaehlstelle"
-       inkscape:label="legend-zaehlstelle"
-       transform="translate(-112.62637,-13.999124)">
+       inkscape:label="legend-zaehlstelle">
       <g
          id="zaehlstelle2"
          style="stroke-width:28.2205;stroke-dasharray:none"
-         transform="translate(163.18555,-589.09456)"
          inkscape:label="zaehlstelle2">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
            id="zaehlstelle2-multirow"
-           x="699.24969"
-           y="688.33734"
-           transform="translate(324.11416)"
+           x="1107.2496"
+           y="85.837341"
            inkscape:label="zaehlstelle2-multirow"><tspan
-             x="699.24969"
-             y="688.33734"
+             x="1107.2496"
+             y="85.837341"
              id="tspan7">Stadtbezirk 8
 </tspan><tspan
-             x="699.24969"
-             y="713.03187"
+             x="1107.2496"
+             y="112.26053"
              id="tspan8">Zähldatum: 01.01.2026</tspan></text>
       </g>
       <g
          id="zaehlstelle1"
          style="stroke-width:28.2205;stroke-dasharray:none"
-         transform="translate(162.09712,-614.70735)"
          inkscape:label="zaehlstelle1">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
            id="zaehlstelle1-multirow"
-           x="699.24969"
-           y="688.33734"
-           transform="translate(324.11416)"
+           x="1107.2496"
+           y="60.337341"
            inkscape:label="zaehlstelle1-multirow"><tspan
-             x="699.24969"
-             y="688.33734"
+             x="1107.2496"
+             y="60.337341"
              id="tspan10"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
                id="tspan9">Zählstelle 99999</tspan></tspan></text>
