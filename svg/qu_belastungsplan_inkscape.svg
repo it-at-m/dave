@@ -1692,18 +1692,18 @@
        id="legend-compass"
        inkscape:label="legend-compass">
       <path
-         style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:1.99499999;stroke-linecap:butt;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
          id="compass2"
-         d="m 107.4337,29.984176 13.9217,63.312817 H 106.06607 93.511995 Z"
+         d="M 93.33333333333333 93.33333333333333 L 121.33333333333333 93.33333333333333 L 107.33333333333333 30.33333333333333 z"
          inkscape:label="compass2" />
       <text
          xml:space="default"
          id="compass1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#666666;stroke-width:2.2868"
-         x="100.26942"
-         y="84.035934"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.0001px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#666666;stroke-width:2"
+         x="107.33477"
+         y="83.332977"
          inkscape:label="compass1"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9644"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.0001px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2"
            id="tspan6">N</tspan></text>
     </g>
     <g
