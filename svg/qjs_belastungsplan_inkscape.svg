@@ -359,13 +359,13 @@
          id="legend-massstab"
          inkscape:label="legend-massstab">
         <path
-           style="fill:none;stroke:#757575;stroke-width:1.99499999;stroke-linecap:square;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
-           d="m 1316.5243,1294.7302 -124.9982,-0.2134 124.9982,-19.8383 z"
+           style="fill:none;stroke:#757575;stroke-width:2;stroke-linecap:square;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1190.6,1295 h 125.4 v -20 z"
            id="massstab-path1"
            inkscape:label="massstab-path1" />
         <path
-           style="fill:#000000;stroke:#757575;stroke-width:1.55315;stroke-linecap:square;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
-           d="m 1252.753,1284.8722 c 0.1693,10.1113 0.1735,9.9849 0.1735,9.9849 v 0"
+           style="fill:#000000;stroke:#757575;stroke-width:2;stroke-linecap:square;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1253,1295 v -10"
            id="massstab-path2"
            inkscape:label="massstab-path2" />
         <g
@@ -376,11 +376,11 @@
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:268.729;display:inline;fill:#000000;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
              id="massstab-size1-multirow"
-             x="1250.2496"
-             y="1315.3373"
+             x="1253"
+             y="1315"
              inkscape:label="massstab-size1-multirow"><tspan
-               x="1250.2496"
-               y="1315.3373"
+               x="1253"
+               y="1315"
                id="tspan25">1000</tspan></text>
         </g>
         <g
@@ -391,11 +391,11 @@
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:268.729;display:inline;fill:#000000;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
              id="massstab-size2-multirow"
-             x="1316.2496"
-             y="1315.3373"
+             x="1316"
+             y="1315"
              inkscape:label="massstab-size2-multirow"><tspan
-               x="1316.2496"
-               y="1315.3373"
+               x="1316"
+               y="1315"
                id="tspan26">2000</tspan></text>
         </g>
       </g>
