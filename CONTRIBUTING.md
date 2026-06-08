@@ -39,6 +39,7 @@ Frontend
 - Auto-fix lintable issues:
   ```bash
   npm run fix
+  ```
 - Test the frontend :
   ```bash
   npm run test
