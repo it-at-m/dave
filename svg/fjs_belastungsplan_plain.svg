@@ -24,10 +24,10 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
          id="verkehrsart"
-         x="56.249691"
-         y="1310.3373"><tspan
-           x="56.249691"
-           y="1310.3373"
+         x="56"
+         y="1307.6622"><tspan
+           x="56"
+           y="1307.6622"
            id="tspan13"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
              id="tspan12">FUSS</tspan></tspan></text>
@@ -38,10 +38,10 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
            id="zaehlzeit2-multirow"
-           x="56.249691"
-           y="1257"><tspan
-             x="56.249691"
-             y="1257"
+           x="56"
+           y="1255.6622"><tspan
+             x="56"
+             y="1255.6622"
              id="tspan18">hochgerechnet</tspan></text>
       </g>
       <g
@@ -51,10 +51,10 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
            id="zaehlzeit1-multirow"
-           x="56.249691"
-           y="1230.3373"><tspan
-             x="56.249691"
-             y="1230.3373"
+           x="56"
+           y="1229.6622"><tspan
+             x="56"
+             y="1229.6622"
              id="tspan20"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
                id="tspan19">Tageswert</tspan></tspan></text>
