@@ -89,13 +89,13 @@
            id="node1_sum">
           <text
              xml:space="preserve"
-             transform="matrix(0,-0.86675092,1.153734,0,0,0)"
+             transform="rotate(-90)"
              id="node1_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
-             x="-1383.7572"
-             y="-70.255974"><tspan
-               x="-226.30139"
-               y="717.9292"
+             x="-1347.4354"
+             y="37.009502"><tspan
+               x="-189.97949"
+               y="825.1947"
                id="node1_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:28.2205;stroke-dasharray:none">123456</tspan></text>
           <path
@@ -121,24 +121,22 @@
            style="stroke-width:28.2205;stroke-dasharray:none" />
         <text
            xml:space="preserve"
-           transform="scale(0.87251096,1.1461174)"
            id="arrow_node1_west_to_east_number_text"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
-           x="-362.89398"
-           y="-553.82526"><tspan
-             x="801.39209"
-             y="239.01094"
+           x="-465.17621"
+           y="-520.35779"><tspan
+             x="699.1098"
+             y="272.47839"
              id="arrow_node1_west_to_east_number_tspan"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:28.2205;stroke-dasharray:none">123456</tspan></text>
         <text
            xml:space="preserve"
-           transform="scale(0.87251096,1.1461174)"
            id="arrow_node1_east_to_west_number_text"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
-           x="-362.89325"
-           y="-599.6322"><tspan
-             x="801.39209"
-             y="193.2041"
+           x="-465.17548"
+           y="-572.85791"><tspan
+             x="699.1098"
+             y="219.97839"
              id="arrow_node1_east_to_west_number_tspan"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:28.2205;stroke-dasharray:none">123456</tspan></text>
       </g>
@@ -211,13 +209,13 @@
            transform="rotate(90,699.99982,699.99982)">
           <text
              xml:space="preserve"
-             transform="matrix(0,-0.86675092,1.153734,0,0,0)"
+             transform="rotate(-90)"
              id="node2_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
-             x="-1383.7572"
-             y="-70.255974"><tspan
-               x="-226.30139"
-               y="717.9292"
+             x="-1347.438"
+             y="37.009502"><tspan
+               x="-189.98215"
+               y="825.1947"
                id="node2_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:28.2205;stroke-dasharray:none">123456</tspan></text>
           <path
@@ -243,24 +241,24 @@
            style="stroke-width:28.2205;stroke-dasharray:none" />
         <text
            xml:space="preserve"
-           transform="matrix(0,-0.86707182,1.153307,0,0,0)"
+           transform="rotate(-90)"
            id="arrow_node2_north_to_south_number_text"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
-           x="-1965.2267"
-           y="208.31508"><tspan
-             x="-808.19946"
-             y="996.2088"
+           x="-1857.6315"
+           y="359.45795"><tspan
+             x="-700.60413"
+             y="1147.3517"
              id="arrow_node2_north_to_south_number_tspan"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:28.2205;stroke-dasharray:none">123456</tspan></text>
         <text
            xml:space="preserve"
-           transform="matrix(0,-0.86707182,1.153307,0,0,0)"
+           transform="rotate(-90)"
            id="arrow_node2_south_to_north_number_text"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
-           x="-1965.2268"
-           y="253.83627"><tspan
-             x="-808.19946"
-             y="1041.7301"
+           x="-1857.6313"
+           y="411.95795"><tspan
+             x="-700.60413"
+             y="1199.8517"
              id="arrow_node2_south_to_north_number_tspan"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:28.2205;stroke-dasharray:none">123456</tspan></text>
       </g>
@@ -336,13 +334,13 @@
            transform="translate(-3.251155e-6,927.49999)">
           <text
              xml:space="preserve"
-             transform="matrix(0,-0.86675092,1.153734,0,0,0)"
+             transform="rotate(-90)"
              id="node3_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
-             x="-1383.7572"
-             y="-70.255974"><tspan
-               x="-226.30139"
-               y="717.9292"
+             x="-1347.437"
+             y="37.009521"><tspan
+               x="-189.98125"
+               y="825.1947"
                id="node3_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:28.2205;stroke-dasharray:none">123456</tspan></text>
           <path
@@ -368,24 +366,22 @@
            style="stroke-width:28.2205;stroke-dasharray:none" />
         <text
            xml:space="preserve"
-           transform="scale(0.87251096,1.1461174)"
            id="arrow_node3_west_to_east_number_text"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
-           x="-362.89398"
-           y="255.42867"><tspan
-             x="801.39209"
-             y="1048.2649"
+           x="-465.17621"
+           y="407.14215"><tspan
+             x="699.1098"
+             y="1199.9784"
              id="arrow_node3_west_to_east_number_tspan"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:28.2205;stroke-dasharray:none">123456</tspan></text>
         <text
            xml:space="preserve"
-           transform="scale(0.87251096,1.1461174)"
            id="arrow_node3_east_to_west_number_text"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
-           x="-362.89322"
-           y="209.62167"><tspan
-             x="801.39209"
-             y="1002.458"
+           x="-465.17545"
+           y="354.64206"><tspan
+             x="699.1098"
+             y="1147.4784"
              id="arrow_node3_east_to_west_number_tspan"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:28.2205;stroke-dasharray:none">123456</tspan></text>
       </g>
@@ -458,13 +454,13 @@
            transform="rotate(90,236.24983,236.24982)">
           <text
              xml:space="preserve"
-             transform="matrix(0,-0.86675092,1.153734,0,0,0)"
+             transform="rotate(-90)"
              id="node4_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
-             x="-1383.7572"
-             y="-70.255974"><tspan
-               x="-226.30139"
-               y="717.9292"
+             x="-1347.438"
+             y="37.009583"><tspan
+               x="-189.98215"
+               y="825.1947"
                id="node4_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:28.2205;stroke-dasharray:none">123456</tspan></text>
           <path
@@ -490,24 +486,24 @@
            style="stroke-width:28.2205;stroke-dasharray:none" />
         <text
            xml:space="preserve"
-           transform="matrix(0,-0.86707182,1.153307,0,0,0)"
+           transform="rotate(-90)"
            id="arrow_node4_north_to_south_number_text"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
-           x="-1965.2267"
-           y="-595.89404"><tspan
-             x="-808.19946"
-             y="191.99969"
+           x="-1857.6313"
+           y="-568.04199"><tspan
+             x="-700.60413"
+             y="219.85175"
              id="arrow_node4_north_to_south_number_tspan"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:28.2205;stroke-dasharray:none">123456</tspan></text>
         <text
            xml:space="preserve"
-           transform="matrix(0,-0.86707182,1.153307,0,0,0)"
+           transform="rotate(-90)"
            id="arrow_node4_south_to_north_number_text"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
-           x="-1965.2268"
-           y="-550.37286"><tspan
-             x="-808.19946"
-             y="237.52097"
+           x="-1857.6316"
+           y="-515.54205"><tspan
+             x="-700.60413"
+             y="272.35175"
              id="arrow_node4_south_to_north_number_tspan"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:28.2205;stroke-dasharray:none">123456</tspan></text>
       </g>
@@ -584,13 +580,13 @@
            transform="rotate(45,720.59848,699.99663)">
           <text
              xml:space="preserve"
-             transform="matrix(0,-0.86675092,1.153734,0,0,0)"
+             transform="rotate(-90)"
              id="node5_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
-             x="-1383.7572"
-             y="-70.255974"><tspan
-               x="-226.30139"
-               y="717.9292"
+             x="-1347.4376"
+             y="36.689121"><tspan
+               x="-189.98169"
+               y="824.87433"
                id="node5_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:28.2205;stroke-dasharray:none">123456</tspan></text>
           <path
@@ -616,24 +612,24 @@
            style="stroke-width:27.0576" />
         <text
            xml:space="preserve"
-           transform="matrix(0.61695842,0.61695842,-0.81042739,0.81042739,-2.4668423e-8,4.2673751e-7)"
+           transform="rotate(45)"
            id="arrow_node5_north_west_to_south_east_number_text"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:44.2239"
-           x="-30.245787"
-           y="-1164.397"><tspan
-             x="1134.0402"
-             y="-371.56079"
+           x="-170.68669"
+           y="-1220.1736"><tspan
+             x="993.59924"
+             y="-427.33743"
              id="arrow_node5_north_west_to_south_east_number_tspan"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:44.2239">123456</tspan></text>
         <text
            xml:space="preserve"
-           transform="matrix(0.61695842,0.61695842,-0.81042739,0.81042739,-2.4668423e-8,4.2673751e-7)"
+           transform="rotate(45)"
            id="arrow_node5_south_east_to_north_west_number_text"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:44.2239"
-           x="-30.245035"
-           y="-1210.2013"><tspan
-             x="1134.0402"
-             y="-417.36499"
+           x="-170.68846"
+           y="-1272.6682"><tspan
+             x="993.59674"
+             y="-479.83194"
              id="arrow_node5_south_east_to_north_west_number_tspan"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:44.2239">123456</tspan></text>
       </g>
@@ -708,13 +704,13 @@
            transform="rotate(135,706.03406,706.03209)">
           <text
              xml:space="preserve"
-             transform="matrix(0,-0.86675092,1.153734,0,0,0)"
+             transform="rotate(-90)"
              id="node6_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
-             x="-1383.7572"
-             y="-70.255974"><tspan
-               x="-226.30139"
-               y="717.9292"
+             x="-1349.311"
+             y="38.561497"><tspan
+               x="-191.85516"
+               y="826.7467"
                id="node6_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:28.2205;stroke-dasharray:none">123456</tspan></text>
           <path
@@ -740,24 +736,24 @@
            style="stroke-width:27.0576" />
         <text
            xml:space="preserve"
-           transform="matrix(0.61695842,-0.61695842,0.81042739,0.81042739,-2.9965742e-7,1.1586825e-8)"
+           transform="rotate(-45)"
            id="arrow_node6_north_east_to_south_west_number_text"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:44.2239"
-           x="-1165.1763"
-           y="463.03299"><tspan
-             x="-0.89014673"
-             y="1255.8691"
+           x="-1172.4175"
+           y="644.03931"><tspan
+             x="-8.1312895"
+             y="1436.8754"
              id="arrow_node6_north_east_to_south_west_number_tspan"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:44.2239">123456</tspan></text>
         <text
            xml:space="preserve"
-           transform="matrix(0.61695842,-0.61695842,0.81042739,0.81042739,-2.9965742e-7,1.1586825e-8)"
+           transform="rotate(-45)"
            id="arrow_node6_south_west_to_north_east_number_text"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:44.2239"
-           x="-1165.1754"
-           y="508.83719"><tspan
-             x="-0.89011478"
-             y="1301.6733"
+           x="-1172.6617"
+           y="696.29114"><tspan
+             x="-8.3763189"
+             y="1489.1274"
              id="arrow_node6_south_west_to_north_east_number_tspan"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:44.2239">123456</tspan></text>
       </g>
@@ -830,13 +826,13 @@
            transform="rotate(45,-434.15313,221.6861)">
           <text
              xml:space="preserve"
-             transform="matrix(0,-0.86675092,1.153734,0,0,0)"
+             transform="rotate(-90)"
              id="node7_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
-             x="-1383.7572"
-             y="-70.255974"><tspan
-               x="-226.30139"
-               y="717.9292"
+             x="-1347.4363"
+             y="36.689327"><tspan
+               x="-189.98039"
+               y="824.87451"
                id="node7_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:28.2205;stroke-dasharray:none">123456</tspan></text>
           <path
@@ -862,24 +858,24 @@
            style="stroke-width:27.0576" />
         <text
            xml:space="preserve"
-           transform="matrix(0.61695842,0.61695842,-0.81042739,0.81042739,-3.0764013e-7,0)"
+           transform="rotate(45)"
            id="arrow_node7_south_east_to_north_west_number_text"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:44.2239"
-           x="-30.018866"
-           y="-401.13431"><tspan
-             x="1134.2671"
-             y="391.7019"
+           x="-170.48979"
+           y="-345.38342"><tspan
+             x="993.79614"
+             y="447.45276"
              id="arrow_node7_south_east_to_north_west_number_tspan"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:44.2239">123456</tspan></text>
         <text
            xml:space="preserve"
-           transform="matrix(0.61695842,0.61695842,-0.81042739,0.81042739,-3.0764013e-7,0)"
+           transform="rotate(45)"
            id="arrow_node7_north_west_to_south_east_number_text"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:44.2239"
-           x="-30.018135"
-           y="-355.33026"><tspan
-             x="1134.2671"
-             y="437.50613"
+           x="-170.48906"
+           y="-292.88657"><tspan
+             x="993.79614"
+             y="499.94977"
              id="arrow_node7_north_west_to_south_east_number_tspan"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:44.2239">123456</tspan></text>
       </g>
@@ -952,13 +948,13 @@
            transform="rotate(135,507.90765,227.71915)">
           <text
              xml:space="preserve"
-             transform="matrix(0,-0.86675092,1.153734,0,0,0)"
+             transform="rotate(-90)"
              id="node8_sum_text"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:28.2205;stroke-dasharray:none"
-             x="-1383.7572"
-             y="-70.255974"><tspan
-               x="-226.30139"
-               y="717.9292"
+             x="-1349.311"
+             y="38.561852"><tspan
+               x="-191.85516"
+               y="826.74701"
                id="node8_sum_tspan"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.097px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:28.2205;stroke-dasharray:none">123456</tspan></text>
           <path
@@ -984,60 +980,56 @@
            style="stroke-width:27.0576" />
         <text
            xml:space="preserve"
-           transform="matrix(0.61695842,-0.61695842,0.81042739,0.81042739,-4.3344642e-8,-4.1388365e-7)"
+           transform="rotate(-45)"
            id="arrow_node8_north_east_to_south_west_number_text"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:44.2239"
-           x="-1165.4031"
-           y="-300.22974"><tspan
-             x="-1.1170298"
-             y="492.60648"
+           x="-1172.6158"
+           y="-231.24287"><tspan
+             x="-8.3306265"
+             y="561.59302"
              id="arrow_node8_north_east_to_south_west_number_tspan"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:44.2239">123456</tspan></text>
         <text
            xml:space="preserve"
-           transform="matrix(0.61695842,-0.61695842,0.81042739,0.81042739,-4.3344642e-8,-4.1388365e-7)"
+           transform="rotate(-45)"
            id="arrow_node8_south_west_to_north_east_number_text"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;text-anchor:middle;white-space:pre;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:44.2239"
-           x="-1165.4023"
-           y="-346.03415"><tspan
-             x="-1.117029"
-             y="446.80225"
+           x="-1171.1313"
+           y="-283.24542"><tspan
+             x="-6.8456869"
+             y="509.59097"
              id="arrow_node8_south_west_to_north_east_number_tspan"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2628px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:44.2239">123456</tspan></text>
       </g>
     </g>
   </g>
   <g
-     id="legend"
-     transform="matrix(1.0449912,0,0,1.0489734,-20.934144,-1.2761587)">
+     id="legend">
     <g
        id="legend-zaehlinfo"
-       style="stroke-width:28.2205;stroke-dasharray:none"
-       transform="translate(50.006244,31.659644)">
+       style="stroke-width:28.2205;stroke-dasharray:none">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
          id="verkehrsart"
-         x="168.24969"
-         y="1230.3373"
-         transform="matrix(1.000004,0,0,1,-152.56418,35.000043)"><tspan
-           x="168.24969"
-           y="1230.3373"
+         x="56"
+         y="1307.6622"><tspan
+           x="56"
+           y="1307.6622"
            id="tspan8"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
              id="tspan7">FUSS</tspan></tspan></text>
       <g
          id="zaehlzeit2"
-         style="stroke-width:28.2205;stroke-dasharray:none"
-         transform="translate(-152.29421)">
+         style="stroke-width:28.2205;stroke-dasharray:none">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
            id="zaehlzeit2-multirow"
-           x="168"
-           y="1210"><tspan
-             x="168"
-             y="1210"
+           x="56"
+           y="1255.6622"><tspan
+             x="56"
+             y="1255.6622"
              id="tspan9">hochgerechnet</tspan></text>
       </g>
       <g
@@ -1047,68 +1039,60 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
            id="zaehlzeit1-multirow"
-           x="168.24969"
-           y="1190.3373"
-           transform="translate(-150.84646,0.00162031)"><tspan
-             x="168.24969"
-             y="1190.3373"
+           x="56"
+           y="1229.6622"><tspan
+             x="56"
+             y="1229.6622"
              id="tspan11"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
                id="tspan10">Tageswert</tspan></tspan></text>
       </g>
     </g>
     <g
-       id="legend-compass"
-       transform="matrix(0.79169692,0,0,0.78817168,-25.092397,5.5190685)">
+       id="legend-compass">
       <path
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.35093;stroke-linecap:butt;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:2;stroke-linecap:butt;stroke-miterlimit:2.5;stroke-dasharray:none;stroke-opacity:1"
          id="compass2"
-         d="m 399.4343,-24.60083 105.23313,182.26914 -210.46627,-1e-5 z"
-         transform="matrix(0.16996929,0,0,0.4104001,81.91578,36.842952)" />
+         d="m 93.333333,93.333333 h 27.999997 l -14,-63 z" />
       <text
          xml:space="default"
          id="compass1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6944px;font-family:RomanD;-inkscape-font-specification:'RomanD, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:2.2868"
-         x="141.28348"
-         y="93.924416"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.6944px;font-family:RomanD;-inkscape-font-specification:'RomanD, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2.2868"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.0001px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#666666;stroke-width:2"
+         x="107.33477"
+         y="83.332977"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.0001px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:2"
            id="tspan6">N</tspan></text>
     </g>
     <g
-       id="legend-zaehlstelle"
-       transform="translate(-112.62637,-13.999124)">
+       id="legend-zaehlstelle">
       <g
          id="zaehlstelle2"
-         style="stroke-width:28.2205;stroke-dasharray:none"
-         transform="translate(163.18555,-589.09456)">
+         style="stroke-width:28.2205;stroke-dasharray:none">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
            id="zaehlstelle2-multirow"
-           x="699.24969"
-           y="688.33734"
-           transform="translate(324.11416)"><tspan
-             x="699.24969"
-             y="688.33734"
+           x="1107.0699"
+           y="84.662277"><tspan
+             x="1107.0699"
+             y="84.662277"
              id="tspan12">Stadtbezirk 8
 </tspan><tspan
-             x="699.24969"
-             y="713.03187"
+             x="1107.0699"
+             y="110.83184"
              id="tspan13">Zähldatum: 01.01.2026</tspan></text>
       </g>
       <g
          id="zaehlstelle1"
-         style="stroke-width:28.2205;stroke-dasharray:none"
-         transform="translate(162.09712,-614.70735)">
+         style="stroke-width:28.2205;stroke-dasharray:none">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:268.729;display:inline;fill:#000000;stroke-width:28.2205;stroke-dasharray:none"
            id="zaehlstelle1-multirow"
-           x="699.24969"
-           y="688.33734"
-           transform="translate(324.11416)"><tspan
-             x="699.24969"
-             y="688.33734"
+           x="1107.0699"
+           y="58.662277"><tspan
+             x="1107.0699"
+             y="58.662277"
              id="tspan33"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
                id="tspan32">Zählstelle 99999</tspan></tspan></text>
