@@ -35,7 +35,7 @@ With DAVe traffic counts can be commissioned, recorded and graphically evaluated
 
 ## Roadmap
 
-<img src="img/DAVe_Roapmap.png" alt="Roadmap" width="850">
+<img src="img/DAVe_Roadmap.png" alt="Roadmap" width="850">
 
 
 A detailed board of what opensource features and issues are currently treated can be observed under:
