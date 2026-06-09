@@ -7,6 +7,7 @@
 * Belastungspläne QjS, FjS und Qu: Stauchung der Zählwerte entfernt, Schriftarten und -größe angepasst, Position der Legende an bisherige BLPs angeglichen ([FV-373](https://jira.muenchen.de/browse/FV-373))
 * Bugfix: Der Belastungsplan wird nun nach einem Zählstellenwechsel über die kleine Karte angezeigt ([FV-374](https://jira.muenchen.de/browse/FV-374))
 * BLP QJS Schriftart und Pfeile wie bei bestehenden Zählarten umgesetzt ([FV-354](https://jira.muenchen.de/browse/FV-354))
+* Ausweisung der Werte BLP FjS ([FV-238](https://jira.muenchen.de/browse/FV-238))
 
 ## [Sprint 10] 2026-04-29 - 2026-05-20
 * Ausweisung der Zählwerte im BLP für QjS-Zählungen implementiert ([FV-237](https://jira.muenchen.de/browse/FV-237))
