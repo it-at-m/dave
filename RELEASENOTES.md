@@ -5,6 +5,7 @@
 * Darstellung langer Straßennamen im Belastungsplan ([FV-366](https://jira.muenchen.de/browse/FV-366))
 * Zentrale Steuerung des Releasings implementiert ([FV-327](https://jira.muenchen.de/browse/FV-327))
 * Ausweisung der Werte BLP FjS ([FV-238](https://jira.muenchen.de/browse/FV-238))
+* Die Kartenlayer wurden geändert, sodass andere Layer für Stadtbezirke, Stadtviertel und Lichtsignalanlagen verwendet werden ([FV-315](https://jira.muenchen.de/browse/FV-315))
 * Belastungspläne QjS, FjS und Qu: Stauchung der Zählwerte entfernt, Schriftarten und -größe angepasst, Position der Legende an bisherige BLPs angeglichen ([FV-373](https://jira.muenchen.de/browse/FV-373))
 * Bugfix: Der Belastungsplan wird nun nach einem Zählstellenwechsel über die kleine Karte angezeigt ([FV-374](https://jira.muenchen.de/browse/FV-374))
 
