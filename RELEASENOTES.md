@@ -2,7 +2,7 @@
 
 ## [Sprint 12] 2026-06-11 - 2026-07-01
 
-* tbd ([FV-XXX](https://jira.muenchen.de/browse/FV-XXX))
+* Fehlerhafte Pfeilbenennung im Belastungsplan FjS wurde korrigiert ([FV-399](https://jira.muenchen.de/browse/FV-399))
 
 ## [Sprint 11] 2026-05-21 - 2026-06-10
 * Darstellung langer Straßennamen im Belastungsplan ([FV-366](https://jira.muenchen.de/browse/FV-366), [FV-376](https://jira.muenchen.de/browse/FV-376), [FV-203](https://jira.muenchen.de/browse/FV-203))
