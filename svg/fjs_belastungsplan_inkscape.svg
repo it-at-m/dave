@@ -1102,7 +1102,7 @@
            id="arrows_node3_east"
            inkscape:label="node3_east">
           <path
-             id="arrow_node3_east_outgoing"
+             id="arrow_node3_east_incoming"
              d="m 793.75028,1214.591 v -175.0005 h -8.00029 l 13.99931,-34.9995 14.00069,34.9995 h -7.99962 v 175.0005 z"
              fill="#000000"
              stroke="none"
@@ -1110,7 +1110,7 @@
              sodipodi:nodetypes="cccccccc"
              inkscape:label="north" />
           <path
-             id="arrow_node3_east_incoming"
+             id="arrow_node3_east_outgoing"
              d="m 772.49999,1004.591 v 175.0005 h 8 l -13.99928,34.9995 -14.00072,-34.9995 h 8 V 1004.591 Z"
              fill="#000000"
              stroke="none"
@@ -1120,26 +1120,26 @@
           <text
              xml:space="preserve"
              transform="rotate(-90)"
-             id="arrow_node3_east_incoming_number_text"
+             id="arrow_node3_east_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_south"
              x="-2433.238"
              y="-15.206213"><tspan
                x="-1276.2108"
                y="772.68726"
-               id="arrow_node3_east_incoming_number_tspan"
+               id="arrow_node3_east_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="rotate(-90)"
-             id="arrow_node3_east_outgoing_number_text"
+             id="arrow_node3_east_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              inkscape:label="number_north"
              x="-2433.238"
              y="18.043785"><tspan
                x="-1276.2108"
                y="805.93726"
-               id="arrow_node3_east_outgoing_number_tspan"
+               id="arrow_node3_east_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
