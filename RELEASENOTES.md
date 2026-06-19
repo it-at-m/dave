@@ -8,6 +8,7 @@
 * Hinzufügen der Blockauswahl von 19-22 Uhr für 16h-Zählung ([FV-290](https://jira.muenchen.de/browse/FV-290))
 * Ausweisung der Zählwerte im BLP für Qu-Zählungen implementiert ([FV-239](https://jira.muenchen.de/browse/FV-239))
 * SSP Reiter Knoten&Lage Tabellendarstellung erweitert ([FV-304](https://jira.muenchen.de/browse/FV-304))
+* Bugfix in Zeitreihenanzeige und Belastungsplan bezüglich Differenzdatendarstellung ([FV-371](https://jira.muenchen.de/browse/FV-371))
 
 ## [Sprint 11] 2026-05-21 - 2026-06-10
 * Darstellung langer Straßennamen im Belastungsplan ([FV-366](https://jira.muenchen.de/browse/FV-366), [FV-376](https://jira.muenchen.de/browse/FV-376), [FV-203](https://jira.muenchen.de/browse/FV-203))
