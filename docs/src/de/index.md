@@ -10,6 +10,7 @@ DAVe besteht aus folgenden Diensten:
      * [Selbstbedienungsportal](https://github.com/it-at-m/dave-selfservice-portal), in dem die Betreiber der Zählstellen ihre Datensätze manuell hochladen können
   * [Frontend](https://github.com/it-at-m/dave-frontend) zur Anzeige der Zählstellen auf der Karte
   * [EAI-Berichte](https://github.com/it-at-m/dave-eai) (optional) Unternehmensanwendungsintegration für andere Spezialverfahren (z. B. Ausgabe der Koordinaten aller Zählstellen in einer CSV-Datei, Empfang der Daten aller Zählungen für einen bestimmten Monat im JSON-Format).
+  * [Document-Storage](https://github.com/it-at-m/dave-document-storage) Integration für einen S3-Storage für Lagepläne von Messstellen
 
 Weitere Details in der [Systemspezifikation](SysSpec-arc42.md).
 
@@ -39,11 +40,11 @@ Diese Datei muss dann über ConfigMap zum Klassenpfad hinzugefügt werden.
 
 ### Kartenlayer
 
-Die in DAVe dargestellten Karten können in der [dave-backend application.yml](https://github.com/it-at-m/dave-backend/blob/sprint/src/main/resources/application.yml) konfiguriert werden. Die beiden Variablen `dave.map.base-layers` und `dave.map.overlay-layers` enthalten jeweils eine Liste von Kartenlayern.
+Die in DAVe dargestellten Karten können in der [dave-backend application.yml](https://github.com/it-at-m/dave-backend/blob/sprint/src/main/resources/application.yml) konfiguriert werden. Die beiden Variablen `dave.tenant.map.base-layers` und `dave.tenant.map.overlay-layers` enthalten jeweils eine Liste von Kartenlayern.
 
-Die in der Variable `dave.map.base-layers` konfigurierten Kartenlayer sind die Grundkarten. Standardmäßig wird das erste Listenelement in DAVe dargestellt. Die anderen Karten können in der GUI ausgewählt werden. Damit das Backend startet, muss mindestens ein Kartenlayer konfiguriert sein.
+Die in der Variable `dave.tenant.map.base-layers` konfigurierten Kartenlayer sind die Grundkarten. Standardmäßig wird das erste Listenelement in DAVe dargestellt. Die anderen Karten können in der GUI ausgewählt werden. Damit das Backend startet, muss mindestens ein Kartenlayer konfiguriert sein.
 
-Die in der Variable `dave.map.overlay-layers` konfigurierten Overlay-Layer können zusätzlich zu den Grundkarten angezeigt werden. Hierzu können sie in der GUI selektiert werden. Diese Layer können z.B. Stadtbezirke oder Ampelanlagen auf der Karte darstellen.
+Die in der Variable `dave.tenant.map.overlay-layers` konfigurierten Overlay-Layer können zusätzlich zu den Grundkarten angezeigt werden. Hierzu können sie in der GUI selektiert werden. Diese Layer können z.B. Stadtbezirke oder Ampelanlagen auf der Karte darstellen.
 
 ## Bereitstellung
 

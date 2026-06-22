@@ -19,7 +19,8 @@
          - [Ausgabe aller Zählstellen mit Koordinaten als CSV-Datei](#ausgabe-aller-zählstellen-mit-koordinaten-als-csv-datei)
          - [Ausgabe der Spitzenstunde einer bestimmten Zählung als CSV-Datei](#ausgabe-der-spitzenstunde-einer-bestimmten-zählung-als-csv-datei)
          - [Daten aller Zählstellen und Zählungen des angegebenen Monats werden im JSON-Format zurückgegeben](#daten-aller-zählstellen-und-zählungen-des-angegebenen-monats-werden-im-json-format-zurückgegeben)
-      - [S3-Storageintegration](#s3-storageintegration)
+      - [Document-Storage](#document-storage)
+      - [Geodaten-EAI](#geodaten-eai)
       - [Sensordatenintegration](#sensordatenintegration)
       - [Identity Provider](#identity-provider)
 - [Laufzeitsicht](#laufzeitsicht)
@@ -148,13 +149,15 @@ Die Anwendung ist auf Basis der LHM-Referenzarchitektur für Webanwendungen erst
 | Vue          | 3       |
 
 ### Anwendung DAVe
-| Komponente        | Repo                             | Beschreibung                                                                                                                                                                                                                                         |
-|:------------------|:---------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Datenportal       | [dave-frontend](https://github.com/it-at-m/dave-frontend)             | Das Datenportal bietet einen lesenden Zugriff auf die Zählungen und ermöglicht mit Hilfe verschiedener Diagramme eine umfangreich Datenanalyse.                                                                                                      |
-| Adminportal       | [dave-adminportal](https://github.com/it-at-m/dave-admin-portal)          | Das Adminportal ist den Administratoren der Anwendung vorbehalten. Hier ist der komplette Workflow um eine Zählstelle, oder eine Zählung anzulegen abgebildet. Auch die Kommunikation mit dem Zähldienstleister wird über dieses Portal abgewickelt. |
-| Selfserviceportal | [dave-selfserviceportal](https://github.com/it-at-m/dave-selfservice-portal)    | Das Selfservice-Portal dient zur Kommunikation zwischen LHM und Zähldienstleister. Über das Portal hat der Dienstleister die Möglichkeit, seine Zählungsaufträge online aufzurufen und diesen Aufträgen Zähldaten zuzuordnen (hochzuladen).          |
-| Backend           | [dave-backend](https://github.com/it-at-m/dave-backend)              | Beinhaltet die Business Logik für Frontend, Adminportal, Selfserviceportal und EAI, sowie die Anbindung an die Datenbanken. Die Api kann über die eingebaute Swagger-UI eingesehen werden.                                                           |
-| DAVe-EAI          | [dave-eai](https://github.com/it-at-m/dave-eai)                  | Die EAI dient dazu Daten zu den Zählstellen und Zählungen als CSV oder JSON-File zu exportieren.                                                                                                                                                     |
+| Komponente        | Repo                                                                         | Beschreibung                                                                                                                                                                                                                                         |
+|:------------------|:-----------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Datenportal       | [dave-frontend](https://github.com/it-at-m/dave-frontend)                    | Das Datenportal bietet einen lesenden Zugriff auf die Zählungen und ermöglicht mit Hilfe verschiedener Diagramme eine umfangreich Datenanalyse.                                                                                                      |
+| Adminportal       | [dave-adminportal](https://github.com/it-at-m/dave-admin-portal)             | Das Adminportal ist den Administratoren der Anwendung vorbehalten. Hier ist der komplette Workflow um eine Zählstelle, oder eine Zählung anzulegen abgebildet. Auch die Kommunikation mit dem Zähldienstleister wird über dieses Portal abgewickelt. |
+| Selfserviceportal | [dave-selfserviceportal](https://github.com/it-at-m/dave-selfservice-portal) | Das Selfservice-Portal dient zur Kommunikation zwischen LHM und Zähldienstleister. Über das Portal hat der Dienstleister die Möglichkeit, seine Zählungsaufträge online aufzurufen und diesen Aufträgen Zähldaten zuzuordnen (hochzuladen).          |
+| Backend           | [dave-backend](https://github.com/it-at-m/dave-backend)                      | Beinhaltet die Business Logik für Frontend, Adminportal, Selfserviceportal und EAI, sowie die Anbindung an die Datenbanken. Die Api kann über die eingebaute Swagger-UI eingesehen werden.                                                           |
+| DAVe-EAI          | [dave-eai](https://github.com/it-at-m/dave-eai)                              | Die EAI dient dazu Daten zu den Zählstellen und Zählungen als CSV oder JSON-File zu exportieren.                                                                                                                                                     |
+| Document-Storage  | [dave-document-storage](https://github.com/it-at-m/dave-document-storage)    | Die Komponente dient dazu, Lagepläne von Messstellen aus einem S3-Speicher zu laden.                                                                                                                                                                 |
+| Geodaten-EAI |  [dave-geodata-eai](https://github.com/it-at-m/dave-geodata-eai) | Die Komponente dient dazu, die Messstellen und die dazugehörigen auf einen Tag aggregierten Messdaten aus ArcGIS zu laden.                                                                                                                           |
 
 In jedem Frontend ist ein eigenes API Gateway enthalten, welches zur Autorisierung und Authentifizierung der
 Anwender*innen und zur Bereitstellung der grafischen Oberfläche der Anwendung benötigt wird.
@@ -162,6 +165,19 @@ Anwender*innen und zur Bereitstellung der grafischen Oberfläche der Anwendung b
 Zur Beschreibung der Backend-API ist Swagger-UI eingebaut, die über das Gateway erreicht werden kann:
 
 <http://GATEWAY-URL/api/dave-backend-service/v3/api-docs>
+
+
+### Resourcenzuteilung
+| Service                            | CPU-Kerne | RAM     |
+|:-----------------------------------|:----------|:--------|
+| Backend                            | 0,5       | 2,25 GB |
+| API-Gateway Datenportal (Frontend) | 0,25      | 1 GB    |
+| API-Gateway Selfserviceportal      | 0,25      | 1 GB    |
+| API-Gateway Adminportal            | 0,25      | 1 GB    |
+| EAI                                | 0,25      | 0,5 GB  |
+| Document-Storage                   | 0,5       | 512 MB  |
+| Geodaten-EAI                       | 0,5       | 3,5 GB  |
+
 
 ### DAVe EAI
 
@@ -193,11 +209,13 @@ Routenendpunkt: ```GET /lade-auswertung-visum```
 
 Routenziel: ```dave-backend GET /lade-auswertung-visum```
 
-### S3-Storageintegration
+### Document-Storage
 
-Die Schnittstellendefinition ist [hier](https://github.com/it-at-m/dave-backend/blob/main-ng/src/main/resources/api/document-storage.json) nachzulesen. 
+Die Schnittstellendefinition ist [hier](https://github.com/it-at-m/dave-backend/blob/sprint/src/main/resources/api/document-storage.json) nachzulesen. 
 
+### Geodaten-EAI
 
+Die Schnittstellendefinition ist [hier](https://github.com/it-at-m/dave-backend/blob/sprint/src/main/resources/api/geodateneai.json) nachzulesen.
 
 ### Sensordatenintegration
 
@@ -265,6 +283,10 @@ Ein beispielhafter JWT sieht so aus:
 
 # Laufzeitsicht
 
+## Erstellung Belastungsplandaten
+
+![DAVe_Backend_Erstellung_Belastungsplandaten.png](../img/DAVe_Backend_Erstellung_Belastungsplandaten.png)
+
 ## Download Messstellen-Lageplan
 
 ![Laufzeitdiagramm Download Messstellen-Lageplan](../img/DAVe_Laufzeitdiagramm_Download_Lageplan.drawio.png)
@@ -327,7 +349,7 @@ der Zählung einer Zählung für einen gewählten Zeitraum und zeigt diese grafi
 ## Speichern der Zählung einer Zählstelle mit Zähldaten im Self-Service-Portal
 
 Im Self-Service-Portal werden durch den Dienstleister für die Zählung [CSV-Dateien](documentation-csv-for-upload.md)
-mit den Zähldaten je Knotenarm hochgeladen und in der Anwendung persistiert.
+mit den Zähldaten je Knotenarm hochgeladen, validiert und in der Anwendung persistiert.
 
 ![Laufzeitdiagramm Speichern der Zählung einer Zählstelle mit Zähldaten](../img/DAVe_Laufzeitdiagramm_SelfServiceportal_Zaehlstelle_Zaehlung_Persistierung_Intervalle.drawio.png)
 
@@ -347,14 +369,16 @@ Die in den Zählstellen abgebildeten Tageszählungen werden im nachfolgenden Dat
 
 ![Datenmodell für Zählstellen](../img/DAVe_Datenmodell_Zaehlstelle.drawio.png)
 
-| Entität       | Beschreibung                                                                                                                                                                                        |
-|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Zählstelle    | Die Zählstelle ist die Örtlichkeit in der die Zählungen durchgeführt werden.                                                                                                                        |
-| Zählung       | Jede Zählung ist einer Zählstelle zugerordnet und wird dort durchgeführt.                                                                                                                           |
-| Knotenarm     | Eine Zählung kann bis zu acht Knotenarme umfassen. Der Knotenarm repräsentiert die Straße die in die Zählstelle mündet.                                                                             |
-| Fahrbeziehung | Eine Zählung kann je Knotenarm bis zu acht Fahrbeziehungen besitzen. Eine Fahrbeziehung beginnt bei einem Knotenarm und endet bei einem anderen Knotenarm oder bei sich selbst (U-Turn).            |
-| Hochrechnung  | Jeder Fahrbeziehung sind die für die Hochrechnung erforderlichen Hochrechnungsfaktoren angegliedert. Die Faktoren sind erforderlich um die im Zeitintervall hochgerechneten Zählwerte zu ermitteln. |
-| Zeitintervall | Hier handelt es sich um die Zählwerte die in einem Zeitintervall für eine Fahrbeziehung ermittelt wurden.                                                                                           |
+| Entität           | Beschreibung                                                                                                                                                                                                                                                                                                                          |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Zählstelle        | Die Zählstelle ist die Örtlichkeit in der die Zählungen durchgeführt werden.                                                                                                                                                                                                                                                          |
+| Zählung           | Jede Zählung ist einer Zählstelle zugeordnet und wird dort durchgeführt.                                                                                                                                                                                                                                                              |
+| Knotenarm         | Eine Zählung kann bis zu acht Knotenarme umfassen. Der Knotenarm repräsentiert die Straße die in die Zählstelle mündet.                                                                                                                                                                                                               |
+| Verkehrsbeziehung | Eine Zählung kann je Knotenarm bis zu acht Verkehrsbeziehungen besitzen. Eine Verkehrsbeziehung beginnt bei einem Knotenarm und endet bei einem anderen Knotenarm oder bei sich selbst (U-Turn). Zusätzlich kann zwischen der Strassenseite unterschieden werden, um den fahrbahnseitigen Querschnittsverkehr persistieren zu können. |
+| Querungsverkehr   | Der fahrbahnüberschreitende Verkehr an einem Knotenarm. Je Knotenarm existieren bis zu zwei Querungsverkehre die in entgegengesetzter Richtung den Knotenarm von der einen Seite zur anderen Seite überqueren.                                                                                                                        |
+| Längsverkehr      | Der fahrbahnseitige zum und vom Knoten ein- und ausgehende Verkehr entlang eines Knotenarms. Je Knotenarm können je Fahrbahnseite zwei Knotenarme                                                                                                                                                                                     |
+| Hochrechnung      | Jeder Verkehrsbeziehung sind die für die Hochrechnung erforderlichen Hochrechnungsfaktoren angegliedert. Die Faktoren sind erforderlich um die im Zeitintervall hochgerechneten Zählwerte zu ermitteln.                                                                                                                                   |
+| Zeitintervall     | Hier handelt es sich um die Zählwerte die in einem Zeitintervall für eine Verkehrsbeziehung ermittelt wurden.                                                                                                                                                                                                                             |
 
 ## Messstellen
 
@@ -383,6 +407,13 @@ Die Anwendung wird über eine Nutzername-Passwort-Authentifizierung abgesichert.
 
 Nur ausgewählte Nutzer*innen sind in DAVe berechtigt Daten zu lesen oder zu schreiben. Diesen Personen werden im über den Identity Provider zu einer Rolle oder auch zu mehreren Rollen zugeordnet, welchen wiederum eine oder mehrere Rechte zugeordnet sind. Dadurch ist einerseits das Vergeben von Rechten relativ simpel und andererseits sind in DAVe selbst keine Zusammenhänge zwischen Rollen und Rechten fest verbaut. Die Anwendung fragt die Rolle und Rechte der/des aktuell angemeldeten Nutzerin/Nutzers an verschiedenen Stellen ab, um zu entscheiden, ob eine bestimmte Aktion zulässig ist.
 
+Folgende Rollen sind definiert: 
+- ANWENDER
+- EXTERNAL
+- FACHADMIN
+- POWERUSER
+- VERKEHRSDETEKTOR_VIEWER
+
 ## Validierung von Eingaben
 
 Eingaben der Nutzer*innen werden sowohl im Frontend, als auch im Backend validiert. Die Frontendvalidierung dient dazu, eine möglichst unmittelbare Rückmeldung an die/den Nutzer*in sicherzustellen.
@@ -402,11 +433,11 @@ Aktuell werden die Daten der Zählstellen, Zählungen und Messstellen mitsamt de
 Das Ziel des LCM ist, die Zählstellen, Zählungen und Messstellen in die relationale Datenbank zu migrieren und in Elasticsearch ausschließlich den Suchindex vorzuhalten.
 Die Suche wird dann mittels [Hibernate Search](https://hibernate.org/search/documentation/) durchgeführt.
 
-## LCM - Umbau Relation Zählung zu Fahrbeziehung und Zählung zu Knotenarm nach Zählung zu Knotenarm zu Fahrbeziehung
+## LCM - Umbau Relation Zählung zu Vekehrsbeziehung, Laengsverkehr, Querungsverkehr und Zählung zu Knotenarm nach Zählung zu Knotenarm zu Vekehrsbeziehung, Laengsverkehr, Querungsverkehr
 
-Aktuell referenziert die Zählung jeweils die Fahrbeziehungen und die Knotenarme jeweils in einem eigenen Attribut.
+Aktuell referenziert die Zählung jeweils die Verkehrsbeziehung und die Knotenarme jeweils in einem eigenen Attribut.
 
-Fachlich sind jedoch die Fahrbeziehungen einen bestimmten Knotenarm zugeordnet. 
+Fachlich sind jedoch die Vekehrsbeziehungen, Laengs- und Querungsverkehre einen bestimmten Knotenarm zugeordnet. 
 Die Knotenarme befinden sich wiederum an einer Zählung.
 Diese fachlichen Abhängigkeiten sind somit auch im technischen Datenmodell durch entsprechende Migration abzubilden.
 
