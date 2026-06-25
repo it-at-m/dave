@@ -9,6 +9,7 @@
 * Ausweisung der Zählwerte im BLP für Qu-Zählungen implementiert ([FV-239](https://jira.muenchen.de/browse/FV-239))
 * SSP Reiter Knoten&Lage Tabellendarstellung erweitert ([FV-304](https://jira.muenchen.de/browse/FV-304))
 * Bugfix in Zeitreihenanzeige und Belastungsplan bezüglich Differenzdatendarstellung ([FV-371](https://jira.muenchen.de/browse/FV-371))
+* Bugfix: Verrutschter Pfeil korrigiert in KnotenverkehrForm für Qu ([FV-434](https://jira.muenchen.de/browse/FV-434))
 
 ## [Sprint 11] 2026-05-21 - 2026-06-10
 * Darstellung langer Straßennamen im Belastungsplan ([FV-366](https://jira.muenchen.de/browse/FV-366), [FV-376](https://jira.muenchen.de/browse/FV-376), [FV-203](https://jira.muenchen.de/browse/FV-203))
