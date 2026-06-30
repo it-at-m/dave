@@ -12,7 +12,7 @@ DAVe besteht aus folgenden Diensten:
   * [EAI-Berichte](https://github.com/it-at-m/dave-eai) (optional) Unternehmensanwendungsintegration für andere Spezialverfahren (z. B. Ausgabe der Koordinaten aller Zählstellen in einer CSV-Datei, Empfang der Daten aller Zählungen für einen bestimmten Monat im JSON-Format).
   * [Document-Storage](https://github.com/it-at-m/dave-document-storage) Integration für einen S3-Storage für Lagepläne von Messstellen
 
-Weitere Details in der [Systemspezifikation](SysSpec-arc42.md).
+Weitere Details in der [Systemspezifikation](system-specification.md).
 
 
 ## Persistenz

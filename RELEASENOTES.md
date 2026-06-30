@@ -1,5 +1,18 @@
 # Release-Notes
 
+## [Sprint 12] 2026-06-11 - 2026-07-01
+
+* Fehlerhafte Pfeilbenennung im Belastungsplan FjS wurde korrigiert ([FV-399](https://jira.muenchen.de/browse/FV-399))
+* Hinweistext Differenzdatendarstellung geändert ([FV-420](https://jira.muenchen.de/browse/FV-420))
+* Graphische Anpassungen BLP Qu, FjS ([FV-364](https://jira.muenchen.de/browse/FV-364))
+* Hinzufügen der Blockauswahl von 19-22 Uhr für 16h-Zählung ([FV-290](https://jira.muenchen.de/browse/FV-290), [FV-377](https://jira.muenchen.de/browse/FV-377))
+* Ausweisung der Zählwerte im BLP für Qu-Zählungen implementiert ([FV-239](https://jira.muenchen.de/browse/FV-239))
+* SSP Reiter Knoten&Lage Tabellendarstellung erweitert ([FV-304](https://jira.muenchen.de/browse/FV-304))
+* Bugfix in Zeitreihenanzeige und Belastungsplan bezüglich Differenzdatendarstellung ([FV-371](https://jira.muenchen.de/browse/FV-371))
+* Bugfix: Verrutschter Pfeil korrigiert in KnotenverkehrForm für Qu ([FV-434](https://jira.muenchen.de/browse/FV-434))
+* Bugfix: Gewellte Knotenarme beim Export des Belastungsplans Qu sind nun nicht mehr gewellt ([FV-406](https://jira.muenchen.de/browse/FV-406))
+* Bugfix: Korrekte Anzeige der plausiblen Tage bei Gesamtauswertung ([FV-426](https://jira.muenchen.de/browse/FV-426))
+
 ## [Sprint 11] 2026-05-21 - 2026-06-10
 * Darstellung langer Straßennamen im Belastungsplan ([FV-366](https://jira.muenchen.de/browse/FV-366), [FV-376](https://jira.muenchen.de/browse/FV-376), [FV-203](https://jira.muenchen.de/browse/FV-203))
 * Zentrale Steuerung des Releasings implementiert ([FV-327](https://jira.muenchen.de/browse/FV-327))

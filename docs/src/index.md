@@ -10,7 +10,7 @@ DAVe consists of the following services:
     * [frontend](https://github.com/it-at-m/dave-frontend) to see the counting points on the map
 * [EAI Reports](https://github.com/it-at-m/dave-eai) (optional) Enterprise application integration for other specialist procedures (e.g. output coordinates of all counting points in a CSV file, receive data of all counts for a specific month in json format).
 
-Further details in the [System specification](./de/SysSpec-arc42.md) (only in German)
+Further details in the [System specification](./de/system-specification.md) (only in German)
 
 
 ## Persistence
