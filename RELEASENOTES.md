@@ -3,6 +3,7 @@
 ## [Sprint 13] 2026-07-02 - 2026-07-22
 
 * Schematische Darstellung beim PDF-Export für die Zählarten QjS, FjS und Qu hinzugefügt ([FV-355](https://jira.muenchen.de/browse/FV-355))
+* Bugfix: Icon und Schriftgröße bei MST (Messstelleninfo) abgeschnitten ([FV-403](https://jira.muenchen.de/browse/FV-403))
 
 ## [Sprint 12] 2026-06-11 - 2026-07-01
 
