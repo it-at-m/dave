@@ -28,9 +28,9 @@
          y="1307.6622"><tspan
            x="56"
            y="1307.6622"
-           id="tspan13"><tspan
+           id="tspan8"><tspan
              style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
-             id="tspan12">FUSS</tspan></tspan></text>
+             id="tspan7">FUSS</tspan></tspan></text>
       <g
          id="zaehlzeit2"
          style="stroke-width:28.2205;stroke-dasharray:none">
@@ -42,7 +42,7 @@
            y="1255.6622"><tspan
              x="56"
              y="1255.6622"
-             id="tspan18">hochgerechnet</tspan></text>
+             id="tspan9">hochgerechnet</tspan></text>
       </g>
       <g
          id="zaehlzeit1"
@@ -55,9 +55,9 @@
            y="1229.6622"><tspan
              x="56"
              y="1229.6622"
-             id="tspan20"><tspan
+             id="tspan11"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
-               id="tspan19">Tageswert</tspan></tspan></text>
+               id="tspan10">Tageswert</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -88,11 +88,11 @@
            y="84.662277"><tspan
              x="1107.0699"
              y="84.662277"
-             id="tspan21">Stadtbezirk 8
+             id="tspan12">Stadtbezirk 8
 </tspan><tspan
              x="1107.0699"
-             y="110.83184"
-             id="tspan22">Zähldatum: 01.01.2026</tspan></text>
+             y="109.35678"
+             id="tspan13">Zähldatum: 01.01.2026</tspan></text>
       </g>
       <g
          id="zaehlstelle1"
@@ -105,9 +105,9 @@
            y="58.662277"><tspan
              x="1107.0699"
              y="58.662277"
-             id="tspan24"><tspan
+             id="tspan15"><tspan
                style="font-weight:bold;-inkscape-font-specification:'Sans Bold'"
-               id="tspan23">Zählstelle 99999</tspan></tspan></text>
+               id="tspan14">Zählstelle 99999</tspan></tspan></text>
       </g>
     </g>
   </g>
@@ -122,7 +122,7 @@
         <path
            id="node1_spike"
            d="M 664.99999,665 V 185.409 L 699.99947,140 734.99999,185.4058 V 665 Z"
-           fill="#9e9e9e"
+           fill="#ececec"
            stroke="none"
            style="stroke-width:14.949" />
         <g
@@ -304,7 +304,7 @@
         <path
            id="node2_spike"
            d="M 734.99999,664.99999 H 1214.591 l 45.409,34.99948 -45.4058,35.00052 H 734.99999 Z"
-           fill="#9e9e9e"
+           fill="#ececec"
            stroke="none"
            style="stroke-width:14.949" />
         <text
@@ -476,7 +476,7 @@
         <path
            id="node3_spike"
            d="M 734.99999,734.99999 V 1214.591 L 700.00051,1260 664.99999,1214.5942 V 734.99999 Z"
-           fill="#9e9e9e"
+           fill="#ececec"
            stroke="none"
            style="stroke-width:14.949" />
         <text
@@ -548,13 +548,13 @@
         <g
            id="arrows_node3_east">
           <path
-             id="arrow_node3_east_outgoing"
+             id="arrow_node3_east_incoming"
              d="m 793.75028,1214.591 v -175.0005 h -8.00029 l 13.99931,-34.9995 14.00069,34.9995 h -7.99962 v 175.0005 z"
              fill="#000000"
              stroke="none"
              style="stroke-width:17.8113" />
           <path
-             id="arrow_node3_east_incoming"
+             id="arrow_node3_east_outgoing"
              d="m 772.49999,1004.591 v 175.0005 h 8 l -13.99928,34.9995 -14.00072,-34.9995 h 8 V 1004.591 Z"
              fill="#000000"
              stroke="none"
@@ -562,24 +562,24 @@
           <text
              xml:space="preserve"
              transform="rotate(-90)"
-             id="arrow_node3_east_incoming_number_text"
+             id="arrow_node3_east_outgoing_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              x="-2433.238"
              y="-15.206213"><tspan
                x="-1276.2108"
                y="772.68726"
-               id="arrow_node3_east_incoming_number_tspan"
+               id="arrow_node3_east_outgoing_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
              transform="rotate(-90)"
-             id="arrow_node3_east_outgoing_number_text"
+             id="arrow_node3_east_incoming_number_text"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:rl-tb;direction:rtl;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:43.9482"
              x="-2433.238"
              y="18.043785"><tspan
                x="-1276.2108"
                y="805.93726"
-               id="arrow_node3_east_outgoing_number_tspan"
+               id="arrow_node3_east_incoming_number_tspan"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.0866px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:43.9482">123456</tspan></text>
           <text
              xml:space="preserve"
@@ -658,7 +658,7 @@
         <path
            id="node4_spike"
            d="M 664.99998,734.99999 H 185.409 L 140,700.00052 185.4058,664.99999 h 479.59418 z"
-           fill="#9e9e9e"
+           fill="#ececec"
            stroke="none"
            style="stroke-width:14.949" />
         <text
@@ -834,7 +834,7 @@
         <path
            id="node5_spike"
            d="m 699.99999,650.50319 339.12201,-339.12205 56.8574,-7.36064 -7.3576,56.85586 -339.12433,339.12431 z"
-           fill="#9e9e9e"
+           fill="#ececec"
            stroke="none"
            style="stroke-width:14.949" />
         <g
@@ -1016,7 +1016,7 @@
         <path
            id="node6_spike"
            d="m 749.49747,699.99999 339.12213,339.12201 7.3606,56.8574 -56.8559,-7.3576 -339.12431,-339.12434 z"
-           fill="#9e9e9e"
+           fill="#ececec"
            stroke="none"
            style="stroke-width:14.949" />
         <text
@@ -1200,7 +1200,7 @@
         <path
            id="node7_spike"
            d="m 699.99994,749.49747 -339.12205,339.12213 -56.85739,7.3606 7.35765,-56.8559 339.12432,-339.12431 z"
-           fill="#9e9e9e"
+           fill="#ececec"
            stroke="none"
            style="stroke-width:14.949" />
         <text
@@ -1382,7 +1382,7 @@
         <path
            id="node8_spike"
            d="M 650.50319,699.99991 311.38115,360.87788 304.0205,304.0205 l 56.85586,7.35764 339.1243,339.1243 z"
-           fill="#9e9e9e"
+           fill="#ececec"
            stroke="none"
            style="stroke-width:14.949" />
         <text
@@ -1561,6 +1561,6 @@
   <path
      id="center"
      d="m 14253.004,17465.11 166.703,0 117.876,117.877 0,166.702 -117.876,117.877 -166.703,0 -117.876,-117.877 0,-166.702 z"
-     fill="#9e9e9e"
+     fill="#ececec"
      transform="matrix(0.31493043,0,0,0.31493043,-3814.9546,-4863.6674)" />
 </svg>
