@@ -1,5 +1,9 @@
 # Release-Notes
 
+## [Sprint 13] 2026-07-02 - 2026-07-22
+
+* tbd ([FV-XXX](https://jira.muenchen.de/browse/FV-XXX))
+
 ## [Sprint 12] 2026-06-11 - 2026-07-01
 
 * Fehlerhafte Pfeilbenennung im Belastungsplan FjS wurde korrigiert ([FV-399](https://jira.muenchen.de/browse/FV-399))
