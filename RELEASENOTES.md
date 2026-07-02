@@ -1,7 +1,12 @@
 # Release-Notes
 
-## [Sprint 12] 2026-06-11 - 2026-07-01
+## [Sprint 13] 2026-07-02 - 2026-07-22
+* Schematische Darstellung beim PDF-Export für die Zählarten QjS, FjS und Qu hinzugefügt ([FV-355](https://jira.muenchen.de/browse/FV-355))
+* Bugfix: Icon und Schriftgröße bei MST (Messstelleninfo) abgeschnitten ([FV-403](https://jira.muenchen.de/browse/FV-403))
+* Überschrift beim PDF-Export für die Zählarten QjS, FjS und Qu angepasst ([FV-425](https://jira.muenchen.de/browse/FV-425))
+* Neue Zählarten aus der VISUM-Export-Schnittstelle entfernt ([FV-186](https://jira.muenchen.de/browse/FV-186))
 
+## [Sprint 12] 2026-06-11 - 2026-07-01
 * Fehlerhafte Pfeilbenennung im Belastungsplan FjS wurde korrigiert ([FV-399](https://jira.muenchen.de/browse/FV-399))
 * Hinweistext Differenzdatendarstellung geändert ([FV-420](https://jira.muenchen.de/browse/FV-420))
 * Graphische Anpassungen BLP Qu, FjS ([FV-364](https://jira.muenchen.de/browse/FV-364))

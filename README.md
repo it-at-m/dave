@@ -30,7 +30,7 @@ With [DAVe](https://opensource.muenchen.de/software/dave.html), traffic counts c
 * [Backend-Service](https://github.com/it-at-m/dave-backend)
 * [EAI Reports](https://github.com/it-at-m/dave-eai)
 * [Document-Storage](https://github.com/it-at-m/dave-document-storage)
-* _EAI GEO_ Internal component for provisioning of traffic detector counts. Not published as Opensource.
+* [Geo-EAI](https://github.com/it-at-m/dave-geodata-eai)
 
 
 ## Roadmap
