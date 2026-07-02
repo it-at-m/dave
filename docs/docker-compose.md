@@ -18,7 +18,7 @@ Here are the steps to install the necessary stack to run the application:
 
 1. Clone the repository: First, you need to clone the repository by running the following command in the terminal:
 ```
-git clone https://github.com/it-at-m/dave-backend
+git clone https://github.com/it-at-m/dave-frontend
 git checkout sprint
 ```
 
@@ -31,7 +31,7 @@ docker compose --version
 ```
 As an alternative to Docker, [Podman](https://podman.io/) can also be used.
 
-3. Build the images: Next, you need to build the Docker images by navigating to dave-backend/stack directory and running the following command in the terminal:
+3. Build the images: Next, you need to build the Docker images by navigating to dave-frontend/stack directory and running the following command in the terminal:
 ```
 cd stack
 docker compose build
@@ -44,4 +44,4 @@ docker compose up
 
 5. Access the application: Once the containers are up and running, you can access it by navigating to http://localhost:8082 in your web browser.
 
-That's it! You have successfully installed and started the application stack for DAVe.
+That's it! You have successfully installed and started the application stack for DAVe Frontend.
