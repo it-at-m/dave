@@ -11,6 +11,7 @@ DAVe besteht aus folgenden Diensten:
   * [Frontend](https://github.com/it-at-m/dave-frontend) zur Anzeige der Zählstellen auf der Karte
   * [EAI-Berichte](https://github.com/it-at-m/dave-eai) (optional) Unternehmensanwendungsintegration für andere Spezialverfahren (z. B. Ausgabe der Koordinaten aller Zählstellen in einer CSV-Datei, Empfang der Daten aller Zählungen für einen bestimmten Monat im JSON-Format).
   * [Document-Storage](https://github.com/it-at-m/dave-document-storage) Integration für einen S3-Storage für Lagepläne von Messstellen
+  * [Geodata EAI](https://github.com/it-at-m/dave-geodata-eai) Integration für Messstellen und Detektormesswerte
 
 Weitere Details in der [Systemspezifikation](SysSpec-arc42.md).
 
