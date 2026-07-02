@@ -21,7 +21,7 @@ With [DAVe](https://opensource.muenchen.de/software/dave.html), traffic counts c
 
 ## Architecture
 
-![Architecture](docs/src/img/Architektur_LS2.drawio.png)
+![Architecture](docs/img/DAVE_Architektur.drawio.png)
 
 
 * [Data Portal](https://github.com/it-at-m/dave-frontend)
@@ -50,8 +50,8 @@ To get started with the DAVe components please refer to the documentation here: 
 ## Documentation
 
 We offer different sources of documentation, depending on the role of the reader:
-* User Manual: [2025_DAVe_Anwenderhandbuch_Datenportal_v1.1.pdf](2025_DAVe_Anwenderhandbuch_Datenportal_v1.1.pdf) (german)
-* Developer Manual: [/docs](docs/src/index.md) (english)
+* User Manual: [DAVe_Anwenderhandbuch_Datenportal.pdf](docs/de/DAVe_Anwenderhandbuch_Datenportal.pdf) (german)
+* Developer Manuals: [/docs](docs/index.md) (english)
 
 
 ## Contributing
