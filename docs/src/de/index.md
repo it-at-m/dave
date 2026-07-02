@@ -12,7 +12,7 @@ DAVe besteht aus folgenden Diensten:
   * [EAI-Berichte](https://github.com/it-at-m/dave-eai) (optional) Unternehmensanwendungsintegration für andere Spezialverfahren (z. B. Ausgabe der Koordinaten aller Zählstellen in einer CSV-Datei, Empfang der Daten aller Zählungen für einen bestimmten Monat im JSON-Format).
   * [Document-Storage](https://github.com/it-at-m/dave-document-storage) Integration für einen S3-Storage für Lagepläne von Messstellen
 
-Weitere Details in der [Systemspezifikation](SysSpec-arc42.md).
+Weitere Details in der [Systemspezifikation](system-specification.md).
 
 
 ## Persistenz
@@ -49,4 +49,4 @@ Die in der Variable `dave.tenant.map.overlay-layers` konfigurierten Overlay-Laye
 ## Bereitstellung
 
 DAVe __sollte__ über [Helm Chart](https://artifacthub.io/packages/helm/it-at-m/dave?modal=install) installiert und betrieben werden.
-Für einen ersten Einblick oder für Entwicklungsumgebungen, um zu sehen, was DAVe zu bieten hat, stellen wir jedoch eine [Docker-Compose-Datei](docker-compose.md) zur Verfügung.
+Für einen ersten Einblick oder für Entwicklungsumgebungen, um zu sehen, was DAVe zu bieten hat, stellen wir jedoch eine [Docker-Compose-Datei](../docker-compose.md) zur Verfügung.
