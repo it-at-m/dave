@@ -49,4 +49,4 @@ Die in der Variable `dave.tenant.map.overlay-layers` konfigurierten Overlay-Laye
 ## Bereitstellung
 
 DAVe __sollte__ über [Helm Chart](https://artifacthub.io/packages/helm/it-at-m/dave?modal=install) installiert und betrieben werden.
-Für einen ersten Einblick oder für Entwicklungsumgebungen, um zu sehen, was DAVe zu bieten hat, stellen wir jedoch eine [Docker-Compose-Datei](docker-compose.md) zur Verfügung.
+Für einen ersten Einblick oder für Entwicklungsumgebungen, um zu sehen, was DAVe zu bieten hat, stellen wir jedoch eine [Docker-Compose-Datei](../docker-compose.md) zur Verfügung.
