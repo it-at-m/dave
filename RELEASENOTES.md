@@ -10,6 +10,7 @@
 * Text für die ausgewählte Verkehrsbeziehung in der generierten CSV-Datei beim Export der Listenausgabe für die Zählarten QjS, FjS und Qu angepasst ([FV-358](https://jira.muenchen.de/browse/FV-358))
 * Fehlermeldung Anwenderhandbuch ([FV-435](https://jira.muenchen.de/browse/FV-435))
 * Steuerung des Differenzdatenvergleichs bei Fussverkehr ([FV-421](https://jira.muenchen.de/browse/FV-421))
+* Anzeige von Null-Wert für nicht beauftragte Verkehrsbeziehungen entfernt ([FV-422](https://jira.muenchen.de/browse/FV-422))
 
 ## [Sprint 12] 2026-06-11 - 2026-07-01
 * Fehlerhafte Pfeilbenennung im Belastungsplan FjS wurde korrigiert ([FV-399](https://jira.muenchen.de/browse/FV-399))
