@@ -8,6 +8,7 @@
 * Überschrift bei "Diagramm/Tabelle dem PDF-Report hinzufügen" für die Zählarten QjS, FjS und Qu angepasst ([FV-357](https://jira.muenchen.de/browse/FV-357))
 * Bugfix: Fehler in der PDF Darstellung BLP Qu ([FV-379](https://jira.muenchen.de/browse/FV-379))
 * Text für die ausgewählte Verkehrsbeziehung in der generierten CSV-Datei beim Export der Listenausgabe für die Zählarten QjS, FjS und Qu angepasst ([FV-358](https://jira.muenchen.de/browse/FV-358))
+* Steuerung des Differenzdatenvergleichs bei Fussverkehr ([FV-421](https://jira.muenchen.de/browse/FV-421))
 
 ## [Sprint 12] 2026-06-11 - 2026-07-01
 * Fehlerhafte Pfeilbenennung im Belastungsplan FjS wurde korrigiert ([FV-399](https://jira.muenchen.de/browse/FV-399))
