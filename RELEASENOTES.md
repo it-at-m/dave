@@ -13,6 +13,7 @@
 * Anzeige von Null-Wert für nicht beauftragte Verkehrsbeziehungen entfernt ([FV-422](https://jira.muenchen.de/browse/FV-422))
 * Die manuelle Prüfung auf unauffällige Tage im Adminportal kann nun einen Zeitraum von bis zu 31 Tagen an zu prüfenden Tagen umfassen ([FV-370](https://jira.muenchen.de/browse/FV-370))
 * Die Gesamtauswertung kann nun auch durch den Standardnutzer erstellt werden. Bisher war dies nur dem Fachadmin und dem Poweruser möglich ([FV-439](https://jira.muenchen.de/browse/FV-439))
+* MFV | DP | Filterblockanzeige ([FV-363](https://jira.muenchen.de/browse/FV-363))
 
 ## [Sprint 12] 2026-06-11 - 2026-07-01
 * Fehlerhafte Pfeilbenennung im Belastungsplan FjS wurde korrigiert ([FV-399](https://jira.muenchen.de/browse/FV-399))
