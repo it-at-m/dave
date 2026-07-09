@@ -16,6 +16,7 @@
 * MFV | DP | Filterblockanzeige ([FV-363](https://jira.muenchen.de/browse/FV-363))
 * Vereinheitlichung der Element-Namen im SVG ([FV-401](https://jira.muenchen.de/browse/FV-401))
 * Bugfix: Anzeige von Strassennamen im Adminportal ([FV-438](https://jira.muenchen.de/browse/FV-438))
+* Bugfix: Nicht benötigter Bindestrich bei manuell forciertem Zeilenumbruch ([FV-445](https://jira.muenchen.de/browse/FV-445))
 
 ## [Sprint 12] 2026-06-11 - 2026-07-01
 * Fehlerhafte Pfeilbenennung im Belastungsplan FjS wurde korrigiert ([FV-399](https://jira.muenchen.de/browse/FV-399))
