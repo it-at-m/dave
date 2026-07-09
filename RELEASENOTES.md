@@ -15,6 +15,7 @@
 * Die Gesamtauswertung kann nun auch durch den Standardnutzer erstellt werden. Bisher war dies nur dem Fachadmin und dem Poweruser möglich ([FV-439](https://jira.muenchen.de/browse/FV-439))
 * MFV | DP | Filterblockanzeige ([FV-363](https://jira.muenchen.de/browse/FV-363))
 * Vereinheitlichung der Element-Namen im SVG ([FV-401](https://jira.muenchen.de/browse/FV-401))
+* Bugfix: Anzeige von Strassennamen im Adminportal ([FV-438](https://jira.muenchen.de/browse/FV-438))
 
 ## [Sprint 12] 2026-06-11 - 2026-07-01
 * Fehlerhafte Pfeilbenennung im Belastungsplan FjS wurde korrigiert ([FV-399](https://jira.muenchen.de/browse/FV-399))
