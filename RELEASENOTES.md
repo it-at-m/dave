@@ -20,7 +20,7 @@
 * Bugfix: Verschobene Elemente im Belastungsplan von Messstellen mit mehr als einem Messquerschnitt pro Straßenseite ([FV-472](https://jira.muenchen.de/browse/FV-472))
 * Werte runden mit verschiedenen Rundungsbasen ermöglicht ([FV-473](https://jira.muenchen.de/browse/FV-473))
 * Bugfix Prod: Fehlerhaftes Kopieren einer Zählung ([FV-428](https://jira.muenchen.de/browse/FV-428))
-* Plausibilitätsprüfung der Hochgeladenen CSV-Dateien ([FV-294](https://jira.muenchen.de/browse/FV-294), [FV-341](https://jira.muenchen.de/browse/FV-341), [FV-369](https://jira.muenchen.de/browse/FV-369))
+* Plausibilitätsprüfung der hochgeladenen CSV-Dateien ([FV-294](https://jira.muenchen.de/browse/FV-294), [FV-341](https://jira.muenchen.de/browse/FV-341), [FV-369](https://jira.muenchen.de/browse/FV-369))
 
 ## [Sprint 12] 2026-06-11 - 2026-07-01
 * Fehlerhafte Pfeilbenennung im Belastungsplan FjS wurde korrigiert ([FV-399](https://jira.muenchen.de/browse/FV-399))
