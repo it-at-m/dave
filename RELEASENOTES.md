@@ -19,6 +19,7 @@
 * Bugfix: Nicht benötigter Bindestrich bei manuell forciertem Zeilenumbruch ([FV-445](https://jira.muenchen.de/browse/FV-445))
 * Bugfix: Verschobene Elemente im Belastungsplan von Messstellen mit mehr als einem Messquerschnitt pro Straßenseite ([FV-472](https://jira.muenchen.de/browse/FV-472))
 * Werte runden mit verschiedenen Rundungsbasen ermöglicht ([FV-473](https://jira.muenchen.de/browse/FV-473))
+* Bugfix Prod: Fehlerhaftes Kopieren einer Zählung ([FV-428](https://jira.muenchen.de/browse/FV-428))
 
 ## [Sprint 12] 2026-06-11 - 2026-07-01
 * Fehlerhafte Pfeilbenennung im Belastungsplan FjS wurde korrigiert ([FV-399](https://jira.muenchen.de/browse/FV-399))
