@@ -13,7 +13,7 @@
 * Anzeige von Null-Wert für nicht beauftragte Verkehrsbeziehungen entfernt ([FV-422](https://jira.muenchen.de/browse/FV-422))
 * Die manuelle Prüfung auf unauffällige Tage im Adminportal kann nun einen Zeitraum von bis zu 31 Tagen an zu prüfenden Tagen umfassen ([FV-370](https://jira.muenchen.de/browse/FV-370))
 * Die Gesamtauswertung kann nun auch durch den Standardnutzer erstellt werden. Bisher war dies nur dem Fachadmin und dem Poweruser möglich ([FV-439](https://jira.muenchen.de/browse/FV-439))
-* MFV | DP | Filterblockanzeige ([FV-363](https://jira.muenchen.de/browse/FV-363))
+* Darstellung der aktuell ausgewählten Verkehrsbeziehungen für die neuen Zählarten QjS, FjS und Qu in der Filterblockanzeige implementiert ([FV-363](https://jira.muenchen.de/browse/FV-363))
 * Vereinheitlichung der Element-Namen im SVG ([FV-401](https://jira.muenchen.de/browse/FV-401))
 * Bugfix: Anzeige von Strassennamen im Adminportal ([FV-438](https://jira.muenchen.de/browse/FV-438))
 * Bugfix: Nicht benötigter Bindestrich bei manuell forciertem Zeilenumbruch ([FV-445](https://jira.muenchen.de/browse/FV-445))
