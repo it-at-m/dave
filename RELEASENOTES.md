@@ -21,6 +21,7 @@
 * Werte runden mit verschiedenen Rundungsbasen ermöglicht ([FV-473](https://jira.muenchen.de/browse/FV-473))
 * Bugfix Prod: Fehlerhaftes Kopieren einer Zählung ([FV-428](https://jira.muenchen.de/browse/FV-428))
 * Plausibilitätsprüfung der hochgeladenen CSV-Dateien ([FV-294](https://jira.muenchen.de/browse/FV-294), [FV-341](https://jira.muenchen.de/browse/FV-341), [FV-369](https://jira.muenchen.de/browse/FV-369))
+* Security Improvement: Sanitizing von Texten und Bildern für PDF-Reports ([FV-432](https://jira.muenchen.de/browse/FV-432), dadurch Fix von [FV-476](https://jira.muenchen.de/browse/FV-476))
 
 ## [Sprint 12] 2026-06-11 - 2026-07-01
 * Fehlerhafte Pfeilbenennung im Belastungsplan FjS wurde korrigiert ([FV-399](https://jira.muenchen.de/browse/FV-399))
