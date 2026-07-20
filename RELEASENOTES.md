@@ -25,6 +25,7 @@
 * Zeitreihe - Anpassung Export CSV: Hinweis, wenn keine Werte für Verkehrsart vorhanden [FV-473](https://jira.muenchen.de/browse/FV-473))
 * Zeitreihe - Anpassung Export CSV: Keine Header und Daten wenn nicht im Filtermenue ausgewählt + Anpassung Verkehsbeziehung-Label für neue Zählarten [FV-359](https://jira.muenchen.de/browse/FV-359))
 * Zeitreihe - Anpassung Darstellungsoptionen "Summe VA" [FV-474](https://jira.muenchen.de/browse/FV-474))
+* Zeitreihe - Anpassung der Datenansicht für neue Zählarten [FV-360](https://jira.muenchen.de/browse/FV-360))
 * Bugfix: Zeitreihe Datum Anzeige nun immer bei allen Zählungen (vorher in manchen Fällen bei jeder 2ten) [FV-407](https://jira.muenchen.de/browse/FV-407))
 
 ## [Sprint 12] 2026-06-11 - 2026-07-01
