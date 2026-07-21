@@ -27,6 +27,7 @@
 * Zeitreihe - Anpassung Darstellungsoptionen "Summe VA" [FV-474](https://jira.muenchen.de/browse/FV-474))
 * Zeitreihe - Anpassung der Datenansicht für neue Zählarten [FV-360](https://jira.muenchen.de/browse/FV-360))
 * Bugfix: Zeitreihe Datum Anzeige nun immer bei allen Zählungen (vorher in manchen Fällen bei jeder 2ten) [FV-407](https://jira.muenchen.de/browse/FV-407))
+* LCM: Hebung Spring-Boot und Spring-Cloud auf aktuellen PATCH-Release [FV-442](https://jira.muenchen.de/browse/FV-442)), [FV-443](https://jira.muenchen.de/browse/FV-443))
 
 ## [Sprint 12] 2026-06-11 - 2026-07-01
 * Fehlerhafte Pfeilbenennung im Belastungsplan FjS wurde korrigiert ([FV-399](https://jira.muenchen.de/browse/FV-399))
