@@ -22,12 +22,12 @@
 * Bugfix Prod: Fehlerhaftes Kopieren einer Zählung ([FV-428](https://jira.muenchen.de/browse/FV-428))
 * Plausibilitätsprüfung der hochgeladenen CSV-Dateien ([FV-294](https://jira.muenchen.de/browse/FV-294), [FV-341](https://jira.muenchen.de/browse/FV-341), [FV-369](https://jira.muenchen.de/browse/FV-369))
 * Security Improvement: Sanitizing von Texten und Bildern für PDF-Reports ([FV-432](https://jira.muenchen.de/browse/FV-432), dadurch Fix von [FV-476](https://jira.muenchen.de/browse/FV-476))
-* Zeitreihe - Anpassung Export CSV: Hinweis, wenn keine Werte für Verkehrsart vorhanden [FV-473](https://jira.muenchen.de/browse/FV-473))
-* Zeitreihe - Anpassung Export CSV: Keine Header und Daten wenn nicht im Filtermenue ausgewählt + Anpassung Verkehsbeziehung-Label für neue Zählarten [FV-359](https://jira.muenchen.de/browse/FV-359))
-* Zeitreihe - Anpassung Darstellungsoptionen "Summe VA" [FV-474](https://jira.muenchen.de/browse/FV-474))
-* Zeitreihe - Anpassung der Datenansicht für neue Zählarten [FV-360](https://jira.muenchen.de/browse/FV-360))
-* Bugfix: Zeitreihe Datum Anzeige nun immer bei allen Zählungen (vorher in manchen Fällen bei jeder 2ten) [FV-407](https://jira.muenchen.de/browse/FV-407))
-* LCM: Hebung Spring-Boot und Spring-Cloud auf aktuellen PATCH-Release [FV-442](https://jira.muenchen.de/browse/FV-442)), [FV-443](https://jira.muenchen.de/browse/FV-443))
+* Zeitreihe - Anpassung Export CSV: Hinweis, wenn keine Werte für Verkehrsart vorhanden ([FV-437](https://jira.muenchen.de/browse/FV-437))
+* Zeitreihe - Anpassung Export CSV: Keine Header und Daten wenn nicht im Filtermenue ausgewählt + Anpassung Verkehsbeziehung-Label für neue Zählarten ([FV-359](https://jira.muenchen.de/browse/FV-359))
+* Zeitreihe - Anpassung Darstellungsoptionen "Summe VA" ([FV-474](https://jira.muenchen.de/browse/FV-474))
+* Zeitreihe - Anpassung der Datenansicht für neue Zählarten ([FV-360](https://jira.muenchen.de/browse/FV-360))
+* Bugfix: Zeitreihe Datum Anzeige nun immer bei allen Zählungen (vorher in manchen Fällen bei jeder 2ten) ([FV-407](https://jira.muenchen.de/browse/FV-407))
+* LCM: Hebung Spring-Boot und Spring-Cloud auf aktuellen PATCH-Release ([FV-442](https://jira.muenchen.de/browse/FV-442)), [FV-443](https://jira.muenchen.de/browse/FV-443))
 
 ## [Sprint 12] 2026-06-11 - 2026-07-01
 * Fehlerhafte Pfeilbenennung im Belastungsplan FjS wurde korrigiert ([FV-399](https://jira.muenchen.de/browse/FV-399))
