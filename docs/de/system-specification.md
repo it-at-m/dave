@@ -430,12 +430,14 @@ Da man aber Requests direkt ans Backend schicken könnte, ist diese Schicht der 
 Durch die zusätzliche Bereitstellung einer OpenAPI-Spezifikation der REST-Schnittstellen entfällt die manuelle Erstellung von DTOs in den zu verwenden Diensten. 
 Diese DTOs können durch die Verwendung des OpenAPI-Generators automatisch bei jedem Build generiert werden.
 
-## LCM - Vorhalten der Messstellen und Zählstellen in relationaler Datenbank und ausschließliche Verwendung von Elasticsearch als Suchindex
+## LCM - Vorhalten der Messstellen und Zählstellen in relationaler Datenbank und ausschließliche Verwendung von Elasticsearch als Suchindex bzw. Abbilden der Suchfeature in relationaler Datenbank
 
 Aktuell werden die Daten der Zählstellen, Zählungen und Messstellen mitsamt dem Suchindex in Elasticsearch vorgehalten.
 
 Das Ziel des LCM ist, die Zählstellen, Zählungen und Messstellen in die relationale Datenbank zu migrieren und in Elasticsearch ausschließlich den Suchindex vorzuhalten.
 Die Suche wird dann mittels [Hibernate Search](https://hibernate.org/search/documentation/) durchgeführt.
+
+Alternativ ist es auch denkbar Elasticsearch komplett zu entfernen und die Suchfeature mittels der relationalen Datenbank abzubilden.
 
 ## LCM - Umbau Relation Zählung zu Vekehrsbeziehung, Laengsverkehr, Querungsverkehr und Zählung zu Knotenarm nach Zählung zu Knotenarm zu Vekehrsbeziehung, Laengsverkehr, Querungsverkehr
 

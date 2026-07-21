@@ -1,7 +1,35 @@
 # Release-Notes
 
-## [Sprint 12] 2026-06-11 - 2026-07-01
+## [Sprint 13] 2026-07-02 - 2026-07-22
+* Schematische Darstellung beim PDF-Export für die Zählarten QjS, FjS und Qu hinzugefügt ([FV-355](https://jira.muenchen.de/browse/FV-355))
+* Bugfix: Icon und Schriftgröße bei MST (Messstelleninfo) abgeschnitten ([FV-403](https://jira.muenchen.de/browse/FV-403))
+* Überschrift beim PDF-Export für die Zählarten QjS, FjS und Qu angepasst ([FV-425](https://jira.muenchen.de/browse/FV-425))
+* Neue Zählarten aus der VISUM-Export-Schnittstelle entfernt ([FV-186](https://jira.muenchen.de/browse/FV-186))
+* Überschrift bei "Diagramm/Tabelle dem PDF-Report hinzufügen" für die Zählarten QjS, FjS und Qu angepasst ([FV-357](https://jira.muenchen.de/browse/FV-357))
+* Bugfix: Fehler in der PDF Darstellung BLP Qu ([FV-379](https://jira.muenchen.de/browse/FV-379))
+* Text für die ausgewählte Verkehrsbeziehung in der generierten CSV-Datei beim Export der Listenausgabe für die Zählarten QjS, FjS und Qu angepasst ([FV-358](https://jira.muenchen.de/browse/FV-358))
+* Fehlermeldung Anwenderhandbuch ([FV-435](https://jira.muenchen.de/browse/FV-435))
+* Steuerung des Differenzdatenvergleichs bei Fussverkehr ([FV-421](https://jira.muenchen.de/browse/FV-421))
+* Anzeige von Null-Wert für nicht beauftragte Verkehrsbeziehungen entfernt ([FV-422](https://jira.muenchen.de/browse/FV-422))
+* Die manuelle Prüfung auf unauffällige Tage im Adminportal kann nun einen Zeitraum von bis zu 31 Tagen an zu prüfenden Tagen umfassen ([FV-370](https://jira.muenchen.de/browse/FV-370))
+* Die Gesamtauswertung kann nun auch durch den Standardnutzer erstellt werden. Bisher war dies nur dem Fachadmin und dem Poweruser möglich ([FV-439](https://jira.muenchen.de/browse/FV-439))
+* Darstellung der aktuell ausgewählten Verkehrsbeziehungen für die neuen Zählarten QjS, FjS und Qu in der Filterblockanzeige implementiert ([FV-363](https://jira.muenchen.de/browse/FV-363))
+* Vereinheitlichung der Element-Namen im SVG ([FV-401](https://jira.muenchen.de/browse/FV-401))
+* Bugfix: Anzeige von Strassennamen im Adminportal ([FV-438](https://jira.muenchen.de/browse/FV-438))
+* Bugfix: Nicht benötigter Bindestrich bei manuell forciertem Zeilenumbruch ([FV-445](https://jira.muenchen.de/browse/FV-445))
+* Bugfix: Verschobene Elemente im Belastungsplan von Messstellen mit mehr als einem Messquerschnitt pro Straßenseite ([FV-472](https://jira.muenchen.de/browse/FV-472))
+* Werte runden mit verschiedenen Rundungsbasen ermöglicht ([FV-473](https://jira.muenchen.de/browse/FV-473))
+* Bugfix Prod: Fehlerhaftes Kopieren einer Zählung ([FV-428](https://jira.muenchen.de/browse/FV-428))
+* Plausibilitätsprüfung der hochgeladenen CSV-Dateien ([FV-294](https://jira.muenchen.de/browse/FV-294), [FV-341](https://jira.muenchen.de/browse/FV-341), [FV-369](https://jira.muenchen.de/browse/FV-369))
+* Security Improvement: Sanitizing von Texten und Bildern für PDF-Reports ([FV-432](https://jira.muenchen.de/browse/FV-432), dadurch Fix von [FV-476](https://jira.muenchen.de/browse/FV-476))
+* Zeitreihe - Anpassung Export CSV: Hinweis, wenn keine Werte für Verkehrsart vorhanden ([FV-437](https://jira.muenchen.de/browse/FV-437))
+* Zeitreihe - Anpassung Export CSV: Keine Header und Daten wenn nicht im Filtermenue ausgewählt + Anpassung Verkehsbeziehung-Label für neue Zählarten ([FV-359](https://jira.muenchen.de/browse/FV-359))
+* Zeitreihe - Anpassung Darstellungsoptionen "Summe VA" ([FV-474](https://jira.muenchen.de/browse/FV-474))
+* Zeitreihe - Anpassung der Datenansicht für neue Zählarten ([FV-360](https://jira.muenchen.de/browse/FV-360))
+* Bugfix: Zeitreihe Datum Anzeige nun immer bei allen Zählungen (vorher in manchen Fällen bei jeder 2ten) ([FV-407](https://jira.muenchen.de/browse/FV-407))
+* LCM: Hebung Spring-Boot und Spring-Cloud auf aktuellen PATCH-Release ([FV-442](https://jira.muenchen.de/browse/FV-442)), [FV-443](https://jira.muenchen.de/browse/FV-443))
 
+## [Sprint 12] 2026-06-11 - 2026-07-01
 * Fehlerhafte Pfeilbenennung im Belastungsplan FjS wurde korrigiert ([FV-399](https://jira.muenchen.de/browse/FV-399))
 * Hinweistext Differenzdatendarstellung geändert ([FV-420](https://jira.muenchen.de/browse/FV-420))
 * Graphische Anpassungen BLP Qu, FjS ([FV-364](https://jira.muenchen.de/browse/FV-364))
