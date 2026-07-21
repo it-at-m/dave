@@ -153,3 +153,9 @@ If you want to know:
 
 The format of the CSV files that is expected by selfservice portal when uploading is defined here: 
 [Documentation CSV or upload](de/documentation-csv-for-upload.md)
+
+
+
+## Coding conventions
+
+For all contributors please mind our [coding-conventions](de/coding-conventions.md) (german).
