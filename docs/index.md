@@ -7,6 +7,9 @@ Contents
   * [Configuration](#configuration)
   * [Deployment](#deployment)
   * [Security](#security)
+  * [Test data](#test-data)
+  * [Examples](#examples)
+  * [CSV upload specification](#csv-upload-format-specification)
 
 
 
@@ -129,3 +132,24 @@ Renovate is therefore temporarily disabled while in the project phase.
 Once the work is complete, we will reactivate Renovate.
 
 
+
+## Test data
+
+We provide a set of test data files for each counting type to use for uploading to the selfservice portal.
+Please refer to [examples/testdata](../examples/testdata).
+
+
+
+## Examples
+
+If you want to know:
+* how a JWT token has to look like that suits the needs of DAVe security, see [Dave-JWT.txt](../examples/Dave-JWT.txt).
+* what the Geodata-EAI expects as external detector data, see [messwerte.json](../examples/messwerte.json)
+* what a counting file for migration looks like, see [zaehlung.csv](../examples/zaehlung.csv)
+
+
+
+## CSV upload format specification
+
+The format of the CSV files that is expected by selfservice portal when uploading is defined here: 
+[Documentation CSV or upload](de/documentation-csv-for-upload.md)
