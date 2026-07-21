@@ -1,7 +1,6 @@
 # DAVe — Installation on Kubernetes
 
-This document describes how to deploy DAVe (Datenbank und Auswertung von Verkehrszählungen) on Kubernetes,
-based on the project's documentation and architecture. The recommended way to install DAVe is via the project's Helm chart.
+This document describes how to deploy DAVe on Kubernetes. The recommended way to install DAVe is via the project's official [helm chart](https://artifacthub.io/packages/helm/it-at-m/dave?modal=install).
 This guide provides an end-to-end Kubernetes installation walkthrough, configuration notes and examples for common components.
 
 Contents
@@ -31,8 +30,8 @@ The architecture expects:
 - Elasticsearch 8.x as search index (storing searchable metadata)
 - PostgreSQL (recommended 16) for traffic/count data
 - Keycloak (or other OAuth2 provider) for authentication & authorization
-- S3-compatible object storage for document storage (presigned URL flow)
-- ConfigMaps/Secrets for configuration such as stadtbezirke.properties and map layers
+- Optional: S3-compatible object storage for document storage (presigned URL flow)
+- Optional: ConfigMaps/Secrets for configuration such as stadtbezirke.properties and map layers
 
 ---
 
@@ -94,7 +93,7 @@ You can install the following charts in the same cluster or point DAVe to extern
   - Ensure it matches DAVe's Elasticsearch index format (8.x).
   - Persistent volumes are required.
 - Keycloak (example chart: bitnami/keycloak or the upstream Keycloak Operator)
-  - Configure realms/clients according to DAVe's SSO configuration (see sso-client.json example in backend repo).
+  - Configure realms/clients according to DAVe's SSO configuration (see sso-client.json example in backend repo and [JWT-Token](../../examples/Dave-JWT.txt)).
 - MinIO (for dev S3) or your S3 object storage
   - Used for document storage and presigned URL generation used by the backend.
 
@@ -103,7 +102,7 @@ Install examples (brief):
 ```bash docs/install/kubernetes.md
 # Example: install a Postgres for DAVe
 helm repo add bitnami https://charts.bitnami.com/bitnami
-helm install dave-postgres bitnami/postgresql --namespace dave -f postgres-values.yaml
+helm install dave-postgres bitnami/postgresql --set image.repository=bitnamilegacy/postgresql --namespace dave -f postgres-values.yaml
 
 # Example: install MinIO (dev)
 helm repo add minio https://charts.min.io/
@@ -128,8 +127,8 @@ The backend exposes a set of environment variables and application.yml settings.
   - These values are used to configure the default map center (Munich by default) and available map layers.
 
 - Database and Elasticsearch connection variables
-  - spring.datasource.url, username, password
-  - spring.elasticsearch.uris, credentials (or via chart settings)
+  - SPRING_DATA_SOURCE_URL, SPRING_DATA_SOURCE_USERNAME, SPRING_DATA_SOURCE_PASSWORD
+  - SPRING_ELASTICSEARCH_URIS, credentials
 
 - Identity Provider (Keycloak) settings
   - Keycloak URL, realm, client-id and client-secret
@@ -138,7 +137,7 @@ The backend exposes a set of environment variables and application.yml settings.
   - S3 endpoint, bucket, credentials — used by the document storage flow for presigned URLs
 
 - Security profile
-  - For development you can run with security disabled (as in the docker-compose sample). For production, always enable Keycloak integration.
+  - For development you can run with security disabled (as in the [docker-compose.yml](https://github.com/it-at-m/dave-backend/tree/sprint/stack/docker-compose.yml) sample). For production, always enable Keycloak integration.
 
 ---
 
@@ -186,6 +185,7 @@ env:
   DAVE_TENANT_MAP_CENTER_LAT: 48.137154
   DAVE_TENANT_MAP_CENTER_LNG: 11.576124
   DAVE_STADTBEZIRKMAPPINGCONFIGURL: /config/stadtbezirke.properties
+  SPRING_PROFILES_ACTIVE: dev
 
 resources:
   backend:
@@ -252,13 +252,7 @@ spec:
 
 ## Resource recommendations
 
-Per SysSpec-arc42 recommended resource sizing (example):
-
-- Backend: CPU 0.5 — 1 core, Memory 2.25 GB (requests), limits higher for burst
-- API Gateways (frontend): CPU 0.25, Memory 1 GB
-- EAI: CPU 0.25, Memory 0.5 GB
-- Document-Storage: CPU 0.5, Memory 512 MB
-- Geodata-EAI: CPU 0.5, Memory 3.5 GB
+See [SysSpec](../de/SysSpec-arc42.md#resourcenzuteilung) for resource recommendations. 
 
 Adjust according to your load and cluster size.
 
@@ -266,13 +260,4 @@ Adjust according to your load and cluster size.
 
 ## Development / Local testing
 
-If you only want a quick peek or local development environment, the project provides a docker-compose stack with security disabled and a sample dataset (see docs/docker-compose.md):
-
-Steps (in repo):
-```bash docs/install/kubernetes.md
-git clone https://github.com/it-at-m/dave-frontend
-git checkout sprint
-cd stack
-docker compose build
-docker compose up
-# access: http://localhost:8082
+If you only want a quick peek or local development environment, refer to [](../index.md#getting-started)
