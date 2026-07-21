@@ -1,5 +1,9 @@
 # Release-Notes
 
+## [Sprint 14] 2026-07-23 - 2026-08-12
+
+* tbd ([FV-XXX](https://jira.muenchen.de/browse/FV-XXX))
+
 ## [Sprint 13] 2026-07-02 - 2026-07-22
 * Schematische Darstellung beim PDF-Export für die Zählarten QjS, FjS und Qu hinzugefügt ([FV-355](https://jira.muenchen.de/browse/FV-355))
 * Bugfix: Icon und Schriftgröße bei MST (Messstelleninfo) abgeschnitten ([FV-403](https://jira.muenchen.de/browse/FV-403))
