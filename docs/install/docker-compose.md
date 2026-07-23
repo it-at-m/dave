@@ -12,7 +12,7 @@ But for a basic peek or development environments on what DAVe has to offer, we p
 
 The security functions for login etc. are switched off.
 
-With the preset profile "sample", a sample counting station with a sample count is imported into the database and index.
+With the preset profile "sample", a sample counting point with a sample count is imported into the database and index.
 
 Here are the steps to install the necessary stack to run the application:
 
