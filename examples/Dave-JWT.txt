@@ -8,13 +8,6 @@
         "FACHADMIN"
       ]
     },
-    "account": {
-      "roles": [
-        "manage-account",
-        "manage-account-links",
-        "view-profile"
-      ]
-    }
   },
   ...,
   "authorities": [

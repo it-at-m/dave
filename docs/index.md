@@ -89,6 +89,9 @@ must be set. The mapping file must then be added to the classpath of the contain
 
 Refer to [stadtbezirke.properties](https://github.com/it-at-m/dave-backend/blob/sprint/src/main/resources/config/stadtbezirke.properties) for the file format.
 
+If you do not use city districts or don't want their number to appear in the number of the counting point 
+you have to turn off automatic number assignment via DAVE_ZAEHLSTELLE_AUTOMATICNUMBERASSIGNMENT.
+
 
 ### Map center
 
@@ -109,6 +112,14 @@ The overlay layers configured in the `dave.tenant.map.overlay-layers` variable c
 
 For configuration of the helm-chart refer to the DAVE_TENANT_MAP_BASELAYERS_ and DAVE_TENANT_MAP_OVERLAYLAYERS_ variables 
 in [helm-chart values.yaml](https://github.com/it-at-m/helm-charts/blob/main/charts/dave/values.yaml).
+
+
+### Other DAVe specific configuration items
+
+| Variable name                                              | Description                                                                                                                        |
+|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| DAVE_TENANT_DATENPORTALHEADER                              | Configuration of the header of the top left corner of DAVe <br><br> ![DAVe_Datenportal-Header.png](img/DAVe_Datenportal-Header.png)|
+| DAVE_ZAEHLSTELLE_LINKDOCUMENTATIONCSVFILEFORUPLOADZAEHLUNG | Configuration of the link for the csv format documentation                                                                         |
 
 
 

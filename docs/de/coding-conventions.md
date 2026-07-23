@@ -18,17 +18,17 @@ Folgende Prinzipien sind zu berücksichtigen:
 
 # Namenskonventionen
 - Alle Artefakte (artifactId, Github-Repo) beginnen mit "dave"
-- Attribute, Variablen, Methodenparameter und Methodennamen sind im Code der GUI sowie im backendseitigen Code grundsätzlich in [camelCase](https://en.wikipedia.org/wiki/Camel_case) zu schreiben (z.B. Dto).
+- Attribute, Variablen, Methodenparameter und Methodennamen sind im Code der GUI sowie im backendseitigen Code grundsätzlich in [camelCase](https://en.wikipedia.org/wiki/Camel_case) zu schreiben.
 - Alle Variablen und Parameter sind wenn möglich als `final` und `private` zu deklarieren.
-- Konstanten sind als `private`, `static` und `final` sowie in **UPPER_CASE** zu definieren.
+- Konstanten sind als `private`, `static` und `final` sowie in **UPPER_CASE** zu deklarieren.
 
 # Backend Conventions
 - Fürs REFACTORING: Sauberes Dto-Pattern, Dto nur im Controller, im Service konkrete Klasse
-- Fürs REFACTORING: Ein DTO pro konkrete Klasse, Ausnahmen müssen gut dokumentiert werden
+- Fürs REFACTORING: Ein Dto pro konkrete Klasse, Ausnahmen müssen gut dokumentiert werden
 - Wandlung von konkreter Klasse nach Dto nicht im Controller sondern in Serviceklasse durch Mapper (mapstruct, ...)
 - Keine mehrfach verschachtelten Lambdas (kein .stream() im .stream())
 - Das Java-Sprachfeature `var` kann verwendet werden, wenn der Datentyp eindeutig bei der Zuweisung erkennbar ist (z.B Ctor(), copy()).
-- Urls sind in kepab-case zu definieren
+- Urls sind in kepab-case zu deklarieren
 
 # Frontend Conventions
 - Die Bezeichner von Custom Components werden in HTML im kebab-case geschrieben, z.B.: `<abfrage-component/>`
