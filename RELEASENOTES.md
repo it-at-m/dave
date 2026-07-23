@@ -2,7 +2,7 @@
 
 ## [Sprint 14] 2026-07-23 - 2026-08-12
 
-* Bugfix: Voreinstellung Block anstatt Tageswert ([FV-481](https://jira.muenchen.de/browse/FV-481))
+* Bugfix: Es wird nun (bis auf Teilzählung Fuss) immer der Tageswert als Vorauswahl in den Filtereinstellungen angezeigt ([FV-481](https://jira.muenchen.de/browse/FV-481), [FV-483](https://jira.muenchen.de/browse/FV-483))
 
 ## [Sprint 13] 2026-07-02 - 2026-07-22
 * Schematische Darstellung beim PDF-Export für die Zählarten QjS, FjS und Qu hinzugefügt ([FV-355](https://jira.muenchen.de/browse/FV-355))
