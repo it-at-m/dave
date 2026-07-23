@@ -1,10 +1,12 @@
-# DAVe
+# Welcome to DAVe
 
 [DAVe](https://opensource.muenchen.de/software/dave.html) 
 (short for "Datenbank und Auswertung von Verkehrszählungen", meaning "Database and Analysis of Traffic Counts"),
 is a specialized system to help Mobility Departments to document and analyze traffic trends.
 
 With [DAVe](https://opensource.muenchen.de/software/dave.html), traffic counts can be commissioned, recorded and graphically evaluated using various diagrams.
+
+<img src="img/DAVe_Diagrams.png" alt="Diagrams" width="600">
 
 
 ## Stack
@@ -24,18 +26,19 @@ With [DAVe](https://opensource.muenchen.de/software/dave.html), traffic counts c
 ![Architecture](docs/img/DAVE_Architektur.drawio.png)
 
 
+The DAVe application consists of various components:
 * [Data Portal](https://github.com/it-at-m/dave-frontend)
 * [Admin Portal](https://github.com/it-at-m/dave-admin-portal)
 * [Selfservice Portal](https://github.com/it-at-m/dave-selfservice-portal)
 * [Backend-Service](https://github.com/it-at-m/dave-backend)
 * [EAI Reports](https://github.com/it-at-m/dave-eai)
 * [Document-Storage](https://github.com/it-at-m/dave-document-storage)
-* _EAI GEO_ Internal component for provisioning of traffic detector counts. Not published as Opensource.
+* [Geodata EAI](https://github.com/it-at-m/dave-geodata-eai)
 
 
 ## Roadmap
 
-<img src="img/DAVe_Roadmap.png" alt="Roadmap" width="850">
+<img src="img/DAVe_Roadmap.drawio.png" alt="Roadmap" width="850">
 
 
 A detailed board of what opensource features and issues are currently treated can be observed under:
@@ -44,8 +47,8 @@ A detailed board of what opensource features and issues are currently treated ca
 
 ## Set up
 
-To get started with the DAVe components please refer to the documentation here: https://github.com/it-at-m/dave-backend/blob/sprint/stack/readme.md#dave-sample-stack
-
+A Getting Started guide can be found in the documentation here:
+[docs/index.md#getting-started](docs/index.md#getting-started)
 
 ## Documentation
 
