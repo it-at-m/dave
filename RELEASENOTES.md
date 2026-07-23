@@ -3,6 +3,8 @@
 ## [Sprint 14] 2026-07-23 - 2026-08-12
 
 * Bugfix: Es wird nun (bis auf Teilzählung Fuss) immer der Tageswert als Vorauswahl in den Filtereinstellungen angezeigt ([FV-481](https://jira.muenchen.de/browse/FV-481), [FV-483](https://jira.muenchen.de/browse/FV-483))
+* Bugfix: Unterschiedliche Benennungen bei R Sph Block 6-19 Uhr in Listenausgabe ([FV-480](https://jira.muenchen.de/browse/FV-480))
+* Bugfix: Adminportal Bearbeiten Messstelle Abbrechen Button nicht funktional ([FV-493](https://jira.muenchen.de/browse/FV-493))
 * Bugfix: BLP Belastungsbänder zu breit bei QjS im Vergleich zu bestehenden Zählarten ([FV-486](https://jira.muenchen.de/browse/FV-486))
 
 ## [Sprint 13] 2026-07-02 - 2026-07-22
