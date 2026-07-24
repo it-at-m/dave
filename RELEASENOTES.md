@@ -6,6 +6,7 @@
 * Bugfix: Unterschiedliche Benennungen bei R Sph Block 6-19 Uhr in Listenausgabe ([FV-480](https://jira.muenchen.de/browse/FV-480))
 * Bugfix: Adminportal Bearbeiten Messstelle Abbrechen Button nicht funktional ([FV-493](https://jira.muenchen.de/browse/FV-493))
 * Bugfix: BLP Belastungsbänder zu breit bei QjS im Vergleich zu bestehenden Zählarten ([FV-486](https://jira.muenchen.de/browse/FV-486))
+* Bugfix: Fehler bei 2x4h Zählung mit Filterauswahl nur SV% und GV% ([FV-427](https://jira.muenchen.de/browse/FV-427))
 
 ## [Sprint 13] 2026-07-02 - 2026-07-22
 * Schematische Darstellung beim PDF-Export für die Zählarten QjS, FjS und Qu hinzugefügt ([FV-355](https://jira.muenchen.de/browse/FV-355))
