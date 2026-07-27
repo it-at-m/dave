@@ -75,8 +75,8 @@ For running the apps via helm-chart a list of usable environment variables can b
 
 ### Identity and access management
 
-Identity and access management for all three frontends are managed with KeyCloak.
-[Example KeyCloak configuration](https://github.com/it-at-m/dave-backend/blob/sprint/sso-config/sso-client.json)
+Identity and access management for all DAVe component are managed best with KeyCloak.
+See the installation instructions in [keycloak.md](install/keycloak.md) on how to integrate it in your DAVe infrastructure.
 
 
 ### City districts
