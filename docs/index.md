@@ -75,7 +75,7 @@ For running the apps via helm-chart a list of usable environment variables can b
 
 ### Identity and access management
 
-Identity and access management for all DAVe component are managed best with KeyCloak.
+Identity and access management for all DAVe components is best handled with Keycloak.
 See the installation instructions in [keycloak.md](install/keycloak.md) on how to integrate it in your DAVe infrastructure.
 
 

@@ -17,7 +17,7 @@ Contents
 ## Overview
 
 DAVe uses OAuth2/OIDC for authentication and authorization. In production we recommend integrating DAVe with Keycloak (or another OIDC provider). 
-The backend typically operates as a resource server (validating JWTs), and the frontends use OAuth2 client flows (authorization_code / PKCE for SPAs).
+The backend typically operates as a resource server (validating JWTs), and the frontends use OAuth2 client credentials flow.
 
 This guide explains:
 - How to configure Keycloak (realm, clients)
@@ -57,11 +57,17 @@ helm upgrade dave ./dave -f values.yaml -f values-${ENVIRONMENT}.yaml -f my-valu
 
 Follow these steps to prepare Keycloak to work with DAVe:
 - Create a realm (example: `dave`). 
-- Import the client configuration from [here](https://github.com/it-at-m/dave-backend/blob/sprint/sso-config/sso-client.json).
-- Import the authorization from this [file](https://github.com/it-at-m/dave-backend/blob/sprint/sso-config/sso-authorisation.json) into the client.
-- Configure the DAVe client roles from [here](https://github.com/it-at-m/dave-backend/blob/sprint/sso-config/sso-client-roles.json).
+- Import the client configuration from [sso-client.json](https://github.com/it-at-m/dave-backend/blob/sprint/sso-config/sso-client.json).
+- Import the authorization from this [sso-authorisation.json](https://github.com/it-at-m/dave-backend/blob/sprint/sso-config/sso-authorisation.json) into the client.
+- Configure the DAVe client roles from [sso-client-roles.json](https://github.com/it-at-m/dave-backend/blob/sprint/sso-config/sso-client-roles.json).
 
-Important end points (Keycloak standard endpoints):
+> WARNING: Do not import the referenced client configuration unchanged.
+> The linked JSON currently contains a wildcard redirect URI (*) and enables direct access grants. 
+> Importing this into a production realm permits redirects to arbitrary destinations; 
+> provide an environment-specific configuration with explicit callback URIs 
+> and only the required grant types. (github.com)
+
+Important endpoints (Keycloak standard endpoints):
 - Issuer URL: https://<keycloak-host>/realms/<realm>
 - Authorization endpoint: https://<keycloak-host>/realms/<realm>/protocol/openid-connect/auth
 - Token endpoint: https://<keycloak-host>/realms/<realm>/protocol/openid-connect/token
@@ -94,10 +100,10 @@ A. Common (for Backend, Frontends & EAIs)
   
 B. Backend (resource server) recommended properties
 - SPRING_SECURITY_OAUTH2_RESOURCESERVER_JWT_ISSUER_URI
-  - Example: https://keycloak.example.com//auth/realms/dave
+  - Example: https://keycloak.example.com/auth/realms/dave
   
 - SPRING_SECURITY_OAUTH2_RESOURCESERVER_JWT_JWK_SET_URI
-  - Typically: https://keycloak.example.com/realms/dave/protocol/openid-connect/certs
+  - Typically: https://keycloak.example.com/auth/realms/dave/protocol/openid-connect/certs
   
 - SPRING_SECURITY_OAUTH2_RESOURCE_USERINFOURI
   -  Typically: https://keycloak.example.com/auth/realms/dave/protocol/openid-connect/userinfo
@@ -123,7 +129,7 @@ B. Backend (resource server) recommended properties
 
 C. Frontends (OAuth2 client) properties
 - SPRING_SECURITY_OAUTH2_CLIENT_PROVIDER_KEYCLOAK_ISSUERURI: 
-  - e.g. https://keycloak.example.com//auth/realms/dave 
+  - e.g. https://keycloak.example.com/auth/realms/dave 
   
 - SPRING_CLOUD_GATEWAY_SERVER_WEBFLUX_ROUTES_0_URI
   - Example: https://keycloak.example.com/
@@ -136,13 +142,13 @@ C. Frontends (OAuth2 client) properties
 
 D. EAI properties
 - SPRING_SECURITY_OAUTH2_RESOURCESERVER_JWT_ISSUERURI
-  - e.g. https://keycloak.example.com//auth/realms/dave
+  - e.g. https://keycloak.example.com/auth/realms/dave
   
 - SPRING_SECURITY_OAUTH2_RESOURCESERVER_JWT_JWKSETURI
-  - Typically: https://keycloak.example.com//auth/realms/dave/protocol/openid-connect/certs
+  - Typically: https://keycloak.example.com/auth/realms/dave/protocol/openid-connect/certs
 
 - SPRING_SECURITY_OAUTH2_RESOURCE_USERINFOURI
-  - Typically: https://keycloak.example.com/auth/realms/Dave/protocol/openid-connect/userinfo
+  - Typically: https://keycloak.example.com/auth/realms/dave/protocol/openid-connect/userinfo
 
 E. Geodata-EAI properties
 - SPRING_SECURITY_OAUTH2_CLIENT_REGISTRATION_SSO_MOBIDAM_MESSWERTE_AUTHORIZATIONGRANTTYPE 
