@@ -17,7 +17,8 @@ Contents
 ## Overview
 
 DAVe uses OAuth2/OIDC for authentication and authorization. In production we recommend integrating DAVe with Keycloak (or another OIDC provider). 
-The backend typically operates as a resource server (validating JWTs), and the frontends use OAuth2 client credentials flow.
+The backend typically operates as a resource server (validating JWTs), the EAIs use OAuth2 client credentials flow 
+and the user-facing SPAs use an authorization code flow (with PKCE).
 
 This guide explains:
 - How to configure Keycloak (realm, clients)

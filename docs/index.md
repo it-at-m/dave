@@ -59,7 +59,8 @@ For running and operating DAVe in kubernetes take a look at the [deployment sect
 
 The data is stored in two different databases: 
 
-* the data relevant for the search, such as location or street names, is stored in ElasticSearch. This enables a very high-performance search with search suggestions in real time. 
+* the data relevant for the search, such as location or street names, is stored in ElasticSearch. 
+  This enables a very high-performance search with search suggestions in real time.
 * The traffic data from the counts that is not required for the search is stored in a relational database PostgreSQL.
 
 
@@ -129,6 +130,7 @@ in [helm-chart values.yaml](https://github.com/it-at-m/helm-charts/blob/main/cha
 DAVe __should be__ installed and operated via the official [helm chart](https://artifacthub.io/packages/helm/it-at-m/dave?modal=install).
 
 For further instructions see [kubernetes.md](install/kubernetes.md).
+
 
 
 ## Security
