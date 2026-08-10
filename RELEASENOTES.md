@@ -9,6 +9,8 @@
 * Bugfix: Fehler bei 2x4h Zählung mit Filterauswahl nur SV% und GV% ([FV-427](https://jira.muenchen.de/browse/FV-427))
 * Anpassung der Vorbelegung von Fuss und Rad im Filtermenü für die bestehenden Zählarten ([FV-491](https://jira.muenchen.de/browse/FV-491))
 * Verwendung von itm-java-codeformat überprüft und Version im Document-Storage aktualisiert ([FV-193](https://jira.muenchen.de/browse/FV-193))
+* Berichtigung der nicht erforderlichen Tageswertausgabe für Fußverkehr in CSV-Export ([FV-523](https://jira.muenchen.de/browse/FV-523))
+* Tippfehler in Fehlermeldung berichtigt ([FV-565](https://jira.muenchen.de/browse/FV-565))
 
 ## [Sprint 13] 2026-07-02 - 2026-07-22
 * Schematische Darstellung beim PDF-Export für die Zählarten QjS, FjS und Qu hinzugefügt ([FV-355](https://jira.muenchen.de/browse/FV-355))
