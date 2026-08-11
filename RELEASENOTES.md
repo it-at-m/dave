@@ -1,5 +1,9 @@
 # Release-Notes
 
+## [Sprint 15] 2026-08-13 - 2026-09-02
+
+* tbde ([FV-XXX](https://jira.muenchen.de/browse/FV-XXX))
+
 ## [Sprint 14] 2026-07-23 - 2026-08-12
 
 * Bugfix: Es wird nun (bis auf Teilzählung Fuss) immer der Tageswert als Vorauswahl in den Filtereinstellungen angezeigt ([FV-481](https://jira.muenchen.de/browse/FV-481), [FV-483](https://jira.muenchen.de/browse/FV-483))
