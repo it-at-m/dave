@@ -11,6 +11,8 @@
 * Verwendung von itm-java-codeformat überprüft und Version im Document-Storage aktualisiert ([FV-193](https://jira.muenchen.de/browse/FV-193))
 * Berichtigung der nicht erforderlichen Tageswertausgabe für Fußverkehr in CSV-Export ([FV-523](https://jira.muenchen.de/browse/FV-523))
 * Tippfehler in Fehlermeldung berichtigt ([FV-565](https://jira.muenchen.de/browse/FV-565))
+* Deployment des Testdatengenerators in Dev-Umgebung ([FV-470](https://jira.muenchen.de/browse/FV-470))
+* Ausweisung der Spitzenstunde bei Maximalblock bei 13h bzw. 16h-Zählung ([FV-522](https://jira.muenchen.de/browse/FV-522))
 
 ## [Sprint 13] 2026-07-02 - 2026-07-22
 * Schematische Darstellung beim PDF-Export für die Zählarten QjS, FjS und Qu hinzugefügt ([FV-355](https://jira.muenchen.de/browse/FV-355))
