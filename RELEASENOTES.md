@@ -1,5 +1,19 @@
 # Release-Notes
 
+## [Sprint 14] 2026-07-23 - 2026-08-12
+
+* Bugfix: Es wird nun (bis auf Teilzählung Fuss) immer der Tageswert als Vorauswahl in den Filtereinstellungen angezeigt ([FV-481](https://jira.muenchen.de/browse/FV-481), [FV-483](https://jira.muenchen.de/browse/FV-483))
+* Bugfix: Unterschiedliche Benennungen bei R Sph Block 6-19 Uhr in Listenausgabe ([FV-480](https://jira.muenchen.de/browse/FV-480))
+* Bugfix: Adminportal Bearbeiten Messstelle Abbrechen Button nicht funktional ([FV-493](https://jira.muenchen.de/browse/FV-493))
+* Bugfix: BLP Belastungsbänder zu breit bei QjS im Vergleich zu bestehenden Zählarten ([FV-486](https://jira.muenchen.de/browse/FV-486))
+* Bugfix: Fehler bei 2x4h Zählung mit Filterauswahl nur SV% und GV% ([FV-427](https://jira.muenchen.de/browse/FV-427))
+* Anpassung der Vorbelegung von Fuss und Rad im Filtermenü für die bestehenden Zählarten ([FV-491](https://jira.muenchen.de/browse/FV-491))
+* Verwendung von itm-java-codeformat überprüft und Version im Document-Storage aktualisiert ([FV-193](https://jira.muenchen.de/browse/FV-193))
+* Berichtigung der nicht erforderlichen Tageswertausgabe für Fußverkehr in CSV-Export ([FV-523](https://jira.muenchen.de/browse/FV-523))
+* Tippfehler in Fehlermeldung berichtigt ([FV-565](https://jira.muenchen.de/browse/FV-565))
+* Deployment des Testdatengenerators in Dev-Umgebung ([FV-470](https://jira.muenchen.de/browse/FV-470))
+* Ausweisung der Spitzenstunde bei Maximalblock bei 13h bzw. 16h-Zählung ([FV-522](https://jira.muenchen.de/browse/FV-522))
+
 ## [Sprint 13] 2026-07-02 - 2026-07-22
 * Schematische Darstellung beim PDF-Export für die Zählarten QjS, FjS und Qu hinzugefügt ([FV-355](https://jira.muenchen.de/browse/FV-355))
 * Bugfix: Icon und Schriftgröße bei MST (Messstelleninfo) abgeschnitten ([FV-403](https://jira.muenchen.de/browse/FV-403))
