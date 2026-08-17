@@ -2,7 +2,7 @@
 
 ## [Sprint 15] 2026-08-13 - 2026-09-02
 
-* tbde ([FV-XXX](https://jira.muenchen.de/browse/FV-XXX))
+* Beim Export VISUM werden nur noch freigegebene / im Datenportal sichtbare Zählungen exportiert ([FV-577](https://jira.muenchen.de/browse/FV-577))
 
 ## [Sprint 14] 2026-07-23 - 2026-08-12
 
