@@ -5,6 +5,7 @@
 * Beim Export VISUM werden nur noch freigegebene / im Datenportal sichtbare Zählungen exportiert ([FV-577](https://jira.muenchen.de/browse/FV-577))
 * Bugfix: Ist nur Fussverkehr ausgewählt, wird die Checkbox "Summe aller Verkehrsarten anzeigen" nun deaktiviert und in der Zeitreihe wird keine Summe angezeigt ([FV-550](https://jira.muenchen.de/browse/FV-550))
 * Bugfix: Die Listenausgabe im PDF-Report (Tabelle zu PDF-Report hinzufügen) und im Tab Listenausgabe stimmen nun auch für nicht-24h-Zählungen überein ([FV-568](https://jira.muenchen.de/browse/FV-568))
+* Bugfix: Die Breite eines BLP-Bandes überschreitet nun nicht mehr die maximale Breite ([FV-583](https://jira.muenchen.de/browse/FV-583))
 
 ## [Sprint 14] 2026-07-23 - 2026-08-12
 
