@@ -8,6 +8,7 @@
 * Bugfix: Die Breite eines BLP-Bandes überschreitet nun nicht mehr die maximale Breite ([FV-583](https://jira.muenchen.de/browse/FV-583))
 * Schwarz-Weiß Druckausgabe für die neuen Zählarten QjS, FjS und Qu implementiert ([FV-584](https://jira.muenchen.de/browse/FV-584))
 * Anzeige von Zählart N in der Überschrift bei Export Zeitreihe entfernt ([FV-585](https://jira.muenchen.de/browse/FV-585))
+* Bugfix: Beim Aufruf von Zählungen über die Historie werden die Zählungen nun korrekt dargestellt ([FV-587](https://jira.muenchen.de/browse/FV-587))
 
 ## [Sprint 14] 2026-07-23 - 2026-08-12
 
