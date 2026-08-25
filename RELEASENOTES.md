@@ -10,6 +10,7 @@
 * Anzeige von Zählart N in der Überschrift bei Export Zeitreihe entfernt ([FV-585](https://jira.muenchen.de/browse/FV-585))
 * Bugfix: Beim Aufruf von Zählungen über die Historie werden die Zählungen nun korrekt dargestellt ([FV-587](https://jira.muenchen.de/browse/FV-587))
 * Security Improvement: Vor dem Speichern und Abschließen einer Zählung im Selfserviceportal wird nun geprüft, ob der eingeloggte Nutzer berechtigt ist, die Zählung zu bearbeiten ([FV-430](https://jira.muenchen.de/browse/FV-430))
+* Für Fußverkehrszählungen ohne verfügbaren Zeitblock wird die erste Stunde voreingestellt ([FV-487](https://jira.muenchen.de/browse/FV-487))
 
 ## [Sprint 14] 2026-07-23 - 2026-08-12
 
