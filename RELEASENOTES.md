@@ -1,5 +1,19 @@
 # Release-Notes
 
+## [Sprint 15] 2026-08-13 - 2026-09-02
+
+* Beim Export VISUM werden nur noch freigegebene / im Datenportal sichtbare Zählungen exportiert ([FV-577](https://jira.muenchen.de/browse/FV-577))
+* Bugfix: Ist nur Fussverkehr ausgewählt, wird die Checkbox "Summe aller Verkehrsarten anzeigen" nun deaktiviert und in der Zeitreihe wird keine Summe angezeigt ([FV-550](https://jira.muenchen.de/browse/FV-550))
+* Bugfix: Die Listenausgabe im PDF-Report (Tabelle zu PDF-Report hinzufügen) und im Tab Listenausgabe stimmen nun auch für nicht-24h-Zählungen überein ([FV-568](https://jira.muenchen.de/browse/FV-568))
+* Bugfix: Die Breite eines BLP-Bandes überschreitet nun nicht mehr die maximale Breite ([FV-583](https://jira.muenchen.de/browse/FV-583))
+* Schwarz-Weiß Druckausgabe für die neuen Zählarten QjS, FjS und Qu implementiert ([FV-584](https://jira.muenchen.de/browse/FV-584))
+* Anzeige von Zählart N in der Überschrift bei Export Zeitreihe entfernt ([FV-585](https://jira.muenchen.de/browse/FV-585))
+* Bugfix: Beim Aufruf von Zählungen über die Historie werden die Zählungen nun korrekt dargestellt ([FV-587](https://jira.muenchen.de/browse/FV-587))
+* Security Improvement: Vor dem Speichern und Abschließen einer Zählung im Selfserviceportal wird nun geprüft, ob der eingeloggte Nutzer berechtigt ist, die Zählung zu bearbeiten ([FV-430](https://jira.muenchen.de/browse/FV-430))
+* Für Fußverkehrszählungen ohne verfügbaren Zeitblock wird die erste Stunde voreingestellt ([FV-487](https://jira.muenchen.de/browse/FV-487))
+* Security Improvement: Die Sicherheit gegenüber XSS-Angriffen wurde durch Sanitizing auf Backend- und Frontend-Seite erhöht ([FV-433](https://jira.muenchen.de/browse/FV-433))
+* Hebung der Frameworks in dave-eai ([FV-136](https://jira.muenchen.de/browse/FV-136))
+
 ## [Sprint 14] 2026-07-23 - 2026-08-12
 
 * Bugfix: Es wird nun (bis auf Teilzählung Fuss) immer der Tageswert als Vorauswahl in den Filtereinstellungen angezeigt ([FV-481](https://jira.muenchen.de/browse/FV-481), [FV-483](https://jira.muenchen.de/browse/FV-483))
