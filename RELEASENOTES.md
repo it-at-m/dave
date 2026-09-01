@@ -12,6 +12,7 @@
 * Security Improvement: Vor dem Speichern und Abschließen einer Zählung im Selfserviceportal wird nun geprüft, ob der eingeloggte Nutzer berechtigt ist, die Zählung zu bearbeiten ([FV-430](https://jira.muenchen.de/browse/FV-430))
 * Für Fußverkehrszählungen ohne verfügbaren Zeitblock wird die erste Stunde voreingestellt ([FV-487](https://jira.muenchen.de/browse/FV-487))
 * Security Improvement: Die Sicherheit gegenüber XSS-Angriffen wurde durch Sanitizing auf Backend- und Frontend-Seite erhöht ([FV-433](https://jira.muenchen.de/browse/FV-433))
+* Hebung der Frameworks in dave-eai ([FV-136](https://jira.muenchen.de/browse/FV-136))
 
 ## [Sprint 14] 2026-07-23 - 2026-08-12
 
