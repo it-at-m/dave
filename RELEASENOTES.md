@@ -1,5 +1,9 @@
 # Release-Notes
 
+## [Sprint 16] 2026-09-03 - 2026-09-23
+
+* tbd ([FV-XXX](https://jira.muenchen.de/browse/FV-XXX))
+
 ## [Sprint 15] 2026-08-13 - 2026-09-02
 
 * Beim Export VISUM werden nur noch freigegebene / im Datenportal sichtbare Zählungen exportiert ([FV-577](https://jira.muenchen.de/browse/FV-577))
