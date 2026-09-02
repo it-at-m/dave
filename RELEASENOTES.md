@@ -2,7 +2,7 @@
 
 ## [Sprint 16] 2026-09-03 - 2026-09-23
 
-* Hebung der Spring-Frameworks in der Geodaten-EAI ([FV-XXX](https://jira.muenchen.de/browse/FV-135))
+* Hebung der Spring-Frameworks in der Geodaten-EAI ([FV-135](https://jira.muenchen.de/browse/FV-135))
 
 ## [Sprint 15] 2026-08-13 - 2026-09-02
 
