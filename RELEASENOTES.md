@@ -3,6 +3,7 @@
 ## [Sprint 16] 2026-09-03 - 2026-09-23
 
 * Hebung der Spring-Frameworks in der Geodaten-EAI ([FV-135](https://jira.muenchen.de/browse/FV-135))
+* Security Improvement: PreAuthorize Annotation für alle Controller-Methoden, H2-Konsole nur im Test-Scope, Absichern des Dave-Eai-Endpunkts mit einem Token ([FV-429](https://jira.muenchen.de/browse/FV-429))
 
 ## [Sprint 15] 2026-08-13 - 2026-09-02
 
