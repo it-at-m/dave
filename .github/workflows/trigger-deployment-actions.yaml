@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: "Tag name to apply to the target"
+        description: "Tag name to apply to the targets"
         required: true
         default: "dev"
       branch:
-        description: "Branch which should be tagged"
+        description: "Branch name that should be tagged"
         required: true
         default: "sprint"
 
