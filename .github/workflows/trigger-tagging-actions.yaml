@@ -1,4 +1,4 @@
-name: trigger-tag-actions
+name: trigger-tagging-actions
 
 on:
   workflow_dispatch:
