@@ -1,0 +1,51 @@
+name: trigger-tag-actions
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Tag name to apply to the target"
+        required: true
+        default: "dev"
+      branch:
+        description: "Branch which should be tagged"
+        required: true
+        default: "sprint"
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: none
+    strategy:
+      matrix:
+        repository:
+          - it-at-m/dave-backend
+          - it-at-m/dave-frontend
+          - it-at-m/dave-geodata-eai
+          - it-at-m/dave-document-storage
+          - it-at-m/dave-admin-portal
+          - it-at-m/dave-selfservice-portal
+          - it-at-m/dave-eai
+    steps:
+      - name: Show input parameters
+        env:
+          TAG: ${{ github.event.inputs.tag }}
+          BRANCH: ${{ github.event.inputs.branch }}
+        run: |
+          echo "Dispatching to: ${{ matrix.repository }}"
+          echo "tag: ${TAG}"
+          echo "branch: ${BRANCH}"
+      - name: Dispatch to other repository workflows
+        env:
+          GH_TOKEN: ${{ secrets.FINE_GRAINED_TOKEN }}
+        run: |
+          # Call repository-dispatch action via GitHub CLI (properly handles input sanitization)
+          gh api \
+              --method POST \
+              -H "Accept: application/vnd.github.v3+json" \
+                "/repos/${{ matrix.repository }}/dispatches" \
+                -f event_type='trigger_tag_action' \
+                -f client_payload[tag]="${{ github.event.inputs.tag }}" \
+                -f client_payload[branch]="${{ github.event.inputs.branch }}" \
+              || { echo "Error: Failed to dispatch to ${{ matrix.repository }}"; exit 1; }
