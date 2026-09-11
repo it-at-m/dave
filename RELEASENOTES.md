@@ -7,6 +7,7 @@
 * Bei der Differenzdatendarstellung wird nun immer die Gesamtmenge der Verkehrsbeziehungen beider Zählungen dargestellt ([FV-372](https://jira.muenchen.de/browse/FV-372))
 * Update Benutzerhandbücher ([FV-117](https://jira.muenchen.de/browse/FV-117), [FV-118](https://jira.muenchen.de/browse/FV-118)).
 * Bugfix: Im BLP der Zählart QjS werden 0-Werte nun als dünne Linie dargestellt ([FV-601](https://jira.muenchen.de/browse/FV-601))
+* Security Improvement: Beim Lesen und Schreiben von Chat-Nachrichten wird nun die Dienstleisterkennung überprüft ([FV-431](https://jira.muenchen.de/browse/FV-431))
 * Bugfix: Das Speichern im Selfserviceportal ist nun nach dem ersten Upload von CSV-Dateien ohne erneuten Upload möglich ([FV-589](https://jira.muenchen.de/browse/FV-589))
 
 ## [Sprint 15] 2026-08-13 - 2026-09-02
