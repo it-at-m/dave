@@ -9,6 +9,7 @@
 * Bugfix: Im BLP der Zählart QjS werden 0-Werte nun als dünne Linie dargestellt ([FV-601](https://jira.muenchen.de/browse/FV-601))
 * Security Improvement: Beim Lesen und Schreiben von Chat-Nachrichten wird nun die Dienstleisterkennung überprüft ([FV-431](https://jira.muenchen.de/browse/FV-431))
 * Bugfix: Das Speichern im Selfserviceportal ist nun nach dem ersten Upload von CSV-Dateien ohne erneuten Upload möglich ([FV-589](https://jira.muenchen.de/browse/FV-589))
+* Bugfix: Für Sonderzähldauer ist bei Auswahl Spitzenstunde nun nur Block im Filtermenü auswählbar, wenn für die Zählung Blöcke erhoben wurden ([FV-604](https://jira.muenchen.de/browse/FV-604))
 
 ## [Sprint 15] 2026-08-13 - 2026-09-02
 
