@@ -11,6 +11,7 @@
 * Bugfix: Das Speichern im Selfserviceportal ist nun nach dem ersten Upload von CSV-Dateien ohne erneuten Upload möglich ([FV-589](https://jira.muenchen.de/browse/FV-589))
 * Bugfix: Für Sonderzähldauer ist bei Auswahl Spitzenstunde nun nur Block im Filtermenü auswählbar, wenn für die Zählung Blöcke erhoben wurden ([FV-604](https://jira.muenchen.de/browse/FV-604))
 * LCM document-storage - Hebung Spring-Boot und Spring-Cloud ([FV-137](https://jira.muenchen.de/browse/FV-137)).
+* Bugfix: Die Auswahl der Vergleichszählung wird nun bei Änderung der Zeitauswahl beibehalten ([FV-606](https://jira.muenchen.de/browse/FV-606))
 
 ## [Sprint 15] 2026-08-13 - 2026-09-02
 
