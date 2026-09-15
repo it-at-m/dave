@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: "Tag name to apply to the targets"
+        description: "Tag name to apply to the images of the targeted repositories"
         required: true
         default: "dev"
       branch:
