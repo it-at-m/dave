@@ -16,6 +16,8 @@
 * Bugfix: Bei Auswahl der Spitzenstunde Block wird nun im Belastungsplan der Spitzenstundenwert angezeigt ([FV-602](https://jira.muenchen.de/browse/FV-602))
 * Bugfix: Die Auswahl der Vergleichszählung wird nun bei Änderung der Zeitauswahl beibehalten ([FV-606](https://jira.muenchen.de/browse/FV-606))
 * Zentrale Steuerung des Deployments implementiert ([FV-393](https://jira.muenchen.de/browse/FV-393))
+* Bugfix: Hinweismeldung bei Zeitreihenvergleich einer Ganztags- und einer Kurzzeitzählung wieder eingefügt, dass für Fußverkehr ein Block ausgewählt werden muss. ([FV-605](https://jira.muenchen.de/browse/FV-605))
+* Einbindung Hochrechnungsmodelle Rad für 13h und 16h-Zählungen mit Dummy-Modellen ([FV-400](https://jira.muenchen.de/browse/FV-400))
 
 ## [Sprint 15] 2026-08-13 - 2026-09-02
 
