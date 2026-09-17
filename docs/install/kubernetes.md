@@ -93,7 +93,7 @@ You can install the following charts in the same cluster or point DAVe to extern
   - Ensure it matches DAVe's Elasticsearch index format (8.x).
   - Persistent volumes are required.
 - Keycloak (example chart: bitnami/keycloak or the upstream Keycloak Operator)
-  - Configure realms/clients according to DAVe's SSO configuration (see sso-client.json example in backend repo and [JWT-Token](../../examples/Dave-JWT.txt)).
+  - Configure realms/clients according to DAVe's SSO configuration (see [installation instructions](keycloak.md)).
 - Your S3 object storage (e.g. MinIO)
   - Used for document storage and presigned URL generation used by the backend.
 
@@ -138,7 +138,7 @@ The backend exposes a set of environment variables and application.yml settings.
   - SPRING_ELASTICSEARCH_URIS, credentials
 
 - Identity Provider (Keycloak) settings
-  - Keycloak URL, realm, client-id and client-secret
+  - Keycloak URL, realm, client-id and client-secret (see [keycloak.md](keycloak.md))
 
 - Object storage (S3) settings
   - S3 endpoint, bucket, credentials — used by the document storage flow for presigned URLs
@@ -259,7 +259,7 @@ spec:
 
 ## Resource recommendations
 
-See [SysSpec](../de/SysSpec-arc42.md#resourcenzuteilung) for resource recommendations. 
+See [SysSpec](../de/system-specification.md#resourcenzuteilung) for resource recommendations. 
 
 Adjust according to your load and cluster size.
 
