@@ -75,8 +75,8 @@ For running the apps via helm-chart a list of usable environment variables can b
 
 ### Identity and access management
 
-Identity and access management for all three frontends are managed with KeyCloak.
-[Example KeyCloak configuration](https://github.com/it-at-m/dave-backend/blob/sprint/sso-config/sso-client.json)
+Identity and access management for all DAVe components is best handled with Keycloak.
+See the installation instructions in [keycloak.md](install/keycloak.md) on how to integrate it in your DAVe infrastructure.
 
 
 ### City districts
@@ -129,6 +129,7 @@ in [helm-chart values.yaml](https://github.com/it-at-m/helm-charts/blob/main/cha
 DAVe __should be__ installed and operated via the official [helm chart](https://artifacthub.io/packages/helm/it-at-m/dave?modal=install).
 
 For further instructions see [kubernetes.md](install/kubernetes.md).
+
 
 
 ## Security
