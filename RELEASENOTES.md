@@ -1,5 +1,25 @@
 # Release-Notes
 
+## [Sprint 16] 2026-09-03 - 2026-09-23
+
+* Hebung der Spring-Frameworks in der Geodaten-EAI ([FV-135](https://jira.muenchen.de/browse/FV-135))
+* Security Improvement: PreAuthorize Annotation für alle Controller-Methoden, H2-Konsole nur im Test-Scope, Absichern des Dave-Eai-Endpunkts mit einem Token ([FV-429](https://jira.muenchen.de/browse/FV-429))
+* Bei der Differenzdatendarstellung wird nun immer die Gesamtmenge der Verkehrsbeziehungen beider Zählungen dargestellt ([FV-372](https://jira.muenchen.de/browse/FV-372))
+* Update Benutzerhandbücher ([FV-117](https://jira.muenchen.de/browse/FV-117), [FV-118](https://jira.muenchen.de/browse/FV-118)).
+* Bugfix: Im BLP der Zählart QjS werden 0-Werte nun als dünne Linie dargestellt ([FV-601](https://jira.muenchen.de/browse/FV-601))
+* Security Improvement: Beim Lesen und Schreiben von Chat-Nachrichten wird nun die Dienstleisterkennung überprüft ([FV-431](https://jira.muenchen.de/browse/FV-431))
+* Bugfix: Das Speichern im Selfserviceportal ist nun nach dem ersten Upload von CSV-Dateien ohne erneuten Upload möglich ([FV-589](https://jira.muenchen.de/browse/FV-589))
+* Bugfix: Für Sonderzähldauer ist bei Auswahl Spitzenstunde nun nur Block im Filtermenü auswählbar, wenn für die Zählung Blöcke erhoben wurden ([FV-604](https://jira.muenchen.de/browse/FV-604))
+* LCM document-storage - Hebung Spring-Boot und Spring-Cloud ([FV-137](https://jira.muenchen.de/browse/FV-137))
+* LCM geodata-eai - Hebung Spring-Boot und Spring-Cloud ([FV-135](https://jira.muenchen.de/browse/FV-135))
+* Anpassung um Backend in Profil no-security ohne weitere Codeänderungen starten und verwenden zu können ([FV-507](https://jira.muenchen.de/browse/FV-507))
+* Bugfix: Bei Auswahl der Spitzenstunde Block wird nun im Belastungsplan der Spitzenstundenwert angezeigt ([FV-602](https://jira.muenchen.de/browse/FV-602))
+* Bugfix: Die Auswahl der Vergleichszählung wird nun bei Änderung der Zeitauswahl beibehalten ([FV-606](https://jira.muenchen.de/browse/FV-606))
+* Zentrale Steuerung des Deployments implementiert ([FV-393](https://jira.muenchen.de/browse/FV-393))
+* Bugfix: Hinweismeldung bei Zeitreihenvergleich einer Ganztags- und einer Kurzzeitzählung wieder eingefügt, dass für Fußverkehr ein Block ausgewählt werden muss. ([FV-605](https://jira.muenchen.de/browse/FV-605))
+* Einbindung Hochrechnungsmodelle Rad für 13h und 16h-Zählungen mit Dummy-Modellen ([FV-400](https://jira.muenchen.de/browse/FV-400))
+* Filtereinstellungen zur Zeitauswahl hinsichtlich Tageswert angepasst und eine Hinweismeldung für nicht vorhandenen Tageswert hinzugefügt ([FV-614](https://jira.muenchen.de/browse/FV-614))
+
 ## [Sprint 15] 2026-08-13 - 2026-09-02
 
 * Beim Export VISUM werden nur noch freigegebene / im Datenportal sichtbare Zählungen exportiert ([FV-577](https://jira.muenchen.de/browse/FV-577))
