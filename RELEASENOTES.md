@@ -19,6 +19,7 @@
 * Bugfix: Hinweismeldung bei Zeitreihenvergleich einer Ganztags- und einer Kurzzeitzählung wieder eingefügt, dass für Fußverkehr ein Block ausgewählt werden muss. ([FV-605](https://jira.muenchen.de/browse/FV-605))
 * Einbindung Hochrechnungsmodelle Rad für 13h und 16h-Zählungen mit Dummy-Modellen ([FV-400](https://jira.muenchen.de/browse/FV-400))
 * Filtereinstellungen zur Zeitauswahl hinsichtlich Tageswert angepasst und eine Hinweismeldung für nicht vorhandenen Tageswert hinzugefügt ([FV-614](https://jira.muenchen.de/browse/FV-614))
+* Integration von ElasticSearch in HelmChart Lint Test  ([FV-39](https://jira.muenchen.de/browse/FV-39))
 
 ## [Sprint 15] 2026-08-13 - 2026-09-02
 
