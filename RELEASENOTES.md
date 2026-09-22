@@ -1,5 +1,10 @@
 # Release-Notes
 
+## [Sprint 17] 2026-09-23 - 2026-10-14
+
+* Einbindung Hochrechnungsmodelle Rad für 13h und 16h-Zählungen mit Dummy-Modellen ([FV-400](https://jira.muenchen.de/browse/FV-400))
+* Filtereinstellungen zur Zeitauswahl hinsichtlich Tageswert angepasst und eine Hinweismeldung für nicht vorhandenen Tageswert hinzugefügt ([FV-614](https://jira.muenchen.de/browse/FV-614))
+
 ## [Sprint 16] 2026-09-03 - 2026-09-23
 
 * Security Improvement: PreAuthorize Annotation für alle Controller-Methoden, H2-Konsole nur im Test-Scope, Absichern des Dave-Eai-Endpunkts mit einem Token ([FV-429](https://jira.muenchen.de/browse/FV-429))
