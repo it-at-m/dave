@@ -2,7 +2,6 @@
 
 ## [Sprint 16] 2026-09-03 - 2026-09-23
 
-* Hebung der Spring-Frameworks in der Geodaten-EAI ([FV-135](https://jira.muenchen.de/browse/FV-135))
 * Security Improvement: PreAuthorize Annotation für alle Controller-Methoden, H2-Konsole nur im Test-Scope, Absichern des Dave-Eai-Endpunkts mit einem Token ([FV-429](https://jira.muenchen.de/browse/FV-429))
 * Bei der Differenzdatendarstellung wird nun immer die Gesamtmenge der Verkehrsbeziehungen beider Zählungen dargestellt ([FV-372](https://jira.muenchen.de/browse/FV-372))
 * Update Benutzerhandbücher ([FV-117](https://jira.muenchen.de/browse/FV-117), [FV-118](https://jira.muenchen.de/browse/FV-118)).
@@ -17,8 +16,6 @@
 * Bugfix: Die Auswahl der Vergleichszählung wird nun bei Änderung der Zeitauswahl beibehalten ([FV-606](https://jira.muenchen.de/browse/FV-606))
 * Zentrale Steuerung des Deployments implementiert ([FV-393](https://jira.muenchen.de/browse/FV-393))
 * Bugfix: Hinweismeldung bei Zeitreihenvergleich einer Ganztags- und einer Kurzzeitzählung wieder eingefügt, dass für Fußverkehr ein Block ausgewählt werden muss. ([FV-605](https://jira.muenchen.de/browse/FV-605))
-* Einbindung Hochrechnungsmodelle Rad für 13h und 16h-Zählungen mit Dummy-Modellen ([FV-400](https://jira.muenchen.de/browse/FV-400))
-* Filtereinstellungen zur Zeitauswahl hinsichtlich Tageswert angepasst und eine Hinweismeldung für nicht vorhandenen Tageswert hinzugefügt ([FV-614](https://jira.muenchen.de/browse/FV-614))
 * Keycloak dependencies aus Helm-Chart entfernt ([FV-521](https://jira.muenchen.de/browse/FV-521))
 * Integration von ElasticSearch in HelmChart Lint Test  ([FV-39](https://jira.muenchen.de/browse/FV-39))
 * LHM-spezifische Keycloak Scopes entfernt  ([FV-620](https://jira.muenchen.de/browse/FV-620))
