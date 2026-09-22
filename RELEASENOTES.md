@@ -21,6 +21,7 @@
 * Filtereinstellungen zur Zeitauswahl hinsichtlich Tageswert angepasst und eine Hinweismeldung für nicht vorhandenen Tageswert hinzugefügt ([FV-614](https://jira.muenchen.de/browse/FV-614))
 * Keycloak dependencies aus Helm-Chart entfernt ([FV-521](https://jira.muenchen.de/browse/FV-521))
 * Integration von ElasticSearch in HelmChart Lint Test  ([FV-39](https://jira.muenchen.de/browse/FV-39))
+* LHM-spezifische Keycloak Scopes entfernt  ([FV-620](https://jira.muenchen.de/browse/FV-620))
 
 ## [Sprint 15] 2026-08-13 - 2026-09-02
 
