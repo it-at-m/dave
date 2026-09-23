@@ -4,6 +4,7 @@
 
 * Einbindung Hochrechnungsmodelle Rad für 13h und 16h-Zählungen mit Dummy-Modellen ([FV-400](https://jira.muenchen.de/browse/FV-400))
 * Filtereinstellungen zur Zeitauswahl hinsichtlich Tageswert angepasst und eine Hinweismeldung für nicht vorhandenen Tageswert hinzugefügt ([FV-614](https://jira.muenchen.de/browse/FV-614))
+* Bugfix: Beim PDF-Export der Ganglinie wird die Werttabelle nun auch für die Spitzenstunde angezeigt ([FV-626](https://jira.muenchen.de/browse/FV-626))
 
 ## [Sprint 16] 2026-09-03 - 2026-09-23
 
