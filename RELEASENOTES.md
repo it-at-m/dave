@@ -7,6 +7,7 @@
 * Bugfix: Beim PDF-Export der Ganglinie wird die Werttabelle nun auch für die Spitzenstunde angezeigt ([FV-626](https://jira.muenchen.de/browse/FV-626))
 * Bugfix: Fehlerhaftes Verhalten im Zusammenhang mit der Historie beseitigt ([FV-587](https://jira.muenchen.de/browse/FV-587))
 * Zeitauswahl zum PDF-Export der Ganglinie und der Listenausgabe hinzugefügt ([FV-625](https://jira.muenchen.de/browse/FV-625))
+* Bugfix: Export Zeitreihe als csv ([FV-618](https://jira.muenchen.de/browse/FV-618))
 
 ## [Sprint 16] 2026-09-03 - 2026-09-23
 
