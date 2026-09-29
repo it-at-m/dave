@@ -372,6 +372,17 @@ Mittels `ZeitintervallKIUtil` werden die Ergebisse in den entsprechenden Zeitint
 Bei Inferenzfehlern wird die Aufbereitung ohne Hochrechnung gespeichert.
 ![Laufzeitdiagramm KI-Hochrechnung](../img/DAVe_Laufzeitdiagramm_KI-Hochrechnung.png)
 
+### Einbindung der Modelle und Konfiguration
+- Ablage der ONNX-Dateien unter `src/main/resources/models` mit aussagekräftigem Namen z.B. `RAD_2x4h.onnx`
+- Definition der Modelle in`application.yml` unter `dave.onnx.modelle`: 
+  - *id*: eindeutiger Name des Modells z.B. rad_2x4h
+  - *fahrzeug*: `Fahrzeug`-kategorie z.B. `RAD`
+  - *zaehldauer*: die `Zaehldauer` z.B. `DAUER_2_X_4_STUNDEN`
+  - *resource-path*: der Pfad zum Modell z.B. models/RAD_2x4h.onnx
+  - *input-tensor-name*: der Input-Tensorname z.B. `int64_input` 
+  - *input-schema*: Referenz auf das `ModelInputSchema`, das einen `ModelInputEncoder` referenziert z.B. `REINE_FAHRZEUGWERTE`. Ein `ModelInputEncoder` bereitet die Eingabewerte so auf, dass sie für das Modell passend sind. Der `ReineFahrzeugwerteEncoder` ist der Standard und verwendet nur die Zählwerte. Es können aber auch Modelle eingebunden werden, die neben den Zählwerten weitere Inputwerte haben, wie z.B. Wochentag. Dazu kann ein neuer `ModelInputEncoder` implementiert werden, der die benötigten Werte zu den Inputwerten hinzufügt.
+
+
 # Querschnittliche Konzepte
 
 ## Datenmodell
