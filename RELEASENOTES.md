@@ -1,5 +1,16 @@
 # Release-Notes
 
+## [Sprint 17] 2026-09-23 - 2026-10-14
+
+* Einbindung Hochrechnungsmodelle Rad für 13h und 16h-Zählungen mit Dummy-Modellen ([FV-400](https://jira.muenchen.de/browse/FV-400))
+* Filtereinstellungen zur Zeitauswahl hinsichtlich Tageswert angepasst und eine Hinweismeldung für nicht vorhandenen Tageswert hinzugefügt ([FV-614](https://jira.muenchen.de/browse/FV-614))
+* Bugfix: Beim PDF-Export der Ganglinie wird die Werttabelle nun auch für die Spitzenstunde angezeigt ([FV-626](https://jira.muenchen.de/browse/FV-626))
+* Bugfix: Fehlerhaftes Verhalten im Zusammenhang mit der Historie beseitigt ([FV-587](https://jira.muenchen.de/browse/FV-587))
+* Zeitauswahl zum PDF-Export der Ganglinie und der Listenausgabe hinzugefügt ([FV-625](https://jira.muenchen.de/browse/FV-625))
+* Bugfix: Export Zeitreihe als csv ([FV-618](https://jira.muenchen.de/browse/FV-618))
+* Kubernetes default security context im Helm Chart verwendet ([FV-440](https://jira.muenchen.de/browse/FV-440), [#137](https://github.com/it-at-m/helm-charts/issues/137))
+* Bugfix: Auswahl der Jahre für Zeitreihenvergleich wird bei Klicken des Buttons "Zurücksetzen" nicht zurückgesetzt ([FV-640](https://jira.muenchen.de/browse/FV-640))
+
 ## [Sprint 16] 2026-09-03 - 2026-09-23
 
 * Security Improvement: PreAuthorize Annotation für alle Controller-Methoden, H2-Konsole nur im Test-Scope, Absichern des Dave-Eai-Endpunkts mit einem Token ([FV-429](https://jira.muenchen.de/browse/FV-429))
