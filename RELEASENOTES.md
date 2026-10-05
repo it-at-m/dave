@@ -10,6 +10,7 @@
 * Bugfix: Export Zeitreihe als csv ([FV-618](https://jira.muenchen.de/browse/FV-618))
 * Kubernetes default security context im Helm Chart verwendet ([FV-440](https://jira.muenchen.de/browse/FV-440), [#137](https://github.com/it-at-m/helm-charts/issues/137))
 * Bugfix: Auswahl der Jahre für Zeitreihenvergleich wird bei Klicken des Buttons "Zurücksetzen" nicht zurückgesetzt ([FV-640](https://jira.muenchen.de/browse/FV-640))
+* Bugfix: Für die Zeitauswahl Stunde werden die Spitzenstunden in den Darstellungsoptionen nun ausgegraut ([FV-641](https://jira.muenchen.de/browse/FV-641))
 
 ## [Sprint 16] 2026-09-03 - 2026-09-23
 
