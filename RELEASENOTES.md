@@ -12,6 +12,7 @@
 * Bugfix: Auswahl der Jahre für Zeitreihenvergleich wird bei Klicken des Buttons "Zurücksetzen" nicht zurückgesetzt ([FV-640](https://jira.muenchen.de/browse/FV-640))
 * Bugfix: Für die Zeitauswahl Stunde werden die Spitzenstunden in den Darstellungsoptionen nun ausgegraut ([FV-641](https://jira.muenchen.de/browse/FV-641))
 * Anpassung der Zeitreihe hinsichtlich Fußverkehr ([FV-611](https://jira.muenchen.de/browse/FV-611))
+* Bugfix: Die Knotenarmnummern der Belastungsarme werden bei QjS nun immer horizontal angeordnet ([FV-644](https://jira.muenchen.de/browse/FV-644))
 
 ## [Sprint 16] 2026-09-03 - 2026-09-23
 
