@@ -13,6 +13,7 @@
 * Bugfix: Für die Zeitauswahl Stunde werden die Spitzenstunden in den Darstellungsoptionen nun ausgegraut ([FV-641](https://jira.muenchen.de/browse/FV-641))
 * Anpassung der Zeitreihe hinsichtlich Fußverkehr ([FV-611](https://jira.muenchen.de/browse/FV-611))
 * Bugfix: Die Knotenarmnummern der Belastungsarme werden bei QjS nun immer horizontal angeordnet ([FV-644](https://jira.muenchen.de/browse/FV-644))
+* Bugfix: Der BLP für QjS wird nun korrekt dargestellt, wenn Filtereinstellungen von einem anderen Tab aus geändert werden ([FV-643](https://jira.muenchen.de/browse/FV-643))
 
 ## [Sprint 16] 2026-09-03 - 2026-09-23
 
