@@ -3,6 +3,7 @@
 ## [Sprint 17] 2026-09-23 - 2026-10-14
 
 * Einbindung Hochrechnungsmodelle Rad für 13h und 16h-Zählungen mit Dummy-Modellen ([FV-400](https://jira.muenchen.de/browse/FV-400))
+* Austausch der Hochrechnungsmodelle Rad ([FV-609](https://jira.muenchen.de/browse/FV-609))
 * Filtereinstellungen zur Zeitauswahl hinsichtlich Tageswert angepasst und eine Hinweismeldung für nicht vorhandenen Tageswert hinzugefügt ([FV-614](https://jira.muenchen.de/browse/FV-614))
 * Bugfix: Beim PDF-Export der Ganglinie wird die Werttabelle nun auch für die Spitzenstunde angezeigt ([FV-626](https://jira.muenchen.de/browse/FV-626))
 * Bugfix: Fehlerhaftes Verhalten im Zusammenhang mit der Historie beseitigt ([FV-587](https://jira.muenchen.de/browse/FV-587))
@@ -14,6 +15,7 @@
 * Anpassung der Zeitreihe hinsichtlich Fußverkehr ([FV-611](https://jira.muenchen.de/browse/FV-611))
 * Bugfix: Die Knotenarmnummern der Belastungsarme werden bei QjS nun immer horizontal angeordnet ([FV-644](https://jira.muenchen.de/browse/FV-644))
 * Bugfix: Der BLP für QjS wird nun korrekt dargestellt, wenn Filtereinstellungen von einem anderen Tab aus geändert werden ([FV-643](https://jira.muenchen.de/browse/FV-643))
+* Bugfix: Zeitreihe: Hinweismeldung stimmt wieder mit erhobenen Daten überein ([FV-638](https://jira.muenchen.de/browse/FV-638))
 
 ## [Sprint 16] 2026-09-03 - 2026-09-23
 
