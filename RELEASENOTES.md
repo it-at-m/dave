@@ -16,6 +16,10 @@
 * Bugfix: Die Knotenarmnummern der Belastungsarme werden bei QjS nun immer horizontal angeordnet ([FV-644](https://jira.muenchen.de/browse/FV-644))
 * Bugfix: Der BLP für QjS wird nun korrekt dargestellt, wenn Filtereinstellungen von einem anderen Tab aus geändert werden ([FV-643](https://jira.muenchen.de/browse/FV-643))
 * Bugfix: Zeitreihe: Hinweismeldung stimmt wieder mit erhobenen Daten überein ([FV-638](https://jira.muenchen.de/browse/FV-638))
+* LCM Backend - Hebung Spring-Boot und Spring-Cloud ([FV-112](https://jira.muenchen.de/browse/FV-112))
+* Voreinstellung des Zeitintervalls bei Messstellen angepasst ([FV-624](https://jira.muenchen.de/browse/FV-624))
+* Zeitreihenauswertung für Zeitauswahl "Spitzenstunde" deaktiviert ([FV-627](https://jira.muenchen.de/browse/FV-627))
+* Anzeige des gewählten Blockes bei Spitzenstunde in der Legende des Belastungsplans ([FV-628](https://jira.muenchen.de/browse/FV-628))
 
 ## [Sprint 16] 2026-09-03 - 2026-09-23
 
