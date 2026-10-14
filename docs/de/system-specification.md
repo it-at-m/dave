@@ -363,6 +363,26 @@ Die im Self-Service-Portal getriggerte Statusänderung auf `ACCOMPLISHED` aggreg
 
 ![Laufzeitdiagramm Statusänderung bei Zählung einer Zählstelle mit Zähldaten](../img/DAVe_Laufzeitdiagramm_SelfServiceportal_Zaehlstelle_Zaehlung_Statusaenderung.drawio.png)
 
+## Hochrechnung der Tageswerte mit KI-Modellen
+Durch Konfiguration lassen sich beliebige ONNX-Modelle für die Hochrechnung des Tageswerts einbinden. Sie werden durch Zaehldauer (bestimmt die Anzahl der Eingabewerte) und Fahrzeugtyp identifiziert.
+Ein `OnnxHochrechnungsmodell`  besitzt eine eigene ONNX-Session. Die `OnnxModelRegistry` initialisiert alle konfigurierten Modelle und markiert bei einem Initialisierungsfehler nur das betroffene Modell als nicht verfügbar. Der Start der Anwendung bleibt möglich.
+Beim Persistieren einer Zählung im `ZeitintervallPersistierungsService` wird ermittelt, ob eine Hochrechnung nötig ist.
+Der `HochrechnungsService` ermittelt dann über `OnnxModelRegistry` das passende aktive Modell für die `Zaehldauer` (2x4h/13h/16h) und führt das Modell aus, welches für jede Bewegungsbeziehung ein Ergebis `KIPredictionResult` liefert.
+Mittels `ZeitintervallKIUtil` werden die Ergebisse in den entsprechenden Zeitintervallen zusammengeführt und können persistiert werden.
+Bei Inferenzfehlern wird die Aufbereitung ohne Hochrechnung gespeichert.
+![Laufzeitdiagramm KI-Hochrechnung](../img/DAVe_Laufzeitdiagramm_KI-Hochrechnung.png)
+
+### Einbindung der Modelle und Konfiguration
+- Ablage der ONNX-Dateien unter `src/main/resources/models` mit aussagekräftigem Namen z.B. `RAD_2x4h.onnx`
+- Definition der Modelle in`application.yml` unter `dave.onnx.modelle`: 
+  - *id*: eindeutiger Name des Modells z.B. rad_2x4h
+  - *fahrzeug*: `Fahrzeug`-kategorie z.B. `RAD`
+  - *zaehldauer*: die `Zaehldauer` z.B. `DAUER_2_X_4_STUNDEN`
+  - *resource-path*: der Pfad zum Modell z.B. models/RAD_2x4h.onnx
+  - *input-tensor-name*: der Input-Tensorname z.B. `int64_input` 
+  - *input-schema*: Referenz auf das `ModelInputSchema`, das einen `ModelInputEncoder` referenziert z.B. `REINE_FAHRZEUGWERTE`. Ein `ModelInputEncoder` bereitet die Eingabewerte so auf, dass sie für das Modell passend sind. Der `ReineFahrzeugwerteEncoder` ist der Standard und verwendet nur die Zählwerte. Es können aber auch Modelle eingebunden werden, die neben den Zählwerten weitere Inputwerte haben, wie z.B. Wochentag. Dazu kann ein neuer `ModelInputEncoder` implementiert werden, der die benötigten Werte zu den Inputwerten hinzufügt.
+
+
 # Querschnittliche Konzepte
 
 ## Datenmodell
