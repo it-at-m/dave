@@ -1,5 +1,9 @@
 # Release-Notes
 
+## [Sprint 18] 2026-10-14 - 2026-11-04
+
+* ... ([]())
+
 ## [Sprint 17] 2026-09-23 - 2026-10-14
 
 * Einbindung Hochrechnungsmodelle Rad für 13h und 16h-Zählungen mit Dummy-Modellen ([FV-400](https://jira.muenchen.de/browse/FV-400))
