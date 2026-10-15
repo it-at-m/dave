@@ -3,6 +3,7 @@
 ## [Sprint 18] 2026-10-14 - 2026-11-04
 
 * Einfügen eines Leerzeichens (SPACE) zischen Zählstellennummer und Zählart in den PDF-Reports für Belastungsplan, Listenausgabe, Ganglinie und Zählungsvergleich ([FV-645](https://jira.muenchen.de/browse/FV-645))
+* Bugfix: Fehler beim Aufruf von Zählungen über die Historie behoben ([FV-587](https://jira.muenchen.de/browse/FV-587))
 
 ## [Sprint 17] 2026-09-23 - 2026-10-14
 
