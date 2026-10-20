@@ -6,6 +6,7 @@
 * Bugfix: Fehler beim Aufruf von Zählungen über die Historie behoben ([FV-587](https://jira.muenchen.de/browse/FV-587))
 * LCM: Nicht verwendete Rest-Endpunkte aus dem Backend entfernt und aus Backend, Datenportal, Adminportal und Selfserviceportal nicht verwendeten Methoden und Klassen entfernt ([FV-526](https://jira.muenchen.de/browse/FV-526))
 * Das Speichern im Selfserviceportal ist nun auch ohne Upload von CSV-Dateien möglich ([FV-637](https://jira.muenchen.de/browse/FV-637))
+* LCM: Spring-Boot Hebung des Datenportals ([FV-132](https://jira.muenchen.de/browse/FV-132))
 
 ## [Sprint 17] 2026-09-23 - 2026-10-14
 
