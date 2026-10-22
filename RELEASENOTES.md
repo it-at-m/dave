@@ -8,6 +8,7 @@
 * Das Speichern im Selfserviceportal ist nun auch ohne Upload von CSV-Dateien möglich ([FV-637](https://jira.muenchen.de/browse/FV-637))
 * LCM: Spring-Boot Hebung des Datenportals ([FV-132](https://jira.muenchen.de/browse/FV-132))
 * Bugfix: Die Hinweismeldung zur Zeitreihe wird nur noch im Tab Zeitreihe angezeigt ([FV-670](https://jira.muenchen.de/browse/FV-670))
+* Die Hinweismeldungen im Filtermenü bei der Auswahl der Verkehrsarten wurden angepasst ([FV-635](https://jira.muenchen.de/browse/FV-635))
 
 ## [Sprint 17] 2026-09-23 - 2026-10-14
 
