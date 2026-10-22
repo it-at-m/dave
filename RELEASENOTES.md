@@ -9,6 +9,7 @@
 * LCM: Spring-Boot Hebung des Datenportals ([FV-132](https://jira.muenchen.de/browse/FV-132))
 * Bugfix: Die Hinweismeldung zur Zeitreihe wird nur noch im Tab Zeitreihe angezeigt ([FV-670](https://jira.muenchen.de/browse/FV-670))
 * Die Hinweismeldungen im Filtermenü bei der Auswahl der Verkehrsarten wurden angepasst ([FV-635](https://jira.muenchen.de/browse/FV-635))
+* Bugfix: In der Zeitreihe wird nun bei nicht vorhandenem Fußverkehr die korrekte Hinweismeldung angezeigt ([FV-669](https://jira.muenchen.de/browse/FV-669))
 
 ## [Sprint 17] 2026-09-23 - 2026-10-14
 
