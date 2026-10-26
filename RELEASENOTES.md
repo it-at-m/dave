@@ -10,7 +10,8 @@
 * Bugfix: Die Hinweismeldung zur Zeitreihe wird nur noch im Tab Zeitreihe angezeigt ([FV-670](https://jira.muenchen.de/browse/FV-670))
 * Die Hinweismeldungen im Filtermenü bei der Auswahl der Verkehrsarten wurden angepasst ([FV-635](https://jira.muenchen.de/browse/FV-635))
 * Bugfix: In der Zeitreihe wird nun bei nicht vorhandenem Fußverkehr die korrekte Hinweismeldung angezeigt ([FV-669](https://jira.muenchen.de/browse/FV-669))
-* Bugfix: Das Sanitizing des Stadtbezirks führt nun nicht mehr zu einem Internal Server Error beim Bearbeiten einer Zählstelle mit gültigem Stadtbezirk ([FV-689](https://jira.muenchen.de/browse/FV-689)) 
+* Bugfix: Das Sanitizing des Stadtbezirks führt nun nicht mehr zu einem Internal Server Error beim Bearbeiten einer Zählstelle mit gültigem Stadtbezirk ([FV-689](https://jira.muenchen.de/browse/FV-689))
+* PROD Bugfix: Fix im Self-Serviceportal bei Zählungen mit Einbahnstraßen. ([FV-673](https://jira.muenchen.de/browse/FV-673)) 
 
 ## [Sprint 17] 2026-09-23 - 2026-10-14
 
