@@ -13,6 +13,7 @@
 * Bugfix: Das Sanitizing des Stadtbezirks führt nun nicht mehr zu einem Internal Server Error beim Bearbeiten einer Zählstelle mit gültigem Stadtbezirk ([FV-689](https://jira.muenchen.de/browse/FV-689))
 * PROD Bugfix: Fix im Self-Serviceportal bei Zählungen mit Einbahnstraßen. ([FV-673](https://jira.muenchen.de/browse/FV-673)) 
 * LCM: Spring-Boot Hebung des Adminportals ([FV-134](https://jira.muenchen.de/browse/FV-134))
+* LCM: Spring-Boot Hebung des Selfservice-Portals ([FV-133](https://jira.muenchen.de/browse/FV-133))
 
 ## [Sprint 17] 2026-09-23 - 2026-10-14
 
