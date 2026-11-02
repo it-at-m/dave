@@ -14,6 +14,7 @@
 * PROD Bugfix: Fix im Self-Serviceportal bei Zählungen mit Einbahnstraßen. ([FV-673](https://jira.muenchen.de/browse/FV-673)) 
 * LCM: Spring-Boot Hebung des Adminportals ([FV-134](https://jira.muenchen.de/browse/FV-134))
 * LCM: Spring-Boot Hebung des Selfservice-Portals ([FV-133](https://jira.muenchen.de/browse/FV-133))
+* Bugfix: Die Hinweismeldungen zum nicht vorhandenen Tageswert wurden zusammengefasst und werden nur noch einmal angezeigt ([FV-674](https://jira.muenchen.de/browse/FV-674))
 
 ## [Sprint 17] 2026-09-23 - 2026-10-14
 
