@@ -16,6 +16,7 @@
 * LCM: Spring-Boot Hebung des Selfservice-Portals ([FV-133](https://jira.muenchen.de/browse/FV-133))
 * Bugfix: Die Hinweismeldungen zum nicht vorhandenen Tageswert wurden zusammengefasst und werden nur noch einmal angezeigt ([FV-674](https://jira.muenchen.de/browse/FV-674))
 * Beim PDF-Export werden nicht vorhandene Daten nun leer gelassen ([FV-650](https://jira.muenchen.de/browse/FV-650))
+* Bei Zählungen mit Sonderzähldauer wird nun in Einzelfällen ein KI-Modell verwendet, um den Tageswert für Rad hochzurechnen ([FV-631](https://jira.muenchen.de/browse/FV-631))
 
 ## [Sprint 17] 2026-09-23 - 2026-10-14
 
