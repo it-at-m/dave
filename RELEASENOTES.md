@@ -1,5 +1,24 @@
 # Release-Notes
 
+## [Sprint 18] 2026-10-14 - 2026-11-04
+
+* Einfügen eines Leerzeichens (SPACE) zischen Zählstellennummer und Zählart in den PDF-Reports für Belastungsplan, Listenausgabe, Ganglinie und Zählungsvergleich ([FV-645](https://jira.muenchen.de/browse/FV-645))
+* Bugfix: Fehler beim Aufruf von Zählungen über die Historie behoben ([FV-587](https://jira.muenchen.de/browse/FV-587))
+* LCM: Nicht verwendete Rest-Endpunkte aus dem Backend entfernt und aus Backend, Datenportal, Adminportal und Selfserviceportal nicht verwendeten Methoden und Klassen entfernt ([FV-526](https://jira.muenchen.de/browse/FV-526))
+* Das Speichern im Selfserviceportal ist nun auch ohne Upload von CSV-Dateien möglich ([FV-637](https://jira.muenchen.de/browse/FV-637))
+* LCM: Spring-Boot Hebung des Datenportals ([FV-132](https://jira.muenchen.de/browse/FV-132))
+* Bugfix: Die Hinweismeldung zur Zeitreihe wird nur noch im Tab Zeitreihe angezeigt ([FV-670](https://jira.muenchen.de/browse/FV-670))
+* Die Hinweismeldungen im Filtermenü bei der Auswahl der Verkehrsarten wurden angepasst ([FV-635](https://jira.muenchen.de/browse/FV-635))
+* Bugfix: In der Zeitreihe wird nun bei nicht vorhandenem Fußverkehr die korrekte Hinweismeldung angezeigt ([FV-669](https://jira.muenchen.de/browse/FV-669))
+* Bugfix: Das Sanitizing des Stadtbezirks führt nun nicht mehr zu einem Internal Server Error beim Bearbeiten einer Zählstelle mit gültigem Stadtbezirk ([FV-689](https://jira.muenchen.de/browse/FV-689))
+* PROD Bugfix: Fix im Self-Serviceportal bei Zählungen mit Einbahnstraßen. ([FV-673](https://jira.muenchen.de/browse/FV-673)) 
+* LCM: Spring-Boot Hebung des Adminportals ([FV-134](https://jira.muenchen.de/browse/FV-134))
+* LCM: Spring-Boot Hebung des Selfservice-Portals ([FV-133](https://jira.muenchen.de/browse/FV-133))
+* Bugfix: Die Hinweismeldungen zum nicht vorhandenen Tageswert wurden zusammengefasst und werden nur noch einmal angezeigt ([FV-674](https://jira.muenchen.de/browse/FV-674))
+* Beim PDF-Export werden nicht vorhandene Daten nun leer gelassen ([FV-650](https://jira.muenchen.de/browse/FV-650))
+* Bei Zählungen mit Sonderzähldauer wird nun in Einzelfällen ein KI-Modell verwendet, um den Tageswert für Rad hochzurechnen ([FV-631](https://jira.muenchen.de/browse/FV-631))
+* Im Belastungsplan werden Straßennamen nun nach 15 Zeichen getrennt ([FV-693](https://jira.muenchen.de/browse/FV-693))
+
 ## [Sprint 17] 2026-09-23 - 2026-10-14
 
 * Einbindung Hochrechnungsmodelle Rad für 13h und 16h-Zählungen mit Dummy-Modellen ([FV-400](https://jira.muenchen.de/browse/FV-400))
