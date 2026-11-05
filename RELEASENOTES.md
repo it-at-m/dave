@@ -1,5 +1,9 @@
 # Release-Notes
 
+## [Sprint 19] 2026-11-04 - 2026-11-25
+
+* PROD Bugfix: Die Kategorien einer Zählung enthalten jede Kategorie nun maximal einmal. Dadurch wird die Verkehrsart im Datenportal nun korrekt vorbelegt ([FV-698](https://jira.muenchen.de/browse/FV-698))
+
 ## [Sprint 18] 2026-10-14 - 2026-11-04
 
 * Einfügen eines Leerzeichens (SPACE) zischen Zählstellennummer und Zählart in den PDF-Reports für Belastungsplan, Listenausgabe, Ganglinie und Zählungsvergleich ([FV-645](https://jira.muenchen.de/browse/FV-645))
