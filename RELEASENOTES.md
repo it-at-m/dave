@@ -3,6 +3,7 @@
 ## [Sprint 19] 2026-11-04 - 2026-11-25
 
 * PROD Bugfix: Die Kategorien einer Zählung enthalten jede Kategorie nun maximal einmal. Dadurch wird die Verkehrsart im Datenportal nun korrekt vorbelegt ([FV-698](https://jira.muenchen.de/browse/FV-698))
+* Beim Zeitreihenvergleich werden nun keine Zählungen mit demselben Zähldatum wie die Basiszählung mehr verglichen ([FV-648](https://jira.muenchen.de/browse/FV-648))
 
 ## [Sprint 18] 2026-10-14 - 2026-11-04
 
