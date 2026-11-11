@@ -1,5 +1,10 @@
 # Release-Notes
 
+## [Sprint 19] 2026-11-04 - 2026-11-25
+
+* PROD Bugfix: Die Kategorien einer Zählung enthalten jede Kategorie nun maximal einmal. Dadurch wird die Verkehrsart im Datenportal nun korrekt vorbelegt ([FV-698](https://jira.muenchen.de/browse/FV-698))
+* Beim Zeitreihenvergleich werden nun keine Zählungen mit demselben Zähldatum wie die Basiszählung mehr verglichen ([FV-648](https://jira.muenchen.de/browse/FV-648))
+
 ## [Sprint 18] 2026-10-14 - 2026-11-04
 
 * Einfügen eines Leerzeichens (SPACE) zischen Zählstellennummer und Zählart in den PDF-Reports für Belastungsplan, Listenausgabe, Ganglinie und Zählungsvergleich ([FV-645](https://jira.muenchen.de/browse/FV-645))
@@ -18,6 +23,7 @@
 * Beim PDF-Export werden nicht vorhandene Daten nun leer gelassen ([FV-650](https://jira.muenchen.de/browse/FV-650))
 * Bei Zählungen mit Sonderzähldauer wird nun in Einzelfällen ein KI-Modell verwendet, um den Tageswert für Rad hochzurechnen ([FV-631](https://jira.muenchen.de/browse/FV-631))
 * Im Belastungsplan werden Straßennamen nun nach 15 Zeichen getrennt ([FV-693](https://jira.muenchen.de/browse/FV-693))
+* Der Kartentooltip zeigt das Datum der letzten Zählung abhängig von der Rolle ([FV-692](https://jira.muenchen.de/browse/FV-692))
 
 ## [Sprint 17] 2026-09-23 - 2026-10-14
 
