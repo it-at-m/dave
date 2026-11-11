@@ -23,6 +23,7 @@
 * Beim PDF-Export werden nicht vorhandene Daten nun leer gelassen ([FV-650](https://jira.muenchen.de/browse/FV-650))
 * Bei Zählungen mit Sonderzähldauer wird nun in Einzelfällen ein KI-Modell verwendet, um den Tageswert für Rad hochzurechnen ([FV-631](https://jira.muenchen.de/browse/FV-631))
 * Im Belastungsplan werden Straßennamen nun nach 15 Zeichen getrennt ([FV-693](https://jira.muenchen.de/browse/FV-693))
+* Der Kartentooltip zeigt das Datum der letzten Zählung abhängig von der Rolle ([FV-692](https://jira.muenchen.de/browse/FV-692))
 
 ## [Sprint 17] 2026-09-23 - 2026-10-14
 
