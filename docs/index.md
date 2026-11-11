@@ -79,6 +79,24 @@ Identity and access management for all DAVe components is best handled with Keyc
 See the installation instructions in [keycloak.md](install/keycloak.md) on how to integrate it in your DAVe infrastructure.
 
 
+### City districts and quarters
+
+City districts and quarters are tenant-specific reference data. Set `DAVE_TENANT_CITY` to the city key for the tenant whose data DAVe should use. 
+Populate the corresponding database tables as follows: 
+```sql
+-- insert the district records first
+INSERT INTO dave_ng.stadtbezirk (id, created_time, version, nummer, name, stadt) VALUES (gen_random_uuid(), now(), 0, 1, 'Altstadt-Lehel', 'München');
+...
+-- then insert each quarter with a reference to its parent district. 
+-- Use the identifiers and other required values defined by the database schema, 
+-- and ensure the records belong to the intended tenant.
+INSERT INTO dave_ng.stadtbezirk_viertel (id, created_time, version, nummer, name, stadtbezirk_id) 
+SELECT gen_random_uuid(), now(), 0, '01.1.1', null, sb.id FROM dave_ng.stadtbezirk AS sb WHERE sb.nummer = 1;
+...
+```
+
+Please also note the configuration item "DAVE_ZAEHLSTELLE_AUTOMATICNUMBERASSIGNMENT" from [Other DAVe specific configuration items](#other-dave-specific-configuration-items)
+
 ### Map center
 
 DAVe's default map center is Munich Central. This can be configured through the dave.map.center attributes 
@@ -104,7 +122,6 @@ in [helm-chart values.yaml](https://github.com/it-at-m/helm-charts/blob/main/cha
 
 | Variable name                                              | Description                                                                                                                                                         |
 |------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| DAVE_TENANT_CITY                                           | Configuration of the city name to access tenant-specific configuration, e.g. optional city districts                                                                |
 | DAVE_TENANT_DATENPORTALHEADER                              | Configuration of the header of the top left corner of DAVe <br><br> ![DAVe_Datenportal-Header.png](img/DAVe_Datenportal-Header.png)                                 |
 | DAVE_ZAEHLSTELLE_LINKDOCUMENTATIONCSVFILEFORUPLOADZAEHLUNG | Configuration of the link for the csv format documentation                                                                                                          |
 | DAVE_ZAEHLSTELLE_AUTOMATICNUMBERASSIGNMENT                 | Turn off automatic number assignment for Zählstellen, if you do not use city districts<br>or don't want their number to appear in the number of the counting point. |
