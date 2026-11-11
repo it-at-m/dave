@@ -134,11 +134,7 @@ Die Anwendung ist auf Basis der LHM-Referenzarchitektur für Webanwendungen erst
 
 ## Whitebox Gesamtsystem
 
-<<<<<<<< HEAD:docs/de/system-specification.md
-![Architektur](../img/DAVe_Architketur.drawio.png)
-========
 ![Architektur](../img/DAVE_Architektur.drawio.png)
->>>>>>>> demo:docs/de/SysSpec-arc42.md
 
 ### Technologie Stack
 
