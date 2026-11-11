@@ -34,10 +34,12 @@
    - [Zählung einer Zählstelle erfolgreich durchgeführt](#zählung-einer-zählstelle-erfolgreich-durchgeführt)
 - [Querschnittliche Konzepte](#querschnittliche-konzepte)
    - [Datenmodell](#datenmodell)
-      - [Zahlstellen](#zahlstellen)
+      - [Übergreifende Aspekte](#übergreifende-aspekte)
+      - [Zahlstellen](#zählstellen)
       - [Messstellen](#messstellen)
    - [Architekturpatterns](#architekturpatterns)
    - [Security](#security)
+   - [Mandantenfähigkeit](#mandantenfähigkeit)
    - [Validierung von Eingaben](#validierung-von-eingaben)
 - [Risiken und technische Schulden](#risiken-und-technische-schulden)
 
@@ -383,7 +385,16 @@ Bei Inferenzfehlern wird die Aufbereitung ohne Hochrechnung gespeichert.
 
 ## Datenmodell
 
-### Zahlstellen
+### Übergreifende Aspekte
+
+![Übergreifendes Datenmodell](../img/DAVe_Datenmodell_Uebergreifend.drawio.png)
+
+| Entität            | Beschreibung                                                |
+|--------------------|-------------------------------------------------------------|
+| Stadtbezirk        | Datensätze für eine mögliche Unterteilung von Städten       |
+| Stadtbezirkviertel | Datensätze für eine mögliche Unterteilung von Stadtbezirken |
+
+### Zählstellen
 
 Die in den Zählstellen abgebildeten Tageszählungen werden im nachfolgenden Datenmodell dargestellt.
 
@@ -400,7 +411,7 @@ Die in den Zählstellen abgebildeten Tageszählungen werden im nachfolgenden Dat
 | Hochrechnung      | Jeder Verkehrsbeziehung sind die für die Hochrechnung erforderlichen Hochrechnungsfaktoren angegliedert. Die Faktoren sind erforderlich um die im Zeitintervall hochgerechneten Zählwerte zu ermitteln.                                                                                                                                   |
 | Zeitintervall     | Hier handelt es sich um die Zählwerte die in einem Zeitintervall für eine Verkehrsbeziehung ermittelt wurden.                                                                                                                                                                                                                             |
 
-## Messstellen
+### Messstellen
 
 Bei den Dauermessstellen stellt sich das Datenmodell wie folgt.
 
@@ -433,6 +444,12 @@ Folgende Rollen sind definiert:
 - FACHADMIN
 - POWERUSER
 - VERKEHRSDETEKTOR_VIEWER
+
+## Mandantenfähigkeit
+
+DAVe erlaubt die Konfiguration bestimmter mandanten-spezifischer Einstellungen. 
+Über die Konfiguration des city-Schlüssels lassen sich Einstellungen wie z.B. die Stadtbezirke vornehmen (siehe [Übergreifende Aspekte](#übergreifende-aspekte)).
+Weitere Konfigurationsmöglichkeiten siehe [Configuration](https://github.com/it-at-m/dave/blob/sprint/docs/index.md#configuration) 
 
 ## Validierung von Eingaben
 
