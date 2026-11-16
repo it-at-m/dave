@@ -7,6 +7,7 @@
 * Die Zeitauswahl im Datenportal wird nun auf Tageswert gesetzt, wenn die Filtereinstellungen in der Rubrik Verkehrsart so umgestellt werden, dass für die im BLP angezeigte Verkehrsart ein Tageswert vorhanden ist ([FV-697](https://jira.muenchen.de/browse/FV-697))
 * Der Kartentooltip zeigt das Datum der letzten Zählung abhängig von der Rolle ([FV-692](https://jira.muenchen.de/browse/FV-692))
 * Die Tabelle in der PDF-Ausgabe zum Gangliniendiagramm bricht nun nicht mehr zwischen den Tabellenzeilen die Seite um ([FV-717](https://jira.muenchen.de/browse/FV-717))
+* Formatierung in Frontends erzwingen ([FV-653](https://jira.muenchen.de/browse/FV-653)
 
 ## [Sprint 18] 2026-10-14 - 2026-11-04
 
