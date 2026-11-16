@@ -449,7 +449,7 @@ Folgende Rollen sind definiert:
 
 DAVe erlaubt die Konfiguration bestimmter mandanten-spezifischer Einstellungen. 
 Über die Konfiguration des city-Schlüssels lassen sich Einstellungen wie z.B. die Stadtbezirke vornehmen (siehe [Übergreifende Aspekte](#übergreifende-aspekte)).
-Weitere Konfigurationsmöglichkeiten siehe [Configuration](https://github.com/it-at-m/dave/blob/sprint/docs/index.md#configuration) 
+Weitere Konfigurationsmöglichkeiten siehe [Configuration](https://github.com/it-at-m/dave/blob/sprint/docs/index.md#configuration).
 
 ## Validierung von Eingaben
 
