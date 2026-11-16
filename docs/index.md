@@ -79,20 +79,23 @@ Identity and access management for all DAVe components is best handled with Keyc
 See the installation instructions in [keycloak.md](install/keycloak.md) on how to integrate it in your DAVe infrastructure.
 
 
-### City districts
+### City districts and quarters
 
-DAVe structures the counting districts according to city districts.
-To adapt the default districts for local development the variable ‘dave.stadtbezirk-mapping-config-url’  
-in the [dave-backend application.yml](https://github.com/it-at-m/dave-backend/blob/sprint/src/main/resources/application.yml) must be set.
+City districts and quarters are tenant-specific reference data. Set `DAVE_TENANT_CITY` to the city key for the tenant whose data DAVe should use. 
+Populate the corresponding database tables as follows: 
+```sql
+-- insert the district records first
+INSERT INTO dave_ng.stadtbezirk (id, created_time, version, nummer, name, stadt) VALUES (gen_random_uuid(), now(), 0, 1, 'Altstadt-Lehel', 'München');
+...
+-- then insert each quarter with a reference to its parent district. 
+-- Use the identifiers and other required values defined by the database schema, 
+-- and ensure the records belong to the intended tenant.
+INSERT INTO dave_ng.stadtbezirk_viertel (id, created_time, version, nummer, name, stadtbezirk_id) 
+SELECT gen_random_uuid(), now(), 0, '01.1.1', null, sb.id FROM dave_ng.stadtbezirk AS sb WHERE sb.nummer = 1;
+...
+```
 
-For running the helm-chart an environment variable DAVE_STADTBEZIRKMAPPINGCONFIGURL in [values.yaml](https://github.com/it-at-m/helm-charts/blob/main/charts/dave/values.yaml) 
-must be set. The mapping file must then be added to the classpath of the container via ConfigMap.
-
-Refer to [stadtbezirke.properties](https://github.com/it-at-m/dave-backend/blob/sprint/src/main/resources/config/stadtbezirke.properties) for the file format.
-
-If you do not use city districts or don't want their number to appear in the number of the counting point 
-you have to turn off automatic number assignment via DAVE_ZAEHLSTELLE_AUTOMATICNUMBERASSIGNMENT.
-
+Please also note the configuration item "DAVE_ZAEHLSTELLE_AUTOMATICNUMBERASSIGNMENT" from [Other DAVe specific configuration items](#other-dave-specific-configuration-items)
 
 ### Map center
 
@@ -117,11 +120,11 @@ in [helm-chart values.yaml](https://github.com/it-at-m/helm-charts/blob/main/cha
 
 ### Other DAVe specific configuration items
 
-| Variable name                                              | Description                                                                                                                        |
-|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| DAVE_TENANT_DATENPORTALHEADER                              | Configuration of the header of the top left corner of DAVe <br><br> ![DAVe_Datenportal-Header.png](img/DAVe_Datenportal-Header.png)|
-| DAVE_ZAEHLSTELLE_LINKDOCUMENTATIONCSVFILEFORUPLOADZAEHLUNG | Configuration of the link for the csv format documentation                                                                         |
-
+| Variable name                                              | Description                                                                                                                                                         |
+|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| DAVE_TENANT_DATENPORTALHEADER                              | Configuration of the header of the top left corner of DAVe <br><br> ![DAVe_Datenportal-Header.png](img/DAVe_Datenportal-Header.png)                                 |
+| DAVE_ZAEHLSTELLE_LINKDOCUMENTATIONCSVFILEFORUPLOADZAEHLUNG | Configuration of the link for the csv format documentation                                                                                                          |
+| DAVE_ZAEHLSTELLE_AUTOMATICNUMBERASSIGNMENT                 | Turn off automatic number assignment for Zählstellen, if you do not use city districts<br>or don't want their number to appear in the number of the counting point. |
 
 
 ## Deployment

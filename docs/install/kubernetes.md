@@ -115,12 +115,6 @@ helm install dave-minio minio/minio --namespace dave -f minio-values.yaml
 
 The backend exposes a set of environment variables and application.yml settings. Important items:
 
-- City districts
-  - DAVE_STADTBEZIRKMAPPINGCONFIGURL
-    - URL (or classpath resource) to the stadtbezirke.properties mapping file (used by the backend to map city districts).
-    - For Kubernetes, provide this as a ConfigMap and mount in the backend container or host it via an accessible HTTP endpoint.
-  - DAVE_ZAEHLSTELLE_AUTOMATICNUMBERASSIGNMENT: to automatically apply the city district in the counting point number.
-  
 - Map center and map layers
   - DAVE_TENANT_MAP_CENTER_LAT
   - DAVE_TENANT_MAP_CENTER_LNG
@@ -129,6 +123,7 @@ The backend exposes a set of environment variables and application.yml settings.
   - These values are used to configure the default map center (Munich by default) and available map layers.
 
 - Other DAVe specific configuration:
+  - DAVE_TENANT_CITY
   - DAVE_TENANT_DATENPORTALHEADER
   - DAVE_ZAEHLSTELLE_LINKDOCUMENTATIONCSVFILEFORUPLOADZAEHLUNG
   - see [Configuration](../index.md#configuration) for details
