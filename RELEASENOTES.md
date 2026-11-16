@@ -5,6 +5,7 @@
 * PROD Bugfix: Die Kategorien einer Zählung enthalten jede Kategorie nun maximal einmal. Dadurch wird die Verkehrsart im Datenportal nun korrekt vorbelegt ([FV-698](https://jira.muenchen.de/browse/FV-698))
 * Beim Zeitreihenvergleich werden nun keine Zählungen mit demselben Zähldatum wie die Basiszählung mehr verglichen ([FV-648](https://jira.muenchen.de/browse/FV-648))
 * Die Zeitauswahl im Datenportal wird nun auf Tageswert gesetzt, wenn die Filtereinstellungen in der Rubrik Verkehrsart so umgestellt werden, dass für die im BLP angezeigte Verkehrsart ein Tageswert vorhanden ist ([FV-697](https://jira.muenchen.de/browse/FV-697))
+* Die Tabelle in der PDF-Ausgabe zum Gangliniendiagramm bricht nun nicht mehr zwischen den Tabellenzeilen die Seite um ([FV-717](https://jira.muenchen.de/browse/FV-717))
 
 ## [Sprint 18] 2026-10-14 - 2026-11-04
 
