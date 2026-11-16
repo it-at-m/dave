@@ -5,6 +5,7 @@
 * PROD Bugfix: Die Kategorien einer Zählung enthalten jede Kategorie nun maximal einmal. Dadurch wird die Verkehrsart im Datenportal nun korrekt vorbelegt ([FV-698](https://jira.muenchen.de/browse/FV-698))
 * Beim Zeitreihenvergleich werden nun keine Zählungen mit demselben Zähldatum wie die Basiszählung mehr verglichen ([FV-648](https://jira.muenchen.de/browse/FV-648))
 * Die Zeitauswahl im Datenportal wird nun auf Tageswert gesetzt, wenn die Filtereinstellungen in der Rubrik Verkehrsart so umgestellt werden, dass für die im BLP angezeigte Verkehrsart ein Tageswert vorhanden ist ([FV-697](https://jira.muenchen.de/browse/FV-697))
+* Der Kartentooltip zeigt das Datum der letzten Zählung abhängig von der Rolle ([FV-692](https://jira.muenchen.de/browse/FV-692))
 * Die Tabelle in der PDF-Ausgabe zum Gangliniendiagramm bricht nun nicht mehr zwischen den Tabellenzeilen die Seite um ([FV-717](https://jira.muenchen.de/browse/FV-717))
 
 ## [Sprint 18] 2026-10-14 - 2026-11-04
@@ -25,7 +26,6 @@
 * Beim PDF-Export werden nicht vorhandene Daten nun leer gelassen ([FV-650](https://jira.muenchen.de/browse/FV-650))
 * Bei Zählungen mit Sonderzähldauer wird nun in Einzelfällen ein KI-Modell verwendet, um den Tageswert für Rad hochzurechnen ([FV-631](https://jira.muenchen.de/browse/FV-631))
 * Im Belastungsplan werden Straßennamen nun nach 15 Zeichen getrennt ([FV-693](https://jira.muenchen.de/browse/FV-693))
-* Der Kartentooltip zeigt das Datum der letzten Zählung abhängig von der Rolle ([FV-692](https://jira.muenchen.de/browse/FV-692))
 
 ## [Sprint 17] 2026-09-23 - 2026-10-14
 
