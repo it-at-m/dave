@@ -7,6 +7,7 @@
 * Die Zeitauswahl im Datenportal wird nun auf Tageswert gesetzt, wenn die Filtereinstellungen in der Rubrik Verkehrsart so umgestellt werden, dass für die im BLP angezeigte Verkehrsart ein Tageswert vorhanden ist ([FV-697](https://jira.muenchen.de/browse/FV-697))
 * Der Kartentooltip zeigt das Datum der letzten Zählung abhängig von der Rolle ([FV-692](https://jira.muenchen.de/browse/FV-692))
 * Die Tabelle in der PDF-Ausgabe zum Gangliniendiagramm bricht nun nicht mehr zwischen den Tabellenzeilen die Seite um ([FV-717](https://jira.muenchen.de/browse/FV-717))
+* Bugfix: Die Hinweismeldung in der Zeitreihe bezüglich Spitzenstunde soll immer erscheinen, wenn in der Zeitauswahl die Spitzenstunde Kfz, Rad oder Fuß ausgewählt ist und gleichzeitig der Reiter Zeitreihe gewählt ist oder in den Reiter gewechselt wird ([FV-719](https://jira.muenchen.de/browse/FV-719)
 * Formatierung in Frontends erzwingen ([FV-653](https://jira.muenchen.de/browse/FV-653)
 * Verwendung der OpenAPI-Spezifikation des Backends zur Generierung der Client-Klassen (Datenportal) ([FV-527](https://jira.muenchen.de/browse/FV-527))
 
