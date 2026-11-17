@@ -8,6 +8,7 @@
 * Der Kartentooltip zeigt das Datum der letzten Zählung abhängig von der Rolle ([FV-692](https://jira.muenchen.de/browse/FV-692))
 * Die Tabelle in der PDF-Ausgabe zum Gangliniendiagramm bricht nun nicht mehr zwischen den Tabellenzeilen die Seite um ([FV-717](https://jira.muenchen.de/browse/FV-717))
 * Formatierung in Frontends erzwingen ([FV-653](https://jira.muenchen.de/browse/FV-653)
+* Verwendung der OpenAPI-Spezifikation des Backends zur Generierung der Client-Klassen (Datenportal) ([FV-527](https://jira.muenchen.de/browse/FV-527))
 
 ## [Sprint 18] 2026-10-14 - 2026-11-04
 
