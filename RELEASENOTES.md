@@ -11,6 +11,7 @@
 * Formatierung in Frontends erzwingen ([FV-653](https://jira.muenchen.de/browse/FV-653)
 * Verwendung der OpenAPI-Spezifikation des Backends zur Generierung der Client-Klassen (Datenportal) ([FV-527](https://jira.muenchen.de/browse/FV-527))
 * Die Kartenkomponenten im Adminportal wurden überarbeitet. Es sind nun immer alle Kartenlayer auswählbar außer bei Zählungscards ([FV-718](https://jira.muenchen.de/browse/FV-718))
+* Gesamtauswertung im ods-Format ausgeben ([FV-368](https://jira.muenchen.de/browse/FV-368))
 
 ## [Sprint 18] 2026-10-14 - 2026-11-04
 
