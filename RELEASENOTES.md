@@ -1,5 +1,20 @@
 # Release-Notes
 
+## [Sprint 19] 2026-11-04 - 2026-11-25
+
+* PROD Bugfix: Die Kategorien einer Zählung enthalten jede Kategorie nun maximal einmal. Dadurch wird die Verkehrsart im Datenportal nun korrekt vorbelegt ([FV-698](https://jira.muenchen.de/browse/FV-698))
+* Beim Zeitreihenvergleich werden nun keine Zählungen mit demselben Zähldatum wie die Basiszählung mehr verglichen ([FV-648](https://jira.muenchen.de/browse/FV-648))
+* Die Zeitauswahl im Datenportal wird nun auf Tageswert gesetzt, wenn die Filtereinstellungen in der Rubrik Verkehrsart so umgestellt werden, dass für die im BLP angezeigte Verkehrsart ein Tageswert vorhanden ist ([FV-697](https://jira.muenchen.de/browse/FV-697))
+* Der Kartentooltip zeigt das Datum der letzten Zählung abhängig von der Rolle ([FV-692](https://jira.muenchen.de/browse/FV-692))
+* Die Tabelle in der PDF-Ausgabe zum Gangliniendiagramm bricht nun nicht mehr zwischen den Tabellenzeilen die Seite um ([FV-717](https://jira.muenchen.de/browse/FV-717))
+* Bugfix: Die Hinweismeldung in der Zeitreihe bezüglich Spitzenstunde soll immer erscheinen, wenn in der Zeitauswahl die Spitzenstunde Kfz, Rad oder Fuß ausgewählt ist und gleichzeitig der Reiter Zeitreihe gewählt ist oder in den Reiter gewechselt wird ([FV-719](https://jira.muenchen.de/browse/FV-719))
+* Formatierung in Frontends erzwingen ([FV-653](https://jira.muenchen.de/browse/FV-653))
+* Verwendung der OpenAPI-Spezifikation des Backends zur Generierung der Client-Klassen (Datenportal) ([FV-527](https://jira.muenchen.de/browse/FV-527))
+* Die Kartenkomponenten im Adminportal wurden überarbeitet. Es sind nun immer alle Kartenlayer auswählbar außer bei Zählungscards ([FV-718](https://jira.muenchen.de/browse/FV-718))
+* Gesamtauswertung im ods-Format ausgeben ([FV-368](https://jira.muenchen.de/browse/FV-368))
+* Verwendung der OpenAPI-Spec des Backends zur Generierung der Client-Klassen (Adminportal) ([FV-667](https://jira.muenchen.de/browse/FV-667))
+* Bugfix: Zählungskenngrößen sind im über das PDF-Report-Menü generierten Report nun korrekt enthalten ([FV-721](https://jira.muenchen.de/browse/FV-721))
+
 ## [Sprint 18] 2026-10-14 - 2026-11-04
 
 * Einfügen eines Leerzeichens (SPACE) zischen Zählstellennummer und Zählart in den PDF-Reports für Belastungsplan, Listenausgabe, Ganglinie und Zählungsvergleich ([FV-645](https://jira.muenchen.de/browse/FV-645))
