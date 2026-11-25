@@ -1,5 +1,9 @@
 # Release-Notes
 
+## [Sprint 20] 2026-11-25 - 2026-12-16
+
+* ... ([FV-xxx]())
+
 ## [Sprint 19] 2026-11-04 - 2026-11-25
 
 * PROD Bugfix: Die Kategorien einer Zählung enthalten jede Kategorie nun maximal einmal. Dadurch wird die Verkehrsart im Datenportal nun korrekt vorbelegt ([FV-698](https://jira.muenchen.de/browse/FV-698))
