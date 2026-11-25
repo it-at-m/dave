@@ -13,6 +13,7 @@
 * Die Kartenkomponenten im Adminportal wurden überarbeitet. Es sind nun immer alle Kartenlayer auswählbar außer bei Zählungscards ([FV-718](https://jira.muenchen.de/browse/FV-718))
 * Gesamtauswertung im ods-Format ausgeben ([FV-368](https://jira.muenchen.de/browse/FV-368))
 * Verwendung der OpenAPI-Spec des Backends zur Generierung der Client-Klassen (Adminportal) ([FV-667](https://jira.muenchen.de/browse/FV-667))
+* Bugfix: Zählungskenngrößen sind im über das PDF-Report-Menü generierten Report nun korrekt enthalten ([FV-721](https://jira.muenchen.de/browse/FV-721))
 
 ## [Sprint 18] 2026-10-14 - 2026-11-04
 
